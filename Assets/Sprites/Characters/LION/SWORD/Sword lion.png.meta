@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: 032a5159874d53349968cf3a7e0c41d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1236556239667546297
+    second: Sword lion_0
+  - first:
+      213: -2807298899796833672
+    second: Sword lion_1
+  - first:
+      213: 2515226119035698769
+    second: Sword lion_2
+  - first:
+      213: -8781034647274508061
+    second: Sword lion_3
+  - first:
+      213: 8857150857696555861
+    second: Sword lion_4
+  - first:
+      213: -7318866398549520422
+    second: Sword lion_5
+  - first:
+      213: -5136439791730108807
+    second: Sword lion_6
+  - first:
+      213: -3623183375268760682
+    second: Sword lion_7
+  - first:
+      213: 2482935084215199726
+    second: Sword lion_8
+  - first:
+      213: 3733220196701570975
+    second: Sword lion_9
+  - first:
+      213: 867773890595480385
+    second: Sword lion_10
+  - first:
+      213: -4896702308973228604
+    second: Sword lion_11
+  - first:
+      213: -2735212631962270168
+    second: Sword lion_12
+  - first:
+      213: -8040192267821912606
+    second: Sword lion_13
+  - first:
+      213: 4646667089453379966
+    second: Sword lion_14
+  - first:
+      213: -4228622880999701569
+    second: Sword lion_15
+  - first:
+      213: -8309370592764485936
+    second: Sword lion_16
+  - first:
+      213: 6539460807929415809
+    second: Sword lion_17
+  - first:
+      213: 8642077300550110136
+    second: Sword lion_18
+  - first:
+      213: 2650779312764579857
+    second: Sword lion_19
+  - first:
+      213: 8461698837664473651
+    second: Sword lion_20
+  - first:
+      213: 1903096982819506128
+    second: Sword lion_21
+  - first:
+      213: -4306070402681572679
+    second: Sword lion_22
+  - first:
+      213: 424155643037402741
+    second: Sword lion_23
+  - first:
+      213: -1755922413989651415
+    second: Sword lion_24
+  - first:
+      213: 6889885602185994148
+    second: Sword lion_25
+  - first:
+      213: 6969842998523528565
+    second: Sword lion_26
+  - first:
+      213: -6763831756468799054
+    second: Sword lion_27
+  - first:
+      213: 2268767562871921827
+    second: Sword lion_28
+  - first:
+      213: -8644886668229534241
+    second: Sword lion_29
+  - first:
+      213: -7701043292259485009
+    second: Sword lion_30
+  - first:
+      213: -1805298737422136448
+    second: Sword lion_31
+  - first:
+      213: 2972981934486476424
+    second: Sword lion_32
+  - first:
+      213: 7412198449777804212
+    second: Sword lion_33
+  - first:
+      213: -1561232517301519714
+    second: Sword lion_34
+  - first:
+      213: -3419848240748628300
+    second: Sword lion_35
+  - first:
+      213: -178803038061301843
+    second: Sword lion_36
+  - first:
+      213: -1341117279816734193
+    second: Sword lion_37
+  - first:
+      213: 6121171063070461077
+    second: Sword lion_38
+  - first:
+      213: -4170832830728498974
+    second: Sword lion_39
+  - first:
+      213: 5409485183306301992
+    second: Sword lion_40
+  - first:
+      213: 2344895411148265291
+    second: Sword lion_41
+  - first:
+      213: 3321904417775264510
+    second: Sword lion_42
+  - first:
+      213: -9126892063167856050
+    second: Sword lion_43
+  - first:
+      213: -3538771961349450370
+    second: Sword lion_44
+  - first:
+      213: -2767701192207897035
+    second: Sword lion_45
+  - first:
+      213: 6488118552197086148
+    second: Sword lion_46
+  - first:
+      213: -5439147924559940933
+    second: Sword lion_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sword lion_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747b2ddc6aed6dee0800000000000000
+      internalID: -1236556239667546297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ac34b36887a09d0800000000000000
+      internalID: -2807298899796833672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e38ea34d0e7e220800000000000000
+      internalID: 2515226119035698769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 158
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e03ec0238f732680800000000000000
+      internalID: -8781034647274508061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553bc0327cbeaea70800000000000000
+      internalID: 8857150857696555861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 158
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfc9eb99c92e6a90800000000000000
+      internalID: -7318866398549520422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976deb33933b7b8b0800000000000000
+      internalID: -5136439791730108807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 157
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6933109aaedd7bdc0800000000000000
+      internalID: -3623183375268760682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7600fcd48257220800000000000000
+      internalID: 2482935084215199726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 157
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9706bc4dff0fc330800000000000000
+      internalID: 3733220196701570975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 158
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1436d4e71c3fa0c00800000000000000
+      internalID: 867773890595480385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 159
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdc0de913b6b0cb0800000000000000
+      internalID: -4896702308973228604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 111
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8264abe5a929a0ad0800000000000000
+      internalID: -2735212631962270168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 111
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ede1ae2bbf7b6090800000000000000
+      internalID: -8040192267821912606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71fd5849174c7040800000000000000
+      internalID: 4646667089453379966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 110
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb38ce8d4e9e055c0800000000000000
+      internalID: -4228622880999701569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de1237887f2fac80800000000000000
+      internalID: -8309370592764485936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 113
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188c83f05f4d0ca50800000000000000
+      internalID: 6539460807929415809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb81c46483dee770800000000000000
+      internalID: 8642077300550110136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11079439db579c420800000000000000
+      internalID: 2650779312764579857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332a357c24efd6570800000000000000
+      internalID: 8461698837664473651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_21
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d703127f98296a10800000000000000
+      internalID: 1903096982819506128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 110
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2775688c3cd34c0800000000000000
+      internalID: -4306070402681572679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 110
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576c8b06f47e2e500800000000000000
+      internalID: 424155643037402741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 111
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c10052ed5b1a7e0800000000000000
+      internalID: -1755922413989651415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 63
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afdf55737acd9f50800000000000000
+      internalID: 6889885602185994148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5750d33874bd9b060800000000000000
+      internalID: 6969842998523528565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9bb239ada0222a0800000000000000
+      internalID: -6763831756468799054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 62
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd8e6f3184c7f10800000000000000
+      internalID: 2268767562871921827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 63
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd1ba8b061370880800000000000000
+      internalID: -8644886668229534241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_30
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 60
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaf7f47de5602590800000000000000
+      internalID: -7701043292259485009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b0e7afc5a42f6e0800000000000000
+      internalID: -1805298737422136448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_32
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 62
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88658b06157224920800000000000000
+      internalID: 2972981934486476424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_33
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 62
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b305b3f73b6dd660800000000000000
+      internalID: 7412198449777804212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a347a1c43655ae0800000000000000
+      internalID: -1561232517301519714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 63
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6fe68e4224a80d0800000000000000
+      internalID: -3419848240748628300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf689f8593c48df0800000000000000
+      internalID: -178803038061301843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aa26680f4636de0800000000000000
+      internalID: -1341117279816734193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 14
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c07b786a4c2f450800000000000000
+      internalID: 6121171063070461077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 14
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e014e273a93e16c0800000000000000
+      internalID: -4170832830728498974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_40
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82206b01d1a521b40800000000000000
+      internalID: 5409485183306301992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b479fe0e3fdba8020800000000000000
+      internalID: 2344895411148265291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2ab4fb776c91e20800000000000000
+      internalID: 3321904417775264510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_43
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e424c8f5604c65180800000000000000
+      internalID: -9126892063167856050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_44
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7557ae76a1c3eec0800000000000000
+      internalID: -3538771961349450370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_45
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee50afd662799d0800000000000000
+      internalID: -2767701192207897035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 12
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb345c927d6a0a50800000000000000
+      internalID: 6488118552197086148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword lion_47
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb23dcbc7c34484b0800000000000000
+      internalID: -5439147924559940933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sword lion_0: -1236556239667546297
+      Sword lion_1: -2807298899796833672
+      Sword lion_10: 867773890595480385
+      Sword lion_11: -4896702308973228604
+      Sword lion_12: -2735212631962270168
+      Sword lion_13: -8040192267821912606
+      Sword lion_14: 4646667089453379966
+      Sword lion_15: -4228622880999701569
+      Sword lion_16: -8309370592764485936
+      Sword lion_17: 6539460807929415809
+      Sword lion_18: 8642077300550110136
+      Sword lion_19: 2650779312764579857
+      Sword lion_2: 2515226119035698769
+      Sword lion_20: 8461698837664473651
+      Sword lion_21: 1903096982819506128
+      Sword lion_22: -4306070402681572679
+      Sword lion_23: 424155643037402741
+      Sword lion_24: -1755922413989651415
+      Sword lion_25: 6889885602185994148
+      Sword lion_26: 6969842998523528565
+      Sword lion_27: -6763831756468799054
+      Sword lion_28: 2268767562871921827
+      Sword lion_29: -8644886668229534241
+      Sword lion_3: -8781034647274508061
+      Sword lion_30: -7701043292259485009
+      Sword lion_31: -1805298737422136448
+      Sword lion_32: 2972981934486476424
+      Sword lion_33: 7412198449777804212
+      Sword lion_34: -1561232517301519714
+      Sword lion_35: -3419848240748628300
+      Sword lion_36: -178803038061301843
+      Sword lion_37: -1341117279816734193
+      Sword lion_38: 6121171063070461077
+      Sword lion_39: -4170832830728498974
+      Sword lion_4: 8857150857696555861
+      Sword lion_40: 5409485183306301992
+      Sword lion_41: 2344895411148265291
+      Sword lion_42: 3321904417775264510
+      Sword lion_43: -9126892063167856050
+      Sword lion_44: -3538771961349450370
+      Sword lion_45: -2767701192207897035
+      Sword lion_46: 6488118552197086148
+      Sword lion_47: -5439147924559940933
+      Sword lion_5: -7318866398549520422
+      Sword lion_6: -5136439791730108807
+      Sword lion_7: -3623183375268760682
+      Sword lion_8: 2482935084215199726
+      Sword lion_9: 3733220196701570975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

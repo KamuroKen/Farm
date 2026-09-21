@@ -1,0 +1,2251 @@
+fileFormatVersion: 2
+guid: 7ff349f769fea1c48bf9422fcc73608c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8989894132289277677
+    second: Bunny_Scythe_0
+  - first:
+      213: -3218374516654751415
+    second: Bunny_Scythe_1
+  - first:
+      213: 8820930593185243316
+    second: Bunny_Scythe_2
+  - first:
+      213: 588400222155060757
+    second: Bunny_Scythe_3
+  - first:
+      213: -304528838332913608
+    second: Bunny_Scythe_4
+  - first:
+      213: -7898670617567208881
+    second: Bunny_Scythe_5
+  - first:
+      213: 1277500718126922610
+    second: Bunny_Scythe_6
+  - first:
+      213: 5848823678874979778
+    second: Bunny_Scythe_7
+  - first:
+      213: -8332028443040933125
+    second: Bunny_Scythe_8
+  - first:
+      213: -8539909014969781120
+    second: Bunny_Scythe_9
+  - first:
+      213: 6286502914150119834
+    second: Bunny_Scythe_10
+  - first:
+      213: -4174520517227281885
+    second: Bunny_Scythe_11
+  - first:
+      213: -2410320066050004884
+    second: Bunny_Scythe_12
+  - first:
+      213: -7400724135134232065
+    second: Bunny_Scythe_13
+  - first:
+      213: 5872962532552087096
+    second: Bunny_Scythe_14
+  - first:
+      213: 3126900903998872765
+    second: Bunny_Scythe_15
+  - first:
+      213: -7735224925549001730
+    second: Bunny_Scythe_16
+  - first:
+      213: -6583689500702194570
+    second: Bunny_Scythe_17
+  - first:
+      213: -2392416161104140925
+    second: Bunny_Scythe_18
+  - first:
+      213: 644696195153920694
+    second: Bunny_Scythe_19
+  - first:
+      213: 8651160858712384576
+    second: Bunny_Scythe_20
+  - first:
+      213: -4567881345296943707
+    second: Bunny_Scythe_21
+  - first:
+      213: -3459680436253398890
+    second: Bunny_Scythe_22
+  - first:
+      213: 1113698362746676956
+    second: Bunny_Scythe_23
+  - first:
+      213: -1019719026144073608
+    second: Bunny_Scythe_24
+  - first:
+      213: -8986294012196836873
+    second: Bunny_Scythe_25
+  - first:
+      213: -8195169201921229207
+    second: Bunny_Scythe_26
+  - first:
+      213: 8418119260796910124
+    second: Bunny_Scythe_27
+  - first:
+      213: -1971186465812470590
+    second: Bunny_Scythe_28
+  - first:
+      213: 7952309164644897812
+    second: Bunny_Scythe_29
+  - first:
+      213: 4493463020070080747
+    second: Bunny_Scythe_30
+  - first:
+      213: 4491372127991818649
+    second: Bunny_Scythe_31
+  - first:
+      213: 2977878901588027586
+    second: Bunny_Scythe_32
+  - first:
+      213: -4665473999841383498
+    second: Bunny_Scythe_33
+  - first:
+      213: 140953966842146644
+    second: Bunny_Scythe_34
+  - first:
+      213: -8643161002748234405
+    second: Bunny_Scythe_35
+  - first:
+      213: 7123297595710756687
+    second: Bunny_Scythe_36
+  - first:
+      213: 7980022504860836361
+    second: Bunny_Scythe_37
+  - first:
+      213: 7258523798792370134
+    second: Bunny_Scythe_38
+  - first:
+      213: -4051691594941184039
+    second: Bunny_Scythe_39
+  - first:
+      213: -4521897713610415350
+    second: Bunny_Scythe_40
+  - first:
+      213: -1816519280940453916
+    second: Bunny_Scythe_41
+  - first:
+      213: -7273324657845043466
+    second: Bunny_Scythe_42
+  - first:
+      213: 3527368464846019670
+    second: Bunny_Scythe_43
+  - first:
+      213: -2574156525332509358
+    second: Bunny_Scythe_44
+  - first:
+      213: 6794562369581809009
+    second: Bunny_Scythe_45
+  - first:
+      213: 5346987997608304163
+    second: Bunny_Scythe_46
+  - first:
+      213: 8267148492553004496
+    second: Bunny_Scythe_47
+  - first:
+      213: -5522529318680141169
+    second: Bunny_Scythe_48
+  - first:
+      213: -2388907874433916373
+    second: Bunny_Scythe_49
+  - first:
+      213: 660188859580655894
+    second: Bunny_Scythe_50
+  - first:
+      213: 5632452416368144864
+    second: Bunny_Scythe_51
+  - first:
+      213: -507159062895297065
+    second: Bunny_Scythe_52
+  - first:
+      213: 8827845943914164508
+    second: Bunny_Scythe_53
+  - first:
+      213: 1292742509671966086
+    second: Bunny_Scythe_54
+  - first:
+      213: 8282809296476194170
+    second: Bunny_Scythe_55
+  - first:
+      213: 4275406022612925849
+    second: Bunny_Scythe_56
+  - first:
+      213: 6017924601078058392
+    second: Bunny_Scythe_57
+  - first:
+      213: -4872139435548022844
+    second: Bunny_Scythe_58
+  - first:
+      213: -27022469285716607
+    second: Bunny_Scythe_59
+  - first:
+      213: 6713957360403973686
+    second: Bunny_Scythe_60
+  - first:
+      213: 5501284112570128289
+    second: Bunny_Scythe_61
+  - first:
+      213: -2481817286064481389
+    second: Bunny_Scythe_62
+  - first:
+      213: 5531529040680075055
+    second: Bunny_Scythe_63
+  - first:
+      213: 735932071721095249
+    second: Bunny_Scythe_64
+  - first:
+      213: 1186044206767015009
+    second: Bunny_Scythe_65
+  - first:
+      213: -7318656430094573404
+    second: Bunny_Scythe_66
+  - first:
+      213: 5629906440183304487
+    second: Bunny_Scythe_67
+  - first:
+      213: -7153817113455036677
+    second: Bunny_Scythe_68
+  - first:
+      213: 105495415690877883
+    second: Bunny_Scythe_69
+  - first:
+      213: 5395030672685017303
+    second: Bunny_Scythe_70
+  - first:
+      213: -838528484425151566
+    second: Bunny_Scythe_71
+  - first:
+      213: -8164189435914140253
+    second: Bunny_Scythe_72
+  - first:
+      213: 4814443652630080837
+    second: Bunny_Scythe_73
+  - first:
+      213: 4253435953943645260
+    second: Bunny_Scythe_74
+  - first:
+      213: 7050336088213112284
+    second: Bunny_Scythe_75
+  - first:
+      213: -6335592774613364529
+    second: Bunny_Scythe_76
+  - first:
+      213: -7050597485793590382
+    second: Bunny_Scythe_77
+  - first:
+      213: 716238730531115801
+    second: Bunny_Scythe_78
+  - first:
+      213: 2454163743709758537
+    second: Bunny_Scythe_79
+  - first:
+      213: -1050164828147371694
+    second: Bunny_Scythe_80
+  - first:
+      213: -7277650989088291446
+    second: Bunny_Scythe_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bunny_Scythe_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311778ccaea7d3380800000000000000
+      internalID: -8989894132289277677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 159
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941cf94cd690653d0800000000000000
+      internalID: -3218374516654751415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0ae23a3ad3a6a70800000000000000
+      internalID: 8820930593185243316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516305372ea6a2800800000000000000
+      internalID: 588400222155060757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 158
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838ed4f82a816cbf0800000000000000
+      internalID: -304528838332913608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 170
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a571a1ce8426290800000000000000
+      internalID: -7898670617567208881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 158
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bf24872289ab110800000000000000
+      internalID: 1277500718126922610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 170
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd8c35c5223b2150800000000000000
+      internalID: 5848823678874979778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 158
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa181aa640be5c80800000000000000
+      internalID: -8332028443040933125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084f19c4ff52c7980800000000000000
+      internalID: -8539909014969781120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 158
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a993065d7152e3750800000000000000
+      internalID: 6286502914150119834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322861705bf1116c0800000000000000
+      internalID: -4174520517227281885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 158
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68e71c9ba2dc8ed0800000000000000
+      internalID: -2410320066050004884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff10aac1c985b4990800000000000000
+      internalID: -7400724135134232065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 158
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83612fb9e44f08150800000000000000
+      internalID: 5872962532552087096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 151
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc53be1ecbf46b20800000000000000
+      internalID: 3126900903998872765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef387e6c9e5f6a490800000000000000
+      internalID: -7735224925549001730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6744d2fe74902a4a0800000000000000
+      internalID: -6583689500702194570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385eb725d2e6cced0800000000000000
+      internalID: -2392416161104140925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2023416cb62f800800000000000000
+      internalID: 644696195153920694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044a05617f81f0870800000000000000
+      internalID: 8651160858712384576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_21
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5317d3e10ab90c0800000000000000
+      internalID: -4567881345296943707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6986fb039febcffc0800000000000000
+      internalID: -3459680436253398890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd62372a2c6a47f00800000000000000
+      internalID: 1113698362746676956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 111
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878a9fbc2fa39d1f0800000000000000
+      internalID: -1019719026144073608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9a9c315354a4380800000000000000
+      internalID: -8986294012196836873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e734dd709e44e80800000000000000
+      internalID: -8195169201921229207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a7ca8ddda23d470800000000000000
+      internalID: 8418119260796910124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 114
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4a0376a50f4a4e0800000000000000
+      internalID: -1971186465812470590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4141eb65d074c5e60800000000000000
+      internalID: 7952309164644897812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 125
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be091a23fccfb5e30800000000000000
+      internalID: 4493463020070080747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 111
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999ea03772f845e30800000000000000
+      internalID: 4491372127991818649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8e841651d835920800000000000000
+      internalID: 2977878901588027586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 111
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb22aaad18e04fb0800000000000000
+      internalID: -4665473999841383498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fee43d2e4c4f100800000000000000
+      internalID: 140953966842146644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 111
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55bea68cd25d0880800000000000000
+      internalID: -8643161002748234405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47dbb52c690bd260800000000000000
+      internalID: 7123297595710756687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 106
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9026add203cbebe60800000000000000
+      internalID: 7980022504860836361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 110
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7fcbc00f47bb460800000000000000
+      internalID: 7258523798792370134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7481016ff75c7c0800000000000000
+      internalID: -4051691594941184039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03a99dccfdfe31c0800000000000000
+      internalID: -4521897713610415350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef65eb965d6ac6e0800000000000000
+      internalID: -1816519280940453916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_42
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe7e0962c5ff0b90800000000000000
+      internalID: -7273324657845043466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_43
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cdf031eeab3f030800000000000000
+      internalID: 3527368464846019670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d4d475742c64cd0800000000000000
+      internalID: -2574156525332509358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 97
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17df82bd9722b4e50800000000000000
+      internalID: 6794562369581809009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_46
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e58b71141543a40800000000000000
+      internalID: 5346987997608304163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d52704b0cfcab270800000000000000
+      internalID: 8267148492553004496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82e36228d80c53b0800000000000000
+      internalID: -5522529318680141169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_49
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22ab37f1f4e8ded0800000000000000
+      internalID: -2388907874433916373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619a9fb1546792900800000000000000
+      internalID: 660188859580655894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f9e371ad7a2e40800000000000000
+      internalID: 5632452416368144864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd7183f48536f8f0800000000000000
+      internalID: -507159062895297065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_53
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1170e23d1fc28a70800000000000000
+      internalID: 8827845943914164508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_54
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6856b0b967eb0f110800000000000000
+      internalID: 1292742509671966086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_55
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 63
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7544c2cb2372f270800000000000000
+      internalID: 8282809296476194170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99db860202b455b30800000000000000
+      internalID: 4275406022612925849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 52
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d87545a86f38350800000000000000
+      internalID: 6017924601078058392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_58
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7ecff3ffea26cb0800000000000000
+      internalID: -4872139435548022844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_59
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d5545153fff9ff0800000000000000
+      internalID: -27022469285716607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_60
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6368fffa5a4cc2d50800000000000000
+      internalID: 6713957360403973686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_61
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a71e3ad0cc785c40800000000000000
+      internalID: 5501284112570128289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bd3bad350de8dd0800000000000000
+      internalID: -2481817286064481389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_63
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 22
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f3e7eea50f3cc40800000000000000
+      internalID: 5531529040680075055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150d0c1f15e863a00800000000000000
+      internalID: 735932071721095249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_65
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16402401ceca57010800000000000000
+      internalID: 1186044206767015009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0a513b0c8ee6a90800000000000000
+      internalID: -7318656430094573404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_67
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7215fcd2412712e40800000000000000
+      internalID: 5629906440183304487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6f664ec3988bc90800000000000000
+      internalID: -7153817113455036677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_69
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbdfa9858bc67100800000000000000
+      internalID: 105495415690877883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d82abd00dffeda40800000000000000
+      internalID: 5395030672685017303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_71
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 14
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbcacf39c2fc54f0800000000000000
+      internalID: -838528484425151566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_72
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 14
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a54759b6f8f2be80800000000000000
+      internalID: -8164189435914140253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d662a7ef650d240800000000000000
+      internalID: 4814443652630080837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_74
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c8fa5e67d370b30800000000000000
+      internalID: 4253435953943645260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_75
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd54f056153d7d160800000000000000
+      internalID: 7050336088213112284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_76
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc093ab50f37318a0800000000000000
+      internalID: -6335592774613364529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_77
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293c20d31fe372e90800000000000000
+      internalID: -7050597485793590382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_78
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 9
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9131fa3a45790f900800000000000000
+      internalID: 716238730531115801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_79
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94486741ce0fe0220800000000000000
+      internalID: 2454163743709758537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_80
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251baae17a01d61f0800000000000000
+      internalID: -1050164828147371694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Scythe_81
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a854f1cebf6900b90800000000000000
+      internalID: -7277650989088291446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bunny_Scythe_0: -8989894132289277677
+      Bunny_Scythe_1: -3218374516654751415
+      Bunny_Scythe_10: 6286502914150119834
+      Bunny_Scythe_11: -4174520517227281885
+      Bunny_Scythe_12: -2410320066050004884
+      Bunny_Scythe_13: -7400724135134232065
+      Bunny_Scythe_14: 5872962532552087096
+      Bunny_Scythe_15: 3126900903998872765
+      Bunny_Scythe_16: -7735224925549001730
+      Bunny_Scythe_17: -6583689500702194570
+      Bunny_Scythe_18: -2392416161104140925
+      Bunny_Scythe_19: 644696195153920694
+      Bunny_Scythe_2: 8820930593185243316
+      Bunny_Scythe_20: 8651160858712384576
+      Bunny_Scythe_21: -4567881345296943707
+      Bunny_Scythe_22: -3459680436253398890
+      Bunny_Scythe_23: 1113698362746676956
+      Bunny_Scythe_24: -1019719026144073608
+      Bunny_Scythe_25: -8986294012196836873
+      Bunny_Scythe_26: -8195169201921229207
+      Bunny_Scythe_27: 8418119260796910124
+      Bunny_Scythe_28: -1971186465812470590
+      Bunny_Scythe_29: 7952309164644897812
+      Bunny_Scythe_3: 588400222155060757
+      Bunny_Scythe_30: 4493463020070080747
+      Bunny_Scythe_31: 4491372127991818649
+      Bunny_Scythe_32: 2977878901588027586
+      Bunny_Scythe_33: -4665473999841383498
+      Bunny_Scythe_34: 140953966842146644
+      Bunny_Scythe_35: -8643161002748234405
+      Bunny_Scythe_36: 7123297595710756687
+      Bunny_Scythe_37: 7980022504860836361
+      Bunny_Scythe_38: 7258523798792370134
+      Bunny_Scythe_39: -4051691594941184039
+      Bunny_Scythe_4: -304528838332913608
+      Bunny_Scythe_40: -4521897713610415350
+      Bunny_Scythe_41: -1816519280940453916
+      Bunny_Scythe_42: -7273324657845043466
+      Bunny_Scythe_43: 3527368464846019670
+      Bunny_Scythe_44: -2574156525332509358
+      Bunny_Scythe_45: 6794562369581809009
+      Bunny_Scythe_46: 5346987997608304163
+      Bunny_Scythe_47: 8267148492553004496
+      Bunny_Scythe_48: -5522529318680141169
+      Bunny_Scythe_49: -2388907874433916373
+      Bunny_Scythe_5: -7898670617567208881
+      Bunny_Scythe_50: 660188859580655894
+      Bunny_Scythe_51: 5632452416368144864
+      Bunny_Scythe_52: -507159062895297065
+      Bunny_Scythe_53: 8827845943914164508
+      Bunny_Scythe_54: 1292742509671966086
+      Bunny_Scythe_55: 8282809296476194170
+      Bunny_Scythe_56: 4275406022612925849
+      Bunny_Scythe_57: 6017924601078058392
+      Bunny_Scythe_58: -4872139435548022844
+      Bunny_Scythe_59: -27022469285716607
+      Bunny_Scythe_6: 1277500718126922610
+      Bunny_Scythe_60: 6713957360403973686
+      Bunny_Scythe_61: 5501284112570128289
+      Bunny_Scythe_62: -2481817286064481389
+      Bunny_Scythe_63: 5531529040680075055
+      Bunny_Scythe_64: 735932071721095249
+      Bunny_Scythe_65: 1186044206767015009
+      Bunny_Scythe_66: -7318656430094573404
+      Bunny_Scythe_67: 5629906440183304487
+      Bunny_Scythe_68: -7153817113455036677
+      Bunny_Scythe_69: 105495415690877883
+      Bunny_Scythe_7: 5848823678874979778
+      Bunny_Scythe_70: 5395030672685017303
+      Bunny_Scythe_71: -838528484425151566
+      Bunny_Scythe_72: -8164189435914140253
+      Bunny_Scythe_73: 4814443652630080837
+      Bunny_Scythe_74: 4253435953943645260
+      Bunny_Scythe_75: 7050336088213112284
+      Bunny_Scythe_76: -6335592774613364529
+      Bunny_Scythe_77: -7050597485793590382
+      Bunny_Scythe_78: 716238730531115801
+      Bunny_Scythe_79: 2454163743709758537
+      Bunny_Scythe_8: -8332028443040933125
+      Bunny_Scythe_80: -1050164828147371694
+      Bunny_Scythe_81: -7277650989088291446
+      Bunny_Scythe_9: -8539909014969781120
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

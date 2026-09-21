@@ -1,0 +1,2223 @@
+fileFormatVersion: 2
+guid: 48dc8da1cbfd4b34b9cb34e94b26d11e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4911309476657525884
+    second: Crops_Tileset_0
+  - first:
+      213: 3817092542575753994
+    second: Crops_Tileset_1
+  - first:
+      213: -3997458045078500580
+    second: Crops_Tileset_2
+  - first:
+      213: 4279661659218614667
+    second: Crops_Tileset_3
+  - first:
+      213: -5042872279866777440
+    second: Crops_Tileset_4
+  - first:
+      213: -4906553868988723007
+    second: Crops_Tileset_5
+  - first:
+      213: -7661381738689738250
+    second: Crops_Tileset_6
+  - first:
+      213: -1295507607875912083
+    second: Crops_Tileset_7
+  - first:
+      213: 445606189617674841
+    second: Crops_Tileset_8
+  - first:
+      213: -7493555586784647955
+    second: Crops_Tileset_9
+  - first:
+      213: -7454877440836184813
+    second: Crops_Tileset_10
+  - first:
+      213: 5172004204348469211
+    second: Crops_Tileset_11
+  - first:
+      213: 2580361050492471990
+    second: Crops_Tileset_12
+  - first:
+      213: 6958575895340132391
+    second: Crops_Tileset_13
+  - first:
+      213: 5350390023782944748
+    second: Crops_Tileset_14
+  - first:
+      213: -5366932765483431771
+    second: Crops_Tileset_15
+  - first:
+      213: -2543777103764894957
+    second: Crops_Tileset_16
+  - first:
+      213: 6194350898088871560
+    second: Crops_Tileset_17
+  - first:
+      213: -8706057202885281062
+    second: Crops_Tileset_18
+  - first:
+      213: -3460225700346080061
+    second: Crops_Tileset_19
+  - first:
+      213: -3482134373442754521
+    second: Crops_Tileset_20
+  - first:
+      213: 5683229443666320909
+    second: Crops_Tileset_21
+  - first:
+      213: -2234171161273627721
+    second: Crops_Tileset_22
+  - first:
+      213: 449434876245602065
+    second: Crops_Tileset_23
+  - first:
+      213: -8336598767021346103
+    second: Crops_Tileset_24
+  - first:
+      213: 734389695917854788
+    second: Crops_Tileset_25
+  - first:
+      213: -8170693609018971802
+    second: Crops_Tileset_26
+  - first:
+      213: 9134415625604763798
+    second: Crops_Tileset_27
+  - first:
+      213: 1467288642523163494
+    second: Crops_Tileset_28
+  - first:
+      213: 3868589170775077213
+    second: Crops_Tileset_29
+  - first:
+      213: -7485765150085888271
+    second: Crops_Tileset_30
+  - first:
+      213: 6256297627574041103
+    second: Crops_Tileset_31
+  - first:
+      213: 5363394991338614832
+    second: Crops_Tileset_32
+  - first:
+      213: -2513254511414048554
+    second: Crops_Tileset_33
+  - first:
+      213: 8599297001601784801
+    second: Crops_Tileset_34
+  - first:
+      213: 4303769374576118521
+    second: Crops_Tileset_35
+  - first:
+      213: 6050304894736658328
+    second: Crops_Tileset_36
+  - first:
+      213: 6700571397863116976
+    second: Crops_Tileset_37
+  - first:
+      213: 7159698771253987760
+    second: Crops_Tileset_38
+  - first:
+      213: 7334327254223489727
+    second: Crops_Tileset_39
+  - first:
+      213: -4320838024635375091
+    second: Crops_Tileset_40
+  - first:
+      213: -4628300661649330579
+    second: Crops_Tileset_41
+  - first:
+      213: -107551750233595985
+    second: Crops_Tileset_42
+  - first:
+      213: 2943567117091728408
+    second: Crops_Tileset_43
+  - first:
+      213: -1653046175897026447
+    second: Crops_Tileset_44
+  - first:
+      213: -1950864174476139037
+    second: Crops_Tileset_45
+  - first:
+      213: 903904348634743339
+    second: Crops_Tileset_46
+  - first:
+      213: 3237524575421317706
+    second: Crops_Tileset_47
+  - first:
+      213: -8279367528118125182
+    second: Crops_Tileset_48
+  - first:
+      213: -3029814466482345616
+    second: Crops_Tileset_49
+  - first:
+      213: 8266964707425504425
+    second: Crops_Tileset_50
+  - first:
+      213: 3292142013997001141
+    second: Crops_Tileset_51
+  - first:
+      213: -5850608624438399488
+    second: Crops_Tileset_52
+  - first:
+      213: -3304936754743113109
+    second: Crops_Tileset_53
+  - first:
+      213: 3095293670473398031
+    second: Crops_Tileset_54
+  - first:
+      213: 4970243131453770700
+    second: Crops_Tileset_55
+  - first:
+      213: -2613172813979870621
+    second: Crops_Tileset_56
+  - first:
+      213: -1866313972184885756
+    second: Crops_Tileset_57
+  - first:
+      213: 4235595452369384892
+    second: Crops_Tileset_58
+  - first:
+      213: -1403063460704980338
+    second: Crops_Tileset_59
+  - first:
+      213: 229888051023864517
+    second: Crops_Tileset_60
+  - first:
+      213: 1210018994961562489
+    second: Crops_Tileset_61
+  - first:
+      213: -5818705778590390413
+    second: Crops_Tileset_62
+  - first:
+      213: 5073198741725329405
+    second: Crops_Tileset_63
+  - first:
+      213: 7326860486313640295
+    second: Crops_Tileset_64
+  - first:
+      213: 6706982514952287040
+    second: Crops_Tileset_65
+  - first:
+      213: -7718774041094205339
+    second: Crops_Tileset_66
+  - first:
+      213: 2219108903436924906
+    second: Crops_Tileset_67
+  - first:
+      213: 1871108645956645333
+    second: Crops_Tileset_68
+  - first:
+      213: -7004600693192440176
+    second: Crops_Tileset_69
+  - first:
+      213: -7949135227606065494
+    second: Crops_Tileset_70
+  - first:
+      213: 9161291090156306462
+    second: Crops_Tileset_71
+  - first:
+      213: 2088793942625951915
+    second: Crops_Tileset_72
+  - first:
+      213: 2030434760378610282
+    second: Crops_Tileset_73
+  - first:
+      213: -8093640319576860621
+    second: Crops_Tileset_74
+  - first:
+      213: -4723261926938911754
+    second: Crops_Tileset_75
+  - first:
+      213: 1843988523436203680
+    second: Crops_Tileset_76
+  - first:
+      213: -7889700823085550192
+    second: Crops_Tileset_77
+  - first:
+      213: -5278594191827462170
+    second: Crops_Tileset_78
+  - first:
+      213: -1524959367335174756
+    second: Crops_Tileset_79
+  - first:
+      213: -1626890232554883982
+    second: Crops_Tileset_80
+  - first:
+      213: 2420975247213749639
+    second: Crops_Tileset_81
+  - first:
+      213: 7513783524434966108
+    second: Crops_Tileset_82
+  - first:
+      213: 8038693201792149465
+    second: Crops_Tileset_83
+  - first:
+      213: -2196132779153105604
+    second: Crops_Tileset_84
+  - first:
+      213: 23540245022753983
+    second: Crops_Tileset_85
+  - first:
+      213: -4776450671985569225
+    second: Crops_Tileset_86
+  - first:
+      213: 1537011626890778086
+    second: Crops_Tileset_87
+  - first:
+      213: -2175821722972524075
+    second: Crops_Tileset_88
+  - first:
+      213: -5810176179116835126
+    second: Crops_Tileset_89
+  - first:
+      213: -4487974170646843866
+    second: Crops_Tileset_90
+  - first:
+      213: 5934225227948319365
+    second: Crops_Tileset_91
+  - first:
+      213: 3669044548774055921
+    second: Crops_Tileset_92
+  - first:
+      213: 656720790929673977
+    second: Crops_Tileset_93
+  - first:
+      213: -2149002656284438151
+    second: Crops_Tileset_94
+  - first:
+      213: -8896470522491059598
+    second: Crops_Tileset_95
+  - first:
+      213: 1982176999544778754
+    second: Crops_Tileset_96
+  - first:
+      213: -7732535315251867371
+    second: Crops_Tileset_97
+  - first:
+      213: 5019532241985155331
+    second: Crops_Tileset_98
+  - first:
+      213: 7592188606072896173
+    second: Crops_Tileset_99
+  - first:
+      213: 7470396178704764692
+    second: Crops_Tileset_100
+  - first:
+      213: -7090766026127327462
+    second: Crops_Tileset_101
+  - first:
+      213: -2290170625614005413
+    second: Crops_Tileset_102
+  - first:
+      213: -527421095961606194
+    second: Crops_Tileset_103
+  - first:
+      213: 8562729928945102246
+    second: Crops_Tileset_104
+  - first:
+      213: 6758793670490703160
+    second: Crops_Tileset_105
+  - first:
+      213: 549924395776907607
+    second: Crops_Tileset_106
+  - first:
+      213: 4019472237694159329
+    second: Crops_Tileset_107
+  - first:
+      213: -3699745628652687971
+    second: Crops_Tileset_108
+  - first:
+      213: -3833210540316826608
+    second: Crops_Tileset_109
+  - first:
+      213: 895020372017377994
+    second: Crops_Tileset_110
+  - first:
+      213: -4563650357582468138
+    second: Crops_Tileset_111
+  - first:
+      213: -3059938498067094980
+    second: Crops_Tileset_112
+  - first:
+      213: -5565968571423614383
+    second: Crops_Tileset_113
+  - first:
+      213: 7855993500866086797
+    second: Crops_Tileset_114
+  - first:
+      213: 7486180722724582733
+    second: Crops_Tileset_115
+  - first:
+      213: -2067000553963787670
+    second: Crops_Tileset_116
+  - first:
+      213: -1740296249625404011
+    second: Crops_Tileset_117
+  - first:
+      213: -2193128822031126332
+    second: Crops_Tileset_118
+  - first:
+      213: -8953798587556941736
+    second: Crops_Tileset_119
+  - first:
+      213: 4608033187244550947
+    second: Crops_Tileset_120
+  - first:
+      213: 864918112656693702
+    second: Crops_Tileset_121
+  - first:
+      213: 5299114548833197790
+    second: Crops_Tileset_122
+  - first:
+      213: -5370242208226754798
+    second: Crops_Tileset_123
+  - first:
+      213: -6078427822794810104
+    second: Crops_Tileset_124
+  - first:
+      213: 509511826550967222
+    second: Crops_Tileset_125
+  - first:
+      213: 8388516447000997211
+    second: Crops_Tileset_126
+  - first:
+      213: -7352163777475302398
+    second: Crops_Tileset_127
+  - first:
+      213: -8910294792204514909
+    second: Crops_Tileset_128
+  - first:
+      213: 3955585949557143600
+    second: Crops_Tileset_129
+  - first:
+      213: 8899514127672602024
+    second: Crops_Tileset_130
+  - first:
+      213: 2150876976040234911
+    second: Crops_Tileset_131
+  - first:
+      213: 9195624554735708758
+    second: Crops_Tileset_132
+  - first:
+      213: -3759709796478751646
+    second: Crops_Tileset_133
+  - first:
+      213: -7294551621586925
+    second: Crops_Tileset_134
+  - first:
+      213: -5836970662464184068
+    second: Crops_Tileset_135
+  - first:
+      213: 3877645923663347803
+    second: Crops_Tileset_136
+  - first:
+      213: -8527448411420656082
+    second: Crops_Tileset_137
+  - first:
+      213: -1042578976902083020
+    second: Crops_Tileset_138
+  - first:
+      213: -145550796420981733
+    second: Crops_Tileset_139
+  - first:
+      213: 1648626879027440308
+    second: Crops_Tileset_140
+  - first:
+      213: -5853674248847043052
+    second: Crops_Tileset_141
+  - first:
+      213: -8570504840712962291
+    second: Crops_Tileset_142
+  - first:
+      213: -5397498182065403304
+    second: Crops_Tileset_143
+  - first:
+      213: 5962319772784920118
+    second: Crops_Tileset_144
+  - first:
+      213: -6571552573623177236
+    second: Crops_Tileset_145
+  - first:
+      213: -2944463836318041908
+    second: Crops_Tileset_146
+  - first:
+      213: -9177849096273383249
+    second: Crops_Tileset_147
+  - first:
+      213: 7661147020971524760
+    second: Crops_Tileset_148
+  - first:
+      213: -797321999098997262
+    second: Crops_Tileset_149
+  - first:
+      213: 125920736740477538
+    second: Crops_Tileset_150
+  - first:
+      213: -1884119356566693567
+    second: Crops_Tileset_151
+  - first:
+      213: -2519544563218276376
+    second: Crops_Tileset_152
+  - first:
+      213: -3668335717531761
+    second: Crops_Tileset_153
+  - first:
+      213: -1445998431026989053
+    second: Crops_Tileset_154
+  - first:
+      213: 1468323030920394932
+    second: Crops_Tileset_155
+  - first:
+      213: 2451159885810236116
+    second: Crops_Tileset_156
+  - first:
+      213: 3504278243020813657
+    second: Crops_Tileset_157
+  - first:
+      213: -4498324787920422165
+    second: Crops_Tileset_158
+  - first:
+      213: 4287063299615374214
+    second: Crops_Tileset_159
+  - first:
+      213: -835523299051881726
+    second: Crops_Tileset_160
+  - first:
+      213: 1318648976475575293
+    second: Crops_Tileset_161
+  - first:
+      213: 6592777760913830822
+    second: Crops_Tileset_162
+  - first:
+      213: 5379701777244485183
+    second: Crops_Tileset_163
+  - first:
+      213: -8033458487320673847
+    second: Crops_Tileset_164
+  - first:
+      213: 2890139257093078117
+    second: Crops_Tileset_165
+  - first:
+      213: -8279694120031348866
+    second: Crops_Tileset_166
+  - first:
+      213: -1271165264456879996
+    second: Crops_Tileset_167
+  - first:
+      213: -2566040130344924143
+    second: Crops_Tileset_168
+  - first:
+      213: -4366469676449899994
+    second: Crops_Tileset_169
+  - first:
+      213: 2816901513505254837
+    second: Crops_Tileset_170
+  - first:
+      213: 1437384000965076631
+    second: Crops_Tileset_171
+  - first:
+      213: -5076551862624602293
+    second: Crops_Tileset_172
+  - first:
+      213: 4139186672318239099
+    second: Crops_Tileset_173
+  - first:
+      213: -61608398627624920
+    second: Crops_Tileset_174
+  - first:
+      213: 4563657150935383452
+    second: Crops_Tileset_175
+  - first:
+      213: -8424239700052791168
+    second: Crops_Tileset_176
+  - first:
+      213: 7539379606038615504
+    second: Crops_Tileset_177
+  - first:
+      213: -4727013586454238909
+    second: Crops_Tileset_178
+  - first:
+      213: 3477271457482503920
+    second: Crops_Tileset_179
+  - first:
+      213: -323095940660955162
+    second: Crops_Tileset_180
+  - first:
+      213: -5937362693622625077
+    second: Crops_Tileset_181
+  - first:
+      213: -5714804200277796011
+    second: Crops_Tileset_182
+  - first:
+      213: -3811698963043871640
+    second: Crops_Tileset_183
+  - first:
+      213: 6353318597565287483
+    second: Crops_Tileset_184
+  - first:
+      213: -509137983883464794
+    second: Crops_Tileset_185
+  - first:
+      213: -2301968776305580622
+    second: Crops_Tileset_186
+  - first:
+      213: 3904844500443018248
+    second: Crops_Tileset_187
+  - first:
+      213: 49106698967704003
+    second: Crops_Tileset_188
+  - first:
+      213: 8649073599071012445
+    second: Crops_Tileset_189
+  - first:
+      213: 6537799904597585277
+    second: Crops_Tileset_190
+  - first:
+      213: 1772986517981748905
+    second: Crops_Tileset_191
+  - first:
+      213: -8485330017599632680
+    second: Crops_Tileset_192
+  - first:
+      213: -896856359989043695
+    second: Crops_Tileset_193
+  - first:
+      213: 8703823336333498416
+    second: Crops_Tileset_194
+  - first:
+      213: 2619250086366481727
+    second: Crops_Tileset_195
+  - first:
+      213: -939331830394255710
+    second: Crops_Tileset_196
+  - first:
+      213: 2326441605770346421
+    second: Crops_Tileset_197
+  - first:
+      213: 3402097203342735340
+    second: Crops_Tileset_198
+  - first:
+      213: 275979791060056936
+    second: Crops_Tileset_199
+  - first:
+      213: 1243954737703530560
+    second: Crops_Tileset_200
+  - first:
+      213: 6892122276943563349
+    second: Crops_Tileset_201
+  - first:
+      213: -8890430520632329074
+    second: Crops_Tileset_202
+  - first:
+      213: 8108555352477644557
+    second: Crops_Tileset_203
+  - first:
+      213: -8127424893946274359
+    second: Crops_Tileset_204
+  - first:
+      213: 6054774443399116376
+    second: Crops_Tileset_205
+  - first:
+      213: -1233959952328011786
+    second: Crops_Tileset_206
+  - first:
+      213: 3856745156746976026
+    second: Crops_Tileset_207
+  - first:
+      213: -338844759337216976
+    second: Crops_Tileset_208
+  - first:
+      213: -3448581877971573892
+    second: Crops_Tileset_209
+  - first:
+      213: 1874229364405548810
+    second: Crops_Tileset_210
+  - first:
+      213: 7261746839707193663
+    second: Crops_Tileset_211
+  - first:
+      213: 1782267773613254825
+    second: Crops_Tileset_212
+  - first:
+      213: 4570635705272928285
+    second: Crops_Tileset_213
+  - first:
+      213: 4612222773270218299
+    second: Crops_Tileset_214
+  - first:
+      213: -3226941818227630147
+    second: Crops_Tileset_215
+  - first:
+      213: 4569382160764873346
+    second: Crops_Tileset_216
+  - first:
+      213: -8151526692248064624
+    second: Crops_Tileset_217
+  - first:
+      213: 2689413192054871605
+    second: Crops_Tileset_218
+  - first:
+      213: -5032380409636872114
+    second: Crops_Tileset_219
+  - first:
+      213: -6251707013426580638
+    second: Crops_Tileset_220
+  - first:
+      213: -1610141707519940336
+    second: Crops_Tileset_221
+  - first:
+      213: -2629995513697899902
+    second: Crops_Tileset_222
+  - first:
+      213: 6629821767966660868
+    second: Crops_Tileset_223
+  - first:
+      213: 2711796590977873624
+    second: Crops_Tileset_224
+  - first:
+      213: 2867032028030241630
+    second: Crops_Tileset_225
+  - first:
+      213: -2953872913685113962
+    second: Crops_Tileset_226
+  - first:
+      213: 5674798762374950712
+    second: Crops_Tileset_227
+  - first:
+      213: -2298017714699684545
+    second: Crops_Tileset_228
+  - first:
+      213: 1300479883313611742
+    second: Crops_Tileset_229
+  - first:
+      213: 2630758146031293045
+    second: Crops_Tileset_230
+  - first:
+      213: -513493489668804950
+    second: Crops_Tileset_231
+  - first:
+      213: 8730419913417507795
+    second: Crops_Tileset_232
+  - first:
+      213: 5101428130129369511
+    second: Crops_Tileset_233
+  - first:
+      213: 8537809832369787655
+    second: Crops_Tileset_234
+  - first:
+      213: -6401382729869918679
+    second: Crops_Tileset_235
+  - first:
+      213: 1724133543691829204
+    second: Crops_Tileset_236
+  - first:
+      213: 3938672285649046780
+    second: Crops_Tileset_237
+  - first:
+      213: -5156210880469809664
+    second: Crops_Tileset_238
+  - first:
+      213: -464422715121143413
+    second: Crops_Tileset_239
+  - first:
+      213: 1113095621813056735
+    second: Crops_Tileset_240
+  - first:
+      213: -4558424877845079463
+    second: Crops_Tileset_241
+  - first:
+      213: 2814665296665805657
+    second: Crops_Tileset_242
+  - first:
+      213: 3262817238438205358
+    second: Crops_Tileset_243
+  - first:
+      213: 191404899937578317
+    second: Crops_Tileset_244
+  - first:
+      213: -2458424074966279630
+    second: Crops_Tileset_245
+  - first:
+      213: -8080832811122506133
+    second: Crops_Tileset_246
+  - first:
+      213: -8699075627899838091
+    second: Crops_Tileset_247
+  - first:
+      213: 4765529757625269830
+    second: Crops_Tileset_248
+  - first:
+      213: -4498421406729662426
+    second: Crops_Tileset_249
+  - first:
+      213: -445437086087273634
+    second: Crops_Tileset_250
+  - first:
+      213: -5358487622212201041
+    second: Crops_Tileset_251
+  - first:
+      213: 8926246653984202712
+    second: Crops_Tileset_252
+  - first:
+      213: -8310833805708309903
+    second: Crops_Tileset_253
+  - first:
+      213: 5601010100751984775
+    second: Crops_Tileset_254
+  - first:
+      213: -6413009933692421947
+    second: Crops_Tileset_255
+  - first:
+      213: -1091207892852693629
+    second: Crops_Tileset_256
+  - first:
+      213: 7499987802547454509
+    second: Crops_Tileset_257
+  - first:
+      213: 7617705593246870373
+    second: Crops_Tileset_258
+  - first:
+      213: -2544179276250089989
+    second: Crops_Tileset_259
+  - first:
+      213: 1667845928333835485
+    second: Crops_Tileset_260
+  - first:
+      213: 5100416864712703664
+    second: Crops_Tileset_261
+  - first:
+      213: 8340088353110081230
+    second: Crops_Tileset_262
+  - first:
+      213: -7951521788504252319
+    second: Crops_Tileset_263
+  - first:
+      213: 3521041745638469860
+    second: Crops_Tileset_264
+  - first:
+      213: 313373253362498206
+    second: Crops_Tileset_265
+  - first:
+      213: -3758583736728012337
+    second: Crops_Tileset_266
+  - first:
+      213: 4895715607769863663
+    second: Crops_Tileset_267
+  - first:
+      213: 4045564791191079379
+    second: Crops_Tileset_268
+  - first:
+      213: 1840754574794309483
+    second: Crops_Tileset_269
+  - first:
+      213: -3807941865840391458
+    second: Crops_Tileset_270
+  - first:
+      213: 2178880848969584504
+    second: Crops_Tileset_271
+  - first:
+      213: 65030066199408552
+    second: Crops_Tileset_272
+  - first:
+      213: 6082256123302271006
+    second: Crops_Tileset_273
+  - first:
+      213: 1163437671797093566
+    second: Crops_Tileset_274
+  - first:
+      213: -7176424657115416153
+    second: Crops_Tileset_275
+  - first:
+      213: 7691979238651436005
+    second: Crops_Tileset_276
+  - first:
+      213: -4402353268291026670
+    second: Crops_Tileset_277
+  - first:
+      213: 3034672503901350910
+    second: Crops_Tileset_278
+  - first:
+      213: -5429458806095082718
+    second: Crops_Tileset_279
+  - first:
+      213: -5347734043563887853
+    second: Crops_Tileset_280
+  - first:
+      213: -661176071251119551
+    second: Crops_Tileset_281
+  - first:
+      213: -5350399002619620533
+    second: Crops_Tileset_282
+  - first:
+      213: 5900572174124149088
+    second: Crops_Tileset_283
+  - first:
+      213: 456503007624880937
+    second: Crops_Tileset_284
+  - first:
+      213: -1308258194424731900
+    second: Crops_Tileset_285
+  - first:
+      213: 8685628922593462223
+    second: Crops_Tileset_286
+  - first:
+      213: 5854194622230076420
+    second: Crops_Tileset_287
+  - first:
+      213: 2690047607456516714
+    second: Crops_Tileset_288
+  - first:
+      213: -5375612476926083061
+    second: Crops_Tileset_289
+  - first:
+      213: 7344437549859786765
+    second: Crops_Tileset_290
+  - first:
+      213: -6143126723605094043
+    second: Crops_Tileset_291
+  - first:
+      213: -298880968551173619
+    second: Crops_Tileset_292
+  - first:
+      213: 1715832725659739328
+    second: Crops_Tileset_293
+  - first:
+      213: 8535024694895779808
+    second: Crops_Tileset_294
+  - first:
+      213: -1320914817398024791
+    second: Crops_Tileset_295
+  - first:
+      213: -3707503871190940575
+    second: Crops_Tileset_296
+  - first:
+      213: -1029651902484951160
+    second: Crops_Tileset_297
+  - first:
+      213: 2422531316303160226
+    second: Crops_Tileset_298
+  - first:
+      213: -6788103734097112747
+    second: Crops_Tileset_299
+  - first:
+      213: -7248701256120500332
+    second: Crops_Tileset_300
+  - first:
+      213: -5707069638004834102
+    second: Crops_Tileset_301
+  - first:
+      213: -7754249192430001479
+    second: Crops_Tileset_302
+  - first:
+      213: 6768803323968597708
+    second: Crops_Tileset_303
+  - first:
+      213: 1001047167023515373
+    second: Crops_Tileset_304
+  - first:
+      213: 2131328150058635952
+    second: Crops_Tileset_305
+  - first:
+      213: 4065226030074796379
+    second: Crops_Tileset_306
+  - first:
+      213: -1878648186311154208
+    second: Crops_Tileset_307
+  - first:
+      213: -5815666057773193640
+    second: Crops_Tileset_308
+  - first:
+      213: 6126460096618307619
+    second: Crops_Tileset_309
+  - first:
+      213: 7567043445903269347
+    second: Crops_Tileset_310
+  - first:
+      213: -8728839961558011707
+    second: Crops_Tileset_311
+  - first:
+      213: -1737703520357001242
+    second: Crops_Tileset_312
+  - first:
+      213: 7983216023976588122
+    second: Crops_Tileset_313
+  - first:
+      213: 2400311984705399991
+    second: Crops_Tileset_314
+  - first:
+      213: -744954449300120722
+    second: Crops_Tileset_315
+  - first:
+      213: 42989820102161704
+    second: Crops_Tileset_316
+  - first:
+      213: -4138220630118481847
+    second: Crops_Tileset_317
+  - first:
+      213: -5241401418857421732
+    second: Crops_Tileset_318
+  - first:
+      213: 5613566194321112326
+    second: Crops_Tileset_319
+  - first:
+      213: 1849096428451002360
+    second: Crops_Tileset_320
+  - first:
+      213: -6704528952403526509
+    second: Crops_Tileset_321
+  - first:
+      213: -2167663784763793701
+    second: Crops_Tileset_322
+  - first:
+      213: -4530847523187058135
+    second: Crops_Tileset_323
+  - first:
+      213: 4940322678247357102
+    second: Crops_Tileset_324
+  - first:
+      213: -9028811917874761553
+    second: Crops_Tileset_325
+  - first:
+      213: -4767165947472112853
+    second: Crops_Tileset_326
+  - first:
+      213: -8874518073927891262
+    second: Crops_Tileset_327
+  - first:
+      213: 6766118497778801837
+    second: Crops_Tileset_328
+  - first:
+      213: 5955611150557936952
+    second: Crops_Tileset_329
+  - first:
+      213: 2222154475551060646
+    second: Crops_Tileset_330
+  - first:
+      213: 8385855291044059655
+    second: Crops_Tileset_331
+  - first:
+      213: -4622613008151538152
+    second: Crops_Tileset_332
+  - first:
+      213: -4757246917323616055
+    second: Crops_Tileset_333
+  - first:
+      213: -2947902768358685628
+    second: Crops_Tileset_334
+  - first:
+      213: -3956471956242479087
+    second: Crops_Tileset_335
+  - first:
+      213: 5581484413844913589
+    second: Crops_Tileset_336
+  - first:
+      213: -8556621513156345741
+    second: Crops_Tileset_337
+  - first:
+      213: 1855828355569753711
+    second: Crops_Tileset_338
+  - first:
+      213: 5865697613187390026
+    second: Crops_Tileset_339
+  - first:
+      213: 6460424051089466992
+    second: Crops_Tileset_340
+  - first:
+      213: 8607789329114217649
+    second: Crops_Tileset_341
+  - first:
+      213: 801177997589655522
+    second: Crops_Tileset_342
+  - first:
+      213: 4795676655991525171
+    second: Crops_Tileset_343
+  - first:
+      213: 3350138271323030081
+    second: Crops_Tileset_344
+  - first:
+      213: -818254347793761693
+    second: Crops_Tileset_345
+  - first:
+      213: 4591200377041003915
+    second: Crops_Tileset_346
+  - first:
+      213: -8390166859835287978
+    second: Crops_Tileset_347
+  - first:
+      213: 9122820177491610332
+    second: Crops_Tileset_348
+  - first:
+      213: 3798764960477511517
+    second: Crops_Tileset_349
+  - first:
+      213: -5928653758674960327
+    second: Crops_Tileset_350
+  - first:
+      213: -3757771421575565037
+    second: Crops_Tileset_351
+  - first:
+      213: -8507545094624804234
+    second: Crops_Tileset_352
+  - first:
+      213: -7769968310376865707
+    second: Crops_Tileset_353
+  - first:
+      213: 1381670283678049135
+    second: Crops_Tileset_354
+  - first:
+      213: 5162182314110550815
+    second: Crops_Tileset_355
+  - first:
+      213: 1779037402170620705
+    second: Crops_Tileset_356
+  - first:
+      213: 1028085939670532829
+    second: Crops_Tileset_357
+  - first:
+      213: -646568727900986161
+    second: Crops_Tileset_358
+  - first:
+      213: 5574540921196580005
+    second: Crops_Tileset_359
+  - first:
+      213: -7552820897712121350
+    second: Crops_Tileset_360
+  - first:
+      213: 3517462077921760681
+    second: Crops_Tileset_361
+  - first:
+      213: -1683063118686228497
+    second: Crops_Tileset_362
+  - first:
+      213: 8049215634476811712
+    second: Crops_Tileset_363
+  - first:
+      213: -9030921562131196399
+    second: Crops_Tileset_364
+  - first:
+      213: -1076519000362725743
+    second: Crops_Tileset_365
+  - first:
+      213: -2077241348769142489
+    second: Crops_Tileset_366
+  - first:
+      213: 4385227042780409866
+    second: Crops_Tileset_367
+  - first:
+      213: 2598646536942507310
+    second: Crops_Tileset_368
+  - first:
+      213: 1817971631801683728
+    second: Crops_Tileset_369
+  - first:
+      213: -4281106233276218670
+    second: Crops_Tileset_370
+  - first:
+      213: 2715585846668968076
+    second: Crops_Tileset_371
+  - first:
+      213: -4001981295508295237
+    second: Crops_Tileset_372
+  - first:
+      213: -8333836426562921445
+    second: Crops_Tileset_373
+  - first:
+      213: 7624105177925156527
+    second: Crops_Tileset_374
+  - first:
+      213: -8266137833752144210
+    second: Crops_Tileset_375
+  - first:
+      213: -5785423217410394859
+    second: Crops_Tileset_376
+  - first:
+      213: -7864508617081428483
+    second: Crops_Tileset_377
+  - first:
+      213: -4607976433419159219
+    second: Crops_Tileset_378
+  - first:
+      213: 1048993048931674395
+    second: Crops_Tileset_379
+  - first:
+      213: -4403435814301518649
+    second: Crops_Tileset_380
+  - first:
+      213: 8229039363268974533
+    second: Crops_Tileset_381
+  - first:
+      213: 4638320278183037284
+    second: Crops_Tileset_382
+  - first:
+      213: 5582340057965445561
+    second: Crops_Tileset_383
+  - first:
+      213: 8003701176469908117
+    second: Crops_Tileset_384
+  - first:
+      213: 4472480707296152921
+    second: Crops_Tileset_385
+  - first:
+      213: -4381493858125188088
+    second: Crops_Tileset_386
+  - first:
+      213: 3689197213188606678
+    second: Crops_Tileset_387
+  - first:
+      213: 2492774200584181515
+    second: Crops_Tileset_388
+  - first:
+      213: 5275361430063551035
+    second: Crops_Tileset_389
+  - first:
+      213: 4452717439565281536
+    second: Crops_Tileset_390
+  - first:
+      213: -1983270833440480837
+    second: Crops_Tileset_391
+  - first:
+      213: -5524267631403771353
+    second: Crops_Tileset_392
+  - first:
+      213: -1467903925958090815
+    second: Crops_Tileset_393
+  - first:
+      213: 8607848746060104867
+    second: Crops_Tileset_394
+  - first:
+      213: -619968429054634334
+    second: Crops_Tileset_395
+  - first:
+      213: 2781357762458510009
+    second: Crops_Tileset_396
+  - first:
+      213: -6198312531319112550
+    second: Crops_Tileset_397
+  - first:
+      213: 4558716946870509354
+    second: Crops_Tileset_398
+  - first:
+      213: 3308763378271713390
+    second: Crops_Tileset_399
+  - first:
+      213: 6387206017750517023
+    second: Crops_Tileset_400
+  - first:
+      213: -4266283244064356384
+    second: Crops_Tileset_401
+  - first:
+      213: -8215290710089791073
+    second: Crops_Tileset_402
+  - first:
+      213: -3429728231861836750
+    second: Crops_Tileset_403
+  - first:
+      213: 6492020792348562994
+    second: Crops_Tileset_404
+  - first:
+      213: 4005977570856143118
+    second: Crops_Tileset_405
+  - first:
+      213: 1137568683041825853
+    second: Crops_Tileset_406
+  - first:
+      213: -5458517903733669992
+    second: Crops_Tileset_407
+  - first:
+      213: -6778216000084601319
+    second: Crops_Tileset_408
+  - first:
+      213: 3616699220056538246
+    second: Crops_Tileset_409
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crop_carrot_mature
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce27cce37dc5200c0d03ddf31e829cb
+      internalID: -240799695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_carrot_growing
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 320
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30af801f4543d65a1ae7895378f4d103
+      internalID: 539524473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_carrot_sprout
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 384
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1f360625238b75ae06678d1d2ecea
+      internalID: 1886333024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_cabbage_mature
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f8f426d2fb3f7e6f9a11b3ad1cbd9d
+      internalID: -396069217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_cabbage_growing
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7cd3f5ba7bbd52dab086a91368ce8
+      internalID: 1280568857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_cabbage_sprout
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2afe57f9b46fc4db2c5d49f2e55a78
+      internalID: 992328318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_pumpkin_mature
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa1177f2ee6d694a387b5725c027752
+      internalID: 1058130151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_pumpkin_growing
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ce6c2843cb43565c36de4b7f5d9ac
+      internalID: -511784701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_pumpkin_sprout
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70cd0de1f18b3661bfb6f27145f0d0a
+      internalID: -800843629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_strawberry_mature
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b591a24b635381cb66f91cffd842ad
+      internalID: -1698343780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_strawberry_growing
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4998255d5c2d5c532816cc2fb5a1f061
+      internalID: -1791731240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_strawberry_sprout
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eeff5e17509f4330ecdedc1dce11477
+      internalID: 471714966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_corn_mature
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d6b59876d76efff7167a0db99c0cb3
+      internalID: 1012679268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_corn_growing
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 320
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e986169b91412d5a3c5929b13a327e6f
+      internalID: -1841794765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_corn_sprout
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 384
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b13da7b607454a8ce74018ad944a71
+      internalID: 1528923914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_eggplant_mature
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e016dadde6fb928e092d6d5677dd1d
+      internalID: 2090639505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_eggplant_growing
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eeac4838b4e17d0e2f7a1b8ef1006f
+      internalID: -223354034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_eggplant_sprout
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e02269f9993bbf7d079c4dd361cee92
+      internalID: 533871468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_tomato_mature
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefc18e349ed31828b73fa9b76cd836f
+      internalID: -506632105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_tomato_growing
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5206cf4ff1b422cbe95755df33cde9f9
+      internalID: -1181031253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_tomato_sprout
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53592e3bba55da885f72dee226a3e18
+      internalID: -560985099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_wheat_mature
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 288
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c741db8d01258faef551b47bbff6751d
+      internalID: 696562220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_wheat_growing
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310b63efc71500a021fcdb9c11cedbaf
+      internalID: -1504634136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_wheat_sprout
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed33ab9edea7eb9c2483bb68c852f69f
+      internalID: 2008467077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_sunflower_mature
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf53bc572f4dc16bcf92bfe131b35469
+      internalID: -1276666494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_sunflower_growing
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4b374b9beb96d3499c808a33a22ff8
+      internalID: 1745600463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crop_sunflower_sprout
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946f145e4002a17e67d80fa5254e2ab7
+      internalID: -1367418147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soil_light
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6d11502c7c6e354097e7ca80c7ff3e
+      internalID: -258897662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soil_dark
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b331bfbb153cbaf3d4a43c9ba6c96c7d
+      internalID: -690379851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_soil_16_416
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc8e8ac41a3efa189736c35a4adb013
+      internalID: -1393513651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_soil_20_416
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 40
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a516396f4a284d786f1d3b7a4f53385a
+      internalID: -298023332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_soil_24_416
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b756da4b1e9db3b77abff1cd0f2c4a89
+      internalID: -2093471587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_soil_16_420
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 36
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9d8a15add5569c7a961a7c0f460a73
+      internalID: -321755283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_soil_20_420
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1edda2ec13686307d033ba0309d346
+      internalID: -1574878335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_soil_24_420
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 36
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f5bb7550933b2820bb813e4397f00
+      internalID: -1179935482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_soil_16_424
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8bc60b53540041110e121cfe9400c3
+      internalID: -1748356190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_soil_20_424
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 32
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e802174db0beea5946cdd6805f820535
+      internalID: 1699180972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bed_soil_24_424
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1e6fe691204ccca7d4640f83bb36b8
+      internalID: 1032883776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b5a8e11281eacd94488f00a2a3c3684a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bed_soil_16_416: -1393513651
+      bed_soil_16_420: -321755283
+      bed_soil_16_424: -1748356190
+      bed_soil_20_416: -298023332
+      bed_soil_20_420: -1574878335
+      bed_soil_20_424: 1699180972
+      bed_soil_24_416: -2093471587
+      bed_soil_24_420: -1179935482
+      bed_soil_24_424: 1032883776
+      crop_cabbage_growing: 1280568857
+      crop_cabbage_mature: -396069217
+      crop_cabbage_sprout: 992328318
+      crop_carrot_growing: 539524473
+      crop_carrot_mature: -240799695
+      crop_carrot_sprout: 1886333024
+      crop_corn_growing: -1841794765
+      crop_corn_mature: 1012679268
+      crop_corn_sprout: 1528923914
+      crop_eggplant_growing: -223354034
+      crop_eggplant_mature: 2090639505
+      crop_eggplant_sprout: 533871468
+      crop_pumpkin_growing: -511784701
+      crop_pumpkin_mature: 1058130151
+      crop_pumpkin_sprout: -800843629
+      crop_strawberry_growing: -1791731240
+      crop_strawberry_mature: -1698343780
+      crop_strawberry_sprout: 471714966
+      crop_sunflower_growing: 1745600463
+      crop_sunflower_mature: -1276666494
+      crop_sunflower_sprout: -1367418147
+      crop_tomato_growing: -1181031253
+      crop_tomato_mature: -506632105
+      crop_tomato_sprout: -560985099
+      crop_wheat_growing: -1504634136
+      crop_wheat_mature: 696562220
+      crop_wheat_sprout: 2008467077
+      soil_dark: -690379851
+      soil_light: -258897662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

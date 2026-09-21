@@ -1,0 +1,2771 @@
+fileFormatVersion: 2
+guid: 8bebbb23ef9303b48b48e09de5ce6907
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2079365690729269096
+    second: Nature_Tileset_0
+  - first:
+      213: -1945104064634201803
+    second: Nature_Tileset_1
+  - first:
+      213: 810461910939593765
+    second: Nature_Tileset_2
+  - first:
+      213: 7131083851394800472
+    second: Nature_Tileset_3
+  - first:
+      213: -3211274417320604244
+    second: Nature_Tileset_4
+  - first:
+      213: -923772987137332420
+    second: Nature_Tileset_5
+  - first:
+      213: -7889906281951516077
+    second: Nature_Tileset_6
+  - first:
+      213: -1947129814938843962
+    second: Nature_Tileset_7
+  - first:
+      213: -1704857557057056026
+    second: Nature_Tileset_8
+  - first:
+      213: 508079797219810564
+    second: Nature_Tileset_9
+  - first:
+      213: 2403606967330122266
+    second: Nature_Tileset_10
+  - first:
+      213: 7124919842496755282
+    second: Nature_Tileset_11
+  - first:
+      213: -4682051404616625036
+    second: Nature_Tileset_12
+  - first:
+      213: -7245235244481216198
+    second: Nature_Tileset_13
+  - first:
+      213: -4897700322372725869
+    second: Nature_Tileset_14
+  - first:
+      213: -7074104237837322120
+    second: Nature_Tileset_15
+  - first:
+      213: -760967148687148046
+    second: Nature_Tileset_16
+  - first:
+      213: 1998217975766664327
+    second: Nature_Tileset_17
+  - first:
+      213: -6660580359296053249
+    second: Nature_Tileset_18
+  - first:
+      213: 6098030380926546226
+    second: Nature_Tileset_19
+  - first:
+      213: -2436189757946333316
+    second: Nature_Tileset_20
+  - first:
+      213: 4285658668457780707
+    second: Nature_Tileset_21
+  - first:
+      213: -4668592206723560774
+    second: Nature_Tileset_22
+  - first:
+      213: -1245531608656793876
+    second: Nature_Tileset_23
+  - first:
+      213: -222476748689200115
+    second: Nature_Tileset_24
+  - first:
+      213: -920630553507384276
+    second: Nature_Tileset_25
+  - first:
+      213: -5324439516388231251
+    second: Nature_Tileset_26
+  - first:
+      213: 6983677009692009708
+    second: Nature_Tileset_27
+  - first:
+      213: 119156890897589805
+    second: Nature_Tileset_28
+  - first:
+      213: 7099917999812859115
+    second: Nature_Tileset_29
+  - first:
+      213: 4974781751203170459
+    second: Nature_Tileset_30
+  - first:
+      213: -1327432584840399072
+    second: Nature_Tileset_31
+  - first:
+      213: -8700242152401134562
+    second: Nature_Tileset_32
+  - first:
+      213: 8147485451304721391
+    second: Nature_Tileset_33
+  - first:
+      213: -231808033247104362
+    second: Nature_Tileset_34
+  - first:
+      213: -3129474590475988480
+    second: Nature_Tileset_35
+  - first:
+      213: 9122292327037789338
+    second: Nature_Tileset_36
+  - first:
+      213: -3210800734509399198
+    second: Nature_Tileset_37
+  - first:
+      213: 5551800866326594017
+    second: Nature_Tileset_38
+  - first:
+      213: 8329487083744379416
+    second: Nature_Tileset_39
+  - first:
+      213: -4529649989476253296
+    second: Nature_Tileset_40
+  - first:
+      213: 7767805120971029631
+    second: Nature_Tileset_41
+  - first:
+      213: 3264103145584969100
+    second: Nature_Tileset_42
+  - first:
+      213: -8858445860686838962
+    second: Nature_Tileset_43
+  - first:
+      213: 4102942490198242037
+    second: Nature_Tileset_44
+  - first:
+      213: -7457495356370211566
+    second: Nature_Tileset_45
+  - first:
+      213: 2334262582248738669
+    second: Nature_Tileset_46
+  - first:
+      213: -4358988067744829926
+    second: Nature_Tileset_47
+  - first:
+      213: 1019597152993725472
+    second: Nature_Tileset_48
+  - first:
+      213: -3724705653137953584
+    second: Nature_Tileset_49
+  - first:
+      213: 6981700742861996397
+    second: Nature_Tileset_50
+  - first:
+      213: -349843788687780566
+    second: Nature_Tileset_51
+  - first:
+      213: 7161429974821025819
+    second: Nature_Tileset_52
+  - first:
+      213: 5534937094899646704
+    second: Nature_Tileset_53
+  - first:
+      213: 6179852733513198287
+    second: Nature_Tileset_54
+  - first:
+      213: -8243494335603316411
+    second: Nature_Tileset_55
+  - first:
+      213: 3786592981835387982
+    second: Nature_Tileset_56
+  - first:
+      213: -575466078277677493
+    second: Nature_Tileset_57
+  - first:
+      213: 1877029578444477423
+    second: Nature_Tileset_58
+  - first:
+      213: 6507172456538419949
+    second: Nature_Tileset_59
+  - first:
+      213: -3395671157436623859
+    second: Nature_Tileset_60
+  - first:
+      213: 6241451787408978035
+    second: Nature_Tileset_61
+  - first:
+      213: -6444044810342829099
+    second: Nature_Tileset_62
+  - first:
+      213: -2075190343588381287
+    second: Nature_Tileset_63
+  - first:
+      213: -3277477934525220522
+    second: Nature_Tileset_64
+  - first:
+      213: 1450866122884469794
+    second: Nature_Tileset_65
+  - first:
+      213: 7438402977882333757
+    second: Nature_Tileset_66
+  - first:
+      213: -1797396400724522236
+    second: Nature_Tileset_67
+  - first:
+      213: -1852932963489814249
+    second: Nature_Tileset_68
+  - first:
+      213: 454129909548461606
+    second: Nature_Tileset_69
+  - first:
+      213: -1678308613053931732
+    second: Nature_Tileset_70
+  - first:
+      213: -2600817005290750948
+    second: Nature_Tileset_71
+  - first:
+      213: 8512042710016008036
+    second: Nature_Tileset_72
+  - first:
+      213: -193333112375450605
+    second: Nature_Tileset_73
+  - first:
+      213: -111467343801883938
+    second: Nature_Tileset_74
+  - first:
+      213: 5332968408531430921
+    second: Nature_Tileset_75
+  - first:
+      213: -5615435300779225671
+    second: Nature_Tileset_76
+  - first:
+      213: -2396401556088053087
+    second: Nature_Tileset_77
+  - first:
+      213: -133495093113329541
+    second: Nature_Tileset_78
+  - first:
+      213: 5764438024022485293
+    second: Nature_Tileset_79
+  - first:
+      213: 4293635486832713289
+    second: Nature_Tileset_80
+  - first:
+      213: -5257019394414058840
+    second: Nature_Tileset_81
+  - first:
+      213: 1582765133901516936
+    second: Nature_Tileset_82
+  - first:
+      213: -3699152474915459015
+    second: Nature_Tileset_83
+  - first:
+      213: -6172055157742667867
+    second: Nature_Tileset_84
+  - first:
+      213: 1619418014132413052
+    second: Nature_Tileset_85
+  - first:
+      213: 718972317454108902
+    second: Nature_Tileset_86
+  - first:
+      213: -3957524246341938416
+    second: Nature_Tileset_87
+  - first:
+      213: 5025727535380047094
+    second: Nature_Tileset_88
+  - first:
+      213: -6493268392330854715
+    second: Nature_Tileset_89
+  - first:
+      213: 1692740187667241965
+    second: Nature_Tileset_90
+  - first:
+      213: -6835311342101166841
+    second: Nature_Tileset_91
+  - first:
+      213: 6307195051142308024
+    second: Nature_Tileset_92
+  - first:
+      213: 7747697095426715490
+    second: Nature_Tileset_93
+  - first:
+      213: 6305358491435451013
+    second: Nature_Tileset_94
+  - first:
+      213: 5649798447224869377
+    second: Nature_Tileset_95
+  - first:
+      213: -1873244485457878539
+    second: Nature_Tileset_96
+  - first:
+      213: -5768106705421687809
+    second: Nature_Tileset_97
+  - first:
+      213: 2927816487591420431
+    second: Nature_Tileset_98
+  - first:
+      213: 5784833436320209091
+    second: Nature_Tileset_99
+  - first:
+      213: -7348762224133594019
+    second: Nature_Tileset_100
+  - first:
+      213: 4661099151486730378
+    second: Nature_Tileset_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nature_Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8678d0a24146bdc10800000000000000
+      internalID: 2079365690729269096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5395f48a82a9105e0800000000000000
+      internalID: -1945104064634201803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ce98160d65f3b00800000000000000
+      internalID: 810461910939593765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b59e11bf2b6f260800000000000000
+      internalID: 7131083851394800472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad4e477ee24f63d0800000000000000
+      internalID: -3211274417320604244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3be390dc591e23f0800000000000000
+      internalID: -923772987137332420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a28210a0c618290800000000000000
+      internalID: -7889906281951516077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c48ff8efb76af4e0800000000000000
+      internalID: -1947129814938843962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e259f6a5112758e0800000000000000
+      internalID: -1704857557057056026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 164
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dd6d632ef0d0700800000000000000
+      internalID: 508079797219810564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 163
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1aad5b4dc35b5120800000000000000
+      internalID: 2403606967330122266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 180
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256b629e8dcc0e260800000000000000
+      internalID: 7124919842496755282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 177
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47415b7dd03060fb0800000000000000
+      internalID: -4682051404616625036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 177
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a318e8a9ee0c37b90800000000000000
+      internalID: -7245235244481216198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 159
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39358a4818fd70cb0800000000000000
+      internalID: -4897700322372725869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 143
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878fe970dabb3dd90800000000000000
+      internalID: -7074104237837322120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbb2c8f8608075f0800000000000000
+      internalID: -760967148687148046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7844f5579a81bbb10800000000000000
+      internalID: 1998217975766664327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 143
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff0736d37dd093a0800000000000000
+      internalID: -6660580359296053249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 164
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231baac925e80a450800000000000000
+      internalID: 6098030380926546226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 160
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77f928925ae03ed0800000000000000
+      internalID: -2436189757946333316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 160
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5eff14ad7b97b30800000000000000
+      internalID: 4285658668457780707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abac51d8f14d53fb0800000000000000
+      internalID: -4668592206723560774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 132
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceead7dd99bf6bee0800000000000000
+      internalID: -1245531608656793876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ca897639a99ecf0800000000000000
+      internalID: -222476748689200115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 148
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2432d8a3634933f0800000000000000
+      internalID: -920630553507384276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 146
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da770ad487acb16b0800000000000000
+      internalID: -5324439516388231251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 144
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce421cc3d310be060800000000000000
+      internalID: 6983677009692009708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26ad7a9f8457a100800000000000000
+      internalID: 119156890897589805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 112
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be45f39cdc9f78260800000000000000
+      internalID: 7099917999812859115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 111
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b988f8b25a9f90540800000000000000
+      internalID: 4974781751203170459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 111
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0273f4dd813049de0800000000000000
+      internalID: -1327432584840399072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 111
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c1046bbd7824780800000000000000
+      internalID: -8700242152401134562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 111
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb5ea9c9dea11170800000000000000
+      internalID: 8147485451304721391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 99
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692793a62d378ccf0800000000000000
+      internalID: -231808033247104362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 132
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002511dc07fd194d0800000000000000
+      internalID: -3129474590475988480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 129
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94eb5a1a84e89e70800000000000000
+      internalID: 9122292327037789338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 111
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26301075eb1f073d0800000000000000
+      internalID: -3210800734509399198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 99
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e14a152975fb0d40800000000000000
+      internalID: 5551800866326594017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 100
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812c9c30f58489370800000000000000
+      internalID: 8329487083744379416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0918a6c65537321c0800000000000000
+      internalID: -4529649989476253296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 116
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c30f71a99cccb60800000000000000
+      internalID: 7767805120971029631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 112
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85c3d6548c6c4d20800000000000000
+      internalID: 3264103145584969100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 80
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e434bbb7c6a701580800000000000000
+      internalID: -8858445860686838962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 79
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f27f1ed47490f830800000000000000
+      internalID: 4102942490198242037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 95
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dad612c77a18890800000000000000
+      internalID: -7457495356370211566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 95
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f0c6b7377f46020800000000000000
+      internalID: 2334262582248738669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 100
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e27e18273c183c0800000000000000
+      internalID: -4358988067744829926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 98
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cc0366536562e00800000000000000
+      internalID: 1019597152993725472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dca2db51ff2f4cc0800000000000000
+      internalID: -3724705653137953584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 96
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61ce52c5dbf3e060800000000000000
+      internalID: 6981700742861996397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2553608dea152bf0800000000000000
+      internalID: -349843788687780566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 80
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18ba058e92826360800000000000000
+      internalID: 7161429974821025819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 69
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f040a366fb00dc40800000000000000
+      internalID: 5534937094899646704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 69
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcae741a15f33c550800000000000000
+      internalID: 6179852733513198287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5496b62e399399d80800000000000000
+      internalID: -8243494335603316411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e441947314eac8430800000000000000
+      internalID: 3786592981835387982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ec8f796a88308f0800000000000000
+      internalID: -575466078277677493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 84
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe39518e47c8c0a10800000000000000
+      internalID: 1877029578444477423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 81
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2bd2c6fde1e4a50800000000000000
+      internalID: 6507172456538419949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0453f6c21720e0d0800000000000000
+      internalID: -3395671157436623859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 51
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3703d3ff4571e9650800000000000000
+      internalID: 6241451787408978035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 51
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3f0d213672296a0800000000000000
+      internalID: -6444044810342829099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 48
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99df71990617333e0800000000000000
+      internalID: -2075190343588381287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6597171fe2f0482d0800000000000000
+      internalID: -3277477934525220522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 64
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2245d2f3d03822410800000000000000
+      internalID: 1450866122884469794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 64
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3262e819148a3760800000000000000
+      internalID: 7438402977882333757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 64
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bcf3e1f7d5e07e0800000000000000
+      internalID: -1797396400724522236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 65
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719e396794f0946e0800000000000000
+      internalID: -1852932963489814249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e24842fb46d4600800000000000000
+      internalID: 454129909548461606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 68
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f117f553375b8e0800000000000000
+      internalID: -1678308613053931732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 64
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c79d1a6ba08ebd0800000000000000
+      internalID: -2600817005290750948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f157bfeb9d02670800000000000000
+      internalID: 8512042710016008036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3146a810f84215df0800000000000000
+      internalID: -193333112375450605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 48
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2e1a89a0df37ef0800000000000000
+      internalID: -111467343801883938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e65e42382820a40800000000000000
+      internalID: 5332968408531430921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 37
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd8dd58857f112b0800000000000000
+      internalID: -5615435300779225671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 50
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2ad2e3b754ebed0800000000000000
+      internalID: -2396401556088053087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 49
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78e8bb8beab52ef0800000000000000
+      internalID: -133495093113329541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 48
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d296d9f67d56fff40800000000000000
+      internalID: 5764438024022485293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 52
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94edca30abe069b30800000000000000
+      internalID: 4293635486832713289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 49
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a26c92b6b05b07b0800000000000000
+      internalID: -5257019394414058840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880d211e08c17f510800000000000000
+      internalID: 1582765133901516936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93038aa4c68f9acc0800000000000000
+      internalID: -3699152474915459015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 19
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a771a4f884785aa0800000000000000
+      internalID: -6172055157742667867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 19
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c722b339a14597610800000000000000
+      internalID: 1619418014132413052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 32
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e80131738d4af900800000000000000
+      internalID: 718972317454108902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0131bc27aac0419c0800000000000000
+      internalID: -3957524246341938416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f42a34e098feb540800000000000000
+      internalID: 5025727535380047094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cef8dbccc643e5a0800000000000000
+      internalID: -6493268392330854715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb1fee6b32dd7710800000000000000
+      internalID: 1692740187667241965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7058cd4ac881421a0800000000000000
+      internalID: -6835311342101166841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b060786b78a78750800000000000000
+      internalID: 6307195051142308024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 18
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f2c309579558b60800000000000000
+      internalID: 7747697095426715490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582c0870422218750800000000000000
+      internalID: 6305358491435451013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102546bf0cd186e40800000000000000
+      internalID: 5649798447224869377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1e2dab016e006e0800000000000000
+      internalID: -1873244485457878539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_97
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 23
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3aacc138193ffa0800000000000000
+      internalID: -5768106705421687809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_98
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 18
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f022b6e4591b1a820800000000000000
+      internalID: 2927816487591420431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c81ba86c5bd74050800000000000000
+      internalID: 5784833436320209091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_100
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 17
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5425bb41b3f30a90800000000000000
+      internalID: -7348762224133594019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_Tileset_101
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 16
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80cd339bfc8fa040800000000000000
+      internalID: 4661099151486730378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nature_Tileset_0: 2079365690729269096
+      Nature_Tileset_1: -1945104064634201803
+      Nature_Tileset_10: 2403606967330122266
+      Nature_Tileset_100: -7348762224133594019
+      Nature_Tileset_101: 4661099151486730378
+      Nature_Tileset_11: 7124919842496755282
+      Nature_Tileset_12: -4682051404616625036
+      Nature_Tileset_13: -7245235244481216198
+      Nature_Tileset_14: -4897700322372725869
+      Nature_Tileset_15: -7074104237837322120
+      Nature_Tileset_16: -760967148687148046
+      Nature_Tileset_17: 1998217975766664327
+      Nature_Tileset_18: -6660580359296053249
+      Nature_Tileset_19: 6098030380926546226
+      Nature_Tileset_2: 810461910939593765
+      Nature_Tileset_20: -2436189757946333316
+      Nature_Tileset_21: 4285658668457780707
+      Nature_Tileset_22: -4668592206723560774
+      Nature_Tileset_23: -1245531608656793876
+      Nature_Tileset_24: -222476748689200115
+      Nature_Tileset_25: -920630553507384276
+      Nature_Tileset_26: -5324439516388231251
+      Nature_Tileset_27: 6983677009692009708
+      Nature_Tileset_28: 119156890897589805
+      Nature_Tileset_29: 7099917999812859115
+      Nature_Tileset_3: 7131083851394800472
+      Nature_Tileset_30: 4974781751203170459
+      Nature_Tileset_31: -1327432584840399072
+      Nature_Tileset_32: -8700242152401134562
+      Nature_Tileset_33: 8147485451304721391
+      Nature_Tileset_34: -231808033247104362
+      Nature_Tileset_35: -3129474590475988480
+      Nature_Tileset_36: 9122292327037789338
+      Nature_Tileset_37: -3210800734509399198
+      Nature_Tileset_38: 5551800866326594017
+      Nature_Tileset_39: 8329487083744379416
+      Nature_Tileset_4: -3211274417320604244
+      Nature_Tileset_40: -4529649989476253296
+      Nature_Tileset_41: 7767805120971029631
+      Nature_Tileset_42: 3264103145584969100
+      Nature_Tileset_43: -8858445860686838962
+      Nature_Tileset_44: 4102942490198242037
+      Nature_Tileset_45: -7457495356370211566
+      Nature_Tileset_46: 2334262582248738669
+      Nature_Tileset_47: -4358988067744829926
+      Nature_Tileset_48: 1019597152993725472
+      Nature_Tileset_49: -3724705653137953584
+      Nature_Tileset_5: -923772987137332420
+      Nature_Tileset_50: 6981700742861996397
+      Nature_Tileset_51: -349843788687780566
+      Nature_Tileset_52: 7161429974821025819
+      Nature_Tileset_53: 5534937094899646704
+      Nature_Tileset_54: 6179852733513198287
+      Nature_Tileset_55: -8243494335603316411
+      Nature_Tileset_56: 3786592981835387982
+      Nature_Tileset_57: -575466078277677493
+      Nature_Tileset_58: 1877029578444477423
+      Nature_Tileset_59: 6507172456538419949
+      Nature_Tileset_6: -7889906281951516077
+      Nature_Tileset_60: -3395671157436623859
+      Nature_Tileset_61: 6241451787408978035
+      Nature_Tileset_62: -6444044810342829099
+      Nature_Tileset_63: -2075190343588381287
+      Nature_Tileset_64: -3277477934525220522
+      Nature_Tileset_65: 1450866122884469794
+      Nature_Tileset_66: 7438402977882333757
+      Nature_Tileset_67: -1797396400724522236
+      Nature_Tileset_68: -1852932963489814249
+      Nature_Tileset_69: 454129909548461606
+      Nature_Tileset_7: -1947129814938843962
+      Nature_Tileset_70: -1678308613053931732
+      Nature_Tileset_71: -2600817005290750948
+      Nature_Tileset_72: 8512042710016008036
+      Nature_Tileset_73: -193333112375450605
+      Nature_Tileset_74: -111467343801883938
+      Nature_Tileset_75: 5332968408531430921
+      Nature_Tileset_76: -5615435300779225671
+      Nature_Tileset_77: -2396401556088053087
+      Nature_Tileset_78: -133495093113329541
+      Nature_Tileset_79: 5764438024022485293
+      Nature_Tileset_8: -1704857557057056026
+      Nature_Tileset_80: 4293635486832713289
+      Nature_Tileset_81: -5257019394414058840
+      Nature_Tileset_82: 1582765133901516936
+      Nature_Tileset_83: -3699152474915459015
+      Nature_Tileset_84: -6172055157742667867
+      Nature_Tileset_85: 1619418014132413052
+      Nature_Tileset_86: 718972317454108902
+      Nature_Tileset_87: -3957524246341938416
+      Nature_Tileset_88: 5025727535380047094
+      Nature_Tileset_89: -6493268392330854715
+      Nature_Tileset_9: 508079797219810564
+      Nature_Tileset_90: 1692740187667241965
+      Nature_Tileset_91: -6835311342101166841
+      Nature_Tileset_92: 6307195051142308024
+      Nature_Tileset_93: 7747697095426715490
+      Nature_Tileset_94: 6305358491435451013
+      Nature_Tileset_95: 5649798447224869377
+      Nature_Tileset_96: -1873244485457878539
+      Nature_Tileset_97: -5768106705421687809
+      Nature_Tileset_98: 2927816487591420431
+      Nature_Tileset_99: 5784833436320209091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

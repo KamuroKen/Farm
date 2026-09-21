@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: c339942f20129884e9db25b4a89b337f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7586231055179777240
+    second: Lamb_Sleep_0
+  - first:
+      213: -9049582268881417815
+    second: Lamb_Sleep_1
+  - first:
+      213: 8941159628312870256
+    second: Lamb_Sleep_2
+  - first:
+      213: 8648050208613006360
+    second: Lamb_Sleep_3
+  - first:
+      213: -3891174235560790963
+    second: Lamb_Sleep_4
+  - first:
+      213: 3370283416164647218
+    second: Lamb_Sleep_5
+  - first:
+      213: -3567445264067019971
+    second: Lamb_Sleep_6
+  - first:
+      213: 79255591068680634
+    second: Lamb_Sleep_7
+  - first:
+      213: 3027686192500750171
+    second: Lamb_Sleep_8
+  - first:
+      213: -388649892079441058
+    second: Lamb_Sleep_9
+  - first:
+      213: -6046177318742679779
+    second: Lamb_Sleep_10
+  - first:
+      213: 1549253307191302502
+    second: Lamb_Sleep_11
+  - first:
+      213: -8767424163521967091
+    second: Lamb_Sleep_12
+  - first:
+      213: 4527304303384215340
+    second: Lamb_Sleep_13
+  - first:
+      213: -4514659894092146012
+    second: Lamb_Sleep_14
+  - first:
+      213: 1518012005150435692
+    second: Lamb_Sleep_15
+  - first:
+      213: -5197277461071004250
+    second: Lamb_Sleep_16
+  - first:
+      213: 8432148969974995982
+    second: Lamb_Sleep_17
+  - first:
+      213: -4670338503163252195
+    second: Lamb_Sleep_18
+  - first:
+      213: -1984130869623693736
+    second: Lamb_Sleep_19
+  - first:
+      213: -1689158689874743346
+    second: Lamb_Sleep_20
+  - first:
+      213: 3223372523110051036
+    second: Lamb_Sleep_21
+  - first:
+      213: -7261063063138910242
+    second: Lamb_Sleep_22
+  - first:
+      213: 5818744217372831756
+    second: Lamb_Sleep_23
+  - first:
+      213: 4938743323969316357
+    second: Lamb_Sleep_24
+  - first:
+      213: -1826900289872964419
+    second: Lamb_Sleep_25
+  - first:
+      213: 3661872787415318146
+    second: Lamb_Sleep_26
+  - first:
+      213: -9087239278735598792
+    second: Lamb_Sleep_27
+  - first:
+      213: -3365573923246673444
+    second: Lamb_Sleep_28
+  - first:
+      213: -7964904158449386860
+    second: Lamb_Sleep_29
+  - first:
+      213: 1424804746168253612
+    second: Lamb_Sleep_30
+  - first:
+      213: 5901559671428429456
+    second: Lamb_Sleep_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lamb_Sleep_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4070c73f4b74960800000000000000
+      internalID: 7586231055179777240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a946a98fdc696280800000000000000
+      internalID: -9049582268881417815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07df6a54f41651c70800000000000000
+      internalID: 8941159628312870256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cfe1c68db040870800000000000000
+      internalID: 8648050208613006360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d443f3a26a5cff9c0800000000000000
+      internalID: -3891174235560790963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23142e419e6a5ce20800000000000000
+      internalID: 3370283416164647218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 159
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bb2a7fe63ed7ec0800000000000000
+      internalID: -3567445264067019971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1cc184a82991100800000000000000
+      internalID: 79255591068680634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57bc5bfc80840a20800000000000000
+      internalID: 3027686192500750171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 111
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b6c987bfc3b9af0800000000000000
+      internalID: -388649892079441058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f915b33c9a71ca0800000000000000
+      internalID: -6046177318742679779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_11
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 111
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6699c32bcad008510800000000000000
+      internalID: 1549253307191302502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 111
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cc812dc2ad35680800000000000000
+      internalID: -8767424163521967091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_13
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 111
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f3059f64734de30800000000000000
+      internalID: 4527304303384215340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_14
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 111
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa5feafeb4b851c0800000000000000
+      internalID: -4514659894092146012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6925cb30ef011510800000000000000
+      internalID: 1518012005150435692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adf7bd7faf8fd7b0800000000000000
+      internalID: -5197277461071004250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c198010d2050570800000000000000
+      internalID: 8432148969974995982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12ff1a30ef9f2fb0800000000000000
+      internalID: -4670338503163252195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e51388c73f674e0800000000000000
+      internalID: -1984130869623693736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf60c00f17ee88e0800000000000000
+      internalID: -1689158689874743346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcaaba4b38bbbc20800000000000000
+      internalID: 3223372523110051036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 63
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf35e56d958b3b90800000000000000
+      internalID: -7261063063138910242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00bd53690550c050800000000000000
+      internalID: 5818744217372831756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506e506f2e0f98440800000000000000
+      internalID: 4938743323969316357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4501e9ddb85a6e0800000000000000
+      internalID: -1826900289872964419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e3f8216e591d230800000000000000
+      internalID: 3661872787415318146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bdcf1b504a3e180800000000000000
+      internalID: -9087239278735598792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1709f29541b41d0800000000000000
+      internalID: -3365573923246673444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ab7952ed9f67190800000000000000
+      internalID: -7964904158449386860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac36a12e5ce5c310800000000000000
+      internalID: 1424804746168253612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Sleep_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096334cd04d86e150800000000000000
+      internalID: 5901559671428429456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lamb_Sleep_0: 7586231055179777240
+      Lamb_Sleep_1: -9049582268881417815
+      Lamb_Sleep_10: -6046177318742679779
+      Lamb_Sleep_11: 1549253307191302502
+      Lamb_Sleep_12: -8767424163521967091
+      Lamb_Sleep_13: 4527304303384215340
+      Lamb_Sleep_14: -4514659894092146012
+      Lamb_Sleep_15: 1518012005150435692
+      Lamb_Sleep_16: -5197277461071004250
+      Lamb_Sleep_17: 8432148969974995982
+      Lamb_Sleep_18: -4670338503163252195
+      Lamb_Sleep_19: -1984130869623693736
+      Lamb_Sleep_2: 8941159628312870256
+      Lamb_Sleep_20: -1689158689874743346
+      Lamb_Sleep_21: 3223372523110051036
+      Lamb_Sleep_22: -7261063063138910242
+      Lamb_Sleep_23: 5818744217372831756
+      Lamb_Sleep_24: 4938743323969316357
+      Lamb_Sleep_25: -1826900289872964419
+      Lamb_Sleep_26: 3661872787415318146
+      Lamb_Sleep_27: -9087239278735598792
+      Lamb_Sleep_28: -3365573923246673444
+      Lamb_Sleep_29: -7964904158449386860
+      Lamb_Sleep_3: 8648050208613006360
+      Lamb_Sleep_30: 1424804746168253612
+      Lamb_Sleep_31: 5901559671428429456
+      Lamb_Sleep_4: -3891174235560790963
+      Lamb_Sleep_5: 3370283416164647218
+      Lamb_Sleep_6: -3567445264067019971
+      Lamb_Sleep_7: 79255591068680634
+      Lamb_Sleep_8: 3027686192500750171
+      Lamb_Sleep_9: -388649892079441058
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

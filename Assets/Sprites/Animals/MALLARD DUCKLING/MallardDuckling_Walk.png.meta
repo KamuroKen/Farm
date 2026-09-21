@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 934f080f20b124341b5af45f39bb72e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4252173609799017758
+    second: MallardDuckling_Walk_0
+  - first:
+      213: 6442134366571343131
+    second: MallardDuckling_Walk_1
+  - first:
+      213: -7719000107111522835
+    second: MallardDuckling_Walk_2
+  - first:
+      213: -3212859463619856655
+    second: MallardDuckling_Walk_3
+  - first:
+      213: 528068280930180316
+    second: MallardDuckling_Walk_4
+  - first:
+      213: 3474464000241118509
+    second: MallardDuckling_Walk_5
+  - first:
+      213: -4029472584006895602
+    second: MallardDuckling_Walk_6
+  - first:
+      213: 2879385072893465421
+    second: MallardDuckling_Walk_7
+  - first:
+      213: 9138226502840474503
+    second: MallardDuckling_Walk_8
+  - first:
+      213: -3713959559028506999
+    second: MallardDuckling_Walk_9
+  - first:
+      213: 5398879218963457008
+    second: MallardDuckling_Walk_10
+  - first:
+      213: 2557727573778102981
+    second: MallardDuckling_Walk_11
+  - first:
+      213: 8870974214606259292
+    second: MallardDuckling_Walk_12
+  - first:
+      213: -3364064343972559627
+    second: MallardDuckling_Walk_13
+  - first:
+      213: -1735281935984465089
+    second: MallardDuckling_Walk_14
+  - first:
+      213: -8519490195195699495
+    second: MallardDuckling_Walk_15
+  - first:
+      213: 1386650219164740855
+    second: MallardDuckling_Walk_16
+  - first:
+      213: 6462713543580963440
+    second: MallardDuckling_Walk_17
+  - first:
+      213: -3134561761687878453
+    second: MallardDuckling_Walk_18
+  - first:
+      213: 253189524217477780
+    second: MallardDuckling_Walk_19
+  - first:
+      213: -5158017489264469738
+    second: MallardDuckling_Walk_20
+  - first:
+      213: -1067946215157366011
+    second: MallardDuckling_Walk_21
+  - first:
+      213: -2846809857931146063
+    second: MallardDuckling_Walk_22
+  - first:
+      213: 6568907971540709093
+    second: MallardDuckling_Walk_23
+  - first:
+      213: 231899718910444905
+    second: MallardDuckling_Walk_24
+  - first:
+      213: -2681844763141935026
+    second: MallardDuckling_Walk_25
+  - first:
+      213: 7075837784095566119
+    second: MallardDuckling_Walk_26
+  - first:
+      213: -7007386573549874621
+    second: MallardDuckling_Walk_27
+  - first:
+      213: 6047723451919830883
+    second: MallardDuckling_Walk_28
+  - first:
+      213: -5243035079799739982
+    second: MallardDuckling_Walk_29
+  - first:
+      213: 1427961682599360571
+    second: MallardDuckling_Walk_30
+  - first:
+      213: 7453400914421739723
+    second: MallardDuckling_Walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e156c5f7e51c20b30800000000000000
+      internalID: 4252173609799017758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d22d2131f076950800000000000000
+      internalID: 6442134366571343131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 159
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded5a62bc4a90e490800000000000000
+      internalID: -7719000107111522835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6bfad1751a963d0800000000000000
+      internalID: -3212859463619856655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc9efdbd43145700800000000000000
+      internalID: 528068280930180316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d21478996c73030800000000000000
+      internalID: 3474464000241118509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 159
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08f71ea8007418c0800000000000000
+      internalID: -4029472584006895602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d439069d771a5f720800000000000000
+      internalID: 2879385072893465421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bddd2869081de70800000000000000
+      internalID: 9138226502840474503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e70fd557d557cc0800000000000000
+      internalID: -3713959559028506999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f32e8f8b0cacea40800000000000000
+      internalID: 5398879218963457008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caf34b4dafde7320800000000000000
+      internalID: 2557727573778102981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5481493c080c1b70800000000000000
+      internalID: 8870974214606259292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f445ff7d417051d0800000000000000
+      internalID: -3364064343972559627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 111
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b6e7ce54a0be7e0800000000000000
+      internalID: -1735281935984465089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dedfef3ec0b4c980800000000000000
+      internalID: -8519490195195699495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc280d070f5e3310800000000000000
+      internalID: 1386650219164740855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072df3a1abb20b950800000000000000
+      internalID: 6462713543580963440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc442147faccf74d0800000000000000
+      internalID: -3134561761687878453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a35d3e782838300800000000000000
+      internalID: 253189524217477780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619932ffb6a0b68b0800000000000000
+      internalID: -5158017489264469738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50382565394ed21f0800000000000000
+      internalID: -1067946215157366011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 63
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc0fea64891e78d0800000000000000
+      internalID: -2846809857931146063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee6aed1ff2792b50800000000000000
+      internalID: 6568907971540709093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9658b21d09fd73300800000000000000
+      internalID: 231899718910444905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40fe2e956c28cad0800000000000000
+      internalID: -2681844763141935026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 14
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729ad49a9fc623260800000000000000
+      internalID: 7075837784095566119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 15
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342d7bfb903c0ce90800000000000000
+      internalID: -7007386573549874621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 15
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f0b73ff64dde350800000000000000
+      internalID: 6047723451919830883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 15
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9ef9baf5ffc37b0800000000000000
+      internalID: -5243035079799739982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38343ca59321d310800000000000000
+      internalID: 1427961682599360571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 15
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0fda054accf6760800000000000000
+      internalID: 7453400914421739723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MallardDuckling_Walk_0: 4252173609799017758
+      MallardDuckling_Walk_1: 6442134366571343131
+      MallardDuckling_Walk_10: 5398879218963457008
+      MallardDuckling_Walk_11: 2557727573778102981
+      MallardDuckling_Walk_12: 8870974214606259292
+      MallardDuckling_Walk_13: -3364064343972559627
+      MallardDuckling_Walk_14: -1735281935984465089
+      MallardDuckling_Walk_15: -8519490195195699495
+      MallardDuckling_Walk_16: 1386650219164740855
+      MallardDuckling_Walk_17: 6462713543580963440
+      MallardDuckling_Walk_18: -3134561761687878453
+      MallardDuckling_Walk_19: 253189524217477780
+      MallardDuckling_Walk_2: -7719000107111522835
+      MallardDuckling_Walk_20: -5158017489264469738
+      MallardDuckling_Walk_21: -1067946215157366011
+      MallardDuckling_Walk_22: -2846809857931146063
+      MallardDuckling_Walk_23: 6568907971540709093
+      MallardDuckling_Walk_24: 231899718910444905
+      MallardDuckling_Walk_25: -2681844763141935026
+      MallardDuckling_Walk_26: 7075837784095566119
+      MallardDuckling_Walk_27: -7007386573549874621
+      MallardDuckling_Walk_28: 6047723451919830883
+      MallardDuckling_Walk_29: -5243035079799739982
+      MallardDuckling_Walk_3: -3212859463619856655
+      MallardDuckling_Walk_30: 1427961682599360571
+      MallardDuckling_Walk_31: 7453400914421739723
+      MallardDuckling_Walk_4: 528068280930180316
+      MallardDuckling_Walk_5: 3474464000241118509
+      MallardDuckling_Walk_6: -4029472584006895602
+      MallardDuckling_Walk_7: 2879385072893465421
+      MallardDuckling_Walk_8: 9138226502840474503
+      MallardDuckling_Walk_9: -3713959559028506999
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

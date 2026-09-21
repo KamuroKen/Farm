@@ -1,0 +1,1497 @@
+fileFormatVersion: 2
+guid: 3983caebccb74634abe4cac09672e76b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8644737520643716464
+    second: Sword monkey_0
+  - first:
+      213: -6596626321336483844
+    second: Sword monkey_1
+  - first:
+      213: 9018242151232870996
+    second: Sword monkey_2
+  - first:
+      213: 4635242316084680737
+    second: Sword monkey_3
+  - first:
+      213: -2743795505659546236
+    second: Sword monkey_4
+  - first:
+      213: 3670498073023558255
+    second: Sword monkey_5
+  - first:
+      213: 8982744855850291835
+    second: Sword monkey_6
+  - first:
+      213: -6193314776155118521
+    second: Sword monkey_7
+  - first:
+      213: -7919030707155503098
+    second: Sword monkey_8
+  - first:
+      213: -8272630610880395621
+    second: Sword monkey_9
+  - first:
+      213: -6987340962963669558
+    second: Sword monkey_10
+  - first:
+      213: -1295077105240261145
+    second: Sword monkey_11
+  - first:
+      213: 4828495719014648818
+    second: Sword monkey_12
+  - first:
+      213: 5499691630674731946
+    second: Sword monkey_13
+  - first:
+      213: 708299850757550315
+    second: Sword monkey_14
+  - first:
+      213: 3832579564543413498
+    second: Sword monkey_15
+  - first:
+      213: 1692302805143182460
+    second: Sword monkey_16
+  - first:
+      213: 7405539802086328614
+    second: Sword monkey_17
+  - first:
+      213: -7010450944970484976
+    second: Sword monkey_18
+  - first:
+      213: -4547852294854061318
+    second: Sword monkey_19
+  - first:
+      213: -8400699173311464410
+    second: Sword monkey_20
+  - first:
+      213: -5883231226054181801
+    second: Sword monkey_21
+  - first:
+      213: 912803843857600010
+    second: Sword monkey_22
+  - first:
+      213: 7336062715197294975
+    second: Sword monkey_23
+  - first:
+      213: 7824709645036431466
+    second: Sword monkey_24
+  - first:
+      213: 4689868668142111173
+    second: Sword monkey_25
+  - first:
+      213: -765807331131986736
+    second: Sword monkey_26
+  - first:
+      213: 650443788523353516
+    second: Sword monkey_27
+  - first:
+      213: -7714261540689090810
+    second: Sword monkey_28
+  - first:
+      213: 5358166289644611920
+    second: Sword monkey_29
+  - first:
+      213: 8448408661658249244
+    second: Sword monkey_30
+  - first:
+      213: 1059940444879923366
+    second: Sword monkey_31
+  - first:
+      213: -1056748048092256827
+    second: Sword monkey_32
+  - first:
+      213: 3973483378797816102
+    second: Sword monkey_33
+  - first:
+      213: -8877301191110432010
+    second: Sword monkey_34
+  - first:
+      213: 4563931189570435908
+    second: Sword monkey_35
+  - first:
+      213: -4864100222684373197
+    second: Sword monkey_36
+  - first:
+      213: 1801112718933799881
+    second: Sword monkey_37
+  - first:
+      213: 5541052004281841884
+    second: Sword monkey_38
+  - first:
+      213: 5348871202175445556
+    second: Sword monkey_39
+  - first:
+      213: 4426882193547711709
+    second: Sword monkey_40
+  - first:
+      213: 6518466216305110040
+    second: Sword monkey_41
+  - first:
+      213: -7594732254963922298
+    second: Sword monkey_42
+  - first:
+      213: 5422525304313181557
+    second: Sword monkey_43
+  - first:
+      213: -7109848336034510366
+    second: Sword monkey_44
+  - first:
+      213: 5094288041732042891
+    second: Sword monkey_45
+  - first:
+      213: -2358463017889534192
+    second: Sword monkey_46
+  - first:
+      213: -5769111324497283432
+    second: Sword monkey_47
+  - first:
+      213: 8481712074496377559
+    second: Sword monkey_48
+  - first:
+      213: -6603805164812796587
+    second: Sword monkey_49
+  - first:
+      213: 4907297767457665192
+    second: Sword monkey_50
+  - first:
+      213: -8744632830350239105
+    second: Sword monkey_51
+  - first:
+      213: -3850665945918183501
+    second: Sword monkey_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sword monkey_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a4a89d609b70880800000000000000
+      internalID: -8644737520643716464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff3fb8af431474a0800000000000000
+      internalID: -6596626321336483844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a90b2b47b372d70800000000000000
+      internalID: 9018242151232870996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 158
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1281612f350b35040800000000000000
+      internalID: 4635242316084680737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 158
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48579dc56841ce9d0800000000000000
+      internalID: -2743795505659546236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 157
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62335fdc8a30f230800000000000000
+      internalID: 3670498073023558255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 174
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b729ce09ade19ac70800000000000000
+      internalID: 8982744855850291835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 157
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744a811560dec0aa0800000000000000
+      internalID: -6193314776155118521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 158
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608f5965783f91290800000000000000
+      internalID: -7919030707155503098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9683782a46b13d80800000000000000
+      internalID: -8272630610880395621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdb30a2a6af70f90800000000000000
+      internalID: -6987340962963669558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edb9610c36f60ee0800000000000000
+      internalID: -1295077105240261145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbcc532643420340800000000000000
+      internalID: 4828495719014648818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa36e844664d25c40800000000000000
+      internalID: 5499691630674731946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 111
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0bdd626f264d900800000000000000
+      internalID: 708299850757550315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc080edece003530800000000000000
+      internalID: 3832579564543413498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cd4f06f644c7710800000000000000
+      internalID: 1692302805143182460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 110
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6294f59b633c5c660800000000000000
+      internalID: 7405539802086328614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0139bbd2200e5be90800000000000000
+      internalID: -7010450944970484976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 113
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af25742fe68c2e0c0800000000000000
+      internalID: -4547852294854061318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c3ad55c98ba6b80800000000000000
+      internalID: -8400699173311464410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cfd8fde509a5ea0800000000000000
+      internalID: -5883231226054181801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e4ebe724eeaac00800000000000000
+      internalID: 912803843857600010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_23
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79825ddb2eeec560800000000000000
+      internalID: 7336062715197294975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_24
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 110
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6828fe07f3f69c60800000000000000
+      internalID: 7824709645036431466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 110
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c948d7a4b2c51140800000000000000
+      internalID: 4689868668142111173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 111
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcec7d2a4e4f55f0800000000000000
+      internalID: -765807331131986736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 63
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca53b41fd27d60900800000000000000
+      internalID: 650443788523353516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607e4ca200071f490800000000000000
+      internalID: -7714261540689090810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0596db50ad70c5a40800000000000000
+      internalID: 5358166289644611920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 62
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18297b8ae6ce3570800000000000000
+      internalID: 8448408661658249244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 65
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a82324083aa5be00800000000000000
+      internalID: 1059940444879923366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5af58cf3da551f0800000000000000
+      internalID: -1056748048092256827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_33
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 60
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629a922a416a42730800000000000000
+      internalID: 3973483378797816102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fae5b3c99d7dc480800000000000000
+      internalID: -8877301191110432010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_35
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 62
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bfba57c37565f30800000000000000
+      internalID: 4563931189570435908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_36
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fdffa5e9e3f7cb0800000000000000
+      internalID: -4864100222684373197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 62
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3bc74a976def810800000000000000
+      internalID: 1801112718933799881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_38
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd87f2da075c5ec40800000000000000
+      internalID: 5541052004281841884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_39
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 64
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43aebf2d4020b3a40800000000000000
+      internalID: 5348871202175445556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_40
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4d9e086e17f6d30800000000000000
+      internalID: 4426882193547711709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_41
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c2047cc7e367a50800000000000000
+      internalID: 6518466216305110040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a8ca2b0471a9690800000000000000
+      internalID: -7594732254963922298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5757725d80ea04b40800000000000000
+      internalID: 5422525304313181557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9c2c3ab9eb45d90800000000000000
+      internalID: -7109848336034510366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8075f6bbfb82b640800000000000000
+      internalID: 5094288041732042891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f6cc2816e054fd0800000000000000
+      internalID: -2358463017889534192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896f7a101dfffefa0800000000000000
+      internalID: -5769111324497283432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d28f77913815b570800000000000000
+      internalID: 8481712074496377559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d7179e0329a54a0800000000000000
+      internalID: -6603805164812796587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_50
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0b16cc1593a1440800000000000000
+      internalID: 4907297767457665192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 12
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a51c795c2d4a680800000000000000
+      internalID: -8744632830350239105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword monkey_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b76ad059bfaf8ac0800000000000000
+      internalID: -3850665945918183501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sword monkey_0: -8644737520643716464
+      Sword monkey_1: -6596626321336483844
+      Sword monkey_10: -6987340962963669558
+      Sword monkey_11: -1295077105240261145
+      Sword monkey_12: 4828495719014648818
+      Sword monkey_13: 5499691630674731946
+      Sword monkey_14: 708299850757550315
+      Sword monkey_15: 3832579564543413498
+      Sword monkey_16: 1692302805143182460
+      Sword monkey_17: 7405539802086328614
+      Sword monkey_18: -7010450944970484976
+      Sword monkey_19: -4547852294854061318
+      Sword monkey_2: 9018242151232870996
+      Sword monkey_20: -8400699173311464410
+      Sword monkey_21: -5883231226054181801
+      Sword monkey_22: 912803843857600010
+      Sword monkey_23: 7336062715197294975
+      Sword monkey_24: 7824709645036431466
+      Sword monkey_25: 4689868668142111173
+      Sword monkey_26: -765807331131986736
+      Sword monkey_27: 650443788523353516
+      Sword monkey_28: -7714261540689090810
+      Sword monkey_29: 5358166289644611920
+      Sword monkey_3: 4635242316084680737
+      Sword monkey_30: 8448408661658249244
+      Sword monkey_31: 1059940444879923366
+      Sword monkey_32: -1056748048092256827
+      Sword monkey_33: 3973483378797816102
+      Sword monkey_34: -8877301191110432010
+      Sword monkey_35: 4563931189570435908
+      Sword monkey_36: -4864100222684373197
+      Sword monkey_37: 1801112718933799881
+      Sword monkey_38: 5541052004281841884
+      Sword monkey_39: 5348871202175445556
+      Sword monkey_4: -2743795505659546236
+      Sword monkey_40: 4426882193547711709
+      Sword monkey_41: 6518466216305110040
+      Sword monkey_42: -7594732254963922298
+      Sword monkey_43: 5422525304313181557
+      Sword monkey_44: -7109848336034510366
+      Sword monkey_45: 5094288041732042891
+      Sword monkey_46: -2358463017889534192
+      Sword monkey_47: -5769111324497283432
+      Sword monkey_48: 8481712074496377559
+      Sword monkey_49: -6603805164812796587
+      Sword monkey_5: 3670498073023558255
+      Sword monkey_50: 4907297767457665192
+      Sword monkey_51: -8744632830350239105
+      Sword monkey_52: -3850665945918183501
+      Sword monkey_6: 8982744855850291835
+      Sword monkey_7: -6193314776155118521
+      Sword monkey_8: -7919030707155503098
+      Sword monkey_9: -8272630610880395621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

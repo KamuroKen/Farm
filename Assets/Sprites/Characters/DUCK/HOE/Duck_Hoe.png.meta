@@ -1,0 +1,1887 @@
+fileFormatVersion: 2
+guid: 784e6154c3bb4aa4998f0e16e9d310d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7428975253956479120
+    second: Duck_Hoe_0
+  - first:
+      213: 8002939026562000970
+    second: Duck_Hoe_1
+  - first:
+      213: 606579886731688834
+    second: Duck_Hoe_2
+  - first:
+      213: -1356095271413480703
+    second: Duck_Hoe_3
+  - first:
+      213: 8022521621015344329
+    second: Duck_Hoe_4
+  - first:
+      213: 6446292064711959951
+    second: Duck_Hoe_5
+  - first:
+      213: 7308128170936618520
+    second: Duck_Hoe_6
+  - first:
+      213: -266613165427413859
+    second: Duck_Hoe_7
+  - first:
+      213: 5410717269360560312
+    second: Duck_Hoe_8
+  - first:
+      213: -8377914104277279309
+    second: Duck_Hoe_9
+  - first:
+      213: 6540672723024849586
+    second: Duck_Hoe_10
+  - first:
+      213: -8993843464907676208
+    second: Duck_Hoe_11
+  - first:
+      213: -6565181012057152623
+    second: Duck_Hoe_12
+  - first:
+      213: 6596698173012112202
+    second: Duck_Hoe_13
+  - first:
+      213: 262076810748425715
+    second: Duck_Hoe_14
+  - first:
+      213: 3768566216483745193
+    second: Duck_Hoe_15
+  - first:
+      213: -7019480238432576579
+    second: Duck_Hoe_16
+  - first:
+      213: 926525196810335025
+    second: Duck_Hoe_17
+  - first:
+      213: -7743045615901120006
+    second: Duck_Hoe_18
+  - first:
+      213: 5781164839250360912
+    second: Duck_Hoe_19
+  - first:
+      213: 6150015620932767632
+    second: Duck_Hoe_20
+  - first:
+      213: 7645889275573938139
+    second: Duck_Hoe_21
+  - first:
+      213: -8079391259541510797
+    second: Duck_Hoe_22
+  - first:
+      213: -8472219993452111846
+    second: Duck_Hoe_23
+  - first:
+      213: 155580013403637101
+    second: Duck_Hoe_24
+  - first:
+      213: 6856105406204616000
+    second: Duck_Hoe_25
+  - first:
+      213: 990635905209676546
+    second: Duck_Hoe_26
+  - first:
+      213: 1237065086395623111
+    second: Duck_Hoe_27
+  - first:
+      213: -5312478115055030715
+    second: Duck_Hoe_28
+  - first:
+      213: -4946253898870299860
+    second: Duck_Hoe_29
+  - first:
+      213: 6376562144349514574
+    second: Duck_Hoe_30
+  - first:
+      213: -6792768803945401014
+    second: Duck_Hoe_31
+  - first:
+      213: -4619548417122687896
+    second: Duck_Hoe_32
+  - first:
+      213: 4355432575009214610
+    second: Duck_Hoe_33
+  - first:
+      213: 3246969512229932192
+    second: Duck_Hoe_34
+  - first:
+      213: 8104210549946866262
+    second: Duck_Hoe_35
+  - first:
+      213: 4047266767033300209
+    second: Duck_Hoe_36
+  - first:
+      213: -6330785292673395244
+    second: Duck_Hoe_37
+  - first:
+      213: -6195796692466629092
+    second: Duck_Hoe_38
+  - first:
+      213: 6956680849900678539
+    second: Duck_Hoe_39
+  - first:
+      213: 6980738952238425195
+    second: Duck_Hoe_40
+  - first:
+      213: -1811876661057977039
+    second: Duck_Hoe_41
+  - first:
+      213: -1929133430248360238
+    second: Duck_Hoe_42
+  - first:
+      213: -380130547904142062
+    second: Duck_Hoe_43
+  - first:
+      213: -6711934544494744837
+    second: Duck_Hoe_44
+  - first:
+      213: 4458910483853264690
+    second: Duck_Hoe_45
+  - first:
+      213: -4417811364712242206
+    second: Duck_Hoe_46
+  - first:
+      213: -6511534980501200142
+    second: Duck_Hoe_47
+  - first:
+      213: 5270301075464417447
+    second: Duck_Hoe_48
+  - first:
+      213: -7385218711107014378
+    second: Duck_Hoe_49
+  - first:
+      213: 3637828092962992377
+    second: Duck_Hoe_50
+  - first:
+      213: 8803078981622861442
+    second: Duck_Hoe_51
+  - first:
+      213: 5610057636708230638
+    second: Duck_Hoe_52
+  - first:
+      213: -8807545756254057946
+    second: Duck_Hoe_53
+  - first:
+      213: -6288008619075140660
+    second: Duck_Hoe_54
+  - first:
+      213: 5558060750814300216
+    second: Duck_Hoe_55
+  - first:
+      213: 1059209947875737980
+    second: Duck_Hoe_56
+  - first:
+      213: 3589430328113697306
+    second: Duck_Hoe_57
+  - first:
+      213: -4722156682850659931
+    second: Duck_Hoe_58
+  - first:
+      213: 2947073132229443538
+    second: Duck_Hoe_59
+  - first:
+      213: -6761491994893604669
+    second: Duck_Hoe_60
+  - first:
+      213: -5967842161280250918
+    second: Duck_Hoe_61
+  - first:
+      213: -1671905213056593421
+    second: Duck_Hoe_62
+  - first:
+      213: -3727647602446316700
+    second: Duck_Hoe_63
+  - first:
+      213: -3686425864555714783
+    second: Duck_Hoe_64
+  - first:
+      213: 3971089547108100119
+    second: Duck_Hoe_65
+  - first:
+      213: -6163191613476433636
+    second: Duck_Hoe_66
+  - first:
+      213: -5310300422939096877
+    second: Duck_Hoe_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duck_Hoe_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077b1ceed5af6e890800000000000000
+      internalID: -7428975253956479120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 156
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48a65da4a6201f60800000000000000
+      internalID: 8002939026562000970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 146
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bf98471310b6800800000000000000
+      internalID: 606579886731688834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 145
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10300d9198e2e2de0800000000000000
+      internalID: -1356095271413480703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4b28fb8e8b55f60800000000000000
+      internalID: 8022521621015344329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85639b9a74d57950800000000000000
+      internalID: 6446292064711959951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 161
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ec3b1f9dfab6560800000000000000
+      internalID: 7308128170936618520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ca1461dbccc4cf0800000000000000
+      internalID: -266613165427413859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 165
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8ce4470bab61b40800000000000000
+      internalID: 5410717269360560312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd51df928babbb80800000000000000
+      internalID: -8377914104277279309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 165
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baabf7003325ca50800000000000000
+      internalID: 6540672723024849586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5a5b425037f2380800000000000000
+      internalID: -8993843464907676208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193a13247aac3e4a0800000000000000
+      internalID: -6565181012057152623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 159
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43fadc990e2c8b50800000000000000
+      internalID: 6596698173012112202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5f688887513a300800000000000000
+      internalID: 262076810748425715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_15
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 127
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad2d06d103ac4430800000000000000
+      internalID: 3768566216483745193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb1a58f9ebc59e90800000000000000
+      internalID: -7019480238432576579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 122
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133345fe1cdabdc00800000000000000
+      internalID: 926525196810335025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af96198690d2b8490800000000000000
+      internalID: -7743045615901120006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 121
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05afe779ac2da3050800000000000000
+      internalID: 5781164839250360912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f0dc08f9e395550800000000000000
+      internalID: 6150015620932767632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 116
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7ad8659c7ab1a60800000000000000
+      internalID: 7645889275573938139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 110
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375e1a5b47c30ef80800000000000000
+      internalID: -8079391259541510797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 117
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18135fbdc0ac6a80800000000000000
+      internalID: -8472219993452111846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 111
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d650319a23bb82200800000000000000
+      internalID: 155580013403637101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_25
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 117
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d167faa87c52f50800000000000000
+      internalID: 6856105406204616000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_26
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 110
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20335cf6b127fbd00800000000000000
+      internalID: 990635905209676546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 110
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c626ae4420fa2110800000000000000
+      internalID: 1237065086395623111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eab131d494646b0800000000000000
+      internalID: -5312478115055030715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23e1fc09406b5bb0800000000000000
+      internalID: -4946253898870299860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4be72e5c791e7850800000000000000
+      internalID: 6376562144349514574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45ba7f23cc3bb1a0800000000000000
+      internalID: -6792768803945401014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8642fa6a03114efb0800000000000000
+      internalID: -4619548417122687896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290d694d9da917c30800000000000000
+      internalID: 4355432575009214610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_34
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac0df4719d8f0d20800000000000000
+      internalID: 3246969512229932192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_35
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 80
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a5e86ae80f77070800000000000000
+      internalID: 8104210549946866262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_36
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f473486ea7ca2830800000000000000
+      internalID: 4047266767033300209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 75
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d55fe871588428a0800000000000000
+      internalID: -6330785292673395244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c168cf42cbb140aa0800000000000000
+      internalID: -6195796692466629092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_39
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 73
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8da71aff581b8060800000000000000
+      internalID: 6956680849900678539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_40
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 62
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6467ed671190e060800000000000000
+      internalID: 6980738952238425195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 68
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13581d8c6cbead6e0800000000000000
+      internalID: -1811876661057977039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_42
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 63
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d637bdbd575a35e0800000000000000
+      internalID: -1929133430248360238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_43
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 69
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21526ebd74189baf0800000000000000
+      internalID: -380130547904142062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_44
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 69
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfaa7b7d71b6ad2a0800000000000000
+      internalID: -6711934544494744837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_45
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 62
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237c653f57b31ed30800000000000000
+      internalID: 4458910483853264690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3a4a968f7c0b2c0800000000000000
+      internalID: -4417811364712242206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_47
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f222b05f6162a5a0800000000000000
+      internalID: -6511534980501200142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_48
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 62
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a07a66a7eed32940800000000000000
+      internalID: 5270301075464417447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_49
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611f5e7f5be628990800000000000000
+      internalID: -7385218711107014378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 62
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0fef260692c7230800000000000000
+      internalID: 3637828092962992377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_51
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e865d61b1da2a70800000000000000
+      internalID: 8803078981622861442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5267d72bdeadd40800000000000000
+      internalID: 5610057636708230638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_53
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 28
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a4a7f8ccf45c580800000000000000
+      internalID: -8807545756254057946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc38e6be9718cb8a0800000000000000
+      internalID: -6288008619075140660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_55
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 15
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838c3541ec2322d40800000000000000
+      internalID: 5558060750814300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 15
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7181bde5d113be00800000000000000
+      internalID: 1059209947875737980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_57
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a121b35add730d130800000000000000
+      internalID: 3589430328113697306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a113f81487877eb0800000000000000
+      internalID: -4722156682850659931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_59
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 21
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df32a5466b16e820800000000000000
+      internalID: 2947073132229443538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_60
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c828b4cada5a22a0800000000000000
+      internalID: -6761491994893604669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_61
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb8a4d5c27fd2da0800000000000000
+      internalID: -5967842161280250918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f153ad11133cc8e0800000000000000
+      internalID: -1671905213056593421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_63
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bc958614cb44cc0800000000000000
+      internalID: -3727647602446316700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_64
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127285c253f27dcc0800000000000000
+      internalID: -3686425864555714783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_65
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71825a247e42c1730800000000000000
+      internalID: 3971089547108100119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_66
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11121ca1e1f77aa0800000000000000
+      internalID: -6163191613476433636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Hoe_67
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8cb1886e50e46b0800000000000000
+      internalID: -5310300422939096877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Duck_Hoe_0: -7428975253956479120
+      Duck_Hoe_1: 8002939026562000970
+      Duck_Hoe_10: 6540672723024849586
+      Duck_Hoe_11: -8993843464907676208
+      Duck_Hoe_12: -6565181012057152623
+      Duck_Hoe_13: 6596698173012112202
+      Duck_Hoe_14: 262076810748425715
+      Duck_Hoe_15: 3768566216483745193
+      Duck_Hoe_16: -7019480238432576579
+      Duck_Hoe_17: 926525196810335025
+      Duck_Hoe_18: -7743045615901120006
+      Duck_Hoe_19: 5781164839250360912
+      Duck_Hoe_2: 606579886731688834
+      Duck_Hoe_20: 6150015620932767632
+      Duck_Hoe_21: 7645889275573938139
+      Duck_Hoe_22: -8079391259541510797
+      Duck_Hoe_23: -8472219993452111846
+      Duck_Hoe_24: 155580013403637101
+      Duck_Hoe_25: 6856105406204616000
+      Duck_Hoe_26: 990635905209676546
+      Duck_Hoe_27: 1237065086395623111
+      Duck_Hoe_28: -5312478115055030715
+      Duck_Hoe_29: -4946253898870299860
+      Duck_Hoe_3: -1356095271413480703
+      Duck_Hoe_30: 6376562144349514574
+      Duck_Hoe_31: -6792768803945401014
+      Duck_Hoe_32: -4619548417122687896
+      Duck_Hoe_33: 4355432575009214610
+      Duck_Hoe_34: 3246969512229932192
+      Duck_Hoe_35: 8104210549946866262
+      Duck_Hoe_36: 4047266767033300209
+      Duck_Hoe_37: -6330785292673395244
+      Duck_Hoe_38: -6195796692466629092
+      Duck_Hoe_39: 6956680849900678539
+      Duck_Hoe_4: 8022521621015344329
+      Duck_Hoe_40: 6980738952238425195
+      Duck_Hoe_41: -1811876661057977039
+      Duck_Hoe_42: -1929133430248360238
+      Duck_Hoe_43: -380130547904142062
+      Duck_Hoe_44: -6711934544494744837
+      Duck_Hoe_45: 4458910483853264690
+      Duck_Hoe_46: -4417811364712242206
+      Duck_Hoe_47: -6511534980501200142
+      Duck_Hoe_48: 5270301075464417447
+      Duck_Hoe_49: -7385218711107014378
+      Duck_Hoe_5: 6446292064711959951
+      Duck_Hoe_50: 3637828092962992377
+      Duck_Hoe_51: 8803078981622861442
+      Duck_Hoe_52: 5610057636708230638
+      Duck_Hoe_53: -8807545756254057946
+      Duck_Hoe_54: -6288008619075140660
+      Duck_Hoe_55: 5558060750814300216
+      Duck_Hoe_56: 1059209947875737980
+      Duck_Hoe_57: 3589430328113697306
+      Duck_Hoe_58: -4722156682850659931
+      Duck_Hoe_59: 2947073132229443538
+      Duck_Hoe_6: 7308128170936618520
+      Duck_Hoe_60: -6761491994893604669
+      Duck_Hoe_61: -5967842161280250918
+      Duck_Hoe_62: -1671905213056593421
+      Duck_Hoe_63: -3727647602446316700
+      Duck_Hoe_64: -3686425864555714783
+      Duck_Hoe_65: 3971089547108100119
+      Duck_Hoe_66: -6163191613476433636
+      Duck_Hoe_67: -5310300422939096877
+      Duck_Hoe_7: -266613165427413859
+      Duck_Hoe_8: 5410717269360560312
+      Duck_Hoe_9: -8377914104277279309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: d36a2a1395d6b1142b6813ec999cbfe7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7237935853962256476
+    second: MallardDuckling_Peck_0
+  - first:
+      213: -1655758020133981393
+    second: MallardDuckling_Peck_1
+  - first:
+      213: 5049955904536145262
+    second: MallardDuckling_Peck_2
+  - first:
+      213: 1041471539648851566
+    second: MallardDuckling_Peck_3
+  - first:
+      213: -7834440585927667608
+    second: MallardDuckling_Peck_4
+  - first:
+      213: 2479053025073814818
+    second: MallardDuckling_Peck_5
+  - first:
+      213: -7196042102353228418
+    second: MallardDuckling_Peck_6
+  - first:
+      213: 4249846770169274589
+    second: MallardDuckling_Peck_7
+  - first:
+      213: -7019955997480593602
+    second: MallardDuckling_Peck_8
+  - first:
+      213: -6622389590292875669
+    second: MallardDuckling_Peck_9
+  - first:
+      213: -3014274612988295615
+    second: MallardDuckling_Peck_10
+  - first:
+      213: 1444058790876751657
+    second: MallardDuckling_Peck_11
+  - first:
+      213: 2073156202423547983
+    second: MallardDuckling_Peck_12
+  - first:
+      213: -8970481789091466344
+    second: MallardDuckling_Peck_13
+  - first:
+      213: -8546428053912920879
+    second: MallardDuckling_Peck_14
+  - first:
+      213: 5811023170760873136
+    second: MallardDuckling_Peck_15
+  - first:
+      213: 8846833287462165602
+    second: MallardDuckling_Peck_16
+  - first:
+      213: 7823889794301953685
+    second: MallardDuckling_Peck_17
+  - first:
+      213: -6365052737432612196
+    second: MallardDuckling_Peck_18
+  - first:
+      213: 1623634280917797136
+    second: MallardDuckling_Peck_19
+  - first:
+      213: 5148515210448733641
+    second: MallardDuckling_Peck_20
+  - first:
+      213: 7416833713506699667
+    second: MallardDuckling_Peck_21
+  - first:
+      213: 8583670601039876860
+    second: MallardDuckling_Peck_22
+  - first:
+      213: -8201696951430654095
+    second: MallardDuckling_Peck_23
+  - first:
+      213: -2147831864628064795
+    second: MallardDuckling_Peck_24
+  - first:
+      213: 4337508227505670369
+    second: MallardDuckling_Peck_25
+  - first:
+      213: 7966802343556777449
+    second: MallardDuckling_Peck_26
+  - first:
+      213: 3576886769394975310
+    second: MallardDuckling_Peck_27
+  - first:
+      213: -681547640706600702
+    second: MallardDuckling_Peck_28
+  - first:
+      213: 2832458815292321962
+    second: MallardDuckling_Peck_29
+  - first:
+      213: -5590629197732532593
+    second: MallardDuckling_Peck_30
+  - first:
+      213: 810412995715676700
+    second: MallardDuckling_Peck_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af148560bfad8b90800000000000000
+      internalID: -7237935853962256476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23f8ef6ad09509e0800000000000000
+      internalID: -1655758020133981393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 159
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d634da32c051640800000000000000
+      internalID: 5049955904536145262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ee27ce8dc047e00800000000000000
+      internalID: 1041471539648851566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 159
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860d0e5bbc9764390800000000000000
+      internalID: -7834440585927667608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22dd1ea779d576220800000000000000
+      internalID: 2479053025073814818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 159
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d0b7c85d5822c90800000000000000
+      internalID: -7196042102353228418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0e7cdee1d7afa30800000000000000
+      internalID: 4249846770169274589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37db4fa63b149e90800000000000000
+      internalID: -7019955997480593602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66395a21cb8814a0800000000000000
+      internalID: -6622389590292875669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146ca55b5352b26d0800000000000000
+      internalID: -3014274612988295615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_11
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9272df0c1d35a0410800000000000000
+      internalID: 1444058790876751657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 110
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f487a51059455cc10800000000000000
+      internalID: 2073156202423547983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_13
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 110
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893b7192752728380800000000000000
+      internalID: -8970481789091466344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 111
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc561447fcf46980800000000000000
+      internalID: -8546428053912920879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b414c229c6e4a050800000000000000
+      internalID: 5811023170760873136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c984e900446ca70800000000000000
+      internalID: 8846833287462165602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5960c2fa05a049c60800000000000000
+      internalID: 7823889794301953685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9293b0424acaa7a0800000000000000
+      internalID: -6365052737432612196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_19
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 63
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019804fa6ce488610800000000000000
+      internalID: 1623634280917797136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 62
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c50e7f4e43337740800000000000000
+      internalID: 5148515210448733641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 62
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39945b367f2ede660800000000000000
+      internalID: 7416833713506699667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_22
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 63
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf212f3fee25f1770800000000000000
+      internalID: 8583670601039876860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 63
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177529eb318bd2e80800000000000000
+      internalID: -8201696951430654095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed449f7c4e5132e0800000000000000
+      internalID: -2147831864628064795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 14
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e84fc670cce13c30800000000000000
+      internalID: 4337508227505670369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_26
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 14
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e583738584cf8e60800000000000000
+      internalID: 7966802343556777449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 15
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42059bc097a3a130800000000000000
+      internalID: 3576886769394975310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 12
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017d222808aa86f0800000000000000
+      internalID: -681547640706600702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 13
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa03c66194aee4720800000000000000
+      internalID: 2832458815292321962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 15
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ea9367d581a62b0800000000000000
+      internalID: -5590629197732532593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MallardDuckling_Peck_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 15
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a3efa635a2f3b00800000000000000
+      internalID: 810412995715676700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MallardDuckling_Peck_0: -7237935853962256476
+      MallardDuckling_Peck_1: -1655758020133981393
+      MallardDuckling_Peck_10: -3014274612988295615
+      MallardDuckling_Peck_11: 1444058790876751657
+      MallardDuckling_Peck_12: 2073156202423547983
+      MallardDuckling_Peck_13: -8970481789091466344
+      MallardDuckling_Peck_14: -8546428053912920879
+      MallardDuckling_Peck_15: 5811023170760873136
+      MallardDuckling_Peck_16: 8846833287462165602
+      MallardDuckling_Peck_17: 7823889794301953685
+      MallardDuckling_Peck_18: -6365052737432612196
+      MallardDuckling_Peck_19: 1623634280917797136
+      MallardDuckling_Peck_2: 5049955904536145262
+      MallardDuckling_Peck_20: 5148515210448733641
+      MallardDuckling_Peck_21: 7416833713506699667
+      MallardDuckling_Peck_22: 8583670601039876860
+      MallardDuckling_Peck_23: -8201696951430654095
+      MallardDuckling_Peck_24: -2147831864628064795
+      MallardDuckling_Peck_25: 4337508227505670369
+      MallardDuckling_Peck_26: 7966802343556777449
+      MallardDuckling_Peck_27: 3576886769394975310
+      MallardDuckling_Peck_28: -681547640706600702
+      MallardDuckling_Peck_29: 2832458815292321962
+      MallardDuckling_Peck_3: 1041471539648851566
+      MallardDuckling_Peck_30: -5590629197732532593
+      MallardDuckling_Peck_31: 810412995715676700
+      MallardDuckling_Peck_4: -7834440585927667608
+      MallardDuckling_Peck_5: 2479053025073814818
+      MallardDuckling_Peck_6: -7196042102353228418
+      MallardDuckling_Peck_7: 4249846770169274589
+      MallardDuckling_Peck_8: -7019955997480593602
+      MallardDuckling_Peck_9: -6622389590292875669
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

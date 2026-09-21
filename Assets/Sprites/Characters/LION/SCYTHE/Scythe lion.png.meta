@@ -1,0 +1,2121 @@
+fileFormatVersion: 2
+guid: b31da44b6eebde546a64f315745dfe7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5911036175962471981
+    second: Scythe lion_0
+  - first:
+      213: 4911741167122393644
+    second: Scythe lion_1
+  - first:
+      213: -706918102470953316
+    second: Scythe lion_2
+  - first:
+      213: -7890364580263480452
+    second: Scythe lion_3
+  - first:
+      213: -343426477530992493
+    second: Scythe lion_4
+  - first:
+      213: 5012584442926340983
+    second: Scythe lion_5
+  - first:
+      213: 4139666503554319206
+    second: Scythe lion_6
+  - first:
+      213: -3828682131588146933
+    second: Scythe lion_7
+  - first:
+      213: -8167611303191392817
+    second: Scythe lion_8
+  - first:
+      213: 4711444800703163260
+    second: Scythe lion_9
+  - first:
+      213: -3934079001753731328
+    second: Scythe lion_10
+  - first:
+      213: -8831579869699985258
+    second: Scythe lion_11
+  - first:
+      213: -8127291872306638209
+    second: Scythe lion_12
+  - first:
+      213: -5270292984727040717
+    second: Scythe lion_13
+  - first:
+      213: 8034427081478316815
+    second: Scythe lion_14
+  - first:
+      213: -7040688829502558265
+    second: Scythe lion_15
+  - first:
+      213: -8653133557556037618
+    second: Scythe lion_16
+  - first:
+      213: -6018621815663418023
+    second: Scythe lion_17
+  - first:
+      213: -7581669860398933384
+    second: Scythe lion_18
+  - first:
+      213: 5117594076569773054
+    second: Scythe lion_19
+  - first:
+      213: -3554446385854512508
+    second: Scythe lion_20
+  - first:
+      213: 3464200053390504570
+    second: Scythe lion_21
+  - first:
+      213: 5115259379654280858
+    second: Scythe lion_22
+  - first:
+      213: -3188323650414375122
+    second: Scythe lion_23
+  - first:
+      213: 4820308721311497416
+    second: Scythe lion_24
+  - first:
+      213: -6978546969004833296
+    second: Scythe lion_25
+  - first:
+      213: -1021101836802804322
+    second: Scythe lion_26
+  - first:
+      213: -7277021701662793623
+    second: Scythe lion_27
+  - first:
+      213: -794807154201506879
+    second: Scythe lion_28
+  - first:
+      213: -3355770144288632994
+    second: Scythe lion_29
+  - first:
+      213: 3649166544410081080
+    second: Scythe lion_30
+  - first:
+      213: 5772036916217898
+    second: Scythe lion_31
+  - first:
+      213: -1807504957423467485
+    second: Scythe lion_32
+  - first:
+      213: -5144339662350535488
+    second: Scythe lion_33
+  - first:
+      213: -895228432342082134
+    second: Scythe lion_34
+  - first:
+      213: 4558426588694701936
+    second: Scythe lion_35
+  - first:
+      213: 4409069594163642229
+    second: Scythe lion_36
+  - first:
+      213: -6642357170731457296
+    second: Scythe lion_37
+  - first:
+      213: -7733598564694828240
+    second: Scythe lion_38
+  - first:
+      213: -9216970887848289368
+    second: Scythe lion_39
+  - first:
+      213: -6315594115450751224
+    second: Scythe lion_40
+  - first:
+      213: 6946360865309465017
+    second: Scythe lion_41
+  - first:
+      213: 8197555069311691925
+    second: Scythe lion_42
+  - first:
+      213: -3127662555620454492
+    second: Scythe lion_43
+  - first:
+      213: -4944423477254428448
+    second: Scythe lion_44
+  - first:
+      213: 275988888622927516
+    second: Scythe lion_45
+  - first:
+      213: 4845296418959137081
+    second: Scythe lion_46
+  - first:
+      213: -5956077327594884536
+    second: Scythe lion_47
+  - first:
+      213: -5474496218260204614
+    second: Scythe lion_48
+  - first:
+      213: 7816815238818501702
+    second: Scythe lion_49
+  - first:
+      213: 4944798446506273573
+    second: Scythe lion_50
+  - first:
+      213: 7339269624134166600
+    second: Scythe lion_51
+  - first:
+      213: -3724411464102202756
+    second: Scythe lion_52
+  - first:
+      213: -1858075662601238130
+    second: Scythe lion_53
+  - first:
+      213: 7451673067920431957
+    second: Scythe lion_54
+  - first:
+      213: 6942530597844390234
+    second: Scythe lion_55
+  - first:
+      213: 9204406006372796140
+    second: Scythe lion_56
+  - first:
+      213: -2906450009282817558
+    second: Scythe lion_57
+  - first:
+      213: 4783926128588078165
+    second: Scythe lion_58
+  - first:
+      213: 9102869232273410647
+    second: Scythe lion_59
+  - first:
+      213: 8870336546542172358
+    second: Scythe lion_60
+  - first:
+      213: -1569201923139823876
+    second: Scythe lion_61
+  - first:
+      213: -7906582548302113323
+    second: Scythe lion_62
+  - first:
+      213: -3631724191313672951
+    second: Scythe lion_63
+  - first:
+      213: 5799685754162802297
+    second: Scythe lion_64
+  - first:
+      213: 6922579614904578281
+    second: Scythe lion_65
+  - first:
+      213: -3765832858808653592
+    second: Scythe lion_66
+  - first:
+      213: -788655107776890453
+    second: Scythe lion_67
+  - first:
+      213: -1812788122352925046
+    second: Scythe lion_68
+  - first:
+      213: 4167066806461990760
+    second: Scythe lion_69
+  - first:
+      213: 3764556941639712622
+    second: Scythe lion_70
+  - first:
+      213: -8130902115095083600
+    second: Scythe lion_71
+  - first:
+      213: -3933765642781366181
+    second: Scythe lion_72
+  - first:
+      213: 8689145137471858251
+    second: Scythe lion_73
+  - first:
+      213: -1283335875440449200
+    second: Scythe lion_74
+  - first:
+      213: 4006090856979877039
+    second: Scythe lion_75
+  - first:
+      213: -7741534441630337717
+    second: Scythe lion_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scythe lion_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ef9b28518380250800000000000000
+      internalID: 5911036175962471981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a2ef661920a2440800000000000000
+      internalID: 4911741167122393644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96fce03bb58036f0800000000000000
+      internalID: -706918102470953316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 158
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73321d183bcf7290800000000000000
+      internalID: -7890364580263480452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 170
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3903d403077eb3bf0800000000000000
+      internalID: -343426477530992493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 158
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b16473ef6409540800000000000000
+      internalID: 5012584442926340983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 170
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66340f880cc037930800000000000000
+      internalID: 4139666503554319206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 157
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b099dc4f2e9cddac0800000000000000
+      internalID: -3828682131588146933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdcfc92bc0d6ae80800000000000000
+      internalID: -8167611303191392817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 157
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7be5cc751a626140800000000000000
+      internalID: 4711444800703163260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f3526ddf75769c0800000000000000
+      internalID: -3934079001753731328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 158
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690ba0576ecef6580800000000000000
+      internalID: -8831579869699985258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f725e353a1f063f80800000000000000
+      internalID: -8127291872306638209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_13
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 158
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d8c1f14782cd6b0800000000000000
+      internalID: -5270292984727040717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 151
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f032b45ccd4008f60800000000000000
+      internalID: 8034427081478316815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf607f00d27a4e90800000000000000
+      internalID: -7040688829502558265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e083cdb20e4e9e780800000000000000
+      internalID: -8653133557556037618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95527ffb85f897ca0800000000000000
+      internalID: -6018621815663418023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_18
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad2ae6e6f78c690800000000000000
+      internalID: -7581669860398933384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3a59ec2b8550740800000000000000
+      internalID: 5117594076569773054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_20
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48288f528d11caec0800000000000000
+      internalID: -3554446385854512508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72fa3d289f431030800000000000000
+      internalID: 3464200053390504570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a964742dd4d0df640800000000000000
+      internalID: 5115259379654280858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 106
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f031c488cc0c3d0800000000000000
+      internalID: -3188323650414375122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 110
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc3d713e3d25e240800000000000000
+      internalID: 4820308721311497416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f586107188372f90800000000000000
+      internalID: -6978546969004833296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 114
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95bed91a4154d1f0800000000000000
+      internalID: -1021101836802804322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960a4915153d20b90800000000000000
+      internalID: -7277021701662793623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 125
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb41e4ba1748f4f0800000000000000
+      internalID: -794807154201506879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_29
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f80d955d8ed61d0800000000000000
+      internalID: -3355770144288632994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8377dc553a174a230800000000000000
+      internalID: 3649166544410081080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28850213a1841000800000000000000
+      internalID: 5772036916217898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_32
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324440b51d37ae6e0800000000000000
+      internalID: -1807504957423467485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_33
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 111
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4b4ad3552ab98b0800000000000000
+      internalID: -5144339662350535488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_34
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad9b61eb728393f0800000000000000
+      internalID: -895228432342082134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_35
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077e7d1b4d8c24f30800000000000000
+      internalID: 4558426588694701936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_36
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 97
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f79168f69203d30800000000000000
+      internalID: 4409069594163642229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4684f885b91d3a0800000000000000
+      internalID: -6642357170731457296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_38
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bd4eb641dbca490800000000000000
+      internalID: -7733598564694828240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab9fa4afcdb61080800000000000000
+      internalID: -9216970887848289368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_40
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807b20b0d908a58a0800000000000000
+      internalID: -6315594115450751224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b91272576e666060800000000000000
+      internalID: 6946360865309465017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ca60d27e093c170800000000000000
+      internalID: 8197555069311691925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afc3fa0a7f4894d0800000000000000
+      internalID: -3127662555620454492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_44
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8e52b4b01e16bb0800000000000000
+      internalID: -4944423477254428448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e03549e6284d300800000000000000
+      internalID: 275988888622927516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_46
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939188beb63fd3340800000000000000
+      internalID: 4845296418959137081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842f2f92a33c75da0800000000000000
+      internalID: -5956077327594884536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_48
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab39162d1bea604b0800000000000000
+      internalID: -5474496218260204614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64413a06b08ea7c60800000000000000
+      internalID: 7816815238818501702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52be8e90df37f9440800000000000000
+      internalID: 4944798446506273573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848e45986d25ad560800000000000000
+      internalID: 7339269624134166600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_52
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 52
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72bbc4918b305cc0800000000000000
+      internalID: -3724411464102202756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_53
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89cad4870ac636e0800000000000000
+      internalID: -1858075662601238130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_54
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b1eb3bc29a96760800000000000000
+      internalID: 7451673067920431957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_55
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a519bceabc2d85060800000000000000
+      internalID: 6942530597844390234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6825aee7e9cbf70800000000000000
+      internalID: 9204406006372796140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae154479d173aa7d0800000000000000
+      internalID: -2906450009282817558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 22
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cb336b77be36240800000000000000
+      internalID: 4783926128588078165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a4d727653e35e70800000000000000
+      internalID: 9102869232273410647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8bfce8714c91b70800000000000000
+      internalID: 8870336546542172358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_61
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf614663a23193ae0800000000000000
+      internalID: -1569201923139823876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5562d201d264290800000000000000
+      internalID: -7906582548302113323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9054e86f616899dc0800000000000000
+      internalID: -3631724191313672951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_64
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e64c1277f9c7050800000000000000
+      internalID: 5799685754162802297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e07fbb7b71f11060800000000000000
+      internalID: 6922579614904578281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_66
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 14
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8673797f21dbbc0800000000000000
+      internalID: -3765832858808653592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 14
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba939a2ab522e05f0800000000000000
+      internalID: -788655107776890453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a864b1aaecea7d6e0800000000000000
+      internalID: -1812788122352925046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8670d72be2564d930800000000000000
+      internalID: 4167066806461990760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_70
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f7a2bc7946e3430800000000000000
+      internalID: 3764556941639712622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_71
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5094e0b9b392f80800000000000000
+      internalID: -8130902115095083600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_72
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5861686df47869c0800000000000000
+      internalID: -3933765642781366181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_73
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 9
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46a2d8277b069870800000000000000
+      internalID: 8689145137471858251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_74
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0596bd812dca03ee0800000000000000
+      internalID: -1283335875440449200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_75
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facc934c86e789730800000000000000
+      internalID: 4006090856979877039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe lion_76
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45fb26117b809490800000000000000
+      internalID: -7741534441630337717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Scythe lion_0: 5911036175962471981
+      Scythe lion_1: 4911741167122393644
+      Scythe lion_10: -3934079001753731328
+      Scythe lion_11: -8831579869699985258
+      Scythe lion_12: -8127291872306638209
+      Scythe lion_13: -5270292984727040717
+      Scythe lion_14: 8034427081478316815
+      Scythe lion_15: -7040688829502558265
+      Scythe lion_16: -8653133557556037618
+      Scythe lion_17: -6018621815663418023
+      Scythe lion_18: -7581669860398933384
+      Scythe lion_19: 5117594076569773054
+      Scythe lion_2: -706918102470953316
+      Scythe lion_20: -3554446385854512508
+      Scythe lion_21: 3464200053390504570
+      Scythe lion_22: 5115259379654280858
+      Scythe lion_23: -3188323650414375122
+      Scythe lion_24: 4820308721311497416
+      Scythe lion_25: -6978546969004833296
+      Scythe lion_26: -1021101836802804322
+      Scythe lion_27: -7277021701662793623
+      Scythe lion_28: -794807154201506879
+      Scythe lion_29: -3355770144288632994
+      Scythe lion_3: -7890364580263480452
+      Scythe lion_30: 3649166544410081080
+      Scythe lion_31: 5772036916217898
+      Scythe lion_32: -1807504957423467485
+      Scythe lion_33: -5144339662350535488
+      Scythe lion_34: -895228432342082134
+      Scythe lion_35: 4558426588694701936
+      Scythe lion_36: 4409069594163642229
+      Scythe lion_37: -6642357170731457296
+      Scythe lion_38: -7733598564694828240
+      Scythe lion_39: -9216970887848289368
+      Scythe lion_4: -343426477530992493
+      Scythe lion_40: -6315594115450751224
+      Scythe lion_41: 6946360865309465017
+      Scythe lion_42: 8197555069311691925
+      Scythe lion_43: -3127662555620454492
+      Scythe lion_44: -4944423477254428448
+      Scythe lion_45: 275988888622927516
+      Scythe lion_46: 4845296418959137081
+      Scythe lion_47: -5956077327594884536
+      Scythe lion_48: -5474496218260204614
+      Scythe lion_49: 7816815238818501702
+      Scythe lion_5: 5012584442926340983
+      Scythe lion_50: 4944798446506273573
+      Scythe lion_51: 7339269624134166600
+      Scythe lion_52: -3724411464102202756
+      Scythe lion_53: -1858075662601238130
+      Scythe lion_54: 7451673067920431957
+      Scythe lion_55: 6942530597844390234
+      Scythe lion_56: 9204406006372796140
+      Scythe lion_57: -2906450009282817558
+      Scythe lion_58: 4783926128588078165
+      Scythe lion_59: 9102869232273410647
+      Scythe lion_6: 4139666503554319206
+      Scythe lion_60: 8870336546542172358
+      Scythe lion_61: -1569201923139823876
+      Scythe lion_62: -7906582548302113323
+      Scythe lion_63: -3631724191313672951
+      Scythe lion_64: 5799685754162802297
+      Scythe lion_65: 6922579614904578281
+      Scythe lion_66: -3765832858808653592
+      Scythe lion_67: -788655107776890453
+      Scythe lion_68: -1812788122352925046
+      Scythe lion_69: 4167066806461990760
+      Scythe lion_7: -3828682131588146933
+      Scythe lion_70: 3764556941639712622
+      Scythe lion_71: -8130902115095083600
+      Scythe lion_72: -3933765642781366181
+      Scythe lion_73: 8689145137471858251
+      Scythe lion_74: -1283335875440449200
+      Scythe lion_75: 4006090856979877039
+      Scythe lion_76: -7741534441630337717
+      Scythe lion_8: -8167611303191392817
+      Scythe lion_9: 4711444800703163260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

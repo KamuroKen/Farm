@@ -1,0 +1,2303 @@
+fileFormatVersion: 2
+guid: 7fe1bb3d72402d54788070345adf450d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7537047332711779194
+    second: Base_Scythe_0
+  - first:
+      213: -4684900885582957213
+    second: Base_Scythe_1
+  - first:
+      213: -3336125381513873744
+    second: Base_Scythe_2
+  - first:
+      213: 7821464393413386889
+    second: Base_Scythe_3
+  - first:
+      213: -5840257877493883511
+    second: Base_Scythe_4
+  - first:
+      213: 8151838633874618635
+    second: Base_Scythe_5
+  - first:
+      213: 1960712641001506804
+    second: Base_Scythe_6
+  - first:
+      213: -6977581724958388587
+    second: Base_Scythe_7
+  - first:
+      213: -2359034020865379573
+    second: Base_Scythe_8
+  - first:
+      213: 4024512946349441072
+    second: Base_Scythe_9
+  - first:
+      213: 7430124358708072702
+    second: Base_Scythe_10
+  - first:
+      213: 5214950676944073440
+    second: Base_Scythe_11
+  - first:
+      213: 2370753259543970116
+    second: Base_Scythe_12
+  - first:
+      213: -3116852672009703268
+    second: Base_Scythe_13
+  - first:
+      213: 4517908795154404018
+    second: Base_Scythe_14
+  - first:
+      213: -8321485164893565470
+    second: Base_Scythe_15
+  - first:
+      213: -5767147378402781764
+    second: Base_Scythe_16
+  - first:
+      213: 4915130888878379527
+    second: Base_Scythe_17
+  - first:
+      213: -5979118115474881730
+    second: Base_Scythe_18
+  - first:
+      213: -2551067118401327301
+    second: Base_Scythe_19
+  - first:
+      213: -7622986776019199615
+    second: Base_Scythe_20
+  - first:
+      213: 4187088270341353693
+    second: Base_Scythe_21
+  - first:
+      213: 8541255553433411347
+    second: Base_Scythe_22
+  - first:
+      213: -1611300817635576625
+    second: Base_Scythe_23
+  - first:
+      213: 1601589798876906807
+    second: Base_Scythe_24
+  - first:
+      213: -7666861234779649470
+    second: Base_Scythe_25
+  - first:
+      213: 6404176693333917805
+    second: Base_Scythe_26
+  - first:
+      213: -1353924321499426748
+    second: Base_Scythe_27
+  - first:
+      213: 8918158095840523689
+    second: Base_Scythe_28
+  - first:
+      213: 3581436019170710233
+    second: Base_Scythe_29
+  - first:
+      213: 64933396771619251
+    second: Base_Scythe_30
+  - first:
+      213: -6205486263782889079
+    second: Base_Scythe_31
+  - first:
+      213: 3049150060994942488
+    second: Base_Scythe_32
+  - first:
+      213: -7753093462432308955
+    second: Base_Scythe_33
+  - first:
+      213: -1603822088227821717
+    second: Base_Scythe_34
+  - first:
+      213: 2463253222259110721
+    second: Base_Scythe_35
+  - first:
+      213: 2349006290589972838
+    second: Base_Scythe_36
+  - first:
+      213: -7123770989399779964
+    second: Base_Scythe_37
+  - first:
+      213: -647626516983136665
+    second: Base_Scythe_38
+  - first:
+      213: -9158447243744176787
+    second: Base_Scythe_39
+  - first:
+      213: -1018697301269530859
+    second: Base_Scythe_40
+  - first:
+      213: -8964119654079194920
+    second: Base_Scythe_41
+  - first:
+      213: -7405243777479628959
+    second: Base_Scythe_42
+  - first:
+      213: 123582276093848978
+    second: Base_Scythe_43
+  - first:
+      213: 8453663910164963585
+    second: Base_Scythe_44
+  - first:
+      213: 2154602143840515710
+    second: Base_Scythe_45
+  - first:
+      213: 9215752635839037328
+    second: Base_Scythe_46
+  - first:
+      213: 190288060851466523
+    second: Base_Scythe_47
+  - first:
+      213: 8801980576045553691
+    second: Base_Scythe_48
+  - first:
+      213: 716414913754090443
+    second: Base_Scythe_49
+  - first:
+      213: -4996476647319544731
+    second: Base_Scythe_50
+  - first:
+      213: 7409700045561382738
+    second: Base_Scythe_51
+  - first:
+      213: 1873674795833101334
+    second: Base_Scythe_52
+  - first:
+      213: -4848253965868529478
+    second: Base_Scythe_53
+  - first:
+      213: 352370250023135663
+    second: Base_Scythe_54
+  - first:
+      213: -6571866661326439437
+    second: Base_Scythe_55
+  - first:
+      213: -5084808956932430525
+    second: Base_Scythe_56
+  - first:
+      213: -5656164563060773130
+    second: Base_Scythe_57
+  - first:
+      213: 4469600165538165617
+    second: Base_Scythe_58
+  - first:
+      213: 4315407706389356727
+    second: Base_Scythe_59
+  - first:
+      213: 6560355090798723406
+    second: Base_Scythe_60
+  - first:
+      213: -7803703880150676306
+    second: Base_Scythe_61
+  - first:
+      213: 6030505110240664094
+    second: Base_Scythe_62
+  - first:
+      213: -1525323415297553107
+    second: Base_Scythe_63
+  - first:
+      213: -8370458003543458536
+    second: Base_Scythe_64
+  - first:
+      213: -5623110190483049108
+    second: Base_Scythe_65
+  - first:
+      213: -6212658801242883892
+    second: Base_Scythe_66
+  - first:
+      213: 2887509561695238087
+    second: Base_Scythe_67
+  - first:
+      213: -1923726367303484719
+    second: Base_Scythe_68
+  - first:
+      213: -8609028269529199293
+    second: Base_Scythe_69
+  - first:
+      213: 6964294727704423212
+    second: Base_Scythe_70
+  - first:
+      213: -5546996209608305865
+    second: Base_Scythe_71
+  - first:
+      213: 2733699865909352977
+    second: Base_Scythe_72
+  - first:
+      213: -8002617533290036041
+    second: Base_Scythe_73
+  - first:
+      213: 7234633934023029424
+    second: Base_Scythe_74
+  - first:
+      213: 7006520390052117429
+    second: Base_Scythe_75
+  - first:
+      213: 4971048654303847828
+    second: Base_Scythe_76
+  - first:
+      213: -8254920161076997142
+    second: Base_Scythe_77
+  - first:
+      213: 3948656410839716623
+    second: Base_Scythe_78
+  - first:
+      213: 5872467427831258715
+    second: Base_Scythe_79
+  - first:
+      213: 9057517382985040427
+    second: Base_Scythe_80
+  - first:
+      213: -5873708272332588791
+    second: Base_Scythe_81
+  - first:
+      213: 3352000548498669699
+    second: Base_Scythe_82
+  - first:
+      213: 8976529953007988659
+    second: Base_Scythe_83
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base_Scythe_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684b8664267076790800000000000000
+      internalID: -7537047332711779194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 159
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3653aea5773ebfeb0800000000000000
+      internalID: -4684900885582957213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b673bc14a3b3b1d0800000000000000
+      internalID: -3336125381513873744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98265c80d6c6b8c60800000000000000
+      internalID: 7821464393413386889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 158
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ddc47476c33fea0800000000000000
+      internalID: -5840257877493883511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 170
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09f6661c06212170800000000000000
+      internalID: 8151838633874618635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 158
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7438932c9d53b10800000000000000
+      internalID: 1960712641001506804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 170
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e0994d366aa2f90800000000000000
+      internalID: -6977581724958388587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 158
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03f1458e07034fd0800000000000000
+      internalID: -2359034020865379573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0308e11b331f9d730800000000000000
+      internalID: 4024512946349441072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 158
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef095cddcba1d1760800000000000000
+      internalID: 7430124358708072702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e23f6cb20a3f5840800000000000000
+      internalID: 5214950676944073440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 158
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441c73d578b96e020800000000000000
+      internalID: 2370753259543970116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9072a33207beb4d0800000000000000
+      internalID: -3116852672009703268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 158
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b29acebc16d2be30800000000000000
+      internalID: 4517908795154404018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 151
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed06d6e455248c80800000000000000
+      internalID: -8321485164893565470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb51af6d30af6ffa0800000000000000
+      internalID: -5767147378402781764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7025520808d063440800000000000000
+      internalID: 4915130888878379527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e334401b0c7e50da0800000000000000
+      internalID: -5979118115474881730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f6281d8f9c89cd0800000000000000
+      internalID: -2551067118401327301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18910ef5ae5b53690800000000000000
+      internalID: -7622986776019199615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_21
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b6e409968b1a30800000000000000
+      internalID: 4187088270341353693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f1b3e1ca2a88670800000000000000
+      internalID: 8541255553433411347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4f882817283a9e0800000000000000
+      internalID: -1611300817635576625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73582fdbf6df93610800000000000000
+      internalID: 1601589798876906807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a0fb6e356d99590800000000000000
+      internalID: -7666861234779649470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60010595c430e850800000000000000
+      internalID: 6404176693333917805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440d344c005e53de0800000000000000
+      internalID: -1353924321499426748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 114
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a53959a989a3cb70800000000000000
+      internalID: 8918158095840523689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2957c8511d3b130800000000000000
+      internalID: 3581436019170710233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 125
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1c1a09490b6e000800000000000000
+      internalID: 64933396771619251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989a7a40f1fa1e9a0800000000000000
+      internalID: -6205486263782889079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816d67c43d1c05a20800000000000000
+      internalID: 3049150060994942488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 111
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521a155d29a776490800000000000000
+      internalID: -7753093462432308955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b676144ee441eb9e0800000000000000
+      internalID: -1603822088227821717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143379831cb3f2220800000000000000
+      internalID: 2463253222259110721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669f5c596c8599020800000000000000
+      internalID: 2349006290589972838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 106
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485d79b4708432d90800000000000000
+      internalID: -7123770989399779964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 110
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb8143d1b2307f0800000000000000
+      internalID: -647626516983136665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65197e51c8a6e080800000000000000
+      internalID: -9158447243744176787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5173e28a33cdcd1f0800000000000000
+      internalID: -1018697301269530859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d813862bac099380800000000000000
+      internalID: -8964119654079194920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_42
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167a720e40a4b3990800000000000000
+      internalID: -7405243777479628959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_43
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29dab13ec6d07b100800000000000000
+      internalID: 123582276093848978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1012cef6982715570800000000000000
+      internalID: 8453663910164963585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 97
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76b8e7fb3fa6ed10800000000000000
+      internalID: 2154602143840515710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f3e05f13ee4ef70800000000000000
+      internalID: 9215752635839037328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_47
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11bc00bbf904a200800000000000000
+      internalID: 190288060851466523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b185513f2bae62a70800000000000000
+      internalID: 8801980576045553691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbca1e719731f900800000000000000
+      internalID: 716414913754090443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_50
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cdbf336f2f8aab0800000000000000
+      internalID: -4996476647319544731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257c1e3eeea84d660800000000000000
+      internalID: 7409700045561382738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_52
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 71
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c0c36bc41a00a10800000000000000
+      internalID: 1873674795833101334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_53
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8078784ba87bcb0800000000000000
+      internalID: -4848253965868529478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa96b0e10eed3e400800000000000000
+      internalID: 352370250023135663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbb76c371a0cc4a0800000000000000
+      internalID: -6571866661326439437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_56
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 52
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3456153b1312f69b0800000000000000
+      internalID: -5084808956932430525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 63
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2c9b2c444181b0800000000000000
+      internalID: -5656164563060773130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_58
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173fdea6ba5370e30800000000000000
+      internalID: 4469600165538165617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_59
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 63
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b02258e17863eb30800000000000000
+      internalID: 4315407706389356727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_60
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41cb7362301b0b50800000000000000
+      internalID: 6560355090798723406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_61
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac0843baaca3b390800000000000000
+      internalID: -7803703880150676306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_62
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a92106278a0b350800000000000000
+      internalID: 6030505110240664094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_63
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d8a9f6f66f4dae0800000000000000
+      internalID: -1525323415297553107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d777b5bc826db80800000000000000
+      internalID: -8370458003543458536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_65
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 22
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65f0630313b6f1b0800000000000000
+      internalID: -5623110190483049108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_66
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8b6318cb338c9a0800000000000000
+      internalID: -6212658801242883892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7736ec5ae721820800000000000000
+      internalID: 2887509561695238087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_68
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 14
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dab2dfaf0d8d45e0800000000000000
+      internalID: -1923726367303484719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_69
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d8a65c666968880800000000000000
+      internalID: -8609028269529199293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_70
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 14
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ba2fb082526a060800000000000000
+      internalID: 6964294727704423212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 14
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733dbdb265c1503b0800000000000000
+      internalID: -5546996209608305865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_72
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a5f065b8d00f520800000000000000
+      internalID: 2733699865909352977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_73
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b44feec0cdf0f090800000000000000
+      internalID: -8002617533290036041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_74
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 14
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2fd657b35966460800000000000000
+      internalID: 7234633934023029424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_75
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 15
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb76903c292c3160800000000000000
+      internalID: 7006520390052117429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_76
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495e6f0d966bcf440800000000000000
+      internalID: 4971048654303847828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_77
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae39bc599d1a07d80800000000000000
+      internalID: -8254920161076997142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_78
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f039b24b5127cc630800000000000000
+      internalID: 3948656410839716623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_79
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e1fee03023f7150800000000000000
+      internalID: 5872467427831258715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_80
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 9
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22cfbf2214c2bd70800000000000000
+      internalID: 9057517382985040427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_81
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909b75152756c7ea0800000000000000
+      internalID: -5873708272332588791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_82
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3808d2c3db2b48e20800000000000000
+      internalID: 3352000548498669699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Scythe_83
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfe1bcbe6a039c70800000000000000
+      internalID: 8976529953007988659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Base_Scythe_0: -7537047332711779194
+      Base_Scythe_1: -4684900885582957213
+      Base_Scythe_10: 7430124358708072702
+      Base_Scythe_11: 5214950676944073440
+      Base_Scythe_12: 2370753259543970116
+      Base_Scythe_13: -3116852672009703268
+      Base_Scythe_14: 4517908795154404018
+      Base_Scythe_15: -8321485164893565470
+      Base_Scythe_16: -5767147378402781764
+      Base_Scythe_17: 4915130888878379527
+      Base_Scythe_18: -5979118115474881730
+      Base_Scythe_19: -2551067118401327301
+      Base_Scythe_2: -3336125381513873744
+      Base_Scythe_20: -7622986776019199615
+      Base_Scythe_21: 4187088270341353693
+      Base_Scythe_22: 8541255553433411347
+      Base_Scythe_23: -1611300817635576625
+      Base_Scythe_24: 1601589798876906807
+      Base_Scythe_25: -7666861234779649470
+      Base_Scythe_26: 6404176693333917805
+      Base_Scythe_27: -1353924321499426748
+      Base_Scythe_28: 8918158095840523689
+      Base_Scythe_29: 3581436019170710233
+      Base_Scythe_3: 7821464393413386889
+      Base_Scythe_30: 64933396771619251
+      Base_Scythe_31: -6205486263782889079
+      Base_Scythe_32: 3049150060994942488
+      Base_Scythe_33: -7753093462432308955
+      Base_Scythe_34: -1603822088227821717
+      Base_Scythe_35: 2463253222259110721
+      Base_Scythe_36: 2349006290589972838
+      Base_Scythe_37: -7123770989399779964
+      Base_Scythe_38: -647626516983136665
+      Base_Scythe_39: -9158447243744176787
+      Base_Scythe_4: -5840257877493883511
+      Base_Scythe_40: -1018697301269530859
+      Base_Scythe_41: -8964119654079194920
+      Base_Scythe_42: -7405243777479628959
+      Base_Scythe_43: 123582276093848978
+      Base_Scythe_44: 8453663910164963585
+      Base_Scythe_45: 2154602143840515710
+      Base_Scythe_46: 9215752635839037328
+      Base_Scythe_47: 190288060851466523
+      Base_Scythe_48: 8801980576045553691
+      Base_Scythe_49: 716414913754090443
+      Base_Scythe_5: 8151838633874618635
+      Base_Scythe_50: -4996476647319544731
+      Base_Scythe_51: 7409700045561382738
+      Base_Scythe_52: 1873674795833101334
+      Base_Scythe_53: -4848253965868529478
+      Base_Scythe_54: 352370250023135663
+      Base_Scythe_55: -6571866661326439437
+      Base_Scythe_56: -5084808956932430525
+      Base_Scythe_57: -5656164563060773130
+      Base_Scythe_58: 4469600165538165617
+      Base_Scythe_59: 4315407706389356727
+      Base_Scythe_6: 1960712641001506804
+      Base_Scythe_60: 6560355090798723406
+      Base_Scythe_61: -7803703880150676306
+      Base_Scythe_62: 6030505110240664094
+      Base_Scythe_63: -1525323415297553107
+      Base_Scythe_64: -8370458003543458536
+      Base_Scythe_65: -5623110190483049108
+      Base_Scythe_66: -6212658801242883892
+      Base_Scythe_67: 2887509561695238087
+      Base_Scythe_68: -1923726367303484719
+      Base_Scythe_69: -8609028269529199293
+      Base_Scythe_7: -6977581724958388587
+      Base_Scythe_70: 6964294727704423212
+      Base_Scythe_71: -5546996209608305865
+      Base_Scythe_72: 2733699865909352977
+      Base_Scythe_73: -8002617533290036041
+      Base_Scythe_74: 7234633934023029424
+      Base_Scythe_75: 7006520390052117429
+      Base_Scythe_76: 4971048654303847828
+      Base_Scythe_77: -8254920161076997142
+      Base_Scythe_78: 3948656410839716623
+      Base_Scythe_79: 5872467427831258715
+      Base_Scythe_8: -2359034020865379573
+      Base_Scythe_80: 9057517382985040427
+      Base_Scythe_81: -5873708272332588791
+      Base_Scythe_82: 3352000548498669699
+      Base_Scythe_83: 8976529953007988659
+      Base_Scythe_9: 4024512946349441072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

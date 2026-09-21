@@ -1,0 +1,1783 @@
+fileFormatVersion: 2
+guid: f49055c48c90fba479ecc8c43832f360
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5873796933485956579
+    second: Goat_Eat_0
+  - first:
+      213: 2396196420498447009
+    second: Goat_Eat_1
+  - first:
+      213: 1138699188567615869
+    second: Goat_Eat_2
+  - first:
+      213: 8270574513025443249
+    second: Goat_Eat_3
+  - first:
+      213: -6909081858398092723
+    second: Goat_Eat_4
+  - first:
+      213: 5361148061881625325
+    second: Goat_Eat_5
+  - first:
+      213: -5528347143895760028
+    second: Goat_Eat_6
+  - first:
+      213: -8619743845345088493
+    second: Goat_Eat_7
+  - first:
+      213: 8111160448980411730
+    second: Goat_Eat_8
+  - first:
+      213: 3058537666107203243
+    second: Goat_Eat_9
+  - first:
+      213: 1782590391438953639
+    second: Goat_Eat_10
+  - first:
+      213: -8250235331668963914
+    second: Goat_Eat_11
+  - first:
+      213: 4650314502685295080
+    second: Goat_Eat_12
+  - first:
+      213: -705616369718431234
+    second: Goat_Eat_13
+  - first:
+      213: -8036847754673034331
+    second: Goat_Eat_14
+  - first:
+      213: 7226852409231998420
+    second: Goat_Eat_15
+  - first:
+      213: -2126735202833168160
+    second: Goat_Eat_16
+  - first:
+      213: -7437472274345247349
+    second: Goat_Eat_17
+  - first:
+      213: -1158488449038178047
+    second: Goat_Eat_18
+  - first:
+      213: 7248330107040249038
+    second: Goat_Eat_19
+  - first:
+      213: 4098798447459081764
+    second: Goat_Eat_20
+  - first:
+      213: -7545432633211047887
+    second: Goat_Eat_21
+  - first:
+      213: 229923660121822129
+    second: Goat_Eat_22
+  - first:
+      213: -7211767337048974148
+    second: Goat_Eat_23
+  - first:
+      213: -4225109149303097499
+    second: Goat_Eat_24
+  - first:
+      213: -851538637830820284
+    second: Goat_Eat_25
+  - first:
+      213: -2452848561651887455
+    second: Goat_Eat_26
+  - first:
+      213: 5562663613350569134
+    second: Goat_Eat_27
+  - first:
+      213: 4773847216073365370
+    second: Goat_Eat_28
+  - first:
+      213: 8571917378659240185
+    second: Goat_Eat_29
+  - first:
+      213: -5362598202648625307
+    second: Goat_Eat_30
+  - first:
+      213: -3960986328979991031
+    second: Goat_Eat_31
+  - first:
+      213: -5203403833583695036
+    second: Goat_Eat_32
+  - first:
+      213: -3838120325541182705
+    second: Goat_Eat_33
+  - first:
+      213: 8852948294954824165
+    second: Goat_Eat_34
+  - first:
+      213: -6679479075802827070
+    second: Goat_Eat_35
+  - first:
+      213: 7072266609428388722
+    second: Goat_Eat_36
+  - first:
+      213: 8519154126802697739
+    second: Goat_Eat_37
+  - first:
+      213: -7874225037596825748
+    second: Goat_Eat_38
+  - first:
+      213: -4631079031104598646
+    second: Goat_Eat_39
+  - first:
+      213: 9110347193176892316
+    second: Goat_Eat_40
+  - first:
+      213: 1514004826419464540
+    second: Goat_Eat_41
+  - first:
+      213: -1666868791801308274
+    second: Goat_Eat_42
+  - first:
+      213: 8154136362263159167
+    second: Goat_Eat_43
+  - first:
+      213: -4108222538655019881
+    second: Goat_Eat_44
+  - first:
+      213: 5703693889912877907
+    second: Goat_Eat_45
+  - first:
+      213: -8763258452577200587
+    second: Goat_Eat_46
+  - first:
+      213: -5985301674249932051
+    second: Goat_Eat_47
+  - first:
+      213: 5529050870646700114
+    second: Goat_Eat_48
+  - first:
+      213: -8984034817646698441
+    second: Goat_Eat_49
+  - first:
+      213: -3532394768708764927
+    second: Goat_Eat_50
+  - first:
+      213: -130392887685798822
+    second: Goat_Eat_51
+  - first:
+      213: 7603972720814433931
+    second: Goat_Eat_52
+  - first:
+      213: 7704428405581530270
+    second: Goat_Eat_53
+  - first:
+      213: 452744905888399600
+    second: Goat_Eat_54
+  - first:
+      213: -5569225771101598590
+    second: Goat_Eat_55
+  - first:
+      213: 3405636917647371283
+    second: Goat_Eat_56
+  - first:
+      213: 4015436480100206346
+    second: Goat_Eat_57
+  - first:
+      213: 5975567650829084296
+    second: Goat_Eat_58
+  - first:
+      213: -5793754842704653118
+    second: Goat_Eat_59
+  - first:
+      213: 1017958440180328815
+    second: Goat_Eat_60
+  - first:
+      213: 9016347558262739485
+    second: Goat_Eat_61
+  - first:
+      213: 5494088008683732878
+    second: Goat_Eat_62
+  - first:
+      213: -3473632166401915555
+    second: Goat_Eat_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goat_Eat_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d127ac84fc41c7ea0800000000000000
+      internalID: -5873796933485956579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa5fd7e2fff04120800000000000000
+      internalID: 2396196420498447009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79299001e87dcf00800000000000000
+      internalID: 1138699188567615869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5e74143bbf6c270800000000000000
+      internalID: 8270574513025443249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42061ad7a20e10a0800000000000000
+      internalID: -6909081858398092723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea6ab8f1cf966a40800000000000000
+      internalID: 5361148061881625325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4634c05209d5743b0800000000000000
+      internalID: -5528347143895760028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ca85b54a4806880800000000000000
+      internalID: -8619743845345088493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255ecad1471a09070800000000000000
+      internalID: 8111160448980411730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baed8707dcb127a20800000000000000
+      internalID: 3058537666107203243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac4eb534880db810800000000000000
+      internalID: 1782590391438953639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd8e7e6da6418d80800000000000000
+      internalID: -8250235331668963914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1876ad66c398040800000000000000
+      internalID: 4650314502685295080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef17b3776a52536f0800000000000000
+      internalID: -705616369718431234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 159
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab61d45c81677090800000000000000
+      internalID: -8036847754673034331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 159
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddf2780affea4460800000000000000
+      internalID: 7226852409231998420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e88fc7d9915c72e0800000000000000
+      internalID: -2126735202833168160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8db5d43f5ac8c890800000000000000
+      internalID: -7437472274345247349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109afaeb4e83cefe0800000000000000
+      internalID: -1158488449038178047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 110
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec437ec34dd379460800000000000000
+      internalID: 7248330107040249038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 109
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e98bab87bd1e830800000000000000
+      internalID: 4098798447459081764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 109
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130b0dc5ffc394790800000000000000
+      internalID: -7545432633211047887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 108
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3d407c95ad03300800000000000000
+      internalID: 229923660121822129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 109
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc5e6801d7aaeb90800000000000000
+      internalID: -7211767337048974148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 109
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56739824d956d55c0800000000000000
+      internalID: -4225109149303097499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 109
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ee29bde1abe24f0800000000000000
+      internalID: -851538637830820284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 109
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a259ea9a3bb5fdd0800000000000000
+      internalID: -2452848561651887455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 108
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea460c6851d823d40800000000000000
+      internalID: 5562663613350569134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 109
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a775a0600cc104240800000000000000
+      internalID: 4773847216073365370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 109
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f84bfe907195f670800000000000000
+      internalID: 8571917378659240185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_30
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 110
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ffaf1d8593495b0800000000000000
+      internalID: -5362598202648625307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_31
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 111
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90618f48befb709c0800000000000000
+      internalID: -3960986328979991031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b865c38cbc9c7b0800000000000000
+      internalID: -5203403833583695036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0349ee26e14cbac0800000000000000
+      internalID: -3838120325541182705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 63
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1beafb19dfbda70800000000000000
+      internalID: 8852948294954824165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_35
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 62
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c63e128b29bd43a0800000000000000
+      internalID: -6679479075802827070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 61
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bd5d3c20db52260800000000000000
+      internalID: 7072266609428388722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 61
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eb0eaba8d1a3670800000000000000
+      internalID: 8519154126802697739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67ed883c0229b290800000000000000
+      internalID: -7874225037596825748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_39
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 61
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d0040682a1bbfb0800000000000000
+      internalID: -4631079031104598646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_40
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 61
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9329c5e0847e6e70800000000000000
+      internalID: 9110347193176892316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_41
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 61
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5985fa3e53d20510800000000000000
+      internalID: 1514004826419464540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_42
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 61
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b9f715aa71ed8e0800000000000000
+      internalID: -1666868791801308274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_43
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 60
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71aacaa1df492170800000000000000
+      internalID: 8154136362263159167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_44
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 61
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cc63d0e59acf6c0800000000000000
+      internalID: -4108222538655019881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_45
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 61
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353b2d79f57972f40800000000000000
+      internalID: 5703693889912877907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_46
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 62
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536523bfdd6a26680800000000000000
+      internalID: -8763258452577200587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_47
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 63
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de238c8b6dfefeca0800000000000000
+      internalID: -5985301674249932051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f5f109722bbc40800000000000000
+      internalID: 5529050870646700114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7306d6cceeb425380800000000000000
+      internalID: -8984034817646698441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b7aac5ca96afec0800000000000000
+      internalID: -3532394768708764927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5420480c50c03ef0800000000000000
+      internalID: -130392887685798822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86a7e9e6ecb68960800000000000000
+      internalID: 7603972720814433931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94cd18a0d0abea60800000000000000
+      internalID: 7704428405581530270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 12
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f08859d719784600800000000000000
+      internalID: 452744905888399600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28cc98f0ba226b2b0800000000000000
+      internalID: -5569225771101598590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ce3569bb0434f20800000000000000
+      internalID: 3405636917647371283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0784863432b9b730800000000000000
+      internalID: 4015436480100206346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886abf65e1b7de250800000000000000
+      internalID: 5975567650829084296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 12
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4d3eccaa2789fa0800000000000000
+      internalID: -5793754842704653118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_60
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f692f07dec3802e00800000000000000
+      internalID: 1017958440180328815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 13
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1216b56550802d70800000000000000
+      internalID: 9016347558262739485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_62
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 14
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fb35a5febee3c40800000000000000
+      internalID: 5494088008683732878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goat_Eat_63
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 15
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d554e31e2fd2bcfc0800000000000000
+      internalID: -3473632166401915555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Goat_Eat_0: -5873796933485956579
+      Goat_Eat_1: 2396196420498447009
+      Goat_Eat_10: 1782590391438953639
+      Goat_Eat_11: -8250235331668963914
+      Goat_Eat_12: 4650314502685295080
+      Goat_Eat_13: -705616369718431234
+      Goat_Eat_14: -8036847754673034331
+      Goat_Eat_15: 7226852409231998420
+      Goat_Eat_16: -2126735202833168160
+      Goat_Eat_17: -7437472274345247349
+      Goat_Eat_18: -1158488449038178047
+      Goat_Eat_19: 7248330107040249038
+      Goat_Eat_2: 1138699188567615869
+      Goat_Eat_20: 4098798447459081764
+      Goat_Eat_21: -7545432633211047887
+      Goat_Eat_22: 229923660121822129
+      Goat_Eat_23: -7211767337048974148
+      Goat_Eat_24: -4225109149303097499
+      Goat_Eat_25: -851538637830820284
+      Goat_Eat_26: -2452848561651887455
+      Goat_Eat_27: 5562663613350569134
+      Goat_Eat_28: 4773847216073365370
+      Goat_Eat_29: 8571917378659240185
+      Goat_Eat_3: 8270574513025443249
+      Goat_Eat_30: -5362598202648625307
+      Goat_Eat_31: -3960986328979991031
+      Goat_Eat_32: -5203403833583695036
+      Goat_Eat_33: -3838120325541182705
+      Goat_Eat_34: 8852948294954824165
+      Goat_Eat_35: -6679479075802827070
+      Goat_Eat_36: 7072266609428388722
+      Goat_Eat_37: 8519154126802697739
+      Goat_Eat_38: -7874225037596825748
+      Goat_Eat_39: -4631079031104598646
+      Goat_Eat_4: -6909081858398092723
+      Goat_Eat_40: 9110347193176892316
+      Goat_Eat_41: 1514004826419464540
+      Goat_Eat_42: -1666868791801308274
+      Goat_Eat_43: 8154136362263159167
+      Goat_Eat_44: -4108222538655019881
+      Goat_Eat_45: 5703693889912877907
+      Goat_Eat_46: -8763258452577200587
+      Goat_Eat_47: -5985301674249932051
+      Goat_Eat_48: 5529050870646700114
+      Goat_Eat_49: -8984034817646698441
+      Goat_Eat_5: 5361148061881625325
+      Goat_Eat_50: -3532394768708764927
+      Goat_Eat_51: -130392887685798822
+      Goat_Eat_52: 7603972720814433931
+      Goat_Eat_53: 7704428405581530270
+      Goat_Eat_54: 452744905888399600
+      Goat_Eat_55: -5569225771101598590
+      Goat_Eat_56: 3405636917647371283
+      Goat_Eat_57: 4015436480100206346
+      Goat_Eat_58: 5975567650829084296
+      Goat_Eat_59: -5793754842704653118
+      Goat_Eat_6: -5528347143895760028
+      Goat_Eat_60: 1017958440180328815
+      Goat_Eat_61: 9016347558262739485
+      Goat_Eat_62: 5494088008683732878
+      Goat_Eat_63: -3473632166401915555
+      Goat_Eat_7: -8619743845345088493
+      Goat_Eat_8: 8111160448980411730
+      Goat_Eat_9: 3058537666107203243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

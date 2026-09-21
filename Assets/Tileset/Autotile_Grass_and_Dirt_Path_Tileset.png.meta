@@ -1,0 +1,509 @@
+fileFormatVersion: 2
+guid: 894772bf4a809534e974ee648452a6bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -460947138245544887
+    second: Autotile_Grass_and_Dirt_Path_Tileset_0
+  - first:
+      213: 4353741976172575776
+    second: Autotile_Grass_and_Dirt_Path_Tileset_1
+  - first:
+      213: -2922359287567772931
+    second: Autotile_Grass_and_Dirt_Path_Tileset_2
+  - first:
+      213: -2027816318952392036
+    second: Autotile_Grass_and_Dirt_Path_Tileset_3
+  - first:
+      213: 1618096255092232607
+    second: Autotile_Grass_and_Dirt_Path_Tileset_4
+  - first:
+      213: -5320392997964219866
+    second: Autotile_Grass_and_Dirt_Path_Tileset_5
+  - first:
+      213: -4740642788978676824
+    second: Autotile_Grass_and_Dirt_Path_Tileset_6
+  - first:
+      213: 8161073364395934560
+    second: Autotile_Grass_and_Dirt_Path_Tileset_7
+  - first:
+      213: -8119176491498657195
+    second: Autotile_Grass_and_Dirt_Path_Tileset_8
+  - first:
+      213: 7278672508451760427
+    second: Autotile_Grass_and_Dirt_Path_Tileset_9
+  - first:
+      213: 1464363977459585924
+    second: Autotile_Grass_and_Dirt_Path_Tileset_10
+  - first:
+      213: 6425870306231814788
+    second: Autotile_Grass_and_Dirt_Path_Tileset_11
+  - first:
+      213: -1756859752359574570
+    second: Autotile_Grass_and_Dirt_Path_Tileset_12
+  - first:
+      213: 5734813863884888370
+    second: Autotile_Grass_and_Dirt_Path_Tileset_13
+  - first:
+      213: -1101494293136918331
+    second: Autotile_Grass_and_Dirt_Path_Tileset_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 113
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94434ac15036a99f0800000000000000
+      internalID: -460947138245544887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 113
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c397d92499b6c30800000000000000
+      internalID: 4353741976172575776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2957616b1b177d0800000000000000
+      internalID: -2922359287567772931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a3a1f3dcfbbd3e0800000000000000
+      internalID: -2027816318952392036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 95
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91992198f1a47610800000000000000
+      internalID: 1618096255092232607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 137
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62afddac1ca2a26b0800000000000000
+      internalID: -5320392997964219866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 121
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aba8eb108ad53eb0800000000000000
+      internalID: -4740642788978676824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 96
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063c8b65cf4f14170800000000000000
+      internalID: 8161073364395934560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a258b8ff3e25f80800000000000000
+      internalID: -8119176491498657195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 111
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b292ba6151a030560800000000000000
+      internalID: 7278672508451760427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 194
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4835b5a6747725410800000000000000
+      internalID: 1464363977459585924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 55
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a8daf6ff64d2950800000000000000
+      internalID: 6425870306231814788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 55
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d34d6c0d516e97e0800000000000000
+      internalID: -1756859752359574570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 18
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23918d923d6269f40800000000000000
+      internalID: 5734813863884888370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 18
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8347fb6c4b6b0f0800000000000000
+      internalID: -1101494293136918331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Autotile_Grass_and_Dirt_Path_Tileset_0: -460947138245544887
+      Autotile_Grass_and_Dirt_Path_Tileset_1: 4353741976172575776
+      Autotile_Grass_and_Dirt_Path_Tileset_10: 1464363977459585924
+      Autotile_Grass_and_Dirt_Path_Tileset_11: 6425870306231814788
+      Autotile_Grass_and_Dirt_Path_Tileset_12: -1756859752359574570
+      Autotile_Grass_and_Dirt_Path_Tileset_13: 5734813863884888370
+      Autotile_Grass_and_Dirt_Path_Tileset_14: -1101494293136918331
+      Autotile_Grass_and_Dirt_Path_Tileset_2: -2922359287567772931
+      Autotile_Grass_and_Dirt_Path_Tileset_3: -2027816318952392036
+      Autotile_Grass_and_Dirt_Path_Tileset_4: 1618096255092232607
+      Autotile_Grass_and_Dirt_Path_Tileset_5: -5320392997964219866
+      Autotile_Grass_and_Dirt_Path_Tileset_6: -4740642788978676824
+      Autotile_Grass_and_Dirt_Path_Tileset_7: 8161073364395934560
+      Autotile_Grass_and_Dirt_Path_Tileset_8: -8119176491498657195
+      Autotile_Grass_and_Dirt_Path_Tileset_9: 7278672508451760427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

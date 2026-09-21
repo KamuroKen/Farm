@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: f22016b7a01db87468bcec1529df7d2f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -315142681255433754
+    second: Monkey_Death_0
+  - first:
+      213: -7761509444000117654
+    second: Monkey_Death_1
+  - first:
+      213: -966590167341699703
+    second: Monkey_Death_2
+  - first:
+      213: 4373904092038925525
+    second: Monkey_Death_3
+  - first:
+      213: -4106844799651039221
+    second: Monkey_Death_4
+  - first:
+      213: -6274173517231540992
+    second: Monkey_Death_5
+  - first:
+      213: -2135340595642133349
+    second: Monkey_Death_6
+  - first:
+      213: 8921559538423766074
+    second: Monkey_Death_7
+  - first:
+      213: -4011155661247953070
+    second: Monkey_Death_8
+  - first:
+      213: 606999062406656461
+    second: Monkey_Death_9
+  - first:
+      213: 4159461776126072403
+    second: Monkey_Death_10
+  - first:
+      213: 3801842726293104485
+    second: Monkey_Death_11
+  - first:
+      213: 7961302705727096057
+    second: Monkey_Death_12
+  - first:
+      213: -4633319890340501811
+    second: Monkey_Death_13
+  - first:
+      213: -6223715233488073842
+    second: Monkey_Death_14
+  - first:
+      213: -1299474442527080226
+    second: Monkey_Death_15
+  - first:
+      213: 5950611500505165212
+    second: Monkey_Death_16
+  - first:
+      213: -6905452388505014656
+    second: Monkey_Death_17
+  - first:
+      213: -3875692876543920302
+    second: Monkey_Death_18
+  - first:
+      213: -3482613696537059189
+    second: Monkey_Death_19
+  - first:
+      213: -1192438519396881546
+    second: Monkey_Death_20
+  - first:
+      213: -4737214955620514875
+    second: Monkey_Death_21
+  - first:
+      213: -6850862834563199964
+    second: Monkey_Death_22
+  - first:
+      213: -6486194314342356622
+    second: Monkey_Death_23
+  - first:
+      213: 2228402858092495508
+    second: Monkey_Death_24
+  - first:
+      213: -3348496486338505360
+    second: Monkey_Death_25
+  - first:
+      213: -5751941955414052945
+    second: Monkey_Death_26
+  - first:
+      213: 3933210577928060024
+    second: Monkey_Death_27
+  - first:
+      213: 7361605871259493310
+    second: Monkey_Death_28
+  - first:
+      213: 897879660400683656
+    second: Monkey_Death_29
+  - first:
+      213: 9091053235845194319
+    second: Monkey_Death_30
+  - first:
+      213: -4197983363146503350
+    second: Monkey_Death_31
+  - first:
+      213: 5784695741646539705
+    second: Monkey_Death_32
+  - first:
+      213: 2210871277606912210
+    second: Monkey_Death_33
+  - first:
+      213: 7630384524718747187
+    second: Monkey_Death_34
+  - first:
+      213: -6923909700766780163
+    second: Monkey_Death_35
+  - first:
+      213: -245945616930436968
+    second: Monkey_Death_36
+  - first:
+      213: -993436565560137569
+    second: Monkey_Death_37
+  - first:
+      213: -723724551222184224
+    second: Monkey_Death_38
+  - first:
+      213: 6419141408267726737
+    second: Monkey_Death_39
+  - first:
+      213: 3955924559287591273
+    second: Monkey_Death_40
+  - first:
+      213: 7152097605301375922
+    second: Monkey_Death_41
+  - first:
+      213: 5488640736464225335
+    second: Monkey_Death_42
+  - first:
+      213: -5659869085543346843
+    second: Monkey_Death_43
+  - first:
+      213: 7306130185339344625
+    second: Monkey_Death_44
+  - first:
+      213: -1269976439469050315
+    second: Monkey_Death_45
+  - first:
+      213: 8506136444173517609
+    second: Monkey_Death_46
+  - first:
+      213: 3234753403191126885
+    second: Monkey_Death_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monkey_Death_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 159
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9a43ea66360abf0800000000000000
+      internalID: -315142681255433754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 159
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c888d6844994490800000000000000
+      internalID: -7761509444000117654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 159
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d66303d5bf592f0800000000000000
+      internalID: -966590167341699703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc8b97099a33bc30800000000000000
+      internalID: 4373904092038925525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08b329e96e8107c0800000000000000
+      internalID: -4106844799651039221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00530469d68ade8a0800000000000000
+      internalID: -6274173517231540992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 159
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b949742ba0fbd52e0800000000000000
+      internalID: -2135340595642133349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 161
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c1f3ab12fbfcb70800000000000000
+      internalID: 8921559538423766074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 160
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257c4889d238558c0800000000000000
+      internalID: -4011155661247953070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 159
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc17eb56e6e7c6800800000000000000
+      internalID: 606999062406656461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3565fc6927069b930800000000000000
+      internalID: 4159461776126072403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5676a9801dbd2c430800000000000000
+      internalID: 3801842726293104485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 111
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4483c41aa3c7e60800000000000000
+      internalID: 7961302705727096057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 111
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6a08dab1423bfb0800000000000000
+      internalID: -4633319890340501811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b81c448fbe0a9a0800000000000000
+      internalID: -6223715233488073842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0897221e657fde0800000000000000
+      internalID: -1299474442527080226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9de6fbc1a1d49250800000000000000
+      internalID: 5950611500505165212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e29c9a3a7ea20a0800000000000000
+      internalID: -6905452388505014656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 108
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2577613fcd5c63ac0800000000000000
+      internalID: -3875692876543920302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 110
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80afff6b454bafc0800000000000000
+      internalID: -3482613696537059189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 111
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b2bd20c7b937fe0800000000000000
+      internalID: -1192438519396881546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 110
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c34291c818024eb0800000000000000
+      internalID: -4737214955620514875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_22
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 110
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c4fe4ac88dce0a0800000000000000
+      internalID: -6850862834563199964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 110
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279277de2a86cf5a0800000000000000
+      internalID: -6486194314342356622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 63
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4928115c790ecee10800000000000000
+      internalID: 2228402858092495508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 63
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0755620df20c781d0800000000000000
+      internalID: -3348496486338505360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 63
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf21e2444ffc20b0800000000000000
+      internalID: -5751941955414052945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cf53c7e22959630800000000000000
+      internalID: 3933210577928060024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb32ad4598da92660800000000000000
+      internalID: 7361605871259493310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a2b314bc8e57c00800000000000000
+      internalID: 897879660400683656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 60
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42e7b460c8e92e70800000000000000
+      internalID: 9091053235845194319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 62
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b27a28f54cdb5c0800000000000000
+      internalID: -4197983363146503350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 63
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb8e8ed02e574050800000000000000
+      internalID: 5784695741646539705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_33
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 62
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0cfd996b79eae10800000000000000
+      internalID: 2210871277606912210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 62
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eaf773c4294e960800000000000000
+      internalID: 7630384524718747187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 62
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df43ae4cfc459ef90800000000000000
+      internalID: -6923909700766780163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8980cc4b3c9369cf0800000000000000
+      internalID: -245945616930436968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9867e205ba9632f0800000000000000
+      internalID: -993436565560137569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 15
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e63c29ea50d4f5f0800000000000000
+      internalID: -723724551222184224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f6ccac91f551950800000000000000
+      internalID: 6419141408267726737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961a4926d6446e630800000000000000
+      internalID: 3955924559287591273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b319eae0ea514360800000000000000
+      internalID: 7152097605301375922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 12
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73440b47ba19b2c40800000000000000
+      internalID: 5488640736464225335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 7
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d49f0dd0b1471b0800000000000000
+      internalID: -5659869085543346843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 8
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f619eba1b6946560800000000000000
+      internalID: 7306130185339344625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_45
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 7
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536f45c2823206ee0800000000000000
+      internalID: -1269976439469050315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_46
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 7
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92387fd470edb0670800000000000000
+      internalID: 8506136444173517609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_Death_47
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 7
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b613de41724ec20800000000000000
+      internalID: 3234753403191126885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monkey_Death_0: -315142681255433754
+      Monkey_Death_1: -7761509444000117654
+      Monkey_Death_10: 4159461776126072403
+      Monkey_Death_11: 3801842726293104485
+      Monkey_Death_12: 7961302705727096057
+      Monkey_Death_13: -4633319890340501811
+      Monkey_Death_14: -6223715233488073842
+      Monkey_Death_15: -1299474442527080226
+      Monkey_Death_16: 5950611500505165212
+      Monkey_Death_17: -6905452388505014656
+      Monkey_Death_18: -3875692876543920302
+      Monkey_Death_19: -3482613696537059189
+      Monkey_Death_2: -966590167341699703
+      Monkey_Death_20: -1192438519396881546
+      Monkey_Death_21: -4737214955620514875
+      Monkey_Death_22: -6850862834563199964
+      Monkey_Death_23: -6486194314342356622
+      Monkey_Death_24: 2228402858092495508
+      Monkey_Death_25: -3348496486338505360
+      Monkey_Death_26: -5751941955414052945
+      Monkey_Death_27: 3933210577928060024
+      Monkey_Death_28: 7361605871259493310
+      Monkey_Death_29: 897879660400683656
+      Monkey_Death_3: 4373904092038925525
+      Monkey_Death_30: 9091053235845194319
+      Monkey_Death_31: -4197983363146503350
+      Monkey_Death_32: 5784695741646539705
+      Monkey_Death_33: 2210871277606912210
+      Monkey_Death_34: 7630384524718747187
+      Monkey_Death_35: -6923909700766780163
+      Monkey_Death_36: -245945616930436968
+      Monkey_Death_37: -993436565560137569
+      Monkey_Death_38: -723724551222184224
+      Monkey_Death_39: 6419141408267726737
+      Monkey_Death_4: -4106844799651039221
+      Monkey_Death_40: 3955924559287591273
+      Monkey_Death_41: 7152097605301375922
+      Monkey_Death_42: 5488640736464225335
+      Monkey_Death_43: -5659869085543346843
+      Monkey_Death_44: 7306130185339344625
+      Monkey_Death_45: -1269976439469050315
+      Monkey_Death_46: 8506136444173517609
+      Monkey_Death_47: 3234753403191126885
+      Monkey_Death_5: -6274173517231540992
+      Monkey_Death_6: -2135340595642133349
+      Monkey_Death_7: 8921559538423766074
+      Monkey_Death_8: -4011155661247953070
+      Monkey_Death_9: 606999062406656461
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

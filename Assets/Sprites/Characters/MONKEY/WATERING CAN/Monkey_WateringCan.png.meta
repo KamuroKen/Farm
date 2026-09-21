@@ -1,0 +1,1185 @@
+fileFormatVersion: 2
+guid: 71e0c4c9682064849948bf8a2bd089ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7435036650726583227
+    second: Monkey_WateringCan_0
+  - first:
+      213: 2072475764998306507
+    second: Monkey_WateringCan_1
+  - first:
+      213: -7739073603783939933
+    second: Monkey_WateringCan_2
+  - first:
+      213: 8553378893986839498
+    second: Monkey_WateringCan_3
+  - first:
+      213: -2620583766036058892
+    second: Monkey_WateringCan_4
+  - first:
+      213: 6792921173718744800
+    second: Monkey_WateringCan_5
+  - first:
+      213: 4395555298508140664
+    second: Monkey_WateringCan_6
+  - first:
+      213: -1618577335166298583
+    second: Monkey_WateringCan_7
+  - first:
+      213: -3259452737303819424
+    second: Monkey_WateringCan_8
+  - first:
+      213: -2672329622244077747
+    second: Monkey_WateringCan_9
+  - first:
+      213: -1827158184052548628
+    second: Monkey_WateringCan_10
+  - first:
+      213: -779595600938334024
+    second: Monkey_WateringCan_11
+  - first:
+      213: -2787113840449032116
+    second: Monkey_WateringCan_12
+  - first:
+      213: -2223273473381970825
+    second: Monkey_WateringCan_13
+  - first:
+      213: 3678435533494399255
+    second: Monkey_WateringCan_14
+  - first:
+      213: 2883330402392206561
+    second: Monkey_WateringCan_15
+  - first:
+      213: 4528315119233338224
+    second: Monkey_WateringCan_16
+  - first:
+      213: -7189652998869098994
+    second: Monkey_WateringCan_17
+  - first:
+      213: 3292090095075919482
+    second: Monkey_WateringCan_18
+  - first:
+      213: -6718791305475481270
+    second: Monkey_WateringCan_19
+  - first:
+      213: -4974770797947995117
+    second: Monkey_WateringCan_20
+  - first:
+      213: -1270181065639609237
+    second: Monkey_WateringCan_21
+  - first:
+      213: -3803169783998713294
+    second: Monkey_WateringCan_22
+  - first:
+      213: -5322240297997046795
+    second: Monkey_WateringCan_23
+  - first:
+      213: 6592562925334646971
+    second: Monkey_WateringCan_24
+  - first:
+      213: 3985131213617299704
+    second: Monkey_WateringCan_25
+  - first:
+      213: -3112519438068876279
+    second: Monkey_WateringCan_26
+  - first:
+      213: -2782960545870162376
+    second: Monkey_WateringCan_27
+  - first:
+      213: -5081377895563911596
+    second: Monkey_WateringCan_28
+  - first:
+      213: 2652873064757335462
+    second: Monkey_WateringCan_29
+  - first:
+      213: 1806971050857672721
+    second: Monkey_WateringCan_30
+  - first:
+      213: 5819406448399590753
+    second: Monkey_WateringCan_31
+  - first:
+      213: 829122158669460631
+    second: Monkey_WateringCan_32
+  - first:
+      213: 6815341589176843578
+    second: Monkey_WateringCan_33
+  - first:
+      213: 2539212118053805599
+    second: Monkey_WateringCan_34
+  - first:
+      213: -8909353004532736520
+    second: Monkey_WateringCan_35
+  - first:
+      213: -1604914118283741818
+    second: Monkey_WateringCan_36
+  - first:
+      213: 3635901496601523720
+    second: Monkey_WateringCan_37
+  - first:
+      213: -1575848195032623458
+    second: Monkey_WateringCan_38
+  - first:
+      213: -799372950122519549
+    second: Monkey_WateringCan_39
+  - first:
+      213: 4663719927312100571
+    second: Monkey_WateringCan_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Monkey_WateringCan_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 159
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5449e650f8171d890800000000000000
+      internalID: -7435036650726583227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca74525ab9e2cc10800000000000000
+      internalID: 2072475764998306507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a82bdb8f89499490800000000000000
+      internalID: -7739073603783939933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 177
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbb86d49c4b3b670800000000000000
+      internalID: 8553378893986839498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fce34103f0d1abd0800000000000000
+      internalID: -2620583766036058892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 177
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee3cba21dd454e50800000000000000
+      internalID: 6792921173718744800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870f92e5146200d30800000000000000
+      internalID: 4395555298508140664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 177
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9261aef3d78a989e0800000000000000
+      internalID: -1618577335166298583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bc4d6310914c2d0800000000000000
+      internalID: -3259452737303819424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 177
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f436ffd5af9ead0800000000000000
+      internalID: -2672329622244077747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb9913ff41a4a6e0800000000000000
+      internalID: -1827158184052548628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_11
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 175
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b80d917ee15e25f0800000000000000
+      internalID: -779595600938334024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 159
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c40f5779abe2259d0800000000000000
+      internalID: -2787113840449032116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cc48c2e885521e0800000000000000
+      internalID: -2223273473381970825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 106
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711bb17e0ad6c0330800000000000000
+      internalID: 3678435533494399255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 110
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eceba479b5a30820800000000000000
+      internalID: 2883330402392206561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b0fe0eb9ec7de30800000000000000
+      internalID: 4528315119233338224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_17
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 111
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ed510a0b8393c90800000000000000
+      internalID: -7189652998869098994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 110
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76059dcf7adfad20800000000000000
+      internalID: 3292090095075919482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 110
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41a625c7ee02c2a0800000000000000
+      internalID: -6718791305475481270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 109
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb255115016fab0800000000000000
+      internalID: -4974770797947995117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_21
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 108
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cbf1eec096f5ee0800000000000000
+      internalID: -1270181065639609237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_22
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 110
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232f1444b3d683bc0800000000000000
+      internalID: -3803169783998713294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 58
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbed9cb5aa9326b0800000000000000
+      internalID: -5322240297997046795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 62
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb05bfb3d0d7d7b50800000000000000
+      internalID: 6592562925334646971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f00bf289b70e4730800000000000000
+      internalID: 3985131213617299704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cf769df0c1ec4d0800000000000000
+      internalID: -3112519438068876279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 62
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8365b77d020f069d0800000000000000
+      internalID: -2782960545870162376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_28
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 62
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e146de9b15b79b0800000000000000
+      internalID: -5081377895563911596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_29
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 61
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a510133ff5e0d420800000000000000
+      internalID: 2652873064757335462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_30
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 60
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11039c5d896a31910800000000000000
+      internalID: 1806971050857672721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_31
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 62
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165a970155fa2c050800000000000000
+      internalID: 5819406448399590753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794f5eed532a18b00800000000000000
+      internalID: 829122158669460631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3df4dde015f49e50800000000000000
+      internalID: 6815341589176843578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_34
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 12
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ed6f1d7f71d3320800000000000000
+      internalID: 2539212118053805599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd544a65ae9b5480800000000000000
+      internalID: -8909353004532736520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_36
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68530b4dc133ab9e0800000000000000
+      internalID: -1604914118283741818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806be37b521557230800000000000000
+      internalID: 3635901496601523720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 5
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96d3237a66712ae0800000000000000
+      internalID: -1575848195032623458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_39
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30424e0898e08e4f0800000000000000
+      internalID: -799372950122519549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Monkey_WateringCan_40
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc295f709cd8b040800000000000000
+      internalID: 4663719927312100571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Monkey_WateringCan_0: -7435036650726583227
+      Monkey_WateringCan_1: 2072475764998306507
+      Monkey_WateringCan_10: -1827158184052548628
+      Monkey_WateringCan_11: -779595600938334024
+      Monkey_WateringCan_12: -2787113840449032116
+      Monkey_WateringCan_13: -2223273473381970825
+      Monkey_WateringCan_14: 3678435533494399255
+      Monkey_WateringCan_15: 2883330402392206561
+      Monkey_WateringCan_16: 4528315119233338224
+      Monkey_WateringCan_17: -7189652998869098994
+      Monkey_WateringCan_18: 3292090095075919482
+      Monkey_WateringCan_19: -6718791305475481270
+      Monkey_WateringCan_2: -7739073603783939933
+      Monkey_WateringCan_20: -4974770797947995117
+      Monkey_WateringCan_21: -1270181065639609237
+      Monkey_WateringCan_22: -3803169783998713294
+      Monkey_WateringCan_23: -5322240297997046795
+      Monkey_WateringCan_24: 6592562925334646971
+      Monkey_WateringCan_25: 3985131213617299704
+      Monkey_WateringCan_26: -3112519438068876279
+      Monkey_WateringCan_27: -2782960545870162376
+      Monkey_WateringCan_28: -5081377895563911596
+      Monkey_WateringCan_29: 2652873064757335462
+      Monkey_WateringCan_3: 8553378893986839498
+      Monkey_WateringCan_30: 1806971050857672721
+      Monkey_WateringCan_31: 5819406448399590753
+      Monkey_WateringCan_32: 829122158669460631
+      Monkey_WateringCan_33: 6815341589176843578
+      Monkey_WateringCan_34: 2539212118053805599
+      Monkey_WateringCan_35: -8909353004532736520
+      Monkey_WateringCan_36: -1604914118283741818
+      Monkey_WateringCan_37: 3635901496601523720
+      Monkey_WateringCan_38: -1575848195032623458
+      Monkey_WateringCan_39: -799372950122519549
+      Monkey_WateringCan_4: -2620583766036058892
+      Monkey_WateringCan_40: 4663719927312100571
+      Monkey_WateringCan_5: 6792921173718744800
+      Monkey_WateringCan_6: 4395555298508140664
+      Monkey_WateringCan_7: -1618577335166298583
+      Monkey_WateringCan_8: -3259452737303819424
+      Monkey_WateringCan_9: -2672329622244077747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

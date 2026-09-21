@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: 3ea0211315e442040a2d5a271d002f24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2708730439125199644
+    second: Duck_WateringCan_0
+  - first:
+      213: -8224065623739846680
+    second: Duck_WateringCan_1
+  - first:
+      213: 3209739251312580768
+    second: Duck_WateringCan_2
+  - first:
+      213: 1744273653873492392
+    second: Duck_WateringCan_3
+  - first:
+      213: -8033566263694832650
+    second: Duck_WateringCan_4
+  - first:
+      213: -98058304744929785
+    second: Duck_WateringCan_5
+  - first:
+      213: 5405654926212870026
+    second: Duck_WateringCan_6
+  - first:
+      213: 5247348103909563598
+    second: Duck_WateringCan_7
+  - first:
+      213: -2541371730952965448
+    second: Duck_WateringCan_8
+  - first:
+      213: -3137643202510270086
+    second: Duck_WateringCan_9
+  - first:
+      213: -5328603520091908662
+    second: Duck_WateringCan_10
+  - first:
+      213: -5531773056362303191
+    second: Duck_WateringCan_11
+  - first:
+      213: 539157930694377006
+    second: Duck_WateringCan_12
+  - first:
+      213: -1366179324216144725
+    second: Duck_WateringCan_13
+  - first:
+      213: 5809958328427501087
+    second: Duck_WateringCan_14
+  - first:
+      213: 5215985723542482085
+    second: Duck_WateringCan_15
+  - first:
+      213: 5793966028320235209
+    second: Duck_WateringCan_16
+  - first:
+      213: -1076369219239630940
+    second: Duck_WateringCan_17
+  - first:
+      213: 6510803648778991169
+    second: Duck_WateringCan_18
+  - first:
+      213: -3716832565927659776
+    second: Duck_WateringCan_19
+  - first:
+      213: -1519972750771266676
+    second: Duck_WateringCan_20
+  - first:
+      213: -2588245922293832498
+    second: Duck_WateringCan_21
+  - first:
+      213: -6962851010308098626
+    second: Duck_WateringCan_22
+  - first:
+      213: -3731372969456212540
+    second: Duck_WateringCan_23
+  - first:
+      213: -6435022788464996178
+    second: Duck_WateringCan_24
+  - first:
+      213: 1798630778448709407
+    second: Duck_WateringCan_25
+  - first:
+      213: 1565426808152011603
+    second: Duck_WateringCan_26
+  - first:
+      213: -8571694987869674963
+    second: Duck_WateringCan_27
+  - first:
+      213: -4012947287304399981
+    second: Duck_WateringCan_28
+  - first:
+      213: 3496939533086240132
+    second: Duck_WateringCan_29
+  - first:
+      213: -1320925436301047994
+    second: Duck_WateringCan_30
+  - first:
+      213: 7616409268600045949
+    second: Duck_WateringCan_31
+  - first:
+      213: 3772943360187557428
+    second: Duck_WateringCan_32
+  - first:
+      213: -7826790390696821392
+    second: Duck_WateringCan_33
+  - first:
+      213: -8046640043834539771
+    second: Duck_WateringCan_34
+  - first:
+      213: -2884498916052480254
+    second: Duck_WateringCan_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duck_WateringCan_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 159
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e497af5408a86ad0800000000000000
+      internalID: -2708730439125199644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef2c7f53ef3edd80800000000000000
+      internalID: -8224065623739846680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 159
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a85d18d7d84b8c20800000000000000
+      internalID: 3209739251312580768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1c33a85a7e43810800000000000000
+      internalID: 1744273653873492392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 159
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb48ecfb0a038090800000000000000
+      internalID: -8033566263694832650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706c66acd70a3aef0800000000000000
+      internalID: -98058304744929785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 159
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f2247d38eb40b40800000000000000
+      internalID: 5405654926212870026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc59528c4352d840800000000000000
+      internalID: 5247348103909563598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 159
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2345e10eb3bbcd0800000000000000
+      internalID: -2541371730952965448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 106
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d47a912ad474d0800000000000000
+      internalID: -3137643202510270086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 110
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac59604a45ffc06b0800000000000000
+      internalID: -5328603520091908662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921b27db6b13b33b0800000000000000
+      internalID: -5531773056362303191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_12
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e7fd808497b7700800000000000000
+      internalID: 539157930694377006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_13
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 110
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac0d98942b5a0de0800000000000000
+      internalID: -1366179324216144725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_14
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 110
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f165eb5315e11a050800000000000000
+      internalID: 5809958328427501087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_15
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 109
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac224d4167e26840800000000000000
+      internalID: 5215985723542482085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_16
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 108
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce55bea76d486050800000000000000
+      internalID: 5793966028320235209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 110
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7ae00e5e7ff01f0800000000000000
+      internalID: -1076369219239630940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 58
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146f9cf3c650b5a50800000000000000
+      internalID: 6510803648778991169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 62
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007374259782b6cc0800000000000000
+      internalID: -3716832565927659776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b510a16d8f7eae0800000000000000
+      internalID: -1519972750771266676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4a25afb04b41cd0800000000000000
+      internalID: -2588245922293832498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 62
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5bd9a95ebfe5f90800000000000000
+      internalID: -6962851010308098626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 62
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5611fcd00873cc0800000000000000
+      internalID: -3731372969456212540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 61
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0100c3ed432b6a0800000000000000
+      internalID: -6435022788464996178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 60
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f170587d92506f810800000000000000
+      internalID: 1798630778448709407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 62
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35336c5536389b510800000000000000
+      internalID: 1565426808152011603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d222805c2d83b0980800000000000000
+      internalID: -8571694987869674963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 4
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3939ad524b52f48c0800000000000000
+      internalID: -4012947287304399981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_29
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 12
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d20ae4aff978030800000000000000
+      internalID: 3496939533086240132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_30
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 7
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6478f7270512bade0800000000000000
+      internalID: -1320925436301047994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 5
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7106e650ebe2b960800000000000000
+      internalID: 7616409268600045949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_32
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 5
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436e5a50fff2c5430800000000000000
+      internalID: 3772943360187557428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_33
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 5
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d33179b97a16390800000000000000
+      internalID: -7826790390696821392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_34
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 4
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5010fc75387945090800000000000000
+      internalID: -8046640043834539771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_WateringCan_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 4
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f41b1c48338f7d0800000000000000
+      internalID: -2884498916052480254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Duck_WateringCan_0: -2708730439125199644
+      Duck_WateringCan_1: -8224065623739846680
+      Duck_WateringCan_10: -5328603520091908662
+      Duck_WateringCan_11: -5531773056362303191
+      Duck_WateringCan_12: 539157930694377006
+      Duck_WateringCan_13: -1366179324216144725
+      Duck_WateringCan_14: 5809958328427501087
+      Duck_WateringCan_15: 5215985723542482085
+      Duck_WateringCan_16: 5793966028320235209
+      Duck_WateringCan_17: -1076369219239630940
+      Duck_WateringCan_18: 6510803648778991169
+      Duck_WateringCan_19: -3716832565927659776
+      Duck_WateringCan_2: 3209739251312580768
+      Duck_WateringCan_20: -1519972750771266676
+      Duck_WateringCan_21: -2588245922293832498
+      Duck_WateringCan_22: -6962851010308098626
+      Duck_WateringCan_23: -3731372969456212540
+      Duck_WateringCan_24: -6435022788464996178
+      Duck_WateringCan_25: 1798630778448709407
+      Duck_WateringCan_26: 1565426808152011603
+      Duck_WateringCan_27: -8571694987869674963
+      Duck_WateringCan_28: -4012947287304399981
+      Duck_WateringCan_29: 3496939533086240132
+      Duck_WateringCan_3: 1744273653873492392
+      Duck_WateringCan_30: -1320925436301047994
+      Duck_WateringCan_31: 7616409268600045949
+      Duck_WateringCan_32: 3772943360187557428
+      Duck_WateringCan_33: -7826790390696821392
+      Duck_WateringCan_34: -8046640043834539771
+      Duck_WateringCan_35: -2884498916052480254
+      Duck_WateringCan_4: -8033566263694832650
+      Duck_WateringCan_5: -98058304744929785
+      Duck_WateringCan_6: 5405654926212870026
+      Duck_WateringCan_7: 5247348103909563598
+      Duck_WateringCan_8: -2541371730952965448
+      Duck_WateringCan_9: -3137643202510270086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

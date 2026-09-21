@@ -1,0 +1,1367 @@
+fileFormatVersion: 2
+guid: a8033b9aeea7a1143995deda1eb8d668
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5592292192750201246
+    second: Death lion_0
+  - first:
+      213: 5525632852003639743
+    second: Death lion_1
+  - first:
+      213: 6922357706320365920
+    second: Death lion_2
+  - first:
+      213: -1648681451205251387
+    second: Death lion_3
+  - first:
+      213: 5066539774446910953
+    second: Death lion_4
+  - first:
+      213: -3474401299151347073
+    second: Death lion_5
+  - first:
+      213: -8018862225013915394
+    second: Death lion_6
+  - first:
+      213: -5496801327304413683
+    second: Death lion_7
+  - first:
+      213: -4196595340498602979
+    second: Death lion_8
+  - first:
+      213: -4377476977798281794
+    second: Death lion_9
+  - first:
+      213: -3301333289829123395
+    second: Death lion_10
+  - first:
+      213: 377521478962537770
+    second: Death lion_11
+  - first:
+      213: -1155025088232126152
+    second: Death lion_12
+  - first:
+      213: 7720148398429303437
+    second: Death lion_13
+  - first:
+      213: -1861343479855847740
+    second: Death lion_14
+  - first:
+      213: 3582847442691284582
+    second: Death lion_15
+  - first:
+      213: -8453638082177969848
+    second: Death lion_16
+  - first:
+      213: 459000409805815801
+    second: Death lion_17
+  - first:
+      213: -8781350541357137931
+    second: Death lion_18
+  - first:
+      213: -6162576420578559246
+    second: Death lion_19
+  - first:
+      213: -747747405297121335
+    second: Death lion_20
+  - first:
+      213: 4457642812307567519
+    second: Death lion_21
+  - first:
+      213: -6952148039991844371
+    second: Death lion_22
+  - first:
+      213: -4762683164947314738
+    second: Death lion_23
+  - first:
+      213: 2782734468241738523
+    second: Death lion_24
+  - first:
+      213: 1440270204596574329
+    second: Death lion_25
+  - first:
+      213: 9132327801394647639
+    second: Death lion_26
+  - first:
+      213: -5770018479049827427
+    second: Death lion_27
+  - first:
+      213: 4826142995658222922
+    second: Death lion_28
+  - first:
+      213: -2997872077401823705
+    second: Death lion_29
+  - first:
+      213: -1428477651652902533
+    second: Death lion_30
+  - first:
+      213: 8164211480653062993
+    second: Death lion_31
+  - first:
+      213: -5375526983258983804
+    second: Death lion_32
+  - first:
+      213: 3526400479939714445
+    second: Death lion_33
+  - first:
+      213: -8649284924504324149
+    second: Death lion_34
+  - first:
+      213: -3583321357974498835
+    second: Death lion_35
+  - first:
+      213: -1582271899406376252
+    second: Death lion_36
+  - first:
+      213: -2737612528733484432
+    second: Death lion_37
+  - first:
+      213: 5599337893698343760
+    second: Death lion_38
+  - first:
+      213: -4925463807077260828
+    second: Death lion_39
+  - first:
+      213: 2786548668999860338
+    second: Death lion_40
+  - first:
+      213: -3242220614807508416
+    second: Death lion_41
+  - first:
+      213: 4239096119801670222
+    second: Death lion_42
+  - first:
+      213: -8458418019075931681
+    second: Death lion_43
+  - first:
+      213: 9085881807022903801
+    second: Death lion_44
+  - first:
+      213: -8731533660868171949
+    second: Death lion_45
+  - first:
+      213: 7817626605306578093
+    second: Death lion_46
+  - first:
+      213: 6452363897468499040
+    second: Death lion_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death lion_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 159
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99e01dbe10db9d40800000000000000
+      internalID: 5592292192750201246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 159
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1d7e68dcdfeac40800000000000000
+      internalID: 5525632852003639743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 159
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069c96d58a7211060800000000000000
+      internalID: 6922357706320365920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cea22984f4be19e0800000000000000
+      internalID: -1648681451205251387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edbb48c417ff4640800000000000000
+      internalID: 5066539774446910953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72ade43d6278cfc0800000000000000
+      internalID: -3474401299151347073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 159
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef04f37ca4747b090800000000000000
+      internalID: -8018862225013915394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 161
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0eef1de05077b3b0800000000000000
+      internalID: -5496801327304413683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_8
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 160
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d147587b5c2b2c5c0800000000000000
+      internalID: -4196595340498602979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 159
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb502eda1e31043c0800000000000000
+      internalID: -4377476977798281794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 159
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba30963dde4f22d0800000000000000
+      internalID: -3301333289829123395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_11
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 159
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2564a0f8c93d3500800000000000000
+      internalID: 377521478962537770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 111
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83982454dc688ffe0800000000000000
+      internalID: -1155025088232126152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 111
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82fda5b01a732b60800000000000000
+      internalID: 7720148398429303437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 111
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6e33687fd2b26e0800000000000000
+      internalID: -1861343479855847740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ed70234c4d8b130800000000000000
+      internalID: 3582847442691284582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_16
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841511c14f4aeaa80800000000000000
+      internalID: -8453638082177969848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fffb3ad072be5600800000000000000
+      internalID: 459000409805815801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_18
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 108
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff393e4530622680800000000000000
+      internalID: -8781350541357137931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 110
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa773e65612a7aa0800000000000000
+      internalID: -6162576420578559246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 111
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c78b8552b77f95f0800000000000000
+      internalID: -747747405297121335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 110
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f937a2b258abcdd30800000000000000
+      internalID: 4457642812307567519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_22
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 110
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1ab521132058f90800000000000000
+      internalID: -6952148039991844371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 110
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7059f25ec87edb0800000000000000
+      internalID: -4762683164947314738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 63
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bc8cb51424e9620800000000000000
+      internalID: 2782734468241738523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 63
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978de85ce1edcf310800000000000000
+      internalID: 1440270204596574329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 63
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7525d8e00cb8cbe70800000000000000
+      internalID: 9132327801394647639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b9bc0a3c6ccefa0800000000000000
+      internalID: -5770018479049827427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4da27b0c77e9f240800000000000000
+      internalID: 4826142995658222922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726e660aa3b6566d0800000000000000
+      internalID: -2997872077401823705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_30
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 60
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7105abe4270d2ce0800000000000000
+      internalID: -1428477651652902533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_31
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 62
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153ed77f51b1d4170800000000000000
+      internalID: 8164211480653062993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_32
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 63
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482325280ba4665b0800000000000000
+      internalID: -5375526983258983804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_33
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 62
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dd2968d8a40f030800000000000000
+      internalID: 3526400479939714445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_34
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 62
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc747c1ef2197f780800000000000000
+      internalID: -8649284924504324149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_35
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 62
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de11cddc53c754ec0800000000000000
+      internalID: -3583321357974498835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2ecc93714aa0ae0800000000000000
+      internalID: -1582271899406376252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_37
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a8e2cd8eb020ad0800000000000000
+      internalID: -2737612528733484432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_38
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0531643d528d4bd40800000000000000
+      internalID: 5599337893698343760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1ed1183cc35abb0800000000000000
+      internalID: -4925463807077260828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_40
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270031d204fcba620800000000000000
+      internalID: 2786548668999860338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a23f267815103d0800000000000000
+      internalID: -3242220614807508416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_42
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 12
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ae385167b44da30800000000000000
+      internalID: 4239096119801670222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_43
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 7
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1473350a9ad9a80800000000000000
+      internalID: -8458418019075931681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_44
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 8
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d8ca4d59871e70800000000000000
+      internalID: 9085881807022903801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_45
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 7
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3572697a56c53d680800000000000000
+      internalID: -8731533660868171949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_46
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 7
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da401fb5af9cd7c60800000000000000
+      internalID: 7817626605306578093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death lion_47
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 7
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0643a2657c66b8950800000000000000
+      internalID: 6452363897468499040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Death lion_0: 5592292192750201246
+      Death lion_1: 5525632852003639743
+      Death lion_10: -3301333289829123395
+      Death lion_11: 377521478962537770
+      Death lion_12: -1155025088232126152
+      Death lion_13: 7720148398429303437
+      Death lion_14: -1861343479855847740
+      Death lion_15: 3582847442691284582
+      Death lion_16: -8453638082177969848
+      Death lion_17: 459000409805815801
+      Death lion_18: -8781350541357137931
+      Death lion_19: -6162576420578559246
+      Death lion_2: 6922357706320365920
+      Death lion_20: -747747405297121335
+      Death lion_21: 4457642812307567519
+      Death lion_22: -6952148039991844371
+      Death lion_23: -4762683164947314738
+      Death lion_24: 2782734468241738523
+      Death lion_25: 1440270204596574329
+      Death lion_26: 9132327801394647639
+      Death lion_27: -5770018479049827427
+      Death lion_28: 4826142995658222922
+      Death lion_29: -2997872077401823705
+      Death lion_3: -1648681451205251387
+      Death lion_30: -1428477651652902533
+      Death lion_31: 8164211480653062993
+      Death lion_32: -5375526983258983804
+      Death lion_33: 3526400479939714445
+      Death lion_34: -8649284924504324149
+      Death lion_35: -3583321357974498835
+      Death lion_36: -1582271899406376252
+      Death lion_37: -2737612528733484432
+      Death lion_38: 5599337893698343760
+      Death lion_39: -4925463807077260828
+      Death lion_4: 5066539774446910953
+      Death lion_40: 2786548668999860338
+      Death lion_41: -3242220614807508416
+      Death lion_42: 4239096119801670222
+      Death lion_43: -8458418019075931681
+      Death lion_44: 9085881807022903801
+      Death lion_45: -8731533660868171949
+      Death lion_46: 7817626605306578093
+      Death lion_47: 6452363897468499040
+      Death lion_5: -3474401299151347073
+      Death lion_6: -8018862225013915394
+      Death lion_7: -5496801327304413683
+      Death lion_8: -4196595340498602979
+      Death lion_9: -4377476977798281794
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

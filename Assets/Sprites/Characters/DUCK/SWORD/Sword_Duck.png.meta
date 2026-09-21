@@ -1,0 +1,1601 @@
+fileFormatVersion: 2
+guid: 1de0a255f35f7c744ae066a54a53638d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2549362175362172952
+    second: Sword_Duck_0
+  - first:
+      213: 8720237252627703030
+    second: Sword_Duck_1
+  - first:
+      213: -909126757719993586
+    second: Sword_Duck_2
+  - first:
+      213: -6808809914615655324
+    second: Sword_Duck_3
+  - first:
+      213: -5709208479487853202
+    second: Sword_Duck_4
+  - first:
+      213: -4062613876901528691
+    second: Sword_Duck_5
+  - first:
+      213: -2183371179114969230
+    second: Sword_Duck_6
+  - first:
+      213: -9160252596823770637
+    second: Sword_Duck_7
+  - first:
+      213: 696756229548292408
+    second: Sword_Duck_8
+  - first:
+      213: 4237522796070914802
+    second: Sword_Duck_9
+  - first:
+      213: 5005803143848767779
+    second: Sword_Duck_10
+  - first:
+      213: -8661942699663279241
+    second: Sword_Duck_11
+  - first:
+      213: -7271241780058667847
+    second: Sword_Duck_12
+  - first:
+      213: 8362096622244968118
+    second: Sword_Duck_13
+  - first:
+      213: -642346359712762513
+    second: Sword_Duck_14
+  - first:
+      213: -6057630908311339548
+    second: Sword_Duck_15
+  - first:
+      213: 8973666600649006222
+    second: Sword_Duck_16
+  - first:
+      213: 6735000968292840809
+    second: Sword_Duck_17
+  - first:
+      213: 4498057213277467367
+    second: Sword_Duck_18
+  - first:
+      213: 7741464682688757262
+    second: Sword_Duck_19
+  - first:
+      213: 2580670032354178388
+    second: Sword_Duck_20
+  - first:
+      213: 2056543510717142257
+    second: Sword_Duck_21
+  - first:
+      213: -1136977736766090953
+    second: Sword_Duck_22
+  - first:
+      213: 2022999155602688338
+    second: Sword_Duck_23
+  - first:
+      213: -3546087633537589699
+    second: Sword_Duck_24
+  - first:
+      213: -7486105461022463354
+    second: Sword_Duck_25
+  - first:
+      213: -553955973265571235
+    second: Sword_Duck_26
+  - first:
+      213: 8923294225950679261
+    second: Sword_Duck_27
+  - first:
+      213: -652079605050583023
+    second: Sword_Duck_28
+  - first:
+      213: -3791858267792355171
+    second: Sword_Duck_29
+  - first:
+      213: 2946362444119917710
+    second: Sword_Duck_30
+  - first:
+      213: -5765783829745083194
+    second: Sword_Duck_31
+  - first:
+      213: -8001236273004158506
+    second: Sword_Duck_32
+  - first:
+      213: 5300029179247850152
+    second: Sword_Duck_33
+  - first:
+      213: 7931257279356441168
+    second: Sword_Duck_34
+  - first:
+      213: -4307039111094526445
+    second: Sword_Duck_35
+  - first:
+      213: 3350150546550090903
+    second: Sword_Duck_36
+  - first:
+      213: 1566006421764607135
+    second: Sword_Duck_37
+  - first:
+      213: 1835450260071774419
+    second: Sword_Duck_38
+  - first:
+      213: -8440230770494632556
+    second: Sword_Duck_39
+  - first:
+      213: -1927377409100377431
+    second: Sword_Duck_40
+  - first:
+      213: -962707656451950174
+    second: Sword_Duck_41
+  - first:
+      213: -1963794286149062803
+    second: Sword_Duck_42
+  - first:
+      213: 3186209412205252107
+    second: Sword_Duck_43
+  - first:
+      213: 5166077680441567789
+    second: Sword_Duck_44
+  - first:
+      213: 8227761352965518366
+    second: Sword_Duck_45
+  - first:
+      213: 3716570395230140524
+    second: Sword_Duck_46
+  - first:
+      213: -6002741887242578919
+    second: Sword_Duck_47
+  - first:
+      213: -4411842841310744871
+    second: Sword_Duck_48
+  - first:
+      213: -7740812449698031450
+    second: Sword_Duck_49
+  - first:
+      213: -5628994429992176347
+    second: Sword_Duck_50
+  - first:
+      213: 1721055139199696440
+    second: Sword_Duck_51
+  - first:
+      213: 8111850924700803764
+    second: Sword_Duck_52
+  - first:
+      213: 7885955723973379035
+    second: Sword_Duck_53
+  - first:
+      213: -352684560822459106
+    second: Sword_Duck_54
+  - first:
+      213: 6224364313781631666
+    second: Sword_Duck_55
+  - first:
+      213: 7572793211872915152
+    second: Sword_Duck_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sword_Duck_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e778bdcb98de9cd0800000000000000
+      internalID: -2549362175362172952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4a0085491840970800000000000000
+      internalID: 8720237252627703030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e031c46d7022263f0800000000000000
+      internalID: -909126757719993586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 158
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4641d20157f3281a0800000000000000
+      internalID: -6808809914615655324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 158
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d7a77f221d4c0b0800000000000000
+      internalID: -5709208479487853202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 158
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b36bf1432be97c0800000000000000
+      internalID: -4062613876901528691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 174
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277c6080b7b13b1e0800000000000000
+      internalID: -2183371179114969230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 158
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f93879dbce30e080800000000000000
+      internalID: -9160252596823770637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_8
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 158
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839344569106ba900800000000000000
+      internalID: 696756229548292408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_9
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 159
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa4d6b1884beca30800000000000000
+      internalID: 4237522796070914802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321b3acff6f287540800000000000000
+      internalID: 5005803143848767779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b38c1f1099ac780800000000000000
+      internalID: -8661942699663279241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4cf9f202c571b90800000000000000
+      internalID: -7271241780058667847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_13
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6b76ad2922c0470800000000000000
+      internalID: 8362096622244968118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 111
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f653e8e936de517f0800000000000000
+      internalID: -642346359712762513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 114
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4edfca998c8feeba0800000000000000
+      internalID: -6057630908311339548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c98709a3ed88c70800000000000000
+      internalID: 8973666600649006222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965b10572b7877d50800000000000000
+      internalID: 6735000968292840809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_18
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e279c8243f4c6e30800000000000000
+      internalID: 4498057213277467367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 110
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e35e4ec153f6b60800000000000000
+      internalID: 7741464682688757262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45577f0b8b160d320800000000000000
+      internalID: 2580670032354178388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 113
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f41e6d4d6f4a8c10800000000000000
+      internalID: 2056543510717142257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731978ab5c4a830f0800000000000000
+      internalID: -1136977736766090953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_23
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2590d928303231c10800000000000000
+      internalID: 2022999155602688338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e1694d514c9cec0800000000000000
+      internalID: -3546087633537589699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_25
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 111
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ae4ac0fb20c1890800000000000000
+      internalID: -7486105461022463354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 110
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52cc403af3ff48f0800000000000000
+      internalID: -553955973265571235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_27
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 110
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0a51422d8e5db70800000000000000
+      internalID: 8923294225950679261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_28
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 111
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118dea7dd0953f6f0800000000000000
+      internalID: -652079605050583023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_29
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 63
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90db9ddefc906bc0800000000000000
+      internalID: -3791858267792355171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_30
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84c15d480593e820800000000000000
+      internalID: 2946362444119917710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_31
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc5a50c722dbffa0800000000000000
+      internalID: -5765783829745083194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_32
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 63
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1ed978006e5f090800000000000000
+      internalID: -8001236273004158506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2f540357c7d8940800000000000000
+      internalID: 5300029179247850152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 62
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0529546597c711e60800000000000000
+      internalID: 7931257279356441168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_35
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 66
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e1f758fb25a34c0800000000000000
+      internalID: -4307039111094526445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_36
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ce2371c202e7e20800000000000000
+      internalID: 3350150546550090903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_37
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 60
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c82452b829bb510800000000000000
+      internalID: 1566006421764607135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 63
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8f9727944d87910800000000000000
+      internalID: 1835450260071774419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_39
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 62
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d885e15d64eda80800000000000000
+      internalID: -8440230770494632556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 63
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2957645749045e0800000000000000
+      internalID: -1927377409100377431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_41
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 62
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9f1a2bc76c3a2f0800000000000000
+      internalID: -962707656451950174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_42
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fa42a50833fb4e0800000000000000
+      internalID: -1963794286149062803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_43
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 64
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e00824490b73c20800000000000000
+      internalID: 3186209412205252107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_44
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a2bc0874891b740800000000000000
+      internalID: 5166077680441567789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e147234ab51ee2270800000000000000
+      internalID: 8227761352965518366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68fc6e4519e39330800000000000000
+      internalID: 3716570395230140524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 14
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9145c84be0af1bca0800000000000000
+      internalID: -6002741887242578919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_48
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 14
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dea2de8f4cf5c2c0800000000000000
+      internalID: -4411842841310744871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_49
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8d3dee61c139490800000000000000
+      internalID: -7740812449698031450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_50
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f9adb36bc1e1b0800000000000000
+      internalID: -5628994429992176347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ebbd2d78a62e710800000000000000
+      internalID: 1721055139199696440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_52
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b227b50075139070800000000000000
+      internalID: 8111850924700803764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_53
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 0
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd344e903fa807d60800000000000000
+      internalID: 7885955723973379035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_54
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15a962b2430b1bf0800000000000000
+      internalID: -352684560822459106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 12
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba72938d52616650800000000000000
+      internalID: 6224364313781631666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sword_Duck_56
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 15
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deac27cd47f71960800000000000000
+      internalID: 7572793211872915152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sword_Duck_0: -2549362175362172952
+      Sword_Duck_1: 8720237252627703030
+      Sword_Duck_10: 5005803143848767779
+      Sword_Duck_11: -8661942699663279241
+      Sword_Duck_12: -7271241780058667847
+      Sword_Duck_13: 8362096622244968118
+      Sword_Duck_14: -642346359712762513
+      Sword_Duck_15: -6057630908311339548
+      Sword_Duck_16: 8973666600649006222
+      Sword_Duck_17: 6735000968292840809
+      Sword_Duck_18: 4498057213277467367
+      Sword_Duck_19: 7741464682688757262
+      Sword_Duck_2: -909126757719993586
+      Sword_Duck_20: 2580670032354178388
+      Sword_Duck_21: 2056543510717142257
+      Sword_Duck_22: -1136977736766090953
+      Sword_Duck_23: 2022999155602688338
+      Sword_Duck_24: -3546087633537589699
+      Sword_Duck_25: -7486105461022463354
+      Sword_Duck_26: -553955973265571235
+      Sword_Duck_27: 8923294225950679261
+      Sword_Duck_28: -652079605050583023
+      Sword_Duck_29: -3791858267792355171
+      Sword_Duck_3: -6808809914615655324
+      Sword_Duck_30: 2946362444119917710
+      Sword_Duck_31: -5765783829745083194
+      Sword_Duck_32: -8001236273004158506
+      Sword_Duck_33: 5300029179247850152
+      Sword_Duck_34: 7931257279356441168
+      Sword_Duck_35: -4307039111094526445
+      Sword_Duck_36: 3350150546550090903
+      Sword_Duck_37: 1566006421764607135
+      Sword_Duck_38: 1835450260071774419
+      Sword_Duck_39: -8440230770494632556
+      Sword_Duck_4: -5709208479487853202
+      Sword_Duck_40: -1927377409100377431
+      Sword_Duck_41: -962707656451950174
+      Sword_Duck_42: -1963794286149062803
+      Sword_Duck_43: 3186209412205252107
+      Sword_Duck_44: 5166077680441567789
+      Sword_Duck_45: 8227761352965518366
+      Sword_Duck_46: 3716570395230140524
+      Sword_Duck_47: -6002741887242578919
+      Sword_Duck_48: -4411842841310744871
+      Sword_Duck_49: -7740812449698031450
+      Sword_Duck_5: -4062613876901528691
+      Sword_Duck_50: -5628994429992176347
+      Sword_Duck_51: 1721055139199696440
+      Sword_Duck_52: 8111850924700803764
+      Sword_Duck_53: 7885955723973379035
+      Sword_Duck_54: -352684560822459106
+      Sword_Duck_55: 6224364313781631666
+      Sword_Duck_56: 7572793211872915152
+      Sword_Duck_6: -2183371179114969230
+      Sword_Duck_7: -9160252596823770637
+      Sword_Duck_8: 696756229548292408
+      Sword_Duck_9: 4237522796070914802
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

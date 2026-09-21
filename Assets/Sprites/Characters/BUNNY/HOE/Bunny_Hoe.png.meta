@@ -1,0 +1,1601 @@
+fileFormatVersion: 2
+guid: 1f37907a82fffe647ba2bca6521d8a33
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1295015152918146756
+    second: Bunny_Hoe_0
+  - first:
+      213: 2008943953345528361
+    second: Bunny_Hoe_1
+  - first:
+      213: 33919964865898510
+    second: Bunny_Hoe_2
+  - first:
+      213: -4801921361947486415
+    second: Bunny_Hoe_3
+  - first:
+      213: -5825095638222381453
+    second: Bunny_Hoe_4
+  - first:
+      213: -6269750911680736800
+    second: Bunny_Hoe_5
+  - first:
+      213: 4302631292119902510
+    second: Bunny_Hoe_6
+  - first:
+      213: -2755540605704692010
+    second: Bunny_Hoe_7
+  - first:
+      213: 901854812059536066
+    second: Bunny_Hoe_8
+  - first:
+      213: -3715144640122581443
+    second: Bunny_Hoe_9
+  - first:
+      213: -6907266896668884486
+    second: Bunny_Hoe_10
+  - first:
+      213: 4215903893348574660
+    second: Bunny_Hoe_11
+  - first:
+      213: 6962313863362101525
+    second: Bunny_Hoe_12
+  - first:
+      213: -8409198907562897013
+    second: Bunny_Hoe_13
+  - first:
+      213: 1173979969500852935
+    second: Bunny_Hoe_14
+  - first:
+      213: -4816264376741057705
+    second: Bunny_Hoe_15
+  - first:
+      213: -6922867386990011762
+    second: Bunny_Hoe_16
+  - first:
+      213: -7939211708887724044
+    second: Bunny_Hoe_17
+  - first:
+      213: -4831652546463296648
+    second: Bunny_Hoe_18
+  - first:
+      213: 1783325563854317693
+    second: Bunny_Hoe_19
+  - first:
+      213: -8378261107104686304
+    second: Bunny_Hoe_20
+  - first:
+      213: -5506374351902863627
+    second: Bunny_Hoe_21
+  - first:
+      213: -1189472249596474012
+    second: Bunny_Hoe_22
+  - first:
+      213: 5203338802154914661
+    second: Bunny_Hoe_23
+  - first:
+      213: 4865138716727675081
+    second: Bunny_Hoe_24
+  - first:
+      213: -7255968238597577230
+    second: Bunny_Hoe_25
+  - first:
+      213: -7579996277825314732
+    second: Bunny_Hoe_26
+  - first:
+      213: 9051148283788682840
+    second: Bunny_Hoe_27
+  - first:
+      213: 1491385120182500645
+    second: Bunny_Hoe_28
+  - first:
+      213: 3377373759467752000
+    second: Bunny_Hoe_29
+  - first:
+      213: -8296023454918333575
+    second: Bunny_Hoe_30
+  - first:
+      213: -8173510022177416881
+    second: Bunny_Hoe_31
+  - first:
+      213: 7487735887072048055
+    second: Bunny_Hoe_32
+  - first:
+      213: 8884962313121574370
+    second: Bunny_Hoe_33
+  - first:
+      213: -1546470949911438244
+    second: Bunny_Hoe_34
+  - first:
+      213: -7443926904749918743
+    second: Bunny_Hoe_35
+  - first:
+      213: -8366409860701177560
+    second: Bunny_Hoe_36
+  - first:
+      213: 44768348770381874
+    second: Bunny_Hoe_37
+  - first:
+      213: -7406143462611414097
+    second: Bunny_Hoe_38
+  - first:
+      213: -6212740291471495825
+    second: Bunny_Hoe_39
+  - first:
+      213: -327487829414447718
+    second: Bunny_Hoe_40
+  - first:
+      213: 907345972832046905
+    second: Bunny_Hoe_41
+  - first:
+      213: -8175872119265634933
+    second: Bunny_Hoe_42
+  - first:
+      213: 7871362242981460110
+    second: Bunny_Hoe_43
+  - first:
+      213: -7426515748259883696
+    second: Bunny_Hoe_44
+  - first:
+      213: 6772045286647810266
+    second: Bunny_Hoe_45
+  - first:
+      213: 397458553987394651
+    second: Bunny_Hoe_46
+  - first:
+      213: -4161732330696634671
+    second: Bunny_Hoe_47
+  - first:
+      213: 2904395177641169760
+    second: Bunny_Hoe_48
+  - first:
+      213: -259806144722734754
+    second: Bunny_Hoe_49
+  - first:
+      213: 5746828361322989664
+    second: Bunny_Hoe_50
+  - first:
+      213: -3234425205199566604
+    second: Bunny_Hoe_51
+  - first:
+      213: 1034143669751902238
+    second: Bunny_Hoe_52
+  - first:
+      213: 4946869306047942545
+    second: Bunny_Hoe_53
+  - first:
+      213: 9059621396842648571
+    second: Bunny_Hoe_54
+  - first:
+      213: 2264197309381087511
+    second: Bunny_Hoe_55
+  - first:
+      213: 8946472650345386432
+    second: Bunny_Hoe_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bunny_Hoe_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce2f689b61d8f110800000000000000
+      internalID: 1295015152918146756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 156
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92244d8b1e331eb10800000000000000
+      internalID: 2008943953345528361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0820a04702887000800000000000000
+      internalID: 33919964865898510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 145
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13792c586f52c5db0800000000000000
+      internalID: -4801921361947486415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ed315316a192fa0800000000000000
+      internalID: -5825095638222381453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1961fa3ce5df8a0800000000000000
+      internalID: -6269750911680736800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 161
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2969462d5406bb30800000000000000
+      internalID: 4302631292119902510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de9ec82b6a52c9d0800000000000000
+      internalID: -2755540605704692010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 165
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca09cf5c28048c00800000000000000
+      internalID: 901854812059536066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e0c4c22a7217cc0800000000000000
+      internalID: -3715144640122581443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 165
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af18c3f8a557420a0800000000000000
+      internalID: -6907266896668884486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 159
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c56a321146e18a30800000000000000
+      internalID: 4215903893348574660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 159
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511c970229b1f9060800000000000000
+      internalID: 6962313863362101525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b815c1db5268c4b80800000000000000
+      internalID: -8409198907562897013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 111
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2b58fef80da4010800000000000000
+      internalID: 1173979969500852935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 111
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b2bf72111392db0800000000000000
+      internalID: -4816264376741057705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 111
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ad25b5ac80def90800000000000000
+      internalID: -6922867386990011762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff0027b30142d190800000000000000
+      internalID: -7939211708887724044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 116
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87391f1bb9582fcb0800000000000000
+      internalID: -4831652546463296648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 110
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78e860e625afb810800000000000000
+      internalID: 1783325563854317693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_20
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fdd8bb9ef6abb80800000000000000
+      internalID: -8378261107104686304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 117
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe028273bd6593b0800000000000000
+      internalID: -5506374351902863627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_22
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 111
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d0e948a452e7fe0800000000000000
+      internalID: -1189472249596474012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56343747219f53840800000000000000
+      internalID: 5203338802154914661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_24
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 117
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c88d81e2e1748340800000000000000
+      internalID: 4865138716727675081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5efdca45f9d4b90800000000000000
+      internalID: -7255968238597577230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_26
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 110
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450607dbb817ec690800000000000000
+      internalID: -7579996277825314732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 110
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8566c98b8632c9d70800000000000000
+      internalID: 9051148283788682840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52df7c77dd672b410800000000000000
+      internalID: 1491385120182500645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a0dc64a87dede20800000000000000
+      internalID: 3377373759467752000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ba8493f9a9edc80800000000000000
+      internalID: -8296023454918333575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f491500a0fbd19e80800000000000000
+      internalID: -8173510022177416881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 62
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3bfd81e18c9e760800000000000000
+      internalID: 7487735887072048055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 68
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed2854362abd4b70800000000000000
+      internalID: 8884962313121574370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_34
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c51175dd4d98ae0800000000000000
+      internalID: -1546470949911438244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_35
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 63
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e578647bebd1b890800000000000000
+      internalID: -7443926904749918743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_36
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829b49f0f8a84eb80800000000000000
+      internalID: -8366409860701177560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 62
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230b3a5739c0f9000800000000000000
+      internalID: 44768348770381874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 69
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3177b92c7183990800000000000000
+      internalID: -7406143462611414097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_39
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6da5151f99e7c9a0800000000000000
+      internalID: -6212740291471495825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_40
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 62
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95fc73ed87847bf0800000000000000
+      internalID: -327487829414447718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_41
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 62
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f090fda5a879c00800000000000000
+      internalID: 907345972832046905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_42
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85d62a00a7798e80800000000000000
+      internalID: -8175872119265634933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_43
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 27
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88f4577142bc3d60800000000000000
+      internalID: 7871362242981460110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055102a3647bfe890800000000000000
+      internalID: -7426515748259883696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad84081fe432bfd50800000000000000
+      internalID: 6772045286647810266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ceb53f27e048500800000000000000
+      internalID: 397458553987394651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de819abe7e8e36c0800000000000000
+      internalID: -4161732330696634671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063d8a2a60c7e4820800000000000000
+      internalID: 2904395177641169760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 21
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51765910bbf46cf0800000000000000
+      internalID: -259806144722734754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0680cc552f5d0cf40800000000000000
+      internalID: 5746828361322989664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_51
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8828f99630d13d0800000000000000
+      internalID: -3234425205199566604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10f74240340a5e00800000000000000
+      internalID: 1034143669751902238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_53
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f45499c6fc6a440800000000000000
+      internalID: 4946869306047942545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_54
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3955619ad3abd70800000000000000
+      internalID: 9059621396842648571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_55
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7111e07e47b0c6f10800000000000000
+      internalID: 2264197309381087511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Hoe_56
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1959c9971482c70800000000000000
+      internalID: 8946472650345386432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bunny_Hoe_0: 1295015152918146756
+      Bunny_Hoe_1: 2008943953345528361
+      Bunny_Hoe_10: -6907266896668884486
+      Bunny_Hoe_11: 4215903893348574660
+      Bunny_Hoe_12: 6962313863362101525
+      Bunny_Hoe_13: -8409198907562897013
+      Bunny_Hoe_14: 1173979969500852935
+      Bunny_Hoe_15: -4816264376741057705
+      Bunny_Hoe_16: -6922867386990011762
+      Bunny_Hoe_17: -7939211708887724044
+      Bunny_Hoe_18: -4831652546463296648
+      Bunny_Hoe_19: 1783325563854317693
+      Bunny_Hoe_2: 33919964865898510
+      Bunny_Hoe_20: -8378261107104686304
+      Bunny_Hoe_21: -5506374351902863627
+      Bunny_Hoe_22: -1189472249596474012
+      Bunny_Hoe_23: 5203338802154914661
+      Bunny_Hoe_24: 4865138716727675081
+      Bunny_Hoe_25: -7255968238597577230
+      Bunny_Hoe_26: -7579996277825314732
+      Bunny_Hoe_27: 9051148283788682840
+      Bunny_Hoe_28: 1491385120182500645
+      Bunny_Hoe_29: 3377373759467752000
+      Bunny_Hoe_3: -4801921361947486415
+      Bunny_Hoe_30: -8296023454918333575
+      Bunny_Hoe_31: -8173510022177416881
+      Bunny_Hoe_32: 7487735887072048055
+      Bunny_Hoe_33: 8884962313121574370
+      Bunny_Hoe_34: -1546470949911438244
+      Bunny_Hoe_35: -7443926904749918743
+      Bunny_Hoe_36: -8366409860701177560
+      Bunny_Hoe_37: 44768348770381874
+      Bunny_Hoe_38: -7406143462611414097
+      Bunny_Hoe_39: -6212740291471495825
+      Bunny_Hoe_4: -5825095638222381453
+      Bunny_Hoe_40: -327487829414447718
+      Bunny_Hoe_41: 907345972832046905
+      Bunny_Hoe_42: -8175872119265634933
+      Bunny_Hoe_43: 7871362242981460110
+      Bunny_Hoe_44: -7426515748259883696
+      Bunny_Hoe_45: 6772045286647810266
+      Bunny_Hoe_46: 397458553987394651
+      Bunny_Hoe_47: -4161732330696634671
+      Bunny_Hoe_48: 2904395177641169760
+      Bunny_Hoe_49: -259806144722734754
+      Bunny_Hoe_5: -6269750911680736800
+      Bunny_Hoe_50: 5746828361322989664
+      Bunny_Hoe_51: -3234425205199566604
+      Bunny_Hoe_52: 1034143669751902238
+      Bunny_Hoe_53: 4946869306047942545
+      Bunny_Hoe_54: 9059621396842648571
+      Bunny_Hoe_55: 2264197309381087511
+      Bunny_Hoe_56: 8946472650345386432
+      Bunny_Hoe_6: 4302631292119902510
+      Bunny_Hoe_7: -2755540605704692010
+      Bunny_Hoe_8: 901854812059536066
+      Bunny_Hoe_9: -3715144640122581443
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

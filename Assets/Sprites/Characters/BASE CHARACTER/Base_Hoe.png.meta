@@ -1,0 +1,1965 @@
+fileFormatVersion: 2
+guid: a77f978ffdb7e324d863b02cbe43c8ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -406150244063324548
+    second: Base_Hoe_0
+  - first:
+      213: -7176947693925643063
+    second: Base_Hoe_1
+  - first:
+      213: -7966968175436721976
+    second: Base_Hoe_2
+  - first:
+      213: -5088889686983808671
+    second: Base_Hoe_3
+  - first:
+      213: 5721491292575129491
+    second: Base_Hoe_4
+  - first:
+      213: 1464619465796900476
+    second: Base_Hoe_5
+  - first:
+      213: -8483557738623296332
+    second: Base_Hoe_6
+  - first:
+      213: -4786767864186183588
+    second: Base_Hoe_7
+  - first:
+      213: 7851339022076201445
+    second: Base_Hoe_8
+  - first:
+      213: 3198273899462420361
+    second: Base_Hoe_9
+  - first:
+      213: -4253429146321631495
+    second: Base_Hoe_10
+  - first:
+      213: -1542403223787651450
+    second: Base_Hoe_11
+  - first:
+      213: 6314728964946676756
+    second: Base_Hoe_12
+  - first:
+      213: -6202198949253981517
+    second: Base_Hoe_13
+  - first:
+      213: -1746567479730222422
+    second: Base_Hoe_14
+  - first:
+      213: 1033892957708575377
+    second: Base_Hoe_15
+  - first:
+      213: -5264542952827650199
+    second: Base_Hoe_16
+  - first:
+      213: -9094741468296389607
+    second: Base_Hoe_17
+  - first:
+      213: 6698131927201073233
+    second: Base_Hoe_18
+  - first:
+      213: 2803165149224028331
+    second: Base_Hoe_19
+  - first:
+      213: -3161169301616736547
+    second: Base_Hoe_20
+  - first:
+      213: -1429107368307500644
+    second: Base_Hoe_21
+  - first:
+      213: 1578314336318795043
+    second: Base_Hoe_22
+  - first:
+      213: -4826617695141327234
+    second: Base_Hoe_23
+  - first:
+      213: 3495405451781320556
+    second: Base_Hoe_24
+  - first:
+      213: 3965641089288817985
+    second: Base_Hoe_25
+  - first:
+      213: 5056694186114761923
+    second: Base_Hoe_26
+  - first:
+      213: -8171800655375520399
+    second: Base_Hoe_27
+  - first:
+      213: -8925700451629155572
+    second: Base_Hoe_28
+  - first:
+      213: 5866859470545963323
+    second: Base_Hoe_29
+  - first:
+      213: 662237285744732848
+    second: Base_Hoe_30
+  - first:
+      213: 6667689690912519967
+    second: Base_Hoe_31
+  - first:
+      213: 3233051276304497657
+    second: Base_Hoe_32
+  - first:
+      213: -5576164348984674080
+    second: Base_Hoe_33
+  - first:
+      213: -3006680800007320414
+    second: Base_Hoe_34
+  - first:
+      213: 8316624662666050715
+    second: Base_Hoe_35
+  - first:
+      213: 1904720027170355045
+    second: Base_Hoe_36
+  - first:
+      213: -1124632569042925430
+    second: Base_Hoe_37
+  - first:
+      213: -7084722900904215347
+    second: Base_Hoe_38
+  - first:
+      213: -8231794801303217816
+    second: Base_Hoe_39
+  - first:
+      213: -4862432044310066868
+    second: Base_Hoe_40
+  - first:
+      213: -2263988295901615582
+    second: Base_Hoe_41
+  - first:
+      213: -8418843486953810935
+    second: Base_Hoe_42
+  - first:
+      213: -5522747966152982073
+    second: Base_Hoe_43
+  - first:
+      213: -5709244244521903113
+    second: Base_Hoe_44
+  - first:
+      213: 8205610226441693386
+    second: Base_Hoe_45
+  - first:
+      213: 4618339288707686527
+    second: Base_Hoe_46
+  - first:
+      213: -1751300033466974454
+    second: Base_Hoe_47
+  - first:
+      213: 5717958424224997328
+    second: Base_Hoe_48
+  - first:
+      213: 1010755567828924951
+    second: Base_Hoe_49
+  - first:
+      213: 2642797974125129815
+    second: Base_Hoe_50
+  - first:
+      213: 2909746492922323292
+    second: Base_Hoe_51
+  - first:
+      213: 346812632125587928
+    second: Base_Hoe_52
+  - first:
+      213: -3926845109797739890
+    second: Base_Hoe_53
+  - first:
+      213: 2716040127788649013
+    second: Base_Hoe_54
+  - first:
+      213: -2947904109355666501
+    second: Base_Hoe_55
+  - first:
+      213: 2975025058226907837
+    second: Base_Hoe_56
+  - first:
+      213: -3540259836000367510
+    second: Base_Hoe_57
+  - first:
+      213: -296716088346763877
+    second: Base_Hoe_58
+  - first:
+      213: 7752800686176436199
+    second: Base_Hoe_59
+  - first:
+      213: 2553845862499148724
+    second: Base_Hoe_60
+  - first:
+      213: -5126572192563011438
+    second: Base_Hoe_61
+  - first:
+      213: -4045598532528669506
+    second: Base_Hoe_62
+  - first:
+      213: -7007586123416746406
+    second: Base_Hoe_63
+  - first:
+      213: 8414558444443647073
+    second: Base_Hoe_64
+  - first:
+      213: 2456474668944958581
+    second: Base_Hoe_65
+  - first:
+      213: 3359090553430838204
+    second: Base_Hoe_66
+  - first:
+      213: -5835596755104869115
+    second: Base_Hoe_67
+  - first:
+      213: 1846008804458807903
+    second: Base_Hoe_68
+  - first:
+      213: 5621094403447026382
+    second: Base_Hoe_69
+  - first:
+      213: 6745600743086762892
+    second: Base_Hoe_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base_Hoe_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76da2141801d5af0800000000000000
+      internalID: -406150244063324548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 146
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccc004f81c566c90800000000000000
+      internalID: -7176947693925643063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 145
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0904eb7a4af6190800000000000000
+      internalID: -7966968175436721976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1696e22bac1a069b0800000000000000
+      internalID: -5088889686983808671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 161
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f5e6f4402d66f40800000000000000
+      internalID: 5721491292575129491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 165
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7652fde4af535410800000000000000
+      internalID: 1464619465796900476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 165
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc97dd3f29544a80800000000000000
+      internalID: -8483557738623296332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c506de82dfbf19db0800000000000000
+      internalID: -4786767864186183588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_8
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 172
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9c30e0e3f85fc60800000000000000
+      internalID: 7851339022076201445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 159
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9876cd79a2d826c20800000000000000
+      internalID: 3198273899462420361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 156
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6c4302ab8c8f4c0800000000000000
+      internalID: -4253429146321631495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e38b1a078489ae0800000000000000
+      internalID: -1542403223787651450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_12
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c4488698c62a750800000000000000
+      internalID: 6314728964946676756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba5a639aec5de9a0800000000000000
+      internalID: -6202198949253981517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa4e628122f2c7e0800000000000000
+      internalID: -1746567479730222422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1926fffca20295e00800000000000000
+      internalID: 1033892957708575377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 128
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ffbefb31690f6b0800000000000000
+      internalID: -5264542952827650199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 127
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cdd2212dcf8c180800000000000000
+      internalID: -9094741468296389607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158c583ef7b84fc50800000000000000
+      internalID: 6698131927201073233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 122
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c046f9d7d6e620800000000000000
+      internalID: 2803165149224028331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6c34ec4454124d0800000000000000
+      internalID: -3161169301616736547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 121
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9953269b6aca2ce0800000000000000
+      internalID: -1429107368307500644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d2030d68c47e510800000000000000
+      internalID: 1578314336318795043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 116
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e8c7e57c8640db0800000000000000
+      internalID: -4826617695141327234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 110
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fa36b2dbc228030800000000000000
+      internalID: 3495405451781320556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_25
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 117
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dc0c15f89c80730800000000000000
+      internalID: 3965641089288817985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 111
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4472d129cfc2640800000000000000
+      internalID: 5056694186114761923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_27
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 117
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17da909999ee79e80800000000000000
+      internalID: -8171800655375520399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_28
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bb919caba812480800000000000000
+      internalID: -8925700451629155572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_29
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b394701ca954b6150800000000000000
+      internalID: 5866859470545963323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_30
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba65dd7d4db03900800000000000000
+      internalID: 662237285744732848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_31
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17ff5b6274688c50800000000000000
+      internalID: 6667689690912519967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_32
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbb0c0a10b1edc20800000000000000
+      internalID: 3233051276304497657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 110
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e83291811c7d92b0800000000000000
+      internalID: -5576164348984674080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_34
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 110
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac83921ebf1646d0800000000000000
+      internalID: -3006680800007320414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c767c31169a6370800000000000000
+      internalID: 8316624662666050715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567bf08e5ccee6a10800000000000000
+      internalID: 1904720027170355045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_37
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a888c5313a08460f0800000000000000
+      internalID: -1124632569042925430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_38
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 80
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc778fde020ead90800000000000000
+      internalID: -7084722900904215347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_39
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8691a6cfd3ac2cd80800000000000000
+      internalID: -8231794801303217816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_40
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 75
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c490c6661db258cb0800000000000000
+      internalID: -4862432044310066868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a6427d3a2b490e0800000000000000
+      internalID: -2263988295901615582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_42
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 73
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904d18c14724a2b80800000000000000
+      internalID: -8418843486953810935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_43
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 62
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1c07d4cf14b53b0800000000000000
+      internalID: -5522747966152982073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_44
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 68
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb1455cb90b4c0b0800000000000000
+      internalID: -5709244244521903113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_45
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 63
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8ae58960f20e170800000000000000
+      internalID: 8205610226441693386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_46
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 69
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70e6a33d13a71040800000000000000
+      internalID: 4618339288707686527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_47
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 69
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f321af5e122b7e0800000000000000
+      internalID: -1751300033466974454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_48
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0df126c44e44a5f40800000000000000
+      internalID: 5717958424224997328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71af03f65dce60e00800000000000000
+      internalID: 1010755567828924951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_50
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 62
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750b9dc51ca1da420800000000000000
+      internalID: 2642797974125129815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_51
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51e211d40f716820800000000000000
+      internalID: 2909746492922323292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_52
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 62
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1c67d504020d400800000000000000
+      internalID: 346812632125587928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_53
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82a68e8d2b0189c0800000000000000
+      internalID: -3926845109797739890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_54
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 62
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a8c842b1051b520800000000000000
+      internalID: 2716040127788649013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb3f0f9c4d0f617d0800000000000000
+      internalID: -2947904109355666501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_56
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 28
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba20813789694920800000000000000
+      internalID: 2975025058226907837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_57
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c8d9eaf687edec0800000000000000
+      internalID: -3540259836000367510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_58
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 15
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d92fa2a4ad1ebf0800000000000000
+      internalID: -296716088346763877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_59
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 15
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef73f1e52b779b60800000000000000
+      internalID: 7752800686176436199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3ec55f745117320800000000000000
+      internalID: 2553845862499148724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_61
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290e2eaa0c1cad8b0800000000000000
+      internalID: -5126572192563011438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_62
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 21
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc79c4b1952bd7c0800000000000000
+      internalID: -4045598532528669506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_63
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56c9cc6c8d00ce90800000000000000
+      internalID: -7007586123416746406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_64
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cb3dea25486c470800000000000000
+      internalID: 8414558444443647073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574a53a42b6271220800000000000000
+      internalID: 2456474668944958581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_66
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb8d95af03ed9e20800000000000000
+      internalID: 3359090553430838204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_67
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5055d876babc30fa0800000000000000
+      internalID: -5835596755104869115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_68
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c2022a375e9910800000000000000
+      internalID: 1846008804458807903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_69
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2756ef393220e40800000000000000
+      internalID: 5621094403447026382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base_Hoe_70
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b2c48d2203d9d50800000000000000
+      internalID: 6745600743086762892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Base_Hoe_0: -406150244063324548
+      Base_Hoe_1: -7176947693925643063
+      Base_Hoe_10: -4253429146321631495
+      Base_Hoe_11: -1542403223787651450
+      Base_Hoe_12: 6314728964946676756
+      Base_Hoe_13: -6202198949253981517
+      Base_Hoe_14: -1746567479730222422
+      Base_Hoe_15: 1033892957708575377
+      Base_Hoe_16: -5264542952827650199
+      Base_Hoe_17: -9094741468296389607
+      Base_Hoe_18: 6698131927201073233
+      Base_Hoe_19: 2803165149224028331
+      Base_Hoe_2: -7966968175436721976
+      Base_Hoe_20: -3161169301616736547
+      Base_Hoe_21: -1429107368307500644
+      Base_Hoe_22: 1578314336318795043
+      Base_Hoe_23: -4826617695141327234
+      Base_Hoe_24: 3495405451781320556
+      Base_Hoe_25: 3965641089288817985
+      Base_Hoe_26: 5056694186114761923
+      Base_Hoe_27: -8171800655375520399
+      Base_Hoe_28: -8925700451629155572
+      Base_Hoe_29: 5866859470545963323
+      Base_Hoe_3: -5088889686983808671
+      Base_Hoe_30: 662237285744732848
+      Base_Hoe_31: 6667689690912519967
+      Base_Hoe_32: 3233051276304497657
+      Base_Hoe_33: -5576164348984674080
+      Base_Hoe_34: -3006680800007320414
+      Base_Hoe_35: 8316624662666050715
+      Base_Hoe_36: 1904720027170355045
+      Base_Hoe_37: -1124632569042925430
+      Base_Hoe_38: -7084722900904215347
+      Base_Hoe_39: -8231794801303217816
+      Base_Hoe_4: 5721491292575129491
+      Base_Hoe_40: -4862432044310066868
+      Base_Hoe_41: -2263988295901615582
+      Base_Hoe_42: -8418843486953810935
+      Base_Hoe_43: -5522747966152982073
+      Base_Hoe_44: -5709244244521903113
+      Base_Hoe_45: 8205610226441693386
+      Base_Hoe_46: 4618339288707686527
+      Base_Hoe_47: -1751300033466974454
+      Base_Hoe_48: 5717958424224997328
+      Base_Hoe_49: 1010755567828924951
+      Base_Hoe_5: 1464619465796900476
+      Base_Hoe_50: 2642797974125129815
+      Base_Hoe_51: 2909746492922323292
+      Base_Hoe_52: 346812632125587928
+      Base_Hoe_53: -3926845109797739890
+      Base_Hoe_54: 2716040127788649013
+      Base_Hoe_55: -2947904109355666501
+      Base_Hoe_56: 2975025058226907837
+      Base_Hoe_57: -3540259836000367510
+      Base_Hoe_58: -296716088346763877
+      Base_Hoe_59: 7752800686176436199
+      Base_Hoe_6: -8483557738623296332
+      Base_Hoe_60: 2553845862499148724
+      Base_Hoe_61: -5126572192563011438
+      Base_Hoe_62: -4045598532528669506
+      Base_Hoe_63: -7007586123416746406
+      Base_Hoe_64: 8414558444443647073
+      Base_Hoe_65: 2456474668944958581
+      Base_Hoe_66: 3359090553430838204
+      Base_Hoe_67: -5835596755104869115
+      Base_Hoe_68: 1846008804458807903
+      Base_Hoe_69: 5621094403447026382
+      Base_Hoe_7: -4786767864186183588
+      Base_Hoe_70: 6745600743086762892
+      Base_Hoe_8: 7851339022076201445
+      Base_Hoe_9: 3198273899462420361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

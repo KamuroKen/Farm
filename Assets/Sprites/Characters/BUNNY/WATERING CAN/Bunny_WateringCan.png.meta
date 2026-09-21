@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: 23c2972a062721c428a92ad9cc67a934
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7280484603806000968
+    second: Bunny_WateringCan_0
+  - first:
+      213: -7344245179680193921
+    second: Bunny_WateringCan_1
+  - first:
+      213: -6844376975495240291
+    second: Bunny_WateringCan_2
+  - first:
+      213: 4175467166614295570
+    second: Bunny_WateringCan_3
+  - first:
+      213: 406056307260685350
+    second: Bunny_WateringCan_4
+  - first:
+      213: -2267216921286972462
+    second: Bunny_WateringCan_5
+  - first:
+      213: -184636690103707145
+    second: Bunny_WateringCan_6
+  - first:
+      213: -3476051804879398991
+    second: Bunny_WateringCan_7
+  - first:
+      213: 7948703122799832659
+    second: Bunny_WateringCan_8
+  - first:
+      213: -4662404667160240157
+    second: Bunny_WateringCan_9
+  - first:
+      213: 7136791582010449193
+    second: Bunny_WateringCan_10
+  - first:
+      213: 7845948016771491427
+    second: Bunny_WateringCan_11
+  - first:
+      213: -5707074484064531849
+    second: Bunny_WateringCan_12
+  - first:
+      213: 8468165012470390493
+    second: Bunny_WateringCan_13
+  - first:
+      213: 8705899995095403661
+    second: Bunny_WateringCan_14
+  - first:
+      213: -1330492960758598987
+    second: Bunny_WateringCan_15
+  - first:
+      213: -5794920927937942429
+    second: Bunny_WateringCan_16
+  - first:
+      213: -8540146375928239303
+    second: Bunny_WateringCan_17
+  - first:
+      213: -1573855699009137317
+    second: Bunny_WateringCan_18
+  - first:
+      213: 6903898955169361798
+    second: Bunny_WateringCan_19
+  - first:
+      213: -5258124700050243590
+    second: Bunny_WateringCan_20
+  - first:
+      213: 7475073192387561848
+    second: Bunny_WateringCan_21
+  - first:
+      213: 3197335240928234780
+    second: Bunny_WateringCan_22
+  - first:
+      213: 1669703734935973144
+    second: Bunny_WateringCan_23
+  - first:
+      213: -5186853690787925073
+    second: Bunny_WateringCan_24
+  - first:
+      213: -8478288885442334946
+    second: Bunny_WateringCan_25
+  - first:
+      213: 1731550228299095568
+    second: Bunny_WateringCan_26
+  - first:
+      213: -6737621199458838291
+    second: Bunny_WateringCan_27
+  - first:
+      213: -992613715736384340
+    second: Bunny_WateringCan_28
+  - first:
+      213: 2338557762757948245
+    second: Bunny_WateringCan_29
+  - first:
+      213: 4914278311600072488
+    second: Bunny_WateringCan_30
+  - first:
+      213: -4262462260958065420
+    second: Bunny_WateringCan_31
+  - first:
+      213: 8692699159175971037
+    second: Bunny_WateringCan_32
+  - first:
+      213: 1782273662502431818
+    second: Bunny_WateringCan_33
+  - first:
+      213: 4686785009150520431
+    second: Bunny_WateringCan_34
+  - first:
+      213: -1956048732720636393
+    second: Bunny_WateringCan_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bunny_WateringCan_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 159
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847ae8a6c2a790560800000000000000
+      internalID: 7280484603806000968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7289c9abeff31a90800000000000000
+      internalID: -7344245179680193921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d956eb26763e301a0800000000000000
+      internalID: -6844376975495240291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2141a55f34d32f930800000000000000
+      internalID: 4175467166614295570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c74116f0a92a500800000000000000
+      internalID: 406056307260685350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db6fe9e83a3980e0800000000000000
+      internalID: -2267216921286972462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f95dd998e9007df0800000000000000
+      internalID: -184636690103707145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7de45ec4592cfc0800000000000000
+      internalID: -3476051804879398991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 159
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ea58b40677f4e60800000000000000
+      internalID: 7948703122799832659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 106
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef5ace58afcb4fb0800000000000000
+      internalID: -4662404667160240157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 110
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d1bb9a12afa0360800000000000000
+      internalID: 7136791582010449193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36668d1d62862ec60800000000000000
+      internalID: 7845948016771491427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a43ae7ef56cc0b0800000000000000
+      internalID: -5707074484064531849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 110
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde50bb6637f48570800000000000000
+      internalID: 8468165012470390493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 110
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c8cb17be191d870800000000000000
+      internalID: 8705899995095403661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_15
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 109
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b273d193b3298de0800000000000000
+      internalID: -1330492960758598987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 108
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c28cc6e1e449fa0800000000000000
+      internalID: -5794920927937942429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 110
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b25f46e1e4b7980800000000000000
+      internalID: -8540146375928239303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 58
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5516d4949a882ae0800000000000000
+      internalID: -1573855699009137317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 62
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f6f0475839fcf50800000000000000
+      internalID: 6903898955169361798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff3ccca1736707b0800000000000000
+      internalID: -5258124700050243590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_21
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 63
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8794e4eb67bccb760800000000000000
+      internalID: 7475073192387561848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 62
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d8d5f16773f5c20800000000000000
+      internalID: 3197335240928234780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 62
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d600153bafb2710800000000000000
+      internalID: 1669703734935973144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_24
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 61
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa379a2ac089408b0800000000000000
+      internalID: -5186853690787925073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 60
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f2118bd21175a80800000000000000
+      internalID: -8478288885442334946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 62
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e938c22c3b70810800000000000000
+      internalID: 1731550228299095568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de85d1f67392f72a0800000000000000
+      internalID: -6737621199458838291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac2a5aa5178932f0800000000000000
+      internalID: -992613715736384340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 12
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5537bef15e9347020800000000000000
+      internalID: 2338557762757948245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 7
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82724526616033440800000000000000
+      internalID: 4914278311600072488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 5
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc061b3821b8d4c0800000000000000
+      internalID: -4262462260958065420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0450254dba2a870800000000000000
+      internalID: 8692699159175971037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 5
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cedf10478ebb810800000000000000
+      internalID: 1782273662502431818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cea09522eca0140800000000000000
+      internalID: 4686785009150520431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_WateringCan_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e55da8a08bad4e0800000000000000
+      internalID: -1956048732720636393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bunny_WateringCan_0: 7280484603806000968
+      Bunny_WateringCan_1: -7344245179680193921
+      Bunny_WateringCan_10: 7136791582010449193
+      Bunny_WateringCan_11: 7845948016771491427
+      Bunny_WateringCan_12: -5707074484064531849
+      Bunny_WateringCan_13: 8468165012470390493
+      Bunny_WateringCan_14: 8705899995095403661
+      Bunny_WateringCan_15: -1330492960758598987
+      Bunny_WateringCan_16: -5794920927937942429
+      Bunny_WateringCan_17: -8540146375928239303
+      Bunny_WateringCan_18: -1573855699009137317
+      Bunny_WateringCan_19: 6903898955169361798
+      Bunny_WateringCan_2: -6844376975495240291
+      Bunny_WateringCan_20: -5258124700050243590
+      Bunny_WateringCan_21: 7475073192387561848
+      Bunny_WateringCan_22: 3197335240928234780
+      Bunny_WateringCan_23: 1669703734935973144
+      Bunny_WateringCan_24: -5186853690787925073
+      Bunny_WateringCan_25: -8478288885442334946
+      Bunny_WateringCan_26: 1731550228299095568
+      Bunny_WateringCan_27: -6737621199458838291
+      Bunny_WateringCan_28: -992613715736384340
+      Bunny_WateringCan_29: 2338557762757948245
+      Bunny_WateringCan_3: 4175467166614295570
+      Bunny_WateringCan_30: 4914278311600072488
+      Bunny_WateringCan_31: -4262462260958065420
+      Bunny_WateringCan_32: 8692699159175971037
+      Bunny_WateringCan_33: 1782273662502431818
+      Bunny_WateringCan_34: 4686785009150520431
+      Bunny_WateringCan_35: -1956048732720636393
+      Bunny_WateringCan_4: 406056307260685350
+      Bunny_WateringCan_5: -2267216921286972462
+      Bunny_WateringCan_6: -184636690103707145
+      Bunny_WateringCan_7: -3476051804879398991
+      Bunny_WateringCan_8: 7948703122799832659
+      Bunny_WateringCan_9: -4662404667160240157
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

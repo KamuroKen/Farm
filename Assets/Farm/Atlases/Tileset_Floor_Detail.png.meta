@@ -1,0 +1,591 @@
+fileFormatVersion: 2
+guid: 4820a32153487244dbc345912bb1577e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7325365188542734054
+    second: Tileset_Floor_Detail_0
+  - first:
+      213: 1549503074561963675
+    second: Tileset_Floor_Detail_1
+  - first:
+      213: -2877408707088659195
+    second: Tileset_Floor_Detail_2
+  - first:
+      213: -4542006817501716878
+    second: Tileset_Floor_Detail_3
+  - first:
+      213: 6623829211123522516
+    second: Tileset_Floor_Detail_4
+  - first:
+      213: 3444565066709581771
+    second: Tileset_Floor_Detail_5
+  - first:
+      213: 8809018242001622658
+    second: Tileset_Floor_Detail_6
+  - first:
+      213: 7219822144002777389
+    second: Tileset_Floor_Detail_7
+  - first:
+      213: 4899035171739713398
+    second: Tileset_Floor_Detail_8
+  - first:
+      213: 8430559483176171783
+    second: Tileset_Floor_Detail_9
+  - first:
+      213: -4139099601561850517
+    second: Tileset_Floor_Detail_10
+  - first:
+      213: 7688721648461225190
+    second: Tileset_Floor_Detail_11
+  - first:
+      213: 5152580244613332765
+    second: Tileset_Floor_Detail_12
+  - first:
+      213: 8492841829081181051
+    second: Tileset_Floor_Detail_13
+  - first:
+      213: -3488187973873669367
+    second: Tileset_Floor_Detail_14
+  - first:
+      213: 3241064712298894480
+    second: Tileset_Floor_Detail_15
+  - first:
+      213: -5823364230818188780
+    second: Tileset_Floor_Detail_16
+  - first:
+      213: -1916890457299239852
+    second: Tileset_Floor_Detail_17
+  - first:
+      213: 3417094732176492115
+    second: Tileset_Floor_Detail_18
+  - first:
+      213: 7128975110052361779
+    second: Tileset_Floor_Detail_19
+  - first:
+      213: -5222046389339657309
+    second: Tileset_Floor_Detail_20
+  - first:
+      213: -7735406361504651147
+    second: Tileset_Floor_Detail_21
+  - first:
+      213: -8850413517644189121
+    second: Tileset_Floor_Detail_22
+  - first:
+      213: 6077556522173520932
+    second: Tileset_Floor_Detail_23
+  - first:
+      213: -7172890242936423257
+    second: Tileset_Floor_Detail_24
+  - first:
+      213: 4296888746415980161
+    second: Tileset_Floor_Detail_25
+  - first:
+      213: 4628019808538918022
+    second: Tileset_Floor_Detail_26
+  - first:
+      213: 6871289729800805783
+    second: Tileset_Floor_Detail_27
+  - first:
+      213: -8118757469851374189
+    second: Tileset_Floor_Detail_28
+  - first:
+      213: 6160294702625935319
+    second: Tileset_Floor_Detail_29
+  - first:
+      213: -8066555959127519975
+    second: Tileset_Floor_Detail_30
+  - first:
+      213: -4121624117375000740
+    second: Tileset_Floor_Detail_31
+  - first:
+      213: -217624180246949036
+    second: Tileset_Floor_Detail_32
+  - first:
+      213: -8735563328474047676
+    second: Tileset_Floor_Detail_33
+  - first:
+      213: -866390672284016204
+    second: Tileset_Floor_Detail_34
+  - first:
+      213: 3998460853883678084
+    second: Tileset_Floor_Detail_35
+  - first:
+      213: -4823080605907341964
+    second: Tileset_Floor_Detail_36
+  - first:
+      213: -4177574384147128651
+    second: Tileset_Floor_Detail_37
+  - first:
+      213: 593407223666835136
+    second: Tileset_Floor_Detail_38
+  - first:
+      213: 8566654400664369834
+    second: Tileset_Floor_Detail_39
+  - first:
+      213: 7251102349326330938
+    second: Tileset_Floor_Detail_40
+  - first:
+      213: -2179108278513052546
+    second: Tileset_Floor_Detail_41
+  - first:
+      213: 8074183343977749887
+    second: Tileset_Floor_Detail_42
+  - first:
+      213: -629641598732981802
+    second: Tileset_Floor_Detail_43
+  - first:
+      213: 9058478124511151766
+    second: Tileset_Floor_Detail_44
+  - first:
+      213: 7283039600616808704
+    second: Tileset_Floor_Detail_45
+  - first:
+      213: 2782376243714924164
+    second: Tileset_Floor_Detail_46
+  - first:
+      213: 9116587567469488570
+    second: Tileset_Floor_Detail_47
+  - first:
+      213: 1418391999624727552
+    second: Tileset_Floor_Detail_48
+  - first:
+      213: -6161880703695149648
+    second: Tileset_Floor_Detail_49
+  - first:
+      213: -5054686233655374587
+    second: Tileset_Floor_Detail_50
+  - first:
+      213: -2106536536146690949
+    second: Tileset_Floor_Detail_51
+  - first:
+      213: -682908099615550121
+    second: Tileset_Floor_Detail_52
+  - first:
+      213: 1008686294260916370
+    second: Tileset_Floor_Detail_53
+  - first:
+      213: -2747693224597007700
+    second: Tileset_Floor_Detail_54
+  - first:
+      213: 4648460812851147298
+    second: Tileset_Floor_Detail_55
+  - first:
+      213: -8348743636294089393
+    second: Tileset_Floor_Detail_56
+  - first:
+      213: 112873014166148588
+    second: Tileset_Floor_Detail_57
+  - first:
+      213: 9004156332310201921
+    second: Tileset_Floor_Detail_58
+  - first:
+      213: 4100999761587342614
+    second: Tileset_Floor_Detail_59
+  - first:
+      213: 1547248183901764678
+    second: Tileset_Floor_Detail_60
+  - first:
+      213: -4152310925543593528
+    second: Tileset_Floor_Detail_61
+  - first:
+      213: 4437936999309814606
+    second: Tileset_Floor_Detail_62
+  - first:
+      213: -7286440650991123821
+    second: Tileset_Floor_Detail_63
+  - first:
+      213: -3115934814302424890
+    second: Tileset_Floor_Detail_64
+  - first:
+      213: -5517379189220523150
+    second: Tileset_Floor_Detail_65
+  - first:
+      213: 7001672150236122997
+    second: Tileset_Floor_Detail_66
+  - first:
+      213: -7640905178490964803
+    second: Tileset_Floor_Detail_67
+  - first:
+      213: 7083054098811738227
+    second: Tileset_Floor_Detail_68
+  - first:
+      213: 8244913634568914800
+    second: Tileset_Floor_Detail_69
+  - first:
+      213: -7858583624791880311
+    second: Tileset_Floor_Detail_70
+  - first:
+      213: -8092175506551621180
+    second: Tileset_Floor_Detail_71
+  - first:
+      213: 2133766278360746373
+    second: Tileset_Floor_Detail_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flowers_white
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d596b6ce7f5ee4e759f1031f4c96bb8
+      internalID: 2121408735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers_purple
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7946a02cd304d842f499925b9ac3da1a
+      internalID: 997991988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers_red
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a71c6288c81921af2601f3c03277aa6
+      internalID: 1379193154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers_pink
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d263089ac945ef67aae9a66bf127e0
+      internalID: -1360779084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers_yellow
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859ef252f78239db59cd3b2e267d97dc
+      internalID: 720118932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flowers_blue
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbccd0deaa9615c6111f588773a72b11
+      internalID: 1571910137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: clover_patch
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdc60ff00f2f1629d56e336cadedf2a
+      internalID: -695999782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tuft
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0852d131a25a2470678867b8bf8df35f
+      internalID: -1908275905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_sparse
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c231d3710973dfdb95e134c5e5de639f
+      internalID: -594749825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pebble
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ca8f21245b22175f78c78e98d1f825
+      internalID: 277419977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pebble_pair
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082358688f1e7ff27a0c14f594a1c161
+      internalID: -654431878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 13cceead3f31b39408a122c5605f4808
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      clover_patch: -695999782
+      flowers_blue: 1571910137
+      flowers_pink: -1360779084
+      flowers_purple: 997991988
+      flowers_red: 1379193154
+      flowers_white: 2121408735
+      flowers_yellow: 720118932
+      grass_sparse: -594749825
+      grass_tuft: -1908275905
+      pebble: 277419977
+      pebble_pair: -654431878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

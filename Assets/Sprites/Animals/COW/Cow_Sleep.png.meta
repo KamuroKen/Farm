@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 79250dba79bf21443bb168576bcdbaef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4327509305579416817
+    second: Cow_Sleep_0
+  - first:
+      213: -2462704253578303716
+    second: Cow_Sleep_1
+  - first:
+      213: 3308404169940748981
+    second: Cow_Sleep_2
+  - first:
+      213: 1766317076189967960
+    second: Cow_Sleep_3
+  - first:
+      213: 2267310434399286256
+    second: Cow_Sleep_4
+  - first:
+      213: -5896260956241652357
+    second: Cow_Sleep_5
+  - first:
+      213: 1566979947149649587
+    second: Cow_Sleep_6
+  - first:
+      213: 8596317748213862733
+    second: Cow_Sleep_7
+  - first:
+      213: -9182594024763273304
+    second: Cow_Sleep_8
+  - first:
+      213: 6372748557145682688
+    second: Cow_Sleep_9
+  - first:
+      213: -7817066757924536233
+    second: Cow_Sleep_10
+  - first:
+      213: 5717126717789820546
+    second: Cow_Sleep_11
+  - first:
+      213: -1650460167503901593
+    second: Cow_Sleep_12
+  - first:
+      213: 4886390997010335006
+    second: Cow_Sleep_13
+  - first:
+      213: 4964041400899749288
+    second: Cow_Sleep_14
+  - first:
+      213: 8530481545647065790
+    second: Cow_Sleep_15
+  - first:
+      213: -3966104863362071830
+    second: Cow_Sleep_16
+  - first:
+      213: -6707449840588066974
+    second: Cow_Sleep_17
+  - first:
+      213: 14938733621796391
+    second: Cow_Sleep_18
+  - first:
+      213: 2430737915357987606
+    second: Cow_Sleep_19
+  - first:
+      213: -217158421286951253
+    second: Cow_Sleep_20
+  - first:
+      213: 5021928692824236416
+    second: Cow_Sleep_21
+  - first:
+      213: 3104267223522624126
+    second: Cow_Sleep_22
+  - first:
+      213: -1839602457143047212
+    second: Cow_Sleep_23
+  - first:
+      213: -5353579108858002498
+    second: Cow_Sleep_24
+  - first:
+      213: 3198193741138714999
+    second: Cow_Sleep_25
+  - first:
+      213: -3568111751862063635
+    second: Cow_Sleep_26
+  - first:
+      213: 265605810302617460
+    second: Cow_Sleep_27
+  - first:
+      213: -6626330273291963031
+    second: Cow_Sleep_28
+  - first:
+      213: -1241167405491066423
+    second: Cow_Sleep_29
+  - first:
+      213: 3830878038868828055
+    second: Cow_Sleep_30
+  - first:
+      213: -8561001806516610606
+    second: Cow_Sleep_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cow_Sleep_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ddb6f63991f3c0800000000000000
+      internalID: -4327509305579416817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c172f928787b2ddd0800000000000000
+      internalID: -2462704253578303716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 159
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba4dba5010d9ed20800000000000000
+      internalID: 3308404169940748981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 159
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856720fb508338810800000000000000
+      internalID: 1766317076189967960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 159
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3f7edc3da177f10800000000000000
+      internalID: 2267310434399286256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 159
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75163866e54c2ea0800000000000000
+      internalID: -5896260956241652357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6e300b5f70fb510800000000000000
+      internalID: 1566979947149649587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_7
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d415cae52714c4770800000000000000
+      internalID: 8596317748213862733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af4c5dc26fd09080800000000000000
+      internalID: -9182594024763273304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0033d876c0d807850800000000000000
+      internalID: 6372748557145682688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750c4644333348390800000000000000
+      internalID: -7817066757924536233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286d1cd8570575f40800000000000000
+      internalID: 5717126717789820546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c8fffd8336819e0800000000000000
+      internalID: -1650460167503901593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15c77af8b2ffc340800000000000000
+      internalID: 4886390997010335006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a546fe7a51d3e440800000000000000
+      internalID: 4964041400899749288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 111
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba8153f4cb526670800000000000000
+      internalID: 8530481545647065790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 63
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2ca5dd3a095f8c0800000000000000
+      internalID: -3966104863362071830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 63
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f6ff658e95ae2a0800000000000000
+      internalID: -6707449840588066974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 63
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72edbe6f2b2153000800000000000000
+      internalID: 14938733621796391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 63
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6138cf26147bbb120800000000000000
+      internalID: 2430737915357987606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_20
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 63
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6e43ff09f7cfcf0800000000000000
+      internalID: -217158421286951253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 63
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081612fe98971b540800000000000000
+      internalID: 5021928692824236416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 63
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7244f9b792941b20800000000000000
+      internalID: 3104267223522624126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_23
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 63
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db8d06df4b6876e0800000000000000
+      internalID: -1839602457143047212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3019b3a2444b5b0800000000000000
+      internalID: -5353579108858002498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_25
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77163774344426c20800000000000000
+      internalID: 3198193741138714999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_26
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded6d5f24458b7ec0800000000000000
+      internalID: -3568111751862063635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4770e55c31f9fa300800000000000000
+      internalID: 265605810302617460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965f30869bb8a04a0800000000000000
+      internalID: -6626330273291963031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_29
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c969e812dc76cee0800000000000000
+      internalID: -1241167405491066423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_30
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f1f9c87430a2530800000000000000
+      internalID: 3830878038868828055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cow_Sleep_31
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 15
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d999111736313980800000000000000
+      internalID: -8561001806516610606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cow_Sleep_0: -4327509305579416817
+      Cow_Sleep_1: -2462704253578303716
+      Cow_Sleep_10: -7817066757924536233
+      Cow_Sleep_11: 5717126717789820546
+      Cow_Sleep_12: -1650460167503901593
+      Cow_Sleep_13: 4886390997010335006
+      Cow_Sleep_14: 4964041400899749288
+      Cow_Sleep_15: 8530481545647065790
+      Cow_Sleep_16: -3966104863362071830
+      Cow_Sleep_17: -6707449840588066974
+      Cow_Sleep_18: 14938733621796391
+      Cow_Sleep_19: 2430737915357987606
+      Cow_Sleep_2: 3308404169940748981
+      Cow_Sleep_20: -217158421286951253
+      Cow_Sleep_21: 5021928692824236416
+      Cow_Sleep_22: 3104267223522624126
+      Cow_Sleep_23: -1839602457143047212
+      Cow_Sleep_24: -5353579108858002498
+      Cow_Sleep_25: 3198193741138714999
+      Cow_Sleep_26: -3568111751862063635
+      Cow_Sleep_27: 265605810302617460
+      Cow_Sleep_28: -6626330273291963031
+      Cow_Sleep_29: -1241167405491066423
+      Cow_Sleep_3: 1766317076189967960
+      Cow_Sleep_30: 3830878038868828055
+      Cow_Sleep_31: -8561001806516610606
+      Cow_Sleep_4: 2267310434399286256
+      Cow_Sleep_5: -5896260956241652357
+      Cow_Sleep_6: 1566979947149649587
+      Cow_Sleep_7: 8596317748213862733
+      Cow_Sleep_8: -9182594024763273304
+      Cow_Sleep_9: 6372748557145682688
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

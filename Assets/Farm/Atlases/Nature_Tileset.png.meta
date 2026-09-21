@@ -1,0 +1,1023 @@
+fileFormatVersion: 2
+guid: b9f80ca0f7db2db42b8db44536385d9f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2079365690729269096
+    second: Nature_Tileset_0
+  - first:
+      213: -1945104064634201803
+    second: Nature_Tileset_1
+  - first:
+      213: 810461910939593765
+    second: Nature_Tileset_2
+  - first:
+      213: 7131083851394800472
+    second: Nature_Tileset_3
+  - first:
+      213: -3211274417320604244
+    second: Nature_Tileset_4
+  - first:
+      213: -923772987137332420
+    second: Nature_Tileset_5
+  - first:
+      213: -7889906281951516077
+    second: Nature_Tileset_6
+  - first:
+      213: -1947129814938843962
+    second: Nature_Tileset_7
+  - first:
+      213: -1704857557057056026
+    second: Nature_Tileset_8
+  - first:
+      213: 508079797219810564
+    second: Nature_Tileset_9
+  - first:
+      213: 2403606967330122266
+    second: Nature_Tileset_10
+  - first:
+      213: 7124919842496755282
+    second: Nature_Tileset_11
+  - first:
+      213: -4682051404616625036
+    second: Nature_Tileset_12
+  - first:
+      213: -7245235244481216198
+    second: Nature_Tileset_13
+  - first:
+      213: -4897700322372725869
+    second: Nature_Tileset_14
+  - first:
+      213: -7074104237837322120
+    second: Nature_Tileset_15
+  - first:
+      213: -760967148687148046
+    second: Nature_Tileset_16
+  - first:
+      213: 1998217975766664327
+    second: Nature_Tileset_17
+  - first:
+      213: -6660580359296053249
+    second: Nature_Tileset_18
+  - first:
+      213: 6098030380926546226
+    second: Nature_Tileset_19
+  - first:
+      213: -2436189757946333316
+    second: Nature_Tileset_20
+  - first:
+      213: 4285658668457780707
+    second: Nature_Tileset_21
+  - first:
+      213: -4668592206723560774
+    second: Nature_Tileset_22
+  - first:
+      213: -1245531608656793876
+    second: Nature_Tileset_23
+  - first:
+      213: -222476748689200115
+    second: Nature_Tileset_24
+  - first:
+      213: -920630553507384276
+    second: Nature_Tileset_25
+  - first:
+      213: -5324439516388231251
+    second: Nature_Tileset_26
+  - first:
+      213: 6983677009692009708
+    second: Nature_Tileset_27
+  - first:
+      213: 119156890897589805
+    second: Nature_Tileset_28
+  - first:
+      213: 7099917999812859115
+    second: Nature_Tileset_29
+  - first:
+      213: 4974781751203170459
+    second: Nature_Tileset_30
+  - first:
+      213: -1327432584840399072
+    second: Nature_Tileset_31
+  - first:
+      213: -8700242152401134562
+    second: Nature_Tileset_32
+  - first:
+      213: 8147485451304721391
+    second: Nature_Tileset_33
+  - first:
+      213: -231808033247104362
+    second: Nature_Tileset_34
+  - first:
+      213: -3129474590475988480
+    second: Nature_Tileset_35
+  - first:
+      213: 9122292327037789338
+    second: Nature_Tileset_36
+  - first:
+      213: -3210800734509399198
+    second: Nature_Tileset_37
+  - first:
+      213: 5551800866326594017
+    second: Nature_Tileset_38
+  - first:
+      213: 8329487083744379416
+    second: Nature_Tileset_39
+  - first:
+      213: -4529649989476253296
+    second: Nature_Tileset_40
+  - first:
+      213: 7767805120971029631
+    second: Nature_Tileset_41
+  - first:
+      213: 3264103145584969100
+    second: Nature_Tileset_42
+  - first:
+      213: -8858445860686838962
+    second: Nature_Tileset_43
+  - first:
+      213: 4102942490198242037
+    second: Nature_Tileset_44
+  - first:
+      213: -7457495356370211566
+    second: Nature_Tileset_45
+  - first:
+      213: 2334262582248738669
+    second: Nature_Tileset_46
+  - first:
+      213: -4358988067744829926
+    second: Nature_Tileset_47
+  - first:
+      213: 1019597152993725472
+    second: Nature_Tileset_48
+  - first:
+      213: -3724705653137953584
+    second: Nature_Tileset_49
+  - first:
+      213: 6981700742861996397
+    second: Nature_Tileset_50
+  - first:
+      213: -349843788687780566
+    second: Nature_Tileset_51
+  - first:
+      213: 7161429974821025819
+    second: Nature_Tileset_52
+  - first:
+      213: 5534937094899646704
+    second: Nature_Tileset_53
+  - first:
+      213: 6179852733513198287
+    second: Nature_Tileset_54
+  - first:
+      213: -8243494335603316411
+    second: Nature_Tileset_55
+  - first:
+      213: 3786592981835387982
+    second: Nature_Tileset_56
+  - first:
+      213: -575466078277677493
+    second: Nature_Tileset_57
+  - first:
+      213: 1877029578444477423
+    second: Nature_Tileset_58
+  - first:
+      213: 6507172456538419949
+    second: Nature_Tileset_59
+  - first:
+      213: -3395671157436623859
+    second: Nature_Tileset_60
+  - first:
+      213: 6241451787408978035
+    second: Nature_Tileset_61
+  - first:
+      213: -6444044810342829099
+    second: Nature_Tileset_62
+  - first:
+      213: -2075190343588381287
+    second: Nature_Tileset_63
+  - first:
+      213: -3277477934525220522
+    second: Nature_Tileset_64
+  - first:
+      213: 1450866122884469794
+    second: Nature_Tileset_65
+  - first:
+      213: 7438402977882333757
+    second: Nature_Tileset_66
+  - first:
+      213: -1797396400724522236
+    second: Nature_Tileset_67
+  - first:
+      213: -1852932963489814249
+    second: Nature_Tileset_68
+  - first:
+      213: 454129909548461606
+    second: Nature_Tileset_69
+  - first:
+      213: -1678308613053931732
+    second: Nature_Tileset_70
+  - first:
+      213: -2600817005290750948
+    second: Nature_Tileset_71
+  - first:
+      213: 8512042710016008036
+    second: Nature_Tileset_72
+  - first:
+      213: -193333112375450605
+    second: Nature_Tileset_73
+  - first:
+      213: -111467343801883938
+    second: Nature_Tileset_74
+  - first:
+      213: 5332968408531430921
+    second: Nature_Tileset_75
+  - first:
+      213: -5615435300779225671
+    second: Nature_Tileset_76
+  - first:
+      213: -2396401556088053087
+    second: Nature_Tileset_77
+  - first:
+      213: -133495093113329541
+    second: Nature_Tileset_78
+  - first:
+      213: 5764438024022485293
+    second: Nature_Tileset_79
+  - first:
+      213: 4293635486832713289
+    second: Nature_Tileset_80
+  - first:
+      213: -5257019394414058840
+    second: Nature_Tileset_81
+  - first:
+      213: 1582765133901516936
+    second: Nature_Tileset_82
+  - first:
+      213: -3699152474915459015
+    second: Nature_Tileset_83
+  - first:
+      213: -6172055157742667867
+    second: Nature_Tileset_84
+  - first:
+      213: 1619418014132413052
+    second: Nature_Tileset_85
+  - first:
+      213: 718972317454108902
+    second: Nature_Tileset_86
+  - first:
+      213: -3957524246341938416
+    second: Nature_Tileset_87
+  - first:
+      213: 5025727535380047094
+    second: Nature_Tileset_88
+  - first:
+      213: -6493268392330854715
+    second: Nature_Tileset_89
+  - first:
+      213: 1692740187667241965
+    second: Nature_Tileset_90
+  - first:
+      213: -6835311342101166841
+    second: Nature_Tileset_91
+  - first:
+      213: 6307195051142308024
+    second: Nature_Tileset_92
+  - first:
+      213: 7747697095426715490
+    second: Nature_Tileset_93
+  - first:
+      213: 6305358491435451013
+    second: Nature_Tileset_94
+  - first:
+      213: 5649798447224869377
+    second: Nature_Tileset_95
+  - first:
+      213: -1873244485457878539
+    second: Nature_Tileset_96
+  - first:
+      213: -5768106705421687809
+    second: Nature_Tileset_97
+  - first:
+      213: 2927816487591420431
+    second: Nature_Tileset_98
+  - first:
+      213: 5784833436320209091
+    second: Nature_Tileset_99
+  - first:
+      213: -7348762224133594019
+    second: Nature_Tileset_100
+  - first:
+      213: 4661099151486730378
+    second: Nature_Tileset_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tree_round
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc55003fda9ca59d06c83aae1ba95c3
+      internalID: 1318229198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_pine
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cb29d9929af13fb0dee519aed568e8
+      internalID: -731341214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_column
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c4342fe95e1d9d5f2c61b1ced392ab
+      internalID: 138703550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_cypress
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dfa5a900245763b13ff597d298e778
+      internalID: 1008074144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_canopy_cluster
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4193c6dafdedcebb166cec9401ecf54
+      internalID: -1034026842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tree_pine_cluster
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 64
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00fe535a7e4e93dd36506bb1032bf16
+      internalID: -1065309076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush_small
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c5894e9215529a2c0b8829e52351ce
+      internalID: -1366180967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush_round
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af5c3cff9fccf592469388481e95322
+      internalID: -917756239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush_tall
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7a2f5f9dc3e8696301e197cce53712
+      internalID: -382465231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush_leafy
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec7c152ae95ecd5cdc61999c85200f6
+      internalID: -678290345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush_dense
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e5a066952fb07471284f236e1f4cb6
+      internalID: -962706235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bush_branching
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9a2c9addb9900eafe2cb129011df1b
+      internalID: -547862362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocks_blue_large
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a695085705ca9e1568bdce628b4e93
+      internalID: 437715415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rocks_sand_large
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6e70009b97c317a108edbe6a364b9a
+      internalID: 52699099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_blue_medium
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 176
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f625bab3e7dfd32dc750d1e775f0cba3
+      internalID: -1637264810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rock_blue_small
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c37a9bf1927855ae10c639048596474
+      internalID: 1794484580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stump
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22e33671a33b5a1dfb70698acaf5d64
+      internalID: -1970241487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_log
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b4897eefe701a01e72caeabc05aaea
+      internalID: -339637623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fallen_log_moss
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdf251b15478e738ebd895d9bd975b3
+      internalID: 1278274300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reeds_brown
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9132460e49a47b4b26b1a3a7a4883236
+      internalID: 786897465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reeds_green
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861528665d0cb80445cb057a44cb577a
+      internalID: -1312007539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reeds_young
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0284e3a07eb9f308246b7d06d942be6e
+      internalID: -1300376424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_plain
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65467b45d13b149f7e1553775a920c
+      internalID: 1848263322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_pink
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b598ea56a78e867817e350e565a1f72
+      internalID: 825048575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lily_white
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a34b81deec90e9c483b5dced54b05d
+      internalID: 1834973354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mushrooms
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e66fec9a2249d98ae338cc61f4ebf8f
+      internalID: -1646365279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 645d893654428ce49bb4fe0a3fcef3a5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bush_branching: -547862362
+      bush_dense: -962706235
+      bush_leafy: -678290345
+      bush_round: -917756239
+      bush_small: -1366180967
+      bush_tall: -382465231
+      fallen_log: -339637623
+      fallen_log_moss: 1278274300
+      lily_pink: 825048575
+      lily_plain: 1848263322
+      lily_white: 1834973354
+      mushrooms: -1646365279
+      reeds_brown: 786897465
+      reeds_green: -1312007539
+      reeds_young: -1300376424
+      rock_blue_medium: -1637264810
+      rock_blue_small: 1794484580
+      rocks_blue_large: 437715415
+      rocks_sand_large: 52699099
+      stump: -1970241487
+      tree_canopy_cluster: -1034026842
+      tree_column: 138703550
+      tree_cypress: 1008074144
+      tree_pine: -731341214
+      tree_pine_cluster: -1065309076
+      tree_round: 1318229198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

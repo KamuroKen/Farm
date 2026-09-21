@@ -1,0 +1,1783 @@
+fileFormatVersion: 2
+guid: 22ef6fdb72add1945a53da6a77b9a6d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1496290752046483068
+    second: BabyGoat_Eat_0
+  - first:
+      213: -91658590698360122
+    second: BabyGoat_Eat_1
+  - first:
+      213: -1106545461649359134
+    second: BabyGoat_Eat_2
+  - first:
+      213: 7075687531994175688
+    second: BabyGoat_Eat_3
+  - first:
+      213: -6852678498958927762
+    second: BabyGoat_Eat_4
+  - first:
+      213: 1081737491661333618
+    second: BabyGoat_Eat_5
+  - first:
+      213: -8559148197739242726
+    second: BabyGoat_Eat_6
+  - first:
+      213: -5175022685081187902
+    second: BabyGoat_Eat_7
+  - first:
+      213: -1467521957518197190
+    second: BabyGoat_Eat_8
+  - first:
+      213: 7716693701874392381
+    second: BabyGoat_Eat_9
+  - first:
+      213: 7408993026704371147
+    second: BabyGoat_Eat_10
+  - first:
+      213: 1092555656174700310
+    second: BabyGoat_Eat_11
+  - first:
+      213: -849319392479064929
+    second: BabyGoat_Eat_12
+  - first:
+      213: 2002817761143385712
+    second: BabyGoat_Eat_13
+  - first:
+      213: 4391371344324675879
+    second: BabyGoat_Eat_14
+  - first:
+      213: -2924755684393077012
+    second: BabyGoat_Eat_15
+  - first:
+      213: -8533435625849857130
+    second: BabyGoat_Eat_16
+  - first:
+      213: 6147932699617254507
+    second: BabyGoat_Eat_17
+  - first:
+      213: 9016429287694962332
+    second: BabyGoat_Eat_18
+  - first:
+      213: 8046169974518815450
+    second: BabyGoat_Eat_19
+  - first:
+      213: 4557563016621964381
+    second: BabyGoat_Eat_20
+  - first:
+      213: 1513344679641289658
+    second: BabyGoat_Eat_21
+  - first:
+      213: 6957259273476860747
+    second: BabyGoat_Eat_22
+  - first:
+      213: -4387480896051245097
+    second: BabyGoat_Eat_23
+  - first:
+      213: -1161629617605394259
+    second: BabyGoat_Eat_24
+  - first:
+      213: -8091827740653525642
+    second: BabyGoat_Eat_25
+  - first:
+      213: 4178828847765781569
+    second: BabyGoat_Eat_26
+  - first:
+      213: -6812882767770810665
+    second: BabyGoat_Eat_27
+  - first:
+      213: -5263277313302352509
+    second: BabyGoat_Eat_28
+  - first:
+      213: 6494975657088552776
+    second: BabyGoat_Eat_29
+  - first:
+      213: -4496202309800764403
+    second: BabyGoat_Eat_30
+  - first:
+      213: -1124065457148440731
+    second: BabyGoat_Eat_31
+  - first:
+      213: -5778344088466244830
+    second: BabyGoat_Eat_32
+  - first:
+      213: 3783948573520244076
+    second: BabyGoat_Eat_33
+  - first:
+      213: -7276038518007019291
+    second: BabyGoat_Eat_34
+  - first:
+      213: -4056597783377938434
+    second: BabyGoat_Eat_35
+  - first:
+      213: 730642941080122150
+    second: BabyGoat_Eat_36
+  - first:
+      213: -6777426363627646399
+    second: BabyGoat_Eat_37
+  - first:
+      213: 7274838562485611111
+    second: BabyGoat_Eat_38
+  - first:
+      213: 2692211984423167485
+    second: BabyGoat_Eat_39
+  - first:
+      213: -6607484422650398953
+    second: BabyGoat_Eat_40
+  - first:
+      213: -2595137110868504317
+    second: BabyGoat_Eat_41
+  - first:
+      213: -8927862451096361056
+    second: BabyGoat_Eat_42
+  - first:
+      213: -1482079598950357003
+    second: BabyGoat_Eat_43
+  - first:
+      213: 1654455024982249449
+    second: BabyGoat_Eat_44
+  - first:
+      213: 1793831054320276974
+    second: BabyGoat_Eat_45
+  - first:
+      213: 8364194530320958108
+    second: BabyGoat_Eat_46
+  - first:
+      213: 3909050600950773799
+    second: BabyGoat_Eat_47
+  - first:
+      213: -6024924367537740781
+    second: BabyGoat_Eat_48
+  - first:
+      213: 8539039118688422718
+    second: BabyGoat_Eat_49
+  - first:
+      213: -1068063823822013864
+    second: BabyGoat_Eat_50
+  - first:
+      213: -8835841973436319465
+    second: BabyGoat_Eat_51
+  - first:
+      213: 8163523116971963416
+    second: BabyGoat_Eat_52
+  - first:
+      213: -6131068599947811538
+    second: BabyGoat_Eat_53
+  - first:
+      213: 5223177759350178361
+    second: BabyGoat_Eat_54
+  - first:
+      213: 4966763988778096036
+    second: BabyGoat_Eat_55
+  - first:
+      213: 6586274393512216807
+    second: BabyGoat_Eat_56
+  - first:
+      213: 4152727648159516380
+    second: BabyGoat_Eat_57
+  - first:
+      213: 8742666081797717534
+    second: BabyGoat_Eat_58
+  - first:
+      213: -8461514452160623465
+    second: BabyGoat_Eat_59
+  - first:
+      213: -8738663104438147159
+    second: BabyGoat_Eat_60
+  - first:
+      213: -2087119811618982566
+    second: BabyGoat_Eat_61
+  - first:
+      213: 1353054936153953395
+    second: BabyGoat_Eat_62
+  - first:
+      213: 6774162722814123157
+    second: BabyGoat_Eat_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BabyGoat_Eat_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489319b1d7b1c3be0800000000000000
+      internalID: -1496290752046483068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2bfc45ffc5abef0800000000000000
+      internalID: -91658590698360122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eeb19ee3c2c4a0f0800000000000000
+      internalID: -1106545461649359134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c85c2e5254e13260800000000000000
+      internalID: 7075687531994175688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e689895563566e0a0800000000000000
+      internalID: -6852678498958927762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27422b2748a130f00800000000000000
+      internalID: 1081737491661333618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bd3ddff0cc73980800000000000000
+      internalID: -8559148197739242726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9c52f4940ae28b0800000000000000
+      internalID: -5175022685081187902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3eba0e0e8052abe0800000000000000
+      internalID: -1467521957518197190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d97bc7904371b60800000000000000
+      internalID: 7716693701874392381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd6f0c37e702d660800000000000000
+      internalID: 7408993026704371147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61703a7a499892f00800000000000000
+      internalID: 1092555656174700310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c4f6e238c9634f0800000000000000
+      internalID: -849319392479064929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e6bc274207bcb10800000000000000
+      internalID: 2002817761143385712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7294d4f98f841fc30800000000000000
+      internalID: 4391371344324675879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce632f8733e2967d0800000000000000
+      internalID: -2924755684393077012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b5e87a285239980800000000000000
+      internalID: -8533435625849857130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cd1b79738d15550800000000000000
+      internalID: 6147932699617254507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e8c738aaac02d70800000000000000
+      internalID: 9016429287694962332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada9b9d16fcb9af60800000000000000
+      internalID: 8046169974518815450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cb537aa67bf3f30800000000000000
+      internalID: 4557563016621964381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 109
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab31fb4d7fa700510800000000000000
+      internalID: 1513344679641289658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 109
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b61e5b2762d8060800000000000000
+      internalID: 6957259273476860747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 109
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df8d04fe598c13c0800000000000000
+      internalID: -4387480896051245097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0ce02740011efe0800000000000000
+      internalID: -1161629617605394259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675e1beca8d04bf80800000000000000
+      internalID: -8091827740653525642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 109
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cfb3852be2ef930800000000000000
+      internalID: 4178828847765781569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 109
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d604aa0837c371a0800000000000000
+      internalID: -6812882767770810665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 109
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dad3a6b2515f6b0800000000000000
+      internalID: -5263277313302352509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f8291c2f9c22a50800000000000000
+      internalID: 6494975657088552776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_30
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cd80632d74a91c0800000000000000
+      internalID: -4496202309800764403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_31
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f416a1c648660f0800000000000000
+      internalID: -1124065457148440731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bbdf0aaa23fcfa0800000000000000
+      internalID: -5778344088466244830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d250ded29438430800000000000000
+      internalID: 3783948573520244076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8c12a9481560b90800000000000000
+      internalID: -7276038518007019291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7fe1d0fc114b7c0800000000000000
+      internalID: -4056597783377938434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6233ab042e3c32a00800000000000000
+      internalID: 730642941080122150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 61
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1425b9071aeb1f1a0800000000000000
+      internalID: -6777426363627646399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 61
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76aa44bf02b65f460800000000000000
+      internalID: 7274838562485611111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_39
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 61
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5a79f2988ac5520800000000000000
+      internalID: 2692211984423167485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_40
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717fef0fcef7d44a0800000000000000
+      internalID: -6607484422650398953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_41
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301df3b1c883cfbd0800000000000000
+      internalID: -2595137110868504317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_42
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 61
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a76ade076cd91480800000000000000
+      internalID: -8927862451096361056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_43
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 61
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7e5b705789e6be0800000000000000
+      internalID: -1482079598950357003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_44
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 61
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef4dec541ec5f610800000000000000
+      internalID: 1654455024982249449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_45
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee513dbf6d7f4e810800000000000000
+      internalID: 1793831054320276974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_46
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92cb042c96931470800000000000000
+      internalID: 8364194530320958108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_47
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728b2be7fccbf3630800000000000000
+      internalID: 3909050600950773799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314615a853b236ca0800000000000000
+      internalID: -6024924367537740781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b869036d2c08670800000000000000
+      internalID: 8539039118688422718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ab4af6c997d21f0800000000000000
+      internalID: -1068063823822013864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71977d91a88c06580800000000000000
+      internalID: -8835841973436319465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814bdcec509aa4170800000000000000
+      internalID: 8163523116971963416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 13
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e252f8697911aeaa0800000000000000
+      internalID: -6131068599947811538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 13
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932c9c0af747c7840800000000000000
+      internalID: 5223177759350178361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 13
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a51252688d7de440800000000000000
+      internalID: 4966763988778096036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e80c825aa5276b50800000000000000
+      internalID: 6586274393512216807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6cd7d3bc371a930800000000000000
+      internalID: 4152727648159516380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 13
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1eb8631b70345970800000000000000
+      internalID: 8742666081797717534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 13
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cc121df69a29a80800000000000000
+      internalID: -8461514452160623465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_60
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 13
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7e628b4380ab680800000000000000
+      internalID: -8738663104438147159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5535c0e69f0903e0800000000000000
+      internalID: -2087119811618982566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_62
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3749b0fab4407c210800000000000000
+      internalID: 1353054936153953395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Eat_63
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c5708fa19a20e50800000000000000
+      internalID: 6774162722814123157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BabyGoat_Eat_0: -1496290752046483068
+      BabyGoat_Eat_1: -91658590698360122
+      BabyGoat_Eat_10: 7408993026704371147
+      BabyGoat_Eat_11: 1092555656174700310
+      BabyGoat_Eat_12: -849319392479064929
+      BabyGoat_Eat_13: 2002817761143385712
+      BabyGoat_Eat_14: 4391371344324675879
+      BabyGoat_Eat_15: -2924755684393077012
+      BabyGoat_Eat_16: -8533435625849857130
+      BabyGoat_Eat_17: 6147932699617254507
+      BabyGoat_Eat_18: 9016429287694962332
+      BabyGoat_Eat_19: 8046169974518815450
+      BabyGoat_Eat_2: -1106545461649359134
+      BabyGoat_Eat_20: 4557563016621964381
+      BabyGoat_Eat_21: 1513344679641289658
+      BabyGoat_Eat_22: 6957259273476860747
+      BabyGoat_Eat_23: -4387480896051245097
+      BabyGoat_Eat_24: -1161629617605394259
+      BabyGoat_Eat_25: -8091827740653525642
+      BabyGoat_Eat_26: 4178828847765781569
+      BabyGoat_Eat_27: -6812882767770810665
+      BabyGoat_Eat_28: -5263277313302352509
+      BabyGoat_Eat_29: 6494975657088552776
+      BabyGoat_Eat_3: 7075687531994175688
+      BabyGoat_Eat_30: -4496202309800764403
+      BabyGoat_Eat_31: -1124065457148440731
+      BabyGoat_Eat_32: -5778344088466244830
+      BabyGoat_Eat_33: 3783948573520244076
+      BabyGoat_Eat_34: -7276038518007019291
+      BabyGoat_Eat_35: -4056597783377938434
+      BabyGoat_Eat_36: 730642941080122150
+      BabyGoat_Eat_37: -6777426363627646399
+      BabyGoat_Eat_38: 7274838562485611111
+      BabyGoat_Eat_39: 2692211984423167485
+      BabyGoat_Eat_4: -6852678498958927762
+      BabyGoat_Eat_40: -6607484422650398953
+      BabyGoat_Eat_41: -2595137110868504317
+      BabyGoat_Eat_42: -8927862451096361056
+      BabyGoat_Eat_43: -1482079598950357003
+      BabyGoat_Eat_44: 1654455024982249449
+      BabyGoat_Eat_45: 1793831054320276974
+      BabyGoat_Eat_46: 8364194530320958108
+      BabyGoat_Eat_47: 3909050600950773799
+      BabyGoat_Eat_48: -6024924367537740781
+      BabyGoat_Eat_49: 8539039118688422718
+      BabyGoat_Eat_5: 1081737491661333618
+      BabyGoat_Eat_50: -1068063823822013864
+      BabyGoat_Eat_51: -8835841973436319465
+      BabyGoat_Eat_52: 8163523116971963416
+      BabyGoat_Eat_53: -6131068599947811538
+      BabyGoat_Eat_54: 5223177759350178361
+      BabyGoat_Eat_55: 4966763988778096036
+      BabyGoat_Eat_56: 6586274393512216807
+      BabyGoat_Eat_57: 4152727648159516380
+      BabyGoat_Eat_58: 8742666081797717534
+      BabyGoat_Eat_59: -8461514452160623465
+      BabyGoat_Eat_6: -8559148197739242726
+      BabyGoat_Eat_60: -8738663104438147159
+      BabyGoat_Eat_61: -2087119811618982566
+      BabyGoat_Eat_62: 1353054936153953395
+      BabyGoat_Eat_63: 6774162722814123157
+      BabyGoat_Eat_7: -5175022685081187902
+      BabyGoat_Eat_8: -1467521957518197190
+      BabyGoat_Eat_9: 7716693701874392381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

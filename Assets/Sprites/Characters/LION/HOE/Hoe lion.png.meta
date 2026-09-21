@@ -1,0 +1,1497 @@
+fileFormatVersion: 2
+guid: 6e7111b4935e1eb45aeebd2d23e45046
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4014434180580094078
+    second: Hoe lion_0
+  - first:
+      213: -6999687728004144297
+    second: Hoe lion_1
+  - first:
+      213: -5734699478002733149
+    second: Hoe lion_2
+  - first:
+      213: 7485921177605308202
+    second: Hoe lion_3
+  - first:
+      213: 2869950428993044729
+    second: Hoe lion_4
+  - first:
+      213: -488447960536289000
+    second: Hoe lion_5
+  - first:
+      213: -3211549124665291256
+    second: Hoe lion_6
+  - first:
+      213: -5157612223904671695
+    second: Hoe lion_7
+  - first:
+      213: -6486300144870388617
+    second: Hoe lion_8
+  - first:
+      213: -8074981009942355201
+    second: Hoe lion_9
+  - first:
+      213: -2802436119908122838
+    second: Hoe lion_10
+  - first:
+      213: -5931578212978309126
+    second: Hoe lion_11
+  - first:
+      213: 2323172550023857320
+    second: Hoe lion_12
+  - first:
+      213: 235484684646050266
+    second: Hoe lion_13
+  - first:
+      213: -762580954835494505
+    second: Hoe lion_14
+  - first:
+      213: -2396277876561432310
+    second: Hoe lion_15
+  - first:
+      213: -1968208256636237713
+    second: Hoe lion_16
+  - first:
+      213: -3122572308622446323
+    second: Hoe lion_17
+  - first:
+      213: 1350379583348316164
+    second: Hoe lion_18
+  - first:
+      213: -7737020474398437570
+    second: Hoe lion_19
+  - first:
+      213: 6711969390234184497
+    second: Hoe lion_20
+  - first:
+      213: -6769763709892608171
+    second: Hoe lion_21
+  - first:
+      213: 4547203649861690595
+    second: Hoe lion_22
+  - first:
+      213: -634295122293104563
+    second: Hoe lion_23
+  - first:
+      213: -8901407237582124350
+    second: Hoe lion_24
+  - first:
+      213: 3040817322871241651
+    second: Hoe lion_25
+  - first:
+      213: -3979238913464884453
+    second: Hoe lion_26
+  - first:
+      213: 6340741737562092068
+    second: Hoe lion_27
+  - first:
+      213: -3401895391057318417
+    second: Hoe lion_28
+  - first:
+      213: 4007601896162174200
+    second: Hoe lion_29
+  - first:
+      213: 7768597835239864139
+    second: Hoe lion_30
+  - first:
+      213: -2986211052576091786
+    second: Hoe lion_31
+  - first:
+      213: 7884345518649367417
+    second: Hoe lion_32
+  - first:
+      213: 6433984588359021575
+    second: Hoe lion_33
+  - first:
+      213: 8502149895772837762
+    second: Hoe lion_34
+  - first:
+      213: -8002203540458761442
+    second: Hoe lion_35
+  - first:
+      213: -133560891441782112
+    second: Hoe lion_36
+  - first:
+      213: -8322620028990290738
+    second: Hoe lion_37
+  - first:
+      213: -8267655595306508651
+    second: Hoe lion_38
+  - first:
+      213: 6527309499557837058
+    second: Hoe lion_39
+  - first:
+      213: -6791647914454130278
+    second: Hoe lion_40
+  - first:
+      213: 5101930862570254561
+    second: Hoe lion_41
+  - first:
+      213: -5948161984160637375
+    second: Hoe lion_42
+  - first:
+      213: 6786082531440658848
+    second: Hoe lion_43
+  - first:
+      213: 6488148287409485961
+    second: Hoe lion_44
+  - first:
+      213: -7900635300346281872
+    second: Hoe lion_45
+  - first:
+      213: -578607873159332933
+    second: Hoe lion_46
+  - first:
+      213: 3309434844799663288
+    second: Hoe lion_47
+  - first:
+      213: 7242970879394978621
+    second: Hoe lion_48
+  - first:
+      213: -5920335377208155493
+    second: Hoe lion_49
+  - first:
+      213: 7939979960974067946
+    second: Hoe lion_50
+  - first:
+      213: -5726944086381244165
+    second: Hoe lion_51
+  - first:
+      213: -8006674972526187442
+    second: Hoe lion_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hoe lion_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 156
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f4654d16dd948c0800000000000000
+      internalID: -4014434180580094078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 146
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753e6a9e81d1cde90800000000000000
+      internalID: -6999687728004144297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 145
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af670065314a60b0800000000000000
+      internalID: -5734699478002733149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ffcbf16a553e760800000000000000
+      internalID: 7485921177605308202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f04c13a5bc14d720800000000000000
+      internalID: 2869950428993044729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81178f4fa2fa839f0800000000000000
+      internalID: -488447960536289000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ecb9d26194e63d0800000000000000
+      internalID: -3211549124665291256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13813f0320b7c68b0800000000000000
+      internalID: -5157612223904671695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c8f6652680cf5a0800000000000000
+      internalID: -6486300144870388617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 160
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff26c56fd87efef80800000000000000
+      internalID: -8074981009942355201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 156
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ff627623fbb19d0800000000000000
+      internalID: -2802436119908122838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 159
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af74bf9ca0dceada0800000000000000
+      internalID: -5931578212978309126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a44c1420219d3020800000000000000
+      internalID: 2323172550023857320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_13
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 111
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad96f52b21c944300800000000000000
+      internalID: 235484684646050266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 111
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7995d8279a4ca65f0800000000000000
+      internalID: -762580954835494505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 111
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01bd60a7f5bebed0800000000000000
+      internalID: -2396277876561432310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68c433c4058fa4e0800000000000000
+      internalID: -1968208256636237713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01761787056aa4d0800000000000000
+      internalID: -3122572308622446323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_18
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 110
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4089a6193138db210800000000000000
+      internalID: 1350379583348316164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f8e8bfed490a490800000000000000
+      internalID: -7737020474398437570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 111
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b24305994b52d50800000000000000
+      internalID: 6711969390234184497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f358a06c7fc02a0800000000000000
+      internalID: -6769763709892608171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4ad5f90a9ea1f30800000000000000
+      internalID: 4547203649861690595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_23
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40e4f862f78237f0800000000000000
+      internalID: -634295122293104563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 110
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca83d27749d77480800000000000000
+      internalID: -8901407237582124350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_25
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 110
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb38948e37233a20800000000000000
+      internalID: 3040817322871241651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 63
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13a3868a47e6c8c0800000000000000
+      internalID: -3979238913464884453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b1eff307def750800000000000000
+      internalID: 6340741737562092068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed6df47a2a0ac0d0800000000000000
+      internalID: -3401895391057318417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4adedf0bcdd9730800000000000000
+      internalID: 4007601896162174200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_30
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 62
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b473754429a9fcb60800000000000000
+      internalID: 7768597835239864139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6715bda8ed8de86d0800000000000000
+      internalID: -2986211052576091786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bd985e972da6d60800000000000000
+      internalID: 7884345518649367417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_33
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 63
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7043a77f4ea1a4950800000000000000
+      internalID: 6433984588359021575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2871aaca844bdf570800000000000000
+      internalID: 8502149895772837762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 62
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e131596074672f090800000000000000
+      internalID: -8002203540458761442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_36
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 64
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a26abda31f752ef0800000000000000
+      internalID: -133560891441782112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 66
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec48b73cd2d108c80800000000000000
+      internalID: -8322620028990290738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_38
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 62
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e1c7c3a03634d80800000000000000
+      internalID: -8267655595306508651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 62
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2097d2c1869a59a50800000000000000
+      internalID: 6527309499557837058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91607b94383fb1a0800000000000000
+      internalID: -6791647914454130278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e03a1c9613bdc640800000000000000
+      internalID: 5101930862570254561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_42
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 15
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e5f9ba032e37da0800000000000000
+      internalID: -5948161984160637375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_43
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9010fab120d2e50800000000000000
+      internalID: 6786082531440658848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988f911ed788a0a50800000000000000
+      internalID: 6488148287409485961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070c2febd0e4b5290800000000000000
+      internalID: -7900635300346281872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_46
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbf718743f58f7f0800000000000000
+      internalID: -578607873159332933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc759b05797ded20800000000000000
+      internalID: 3309434844799663288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b16d0d3a3348460800000000000000
+      internalID: 7242970879394978621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92645a775eb6dda0800000000000000
+      internalID: -5920335377208155493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_50
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae84499e4b9703e60800000000000000
+      internalID: 7939979960974067946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_51
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0d8b232bec580b0800000000000000
+      internalID: -5726944086381244165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoe lion_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ce09e988392e090800000000000000
+      internalID: -8006674972526187442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hoe lion_0: -4014434180580094078
+      Hoe lion_1: -6999687728004144297
+      Hoe lion_10: -2802436119908122838
+      Hoe lion_11: -5931578212978309126
+      Hoe lion_12: 2323172550023857320
+      Hoe lion_13: 235484684646050266
+      Hoe lion_14: -762580954835494505
+      Hoe lion_15: -2396277876561432310
+      Hoe lion_16: -1968208256636237713
+      Hoe lion_17: -3122572308622446323
+      Hoe lion_18: 1350379583348316164
+      Hoe lion_19: -7737020474398437570
+      Hoe lion_2: -5734699478002733149
+      Hoe lion_20: 6711969390234184497
+      Hoe lion_21: -6769763709892608171
+      Hoe lion_22: 4547203649861690595
+      Hoe lion_23: -634295122293104563
+      Hoe lion_24: -8901407237582124350
+      Hoe lion_25: 3040817322871241651
+      Hoe lion_26: -3979238913464884453
+      Hoe lion_27: 6340741737562092068
+      Hoe lion_28: -3401895391057318417
+      Hoe lion_29: 4007601896162174200
+      Hoe lion_3: 7485921177605308202
+      Hoe lion_30: 7768597835239864139
+      Hoe lion_31: -2986211052576091786
+      Hoe lion_32: 7884345518649367417
+      Hoe lion_33: 6433984588359021575
+      Hoe lion_34: 8502149895772837762
+      Hoe lion_35: -8002203540458761442
+      Hoe lion_36: -133560891441782112
+      Hoe lion_37: -8322620028990290738
+      Hoe lion_38: -8267655595306508651
+      Hoe lion_39: 6527309499557837058
+      Hoe lion_4: 2869950428993044729
+      Hoe lion_40: -6791647914454130278
+      Hoe lion_41: 5101930862570254561
+      Hoe lion_42: -5948161984160637375
+      Hoe lion_43: 6786082531440658848
+      Hoe lion_44: 6488148287409485961
+      Hoe lion_45: -7900635300346281872
+      Hoe lion_46: -578607873159332933
+      Hoe lion_47: 3309434844799663288
+      Hoe lion_48: 7242970879394978621
+      Hoe lion_49: -5920335377208155493
+      Hoe lion_5: -488447960536289000
+      Hoe lion_50: 7939979960974067946
+      Hoe lion_51: -5726944086381244165
+      Hoe lion_52: -8006674972526187442
+      Hoe lion_6: -3211549124665291256
+      Hoe lion_7: -5157612223904671695
+      Hoe lion_8: -6486300144870388617
+      Hoe lion_9: -8074981009942355201
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

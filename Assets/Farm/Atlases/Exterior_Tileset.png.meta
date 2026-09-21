@@ -1,0 +1,1324 @@
+fileFormatVersion: 2
+guid: 8e92ced223f856d4ba9f2297707a8fe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 16464345309734955
+    second: Exterior_Tileset_0
+  - first:
+      213: -5046842985024631517
+    second: Exterior_Tileset_1
+  - first:
+      213: -4423880586568264804
+    second: Exterior_Tileset_2
+  - first:
+      213: -3969708318003514284
+    second: Exterior_Tileset_3
+  - first:
+      213: 4496981860111081855
+    second: Exterior_Tileset_4
+  - first:
+      213: 4033483737431812386
+    second: Exterior_Tileset_5
+  - first:
+      213: 8976751872357192414
+    second: Exterior_Tileset_6
+  - first:
+      213: 1273654206870177082
+    second: Exterior_Tileset_7
+  - first:
+      213: -172830953524164818
+    second: Exterior_Tileset_8
+  - first:
+      213: -4396487888228893216
+    second: Exterior_Tileset_9
+  - first:
+      213: 4461441384298915789
+    second: Exterior_Tileset_10
+  - first:
+      213: -1681126396045646850
+    second: Exterior_Tileset_11
+  - first:
+      213: -2566525338469266032
+    second: Exterior_Tileset_12
+  - first:
+      213: 306213228201904705
+    second: Exterior_Tileset_13
+  - first:
+      213: 2500496715674909546
+    second: Exterior_Tileset_14
+  - first:
+      213: 6393713254735590572
+    second: Exterior_Tileset_15
+  - first:
+      213: -2332500763159504395
+    second: Exterior_Tileset_16
+  - first:
+      213: 3773743188452901117
+    second: Exterior_Tileset_17
+  - first:
+      213: -608305279955048471
+    second: Exterior_Tileset_18
+  - first:
+      213: -448431522202304761
+    second: Exterior_Tileset_19
+  - first:
+      213: -5203358672341215185
+    second: Exterior_Tileset_20
+  - first:
+      213: 8002608866257379156
+    second: Exterior_Tileset_21
+  - first:
+      213: 6764086209587134836
+    second: Exterior_Tileset_22
+  - first:
+      213: 114424616948714767
+    second: Exterior_Tileset_23
+  - first:
+      213: 6752789102049545468
+    second: Exterior_Tileset_24
+  - first:
+      213: -8577985991553775091
+    second: Exterior_Tileset_25
+  - first:
+      213: -3878732691477631090
+    second: Exterior_Tileset_26
+  - first:
+      213: 8398847186600104126
+    second: Exterior_Tileset_27
+  - first:
+      213: 7950148177121655966
+    second: Exterior_Tileset_28
+  - first:
+      213: 3277859119741102207
+    second: Exterior_Tileset_29
+  - first:
+      213: 3937326739977354499
+    second: Exterior_Tileset_30
+  - first:
+      213: 4147941737017245005
+    second: Exterior_Tileset_31
+  - first:
+      213: 6978761719489353743
+    second: Exterior_Tileset_32
+  - first:
+      213: -3098829066151073120
+    second: Exterior_Tileset_33
+  - first:
+      213: 584671989827584178
+    second: Exterior_Tileset_34
+  - first:
+      213: -4096452330895718885
+    second: Exterior_Tileset_35
+  - first:
+      213: -4197428253966261426
+    second: Exterior_Tileset_36
+  - first:
+      213: 1610915221872920993
+    second: Exterior_Tileset_37
+  - first:
+      213: 6703075311772663444
+    second: Exterior_Tileset_38
+  - first:
+      213: 8477467565084448762
+    second: Exterior_Tileset_39
+  - first:
+      213: -2369824909940253701
+    second: Exterior_Tileset_40
+  - first:
+      213: -4798833120323556873
+    second: Exterior_Tileset_41
+  - first:
+      213: 6231726886661111680
+    second: Exterior_Tileset_42
+  - first:
+      213: -3386960506716008023
+    second: Exterior_Tileset_43
+  - first:
+      213: 9161538645001741035
+    second: Exterior_Tileset_44
+  - first:
+      213: -3733839951079940044
+    second: Exterior_Tileset_45
+  - first:
+      213: -3429512687907522056
+    second: Exterior_Tileset_46
+  - first:
+      213: 2826597154250973230
+    second: Exterior_Tileset_47
+  - first:
+      213: 775438469362147995
+    second: Exterior_Tileset_48
+  - first:
+      213: 8823747786559996643
+    second: Exterior_Tileset_49
+  - first:
+      213: -2531659001376408269
+    second: Exterior_Tileset_50
+  - first:
+      213: 5518272682212323846
+    second: Exterior_Tileset_51
+  - first:
+      213: 3113779564508438733
+    second: Exterior_Tileset_52
+  - first:
+      213: -4518718400946482469
+    second: Exterior_Tileset_53
+  - first:
+      213: -1761704337250330321
+    second: Exterior_Tileset_54
+  - first:
+      213: 1797505305770419095
+    second: Exterior_Tileset_55
+  - first:
+      213: 8909096340647179946
+    second: Exterior_Tileset_56
+  - first:
+      213: -7429646481681666219
+    second: Exterior_Tileset_57
+  - first:
+      213: 5037249652507531228
+    second: Exterior_Tileset_58
+  - first:
+      213: -4754026437406755062
+    second: Exterior_Tileset_59
+  - first:
+      213: -2962352535879095072
+    second: Exterior_Tileset_60
+  - first:
+      213: -4375482171834429512
+    second: Exterior_Tileset_61
+  - first:
+      213: -3940852833550464112
+    second: Exterior_Tileset_62
+  - first:
+      213: 1086922561619336521
+    second: Exterior_Tileset_63
+  - first:
+      213: -5020483543174002150
+    second: Exterior_Tileset_64
+  - first:
+      213: 8147766876149363197
+    second: Exterior_Tileset_65
+  - first:
+      213: -3440885639956828574
+    second: Exterior_Tileset_66
+  - first:
+      213: -2887388484842674311
+    second: Exterior_Tileset_67
+  - first:
+      213: 6904737398027604244
+    second: Exterior_Tileset_68
+  - first:
+      213: 3719135309652079237
+    second: Exterior_Tileset_69
+  - first:
+      213: 1937558801696131368
+    second: Exterior_Tileset_70
+  - first:
+      213: -6423374957468037756
+    second: Exterior_Tileset_71
+  - first:
+      213: -5174959170181315227
+    second: Exterior_Tileset_72
+  - first:
+      213: 3044205090214806594
+    second: Exterior_Tileset_73
+  - first:
+      213: -27166969875034545
+    second: Exterior_Tileset_74
+  - first:
+      213: -6168204540022588940
+    second: Exterior_Tileset_75
+  - first:
+      213: 3723117225501853769
+    second: Exterior_Tileset_76
+  - first:
+      213: -6611277004878426037
+    second: Exterior_Tileset_77
+  - first:
+      213: -4548571683047905530
+    second: Exterior_Tileset_78
+  - first:
+      213: 4202829097313157981
+    second: Exterior_Tileset_79
+  - first:
+      213: -6421359386482714155
+    second: Exterior_Tileset_80
+  - first:
+      213: 5946679068892622342
+    second: Exterior_Tileset_81
+  - first:
+      213: -2249829875196367124
+    second: Exterior_Tileset_82
+  - first:
+      213: 1449388027915667487
+    second: Exterior_Tileset_83
+  - first:
+      213: -119724859575979724
+    second: Exterior_Tileset_84
+  - first:
+      213: -7043390699581237942
+    second: Exterior_Tileset_85
+  - first:
+      213: 3840282617486475084
+    second: Exterior_Tileset_86
+  - first:
+      213: 1324806044331469458
+    second: Exterior_Tileset_87
+  - first:
+      213: -4169154596305020374
+    second: Exterior_Tileset_88
+  - first:
+      213: -36149828125564459
+    second: Exterior_Tileset_89
+  - first:
+      213: -2146728582589796950
+    second: Exterior_Tileset_90
+  - first:
+      213: 7391520558392498779
+    second: Exterior_Tileset_91
+  - first:
+      213: 1897872434381410932
+    second: Exterior_Tileset_92
+  - first:
+      213: 5878093787340610812
+    second: Exterior_Tileset_93
+  - first:
+      213: 3999483026984698026
+    second: Exterior_Tileset_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: well_orange_roof
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad45f38679f68be9a82d24a520db7ae5
+      internalID: 2084690637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: well_orange_sand
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae27d2bac680b5989ba652a235180fc
+      internalID: 878218292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: well_wooden_frame
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06924e14d4dfd546235aaad5f886c94d
+      internalID: -1255782608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailbox_red
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683c589dacfcb8a9a8985790e24b98fd
+      internalID: -693513080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mailbox_blue
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa0a656258fbdd468b23e50572ab759
+      internalID: -592609551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sign_blank
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c074976b7aeb81664f781c80b8f6bcbf
+      internalID: -1004648700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sign_arrow_right
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce3df36a559cc9e0e20e139e4a4b91b
+      internalID: -194765584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sign_arrow_left
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650a389750600c5be7d255d6a221c7c4
+      internalID: 1501636935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notice_board
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0472b5cfb34a22a9658fbe6d0a9b117b
+      internalID: 1922263285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crate_closed
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 112
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea3fb3529b7264de5902d5cee362ac8
+      internalID: 886864818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crate_open
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 112
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beb3595976aa79147753056b002ef94
+      internalID: 1508964486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_plain
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0490981303e9168e8be186157be4a511
+      internalID: 1390060511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barrel_water
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0e929184c5ab54a13f1cd5acbce0b9
+      internalID: 1547405689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bucket
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e864399813cbfd3e0d550473673a70d
+      internalID: 827669720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bench_wood
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 48
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eff1b8d1730508dfa759bee12ad6d9
+      internalID: 1135936020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bench_solid
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 48
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fe04cc62b7b23d1411723c2d762b78
+      internalID: 462983509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_brown_horizontal
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 160
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acce5a440b809437953a4a72c4625ada
+      internalID: 1585943099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_brown_vertical
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 144
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36cdde2511c14aaf7e26620c0c2cf93
+      internalID: 249553534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_brown_corner_nw
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 160
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb99a4e4e81bbb713a7cd730ad63fc1
+      internalID: 60329873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_brown_corner_ne
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f5d9b2aedcdaa16883778ccdf750d0
+      internalID: 3696704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_brown_corner_sw
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 128
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac094fb5c5c2ba75bf0cd8e1c7c63903
+      internalID: -1845188443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_brown_corner_se
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c115232d59d011f78125508eebbc70e7
+      internalID: 1590046759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_brown_middle
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345eb553103fa0d263522462ca05f1f
+      internalID: -1691877062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_brown_gate
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917a438f5669aa20074bb8022fdb50b2
+      internalID: -1087718686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_rail_horizontal
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca07922415cf643bb646354b8a86de74
+      internalID: 271240146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_rail_vertical
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cf31208360d8c6ee311a04030c59da
+      internalID: 1806523337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_rail_corner_nw
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb1d595e26cd0c62f632cf1e0cf0262
+      internalID: -1490707074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_rail_corner_ne
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aedd83f33203f781038055113f46d9f
+      internalID: 239618645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_rail_corner_sw
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1623e33ef4e75f5fce70c1a196d4d545
+      internalID: -2021682377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_rail_corner_se
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc76c678d8a2853802a4c7c89feceb0
+      internalID: 300298032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fence_rail_gate
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4437070cb6e1cd1fce9e6d520c94b0c5
+      internalID: -1911859277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dock_horizontal_panel
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8207b582aece99ed0a916b4e941d57
+      internalID: 656303972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dock_vertical_panel
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68151a8ad36bd8c251c48ea69782b955
+      internalID: 525472419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dock_small_vertical
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54345d277fdf98b9f41b60fb0aea261b
+      internalID: -64403875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dock_small_horizontal
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8f4810cab3cc71e6eac3f98aceeb8a
+      internalID: 1271486104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_box_pink
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050cfe24b4973fc9a19b6f87486a5033
+      internalID: -770313147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_box_purple
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e9cb9c169f7403b715cd4a7bfd6e9b
+      internalID: 425763449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_box_red
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0580761b62d5b5086a5274d6e46dbc
+      internalID: -1737424455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_box_blue
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae27ddf147ba190d7b12eabc578f91a
+      internalID: 648594995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flower_box_yellow
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9da7f589937b456aa3407b675118bec
+      internalID: -137964238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b356d2c119c2d0946bb97b090756da6c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barrel_plain: 1390060511
+      barrel_water: 1547405689
+      bench_solid: 462983509
+      bench_wood: 1135936020
+      bucket: 827669720
+      crate_closed: 886864818
+      crate_open: 1508964486
+      dock_horizontal_panel: 656303972
+      dock_small_horizontal: 1271486104
+      dock_small_vertical: -64403875
+      dock_vertical_panel: 525472419
+      fence_brown_corner_ne: 3696704
+      fence_brown_corner_nw: 60329873
+      fence_brown_corner_se: 1590046759
+      fence_brown_corner_sw: -1845188443
+      fence_brown_gate: -1087718686
+      fence_brown_horizontal: 1585943099
+      fence_brown_middle: -1691877062
+      fence_brown_vertical: 249553534
+      fence_rail_corner_ne: 239618645
+      fence_rail_corner_nw: -1490707074
+      fence_rail_corner_se: 300298032
+      fence_rail_corner_sw: -2021682377
+      fence_rail_gate: -1911859277
+      fence_rail_horizontal: 271240146
+      fence_rail_vertical: 1806523337
+      flower_box_blue: 648594995
+      flower_box_pink: -770313147
+      flower_box_purple: 425763449
+      flower_box_red: -1737424455
+      flower_box_yellow: -137964238
+      mailbox_blue: -592609551
+      mailbox_red: -693513080
+      notice_board: 1922263285
+      sign_arrow_left: 1501636935
+      sign_arrow_right: -194765584
+      sign_blank: -1004648700
+      well_orange_roof: 2084690637
+      well_orange_sand: 878218292
+      well_wooden_frame: -1255782608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

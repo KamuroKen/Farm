@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: 316ebbda531976346b5f867d86880e4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4525424378434253614
+    second: BabyGoat_Walk_0
+  - first:
+      213: -3574284764476474815
+    second: BabyGoat_Walk_1
+  - first:
+      213: 2795500927688311265
+    second: BabyGoat_Walk_2
+  - first:
+      213: -994662490711516872
+    second: BabyGoat_Walk_3
+  - first:
+      213: 772669299150011189
+    second: BabyGoat_Walk_4
+  - first:
+      213: -3432839007526372317
+    second: BabyGoat_Walk_5
+  - first:
+      213: 9083248885355334875
+    second: BabyGoat_Walk_6
+  - first:
+      213: 1305089645241458433
+    second: BabyGoat_Walk_7
+  - first:
+      213: -1195728625926864373
+    second: BabyGoat_Walk_8
+  - first:
+      213: 3311091479594601621
+    second: BabyGoat_Walk_9
+  - first:
+      213: -5546186034115204548
+    second: BabyGoat_Walk_10
+  - first:
+      213: 5155198907295627104
+    second: BabyGoat_Walk_11
+  - first:
+      213: 6318117290998083589
+    second: BabyGoat_Walk_12
+  - first:
+      213: -8343091322425046818
+    second: BabyGoat_Walk_13
+  - first:
+      213: 1192533331155439794
+    second: BabyGoat_Walk_14
+  - first:
+      213: 2546512848274723418
+    second: BabyGoat_Walk_15
+  - first:
+      213: -1431254943428597107
+    second: BabyGoat_Walk_16
+  - first:
+      213: -5512094857057404132
+    second: BabyGoat_Walk_17
+  - first:
+      213: -6663975776635081778
+    second: BabyGoat_Walk_18
+  - first:
+      213: 6227592026206903429
+    second: BabyGoat_Walk_19
+  - first:
+      213: -5123095281164840410
+    second: BabyGoat_Walk_20
+  - first:
+      213: -9040306183952789322
+    second: BabyGoat_Walk_21
+  - first:
+      213: -7984445968221614225
+    second: BabyGoat_Walk_22
+  - first:
+      213: 3182959094508687874
+    second: BabyGoat_Walk_23
+  - first:
+      213: -1199825207777740965
+    second: BabyGoat_Walk_24
+  - first:
+      213: -1598211362934450141
+    second: BabyGoat_Walk_25
+  - first:
+      213: -3103812437346801923
+    second: BabyGoat_Walk_26
+  - first:
+      213: -1346382244855066995
+    second: BabyGoat_Walk_27
+  - first:
+      213: -2519259505527250559
+    second: BabyGoat_Walk_28
+  - first:
+      213: 3738682732712965728
+    second: BabyGoat_Walk_29
+  - first:
+      213: -2669404460561466841
+    second: BabyGoat_Walk_30
+  - first:
+      213: -7909502100916429602
+    second: BabyGoat_Walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BabyGoat_Walk_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e237776de798dce30800000000000000
+      internalID: 4525424378434253614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 158
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14af94fa1f6956ec0800000000000000
+      internalID: -3574284764476474815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e10324584d9bc620800000000000000
+      internalID: 2795500927688311265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8391cb11cbf3232f0800000000000000
+      internalID: -994662490711516872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bbfa042a219ba00800000000000000
+      internalID: 772669299150011189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 158
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c39415c1b1c50d0800000000000000
+      internalID: -3432839007526372317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 158
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc41127cbe2e0e70800000000000000
+      internalID: 9083248885355334875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f58a02e1c9c1210800000000000000
+      internalID: 1305089645241458433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b020dd3662be76fe0800000000000000
+      internalID: -1195728625926864373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c0f04682c53fd20800000000000000
+      internalID: 3311091479594601621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3aa45adf2df703b0800000000000000
+      internalID: -5546186034115204548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06776dfb712fa8740800000000000000
+      internalID: 5155198907295627104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500b13b83367ea750800000000000000
+      internalID: 6318117290998083589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8063655a2673c80800000000000000
+      internalID: -8343091322425046818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b055521fbabc8010800000000000000
+      internalID: 1192533331155439794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52126981f7075320800000000000000
+      internalID: 2546512848274723418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aaae94639232ce0800000000000000
+      internalID: -1431254943428597107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf5dc8eea1183b0800000000000000
+      internalID: -5512094857057404132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbabd1a65dc483a0800000000000000
+      internalID: -6663975776635081778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c1e10e3f9dc6650800000000000000
+      internalID: 6227592026206903429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62290bf2cfb17e8b0800000000000000
+      internalID: -5123095281164840410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b01abc5c616a8280800000000000000
+      internalID: -9040306183952789322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fc9dff1bc813190800000000000000
+      internalID: -7984445968221614225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2021ac2be642c2c20800000000000000
+      internalID: 3182959094508687874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5739d9945d595fe0800000000000000
+      internalID: -1199825207777740965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3289c4cab3302d9e0800000000000000
+      internalID: -1598211362934450141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6218e680b0de4d0800000000000000
+      internalID: -3103812437346801923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e45835b70b05de0800000000000000
+      internalID: -1346382244855066995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181a50cc3dac90dd0800000000000000
+      internalID: -2519259505527250559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0663e33132872e330800000000000000
+      internalID: 3738682732712965728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 14
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72af36649ce54fad0800000000000000
+      internalID: -2669404460561466841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Walk_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc9bacdebdcb3290800000000000000
+      internalID: -7909502100916429602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BabyGoat_Walk_0: 4525424378434253614
+      BabyGoat_Walk_1: -3574284764476474815
+      BabyGoat_Walk_10: -5546186034115204548
+      BabyGoat_Walk_11: 5155198907295627104
+      BabyGoat_Walk_12: 6318117290998083589
+      BabyGoat_Walk_13: -8343091322425046818
+      BabyGoat_Walk_14: 1192533331155439794
+      BabyGoat_Walk_15: 2546512848274723418
+      BabyGoat_Walk_16: -1431254943428597107
+      BabyGoat_Walk_17: -5512094857057404132
+      BabyGoat_Walk_18: -6663975776635081778
+      BabyGoat_Walk_19: 6227592026206903429
+      BabyGoat_Walk_2: 2795500927688311265
+      BabyGoat_Walk_20: -5123095281164840410
+      BabyGoat_Walk_21: -9040306183952789322
+      BabyGoat_Walk_22: -7984445968221614225
+      BabyGoat_Walk_23: 3182959094508687874
+      BabyGoat_Walk_24: -1199825207777740965
+      BabyGoat_Walk_25: -1598211362934450141
+      BabyGoat_Walk_26: -3103812437346801923
+      BabyGoat_Walk_27: -1346382244855066995
+      BabyGoat_Walk_28: -2519259505527250559
+      BabyGoat_Walk_29: 3738682732712965728
+      BabyGoat_Walk_3: -994662490711516872
+      BabyGoat_Walk_30: -2669404460561466841
+      BabyGoat_Walk_31: -7909502100916429602
+      BabyGoat_Walk_4: 772669299150011189
+      BabyGoat_Walk_5: -3432839007526372317
+      BabyGoat_Walk_6: 9083248885355334875
+      BabyGoat_Walk_7: 1305089645241458433
+      BabyGoat_Walk_8: -1195728625926864373
+      BabyGoat_Walk_9: 3311091479594601621
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

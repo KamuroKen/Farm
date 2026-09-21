@@ -1,0 +1,2017 @@
+fileFormatVersion: 2
+guid: d97b24d61eabdf546ab2675e0c12b699
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7325365188542734054
+    second: Tileset_Floor_Detail_0
+  - first:
+      213: 1549503074561963675
+    second: Tileset_Floor_Detail_1
+  - first:
+      213: -2877408707088659195
+    second: Tileset_Floor_Detail_2
+  - first:
+      213: -4542006817501716878
+    second: Tileset_Floor_Detail_3
+  - first:
+      213: 6623829211123522516
+    second: Tileset_Floor_Detail_4
+  - first:
+      213: 3444565066709581771
+    second: Tileset_Floor_Detail_5
+  - first:
+      213: 8809018242001622658
+    second: Tileset_Floor_Detail_6
+  - first:
+      213: 7219822144002777389
+    second: Tileset_Floor_Detail_7
+  - first:
+      213: 4899035171739713398
+    second: Tileset_Floor_Detail_8
+  - first:
+      213: 8430559483176171783
+    second: Tileset_Floor_Detail_9
+  - first:
+      213: -4139099601561850517
+    second: Tileset_Floor_Detail_10
+  - first:
+      213: 7688721648461225190
+    second: Tileset_Floor_Detail_11
+  - first:
+      213: 5152580244613332765
+    second: Tileset_Floor_Detail_12
+  - first:
+      213: 8492841829081181051
+    second: Tileset_Floor_Detail_13
+  - first:
+      213: -3488187973873669367
+    second: Tileset_Floor_Detail_14
+  - first:
+      213: 3241064712298894480
+    second: Tileset_Floor_Detail_15
+  - first:
+      213: -5823364230818188780
+    second: Tileset_Floor_Detail_16
+  - first:
+      213: -1916890457299239852
+    second: Tileset_Floor_Detail_17
+  - first:
+      213: 3417094732176492115
+    second: Tileset_Floor_Detail_18
+  - first:
+      213: 7128975110052361779
+    second: Tileset_Floor_Detail_19
+  - first:
+      213: -5222046389339657309
+    second: Tileset_Floor_Detail_20
+  - first:
+      213: -7735406361504651147
+    second: Tileset_Floor_Detail_21
+  - first:
+      213: -8850413517644189121
+    second: Tileset_Floor_Detail_22
+  - first:
+      213: 6077556522173520932
+    second: Tileset_Floor_Detail_23
+  - first:
+      213: -7172890242936423257
+    second: Tileset_Floor_Detail_24
+  - first:
+      213: 4296888746415980161
+    second: Tileset_Floor_Detail_25
+  - first:
+      213: 4628019808538918022
+    second: Tileset_Floor_Detail_26
+  - first:
+      213: 6871289729800805783
+    second: Tileset_Floor_Detail_27
+  - first:
+      213: -8118757469851374189
+    second: Tileset_Floor_Detail_28
+  - first:
+      213: 6160294702625935319
+    second: Tileset_Floor_Detail_29
+  - first:
+      213: -8066555959127519975
+    second: Tileset_Floor_Detail_30
+  - first:
+      213: -4121624117375000740
+    second: Tileset_Floor_Detail_31
+  - first:
+      213: -217624180246949036
+    second: Tileset_Floor_Detail_32
+  - first:
+      213: -8735563328474047676
+    second: Tileset_Floor_Detail_33
+  - first:
+      213: -866390672284016204
+    second: Tileset_Floor_Detail_34
+  - first:
+      213: 3998460853883678084
+    second: Tileset_Floor_Detail_35
+  - first:
+      213: -4823080605907341964
+    second: Tileset_Floor_Detail_36
+  - first:
+      213: -4177574384147128651
+    second: Tileset_Floor_Detail_37
+  - first:
+      213: 593407223666835136
+    second: Tileset_Floor_Detail_38
+  - first:
+      213: 8566654400664369834
+    second: Tileset_Floor_Detail_39
+  - first:
+      213: 7251102349326330938
+    second: Tileset_Floor_Detail_40
+  - first:
+      213: -2179108278513052546
+    second: Tileset_Floor_Detail_41
+  - first:
+      213: 8074183343977749887
+    second: Tileset_Floor_Detail_42
+  - first:
+      213: -629641598732981802
+    second: Tileset_Floor_Detail_43
+  - first:
+      213: 9058478124511151766
+    second: Tileset_Floor_Detail_44
+  - first:
+      213: 7283039600616808704
+    second: Tileset_Floor_Detail_45
+  - first:
+      213: 2782376243714924164
+    second: Tileset_Floor_Detail_46
+  - first:
+      213: 9116587567469488570
+    second: Tileset_Floor_Detail_47
+  - first:
+      213: 1418391999624727552
+    second: Tileset_Floor_Detail_48
+  - first:
+      213: -6161880703695149648
+    second: Tileset_Floor_Detail_49
+  - first:
+      213: -5054686233655374587
+    second: Tileset_Floor_Detail_50
+  - first:
+      213: -2106536536146690949
+    second: Tileset_Floor_Detail_51
+  - first:
+      213: -682908099615550121
+    second: Tileset_Floor_Detail_52
+  - first:
+      213: 1008686294260916370
+    second: Tileset_Floor_Detail_53
+  - first:
+      213: -2747693224597007700
+    second: Tileset_Floor_Detail_54
+  - first:
+      213: 4648460812851147298
+    second: Tileset_Floor_Detail_55
+  - first:
+      213: -8348743636294089393
+    second: Tileset_Floor_Detail_56
+  - first:
+      213: 112873014166148588
+    second: Tileset_Floor_Detail_57
+  - first:
+      213: 9004156332310201921
+    second: Tileset_Floor_Detail_58
+  - first:
+      213: 4100999761587342614
+    second: Tileset_Floor_Detail_59
+  - first:
+      213: 1547248183901764678
+    second: Tileset_Floor_Detail_60
+  - first:
+      213: -4152310925543593528
+    second: Tileset_Floor_Detail_61
+  - first:
+      213: 4437936999309814606
+    second: Tileset_Floor_Detail_62
+  - first:
+      213: -7286440650991123821
+    second: Tileset_Floor_Detail_63
+  - first:
+      213: -3115934814302424890
+    second: Tileset_Floor_Detail_64
+  - first:
+      213: -5517379189220523150
+    second: Tileset_Floor_Detail_65
+  - first:
+      213: 7001672150236122997
+    second: Tileset_Floor_Detail_66
+  - first:
+      213: -7640905178490964803
+    second: Tileset_Floor_Detail_67
+  - first:
+      213: 7083054098811738227
+    second: Tileset_Floor_Detail_68
+  - first:
+      213: 8244913634568914800
+    second: Tileset_Floor_Detail_69
+  - first:
+      213: -7858583624791880311
+    second: Tileset_Floor_Detail_70
+  - first:
+      213: -8092175506551621180
+    second: Tileset_Floor_Detail_71
+  - first:
+      213: 2133766278360746373
+    second: Tileset_Floor_Detail_72
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 96
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee1a19d3dce8a560800000000000000
+      internalID: 7325365188542734054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 99
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9634a136d0f08510800000000000000
+      internalID: 1549503074561963675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 97
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d4d5ca6046118d0800000000000000
+      internalID: -2877408707088659195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 96
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e58633ddc87f0c0800000000000000
+      internalID: -4542006817501716878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db9fdda2919ceb50800000000000000
+      internalID: 6623829211123522516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb1f69dad8dcf20800000000000000
+      internalID: 3444565066709581771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_6
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 97
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286517e3b6bef3a70800000000000000
+      internalID: 8809018242001622658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 103
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21e8cadcf5f13460800000000000000
+      internalID: 7219822144002777389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_8
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 97
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fb0b1588edcf340800000000000000
+      internalID: 4899035171739713398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 101
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7093484de2d5ff470800000000000000
+      internalID: 8430559483176171783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 97
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6de1fe97d6fe86c0800000000000000
+      internalID: -4139099601561850517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 103
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec13694a93d3ba60800000000000000
+      internalID: 7688721648461225190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 98
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f7fd4de64a18740800000000000000
+      internalID: 5152580244613332765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 88
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b66f385a2acd570800000000000000
+      internalID: 8492841829081181051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 85
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b687bd487779fc0800000000000000
+      internalID: -3488187973873669367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 85
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09411a61f239afc20800000000000000
+      internalID: 3241064712298894480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 80
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412bd58e5114f2fa0800000000000000
+      internalID: -5823364230818188780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 94
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cb7530946d565e0800000000000000
+      internalID: -1916890457299239852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 89
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3560d3bed85fb6f20800000000000000
+      internalID: 3417094732176492115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_19
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 92
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336b54777153fe260800000000000000
+      internalID: 7128975110052361779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 91
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab6ccaf9709787b0800000000000000
+      internalID: -5222046389339657309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_21
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 94
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578e73de5e056a490800000000000000
+      internalID: -7735406361504651147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32b0851cc30d2580800000000000000
+      internalID: -8850413517644189121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cd286e471d75450800000000000000
+      internalID: 6077556522173520932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_24
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 82
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acb8e0e356c47c90800000000000000
+      internalID: -7172890242936423257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_25
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 83
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e7f798c8d91ab30800000000000000
+      internalID: 4296888746415980161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cfe6dde770a3040800000000000000
+      internalID: 4628019808538918022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_27
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 83
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d11958a99bb5f50800000000000000
+      internalID: 6871289729800805783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 84
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39da5ff9811645f80800000000000000
+      internalID: -8118757469851374189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_29
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 83
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df4db5b463cd7550800000000000000
+      internalID: 6160294702625935319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_30
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 84
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dc467f716dd0090800000000000000
+      internalID: -8066555959127519975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_31
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 86
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f1e2ad3bc0dc6c0800000000000000
+      internalID: -4121624117375000740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 66
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45358d906f7dafcf0800000000000000
+      internalID: -217624180246949036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_33
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b106d8f6b05c680800000000000000
+      internalID: -8735563328474047676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 69
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1accd1646f9f3f0800000000000000
+      internalID: -866390672284016204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 68
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48daa0c36f26d7730800000000000000
+      internalID: 3998460853883678084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_36
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 66
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d21d12eb9f01db0800000000000000
+      internalID: -4823080605907341964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 50
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be932a3b364606c0800000000000000
+      internalID: -4177574384147128651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ceffc5d9b43c3800800000000000000
+      internalID: 593407223666835136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaf2211aced2e670800000000000000
+      internalID: 8566654400664369834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_40
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 51
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ca8913b2711a460800000000000000
+      internalID: 7251102349326330938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 51
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74dd1ce09042c1e0800000000000000
+      internalID: -2179108278513052546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 52
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d5b25f8f24d0070800000000000000
+      internalID: 8074183343977749887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d926bb4d401347f0800000000000000
+      internalID: -629641598732981802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 41
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69642214cdd26bd70800000000000000
+      internalID: 9058478124511151766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 34
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0012ed7fded821560800000000000000
+      internalID: 7283039600616808704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e1d16b37cfc9620800000000000000
+      internalID: 2782376243714924164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9e2c24710a48e70800000000000000
+      internalID: 9116587567469488570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_48
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 39
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c43e932042fa310800000000000000
+      internalID: 1418391999624727552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5aae3a52a9c7aa0800000000000000
+      internalID: -6161880703695149648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 41
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d0aefb6a52ad9b0800000000000000
+      internalID: -5054686233655374587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_51
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 34
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c38986e2414c2e0800000000000000
+      internalID: -2106536536146690949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7559d2c93b2d586f0800000000000000
+      internalID: -682908099615550121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_53
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 24
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2902a3327d29ffd00800000000000000
+      internalID: 1008686294260916370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_54
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2d524f19b3ed9d0800000000000000
+      internalID: -2747693224597007700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 21
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222f05e0b76a28040800000000000000
+      internalID: 4648460812851147298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4543e575ed432c80800000000000000
+      internalID: -8348743636294089393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_57
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5d91a8861019100800000000000000
+      internalID: 112873014166148588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_58
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 25
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1460f696a7035fc70800000000000000
+      internalID: 9004156332310201921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_59
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 24
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d006d1e8da9e830800000000000000
+      internalID: 4100999761587342614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c35dc860ee87510800000000000000
+      internalID: 1547248183901764678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 21
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9200e86370066c0800000000000000
+      internalID: -4152310925543593528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 26
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bac6b0038b69d30800000000000000
+      internalID: 4437936999309814606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_63
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 21
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39245b845dc51ea90800000000000000
+      internalID: -7286440650991123821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_64
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 25
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c03b3a9bc9f1c4d0800000000000000
+      internalID: -3115934814302424890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273c0671cd45e63b0800000000000000
+      internalID: -5517379189220523150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_66
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 17
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fc19469bfea2160800000000000000
+      internalID: 7001672150236122997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db47a91393d06f590800000000000000
+      internalID: -7640905178490964803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 16
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3785c8cdc201c4260800000000000000
+      internalID: 7083054098811738227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_69
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 18
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07741486441db6270800000000000000
+      internalID: 8244913634568914800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_70
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 18
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d049e64d3b0f290800000000000000
+      internalID: -7858583624791880311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 16
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9bfdf3041d2bf80800000000000000
+      internalID: -8092175506551621180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Floor_Detail_72
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 16
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589466fff19ac9d10800000000000000
+      internalID: 2133766278360746373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Floor_Detail_0: 7325365188542734054
+      Tileset_Floor_Detail_1: 1549503074561963675
+      Tileset_Floor_Detail_10: -4139099601561850517
+      Tileset_Floor_Detail_11: 7688721648461225190
+      Tileset_Floor_Detail_12: 5152580244613332765
+      Tileset_Floor_Detail_13: 8492841829081181051
+      Tileset_Floor_Detail_14: -3488187973873669367
+      Tileset_Floor_Detail_15: 3241064712298894480
+      Tileset_Floor_Detail_16: -5823364230818188780
+      Tileset_Floor_Detail_17: -1916890457299239852
+      Tileset_Floor_Detail_18: 3417094732176492115
+      Tileset_Floor_Detail_19: 7128975110052361779
+      Tileset_Floor_Detail_2: -2877408707088659195
+      Tileset_Floor_Detail_20: -5222046389339657309
+      Tileset_Floor_Detail_21: -7735406361504651147
+      Tileset_Floor_Detail_22: -8850413517644189121
+      Tileset_Floor_Detail_23: 6077556522173520932
+      Tileset_Floor_Detail_24: -7172890242936423257
+      Tileset_Floor_Detail_25: 4296888746415980161
+      Tileset_Floor_Detail_26: 4628019808538918022
+      Tileset_Floor_Detail_27: 6871289729800805783
+      Tileset_Floor_Detail_28: -8118757469851374189
+      Tileset_Floor_Detail_29: 6160294702625935319
+      Tileset_Floor_Detail_3: -4542006817501716878
+      Tileset_Floor_Detail_30: -8066555959127519975
+      Tileset_Floor_Detail_31: -4121624117375000740
+      Tileset_Floor_Detail_32: -217624180246949036
+      Tileset_Floor_Detail_33: -8735563328474047676
+      Tileset_Floor_Detail_34: -866390672284016204
+      Tileset_Floor_Detail_35: 3998460853883678084
+      Tileset_Floor_Detail_36: -4823080605907341964
+      Tileset_Floor_Detail_37: -4177574384147128651
+      Tileset_Floor_Detail_38: 593407223666835136
+      Tileset_Floor_Detail_39: 8566654400664369834
+      Tileset_Floor_Detail_4: 6623829211123522516
+      Tileset_Floor_Detail_40: 7251102349326330938
+      Tileset_Floor_Detail_41: -2179108278513052546
+      Tileset_Floor_Detail_42: 8074183343977749887
+      Tileset_Floor_Detail_43: -629641598732981802
+      Tileset_Floor_Detail_44: 9058478124511151766
+      Tileset_Floor_Detail_45: 7283039600616808704
+      Tileset_Floor_Detail_46: 2782376243714924164
+      Tileset_Floor_Detail_47: 9116587567469488570
+      Tileset_Floor_Detail_48: 1418391999624727552
+      Tileset_Floor_Detail_49: -6161880703695149648
+      Tileset_Floor_Detail_5: 3444565066709581771
+      Tileset_Floor_Detail_50: -5054686233655374587
+      Tileset_Floor_Detail_51: -2106536536146690949
+      Tileset_Floor_Detail_52: -682908099615550121
+      Tileset_Floor_Detail_53: 1008686294260916370
+      Tileset_Floor_Detail_54: -2747693224597007700
+      Tileset_Floor_Detail_55: 4648460812851147298
+      Tileset_Floor_Detail_56: -8348743636294089393
+      Tileset_Floor_Detail_57: 112873014166148588
+      Tileset_Floor_Detail_58: 9004156332310201921
+      Tileset_Floor_Detail_59: 4100999761587342614
+      Tileset_Floor_Detail_6: 8809018242001622658
+      Tileset_Floor_Detail_60: 1547248183901764678
+      Tileset_Floor_Detail_61: -4152310925543593528
+      Tileset_Floor_Detail_62: 4437936999309814606
+      Tileset_Floor_Detail_63: -7286440650991123821
+      Tileset_Floor_Detail_64: -3115934814302424890
+      Tileset_Floor_Detail_65: -5517379189220523150
+      Tileset_Floor_Detail_66: 7001672150236122997
+      Tileset_Floor_Detail_67: -7640905178490964803
+      Tileset_Floor_Detail_68: 7083054098811738227
+      Tileset_Floor_Detail_69: 8244913634568914800
+      Tileset_Floor_Detail_7: 7219822144002777389
+      Tileset_Floor_Detail_70: -7858583624791880311
+      Tileset_Floor_Detail_71: -8092175506551621180
+      Tileset_Floor_Detail_72: 2133766278360746373
+      Tileset_Floor_Detail_8: 4899035171739713398
+      Tileset_Floor_Detail_9: 8430559483176171783
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

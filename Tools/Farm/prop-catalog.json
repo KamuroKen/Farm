@@ -1,0 +1,850 @@
+[
+  {
+    "name": "tree_round",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 16,
+    "y": 16,
+    "w": 32,
+    "h": 48
+  },
+  {
+    "name": "tree_pine",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 48,
+    "y": 32,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "tree_column",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 80,
+    "y": 32,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "tree_cypress",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 96,
+    "y": 32,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "tree_canopy_cluster",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 144,
+    "y": 16,
+    "w": 64,
+    "h": 48
+  },
+  {
+    "name": "tree_pine_cluster",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 144,
+    "y": 64,
+    "w": 64,
+    "h": 48
+  },
+  {
+    "name": "bush_small",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 48,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "bush_round",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 64,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "bush_tall",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 80,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "bush_leafy",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 96,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "bush_dense",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 112,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "bush_branching",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 128,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "rocks_blue_large",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 208,
+    "y": 16,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "rocks_sand_large",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 272,
+    "y": 16,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "rock_blue_medium",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 336,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "rock_blue_small",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 304,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "stump",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 16,
+    "y": 96,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "fallen_log",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 96,
+    "y": 112,
+    "w": 32,
+    "h": 16
+  },
+  {
+    "name": "fallen_log_moss",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 96,
+    "y": 128,
+    "w": 32,
+    "h": 16
+  },
+  {
+    "name": "reeds_brown",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 48,
+    "y": 160,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "reeds_green",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 64,
+    "y": 160,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "reeds_young",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 48,
+    "y": 176,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "lily_plain",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 64,
+    "y": 144,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "lily_pink",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 80,
+    "y": 144,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "lily_white",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 96,
+    "y": 176,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "mushrooms",
+    "atlas": "Assets/Tileset/Nature_Tileset.png",
+    "x": 192,
+    "y": 176,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "well_orange_roof",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 144,
+    "y": 16,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "well_orange_sand",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 208,
+    "y": 16,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "well_wooden_frame",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 144,
+    "y": 80,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "mailbox_red",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 16,
+    "y": 16,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "mailbox_blue",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 32,
+    "y": 16,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "sign_blank",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 144,
+    "y": 112,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "sign_arrow_right",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 160,
+    "y": 112,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "sign_arrow_left",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 176,
+    "y": 112,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "notice_board",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 352,
+    "y": 112,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "crate_closed",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 320,
+    "y": 112,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crate_open",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 336,
+    "y": 112,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "barrel_plain",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 320,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "barrel_water",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 336,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "bucket",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 352,
+    "y": 160,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "bench_wood",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 272,
+    "y": 176,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "bench_solid",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 304,
+    "y": 176,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "fence_brown_horizontal",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 88,
+    "y": 80,
+    "w": 32,
+    "h": 16
+  },
+  {
+    "name": "fence_brown_vertical",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 88,
+    "y": 96,
+    "w": 8,
+    "h": 16
+  },
+  {
+    "name": "fence_brown_corner_nw",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 88,
+    "y": 80,
+    "w": 8,
+    "h": 16
+  },
+  {
+    "name": "fence_brown_corner_ne",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 112,
+    "y": 80,
+    "w": 8,
+    "h": 16
+  },
+  {
+    "name": "fence_brown_corner_sw",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 88,
+    "y": 112,
+    "w": 8,
+    "h": 16
+  },
+  {
+    "name": "fence_brown_corner_se",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 112,
+    "y": 112,
+    "w": 8,
+    "h": 16
+  },
+  {
+    "name": "fence_brown_middle",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 96,
+    "y": 96,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "fence_brown_gate",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 96,
+    "y": 128,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "fence_rail_horizontal",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 24,
+    "y": 80,
+    "w": 32,
+    "h": 16
+  },
+  {
+    "name": "fence_rail_vertical",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 24,
+    "y": 96,
+    "w": 8,
+    "h": 16
+  },
+  {
+    "name": "fence_rail_corner_nw",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 24,
+    "y": 80,
+    "w": 8,
+    "h": 16
+  },
+  {
+    "name": "fence_rail_corner_ne",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 48,
+    "y": 80,
+    "w": 8,
+    "h": 16
+  },
+  {
+    "name": "fence_rail_corner_sw",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 24,
+    "y": 112,
+    "w": 8,
+    "h": 16
+  },
+  {
+    "name": "fence_rail_corner_se",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 48,
+    "y": 112,
+    "w": 8,
+    "h": 16
+  },
+  {
+    "name": "fence_rail_gate",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 32,
+    "y": 128,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "dock_horizontal_panel",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 24,
+    "y": 192,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "dock_vertical_panel",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 72,
+    "y": 192,
+    "w": 32,
+    "h": 32
+  },
+  {
+    "name": "dock_small_vertical",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 16,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "dock_small_horizontal",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 40,
+    "y": 144,
+    "w": 32,
+    "h": 16
+  },
+  {
+    "name": "flower_box_pink",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 96,
+    "y": 160,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "flower_box_purple",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 112,
+    "y": 160,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "flower_box_red",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 128,
+    "y": 160,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "flower_box_blue",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 144,
+    "y": 160,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "flower_box_yellow",
+    "atlas": "Assets/Tileset/Exterior_Tileset.png",
+    "x": 160,
+    "y": 160,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "flowers_white",
+    "atlas": "Assets/Tileset/Tileset_Floor_Detail.png",
+    "x": 16,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "flowers_purple",
+    "atlas": "Assets/Tileset/Tileset_Floor_Detail.png",
+    "x": 32,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "flowers_red",
+    "atlas": "Assets/Tileset/Tileset_Floor_Detail.png",
+    "x": 48,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "flowers_pink",
+    "atlas": "Assets/Tileset/Tileset_Floor_Detail.png",
+    "x": 64,
+    "y": 16,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "flowers_yellow",
+    "atlas": "Assets/Tileset/Tileset_Floor_Detail.png",
+    "x": 16,
+    "y": 32,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "flowers_blue",
+    "atlas": "Assets/Tileset/Tileset_Floor_Detail.png",
+    "x": 64,
+    "y": 32,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "clover_patch",
+    "atlas": "Assets/Tileset/Tileset_Floor_Detail.png",
+    "x": 16,
+    "y": 96,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "grass_tuft",
+    "atlas": "Assets/Tileset/Tileset_Floor_Detail.png",
+    "x": 128,
+    "y": 96,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "grass_sparse",
+    "atlas": "Assets/Tileset/Tileset_Floor_Detail.png",
+    "x": 144,
+    "y": 96,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "pebble",
+    "atlas": "Assets/Tileset/Tileset_Floor_Detail.png",
+    "x": 16,
+    "y": 64,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "pebble_pair",
+    "atlas": "Assets/Tileset/Tileset_Floor_Detail.png",
+    "x": 32,
+    "y": 64,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "crop_carrot_mature",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 16,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_carrot_growing",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 16,
+    "y": 112,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_carrot_sprout",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 16,
+    "y": 48,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_cabbage_mature",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 32,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_cabbage_growing",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 32,
+    "y": 112,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_cabbage_sprout",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 32,
+    "y": 48,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_pumpkin_mature",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 48,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_pumpkin_growing",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 48,
+    "y": 112,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_pumpkin_sprout",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 48,
+    "y": 48,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_strawberry_mature",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 64,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_strawberry_growing",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 64,
+    "y": 112,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_strawberry_sprout",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 64,
+    "y": 48,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_corn_mature",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 80,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_corn_growing",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 80,
+    "y": 112,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_corn_sprout",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 80,
+    "y": 48,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_eggplant_mature",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 96,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_eggplant_growing",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 96,
+    "y": 112,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_eggplant_sprout",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 96,
+    "y": 48,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_tomato_mature",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 128,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_tomato_growing",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 128,
+    "y": 112,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_tomato_sprout",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 128,
+    "y": 48,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_wheat_mature",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 208,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_wheat_growing",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 208,
+    "y": 112,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_wheat_sprout",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 208,
+    "y": 48,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_sunflower_mature",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 224,
+    "y": 144,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_sunflower_growing",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 224,
+    "y": 112,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "crop_sunflower_sprout",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 224,
+    "y": 48,
+    "w": 16,
+    "h": 32
+  },
+  {
+    "name": "soil_light",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 16,
+    "y": 416,
+    "w": 16,
+    "h": 16
+  },
+  {
+    "name": "soil_dark",
+    "atlas": "Assets/Tileset/Crops_Tileset.png",
+    "x": 32,
+    "y": 416,
+    "w": 16,
+    "h": 16
+  }
+]

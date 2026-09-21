@@ -1,0 +1,1523 @@
+fileFormatVersion: 2
+guid: 05049a0b92164f34f80a9cd2c650d397
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4495823178274989329
+    second: Bunny_Sword_0
+  - first:
+      213: -1472864437578961196
+    second: Bunny_Sword_1
+  - first:
+      213: -4633960119896498848
+    second: Bunny_Sword_2
+  - first:
+      213: -1091964875683796004
+    second: Bunny_Sword_3
+  - first:
+      213: -4906146010209156007
+    second: Bunny_Sword_4
+  - first:
+      213: 1969815784671280610
+    second: Bunny_Sword_5
+  - first:
+      213: -7776565554117610708
+    second: Bunny_Sword_6
+  - first:
+      213: 1112004069570786151
+    second: Bunny_Sword_7
+  - first:
+      213: -7922035607087831685
+    second: Bunny_Sword_8
+  - first:
+      213: -5076703014318643873
+    second: Bunny_Sword_9
+  - first:
+      213: -8807969750443792981
+    second: Bunny_Sword_10
+  - first:
+      213: 2517774012107019989
+    second: Bunny_Sword_11
+  - first:
+      213: -1103054791927219504
+    second: Bunny_Sword_12
+  - first:
+      213: 1943590194297245187
+    second: Bunny_Sword_13
+  - first:
+      213: -9206280999390979453
+    second: Bunny_Sword_14
+  - first:
+      213: -3380809631176142056
+    second: Bunny_Sword_15
+  - first:
+      213: -8948266843684310820
+    second: Bunny_Sword_16
+  - first:
+      213: 2777134545208433186
+    second: Bunny_Sword_17
+  - first:
+      213: 3233764103627850950
+    second: Bunny_Sword_18
+  - first:
+      213: 7475725754169757478
+    second: Bunny_Sword_19
+  - first:
+      213: 208384703653979337
+    second: Bunny_Sword_20
+  - first:
+      213: -8667061046255232980
+    second: Bunny_Sword_21
+  - first:
+      213: -7051695760170373306
+    second: Bunny_Sword_22
+  - first:
+      213: 7898139986939398826
+    second: Bunny_Sword_23
+  - first:
+      213: 5212477527138512105
+    second: Bunny_Sword_24
+  - first:
+      213: 4375761510082307736
+    second: Bunny_Sword_25
+  - first:
+      213: 7860707205451223977
+    second: Bunny_Sword_26
+  - first:
+      213: 954820996700754127
+    second: Bunny_Sword_27
+  - first:
+      213: 9181781002863915067
+    second: Bunny_Sword_28
+  - first:
+      213: 6993840223342277463
+    second: Bunny_Sword_29
+  - first:
+      213: 8423353989283542399
+    second: Bunny_Sword_30
+  - first:
+      213: -5633069467352600657
+    second: Bunny_Sword_31
+  - first:
+      213: -4241117675984209358
+    second: Bunny_Sword_32
+  - first:
+      213: 4931393623801269862
+    second: Bunny_Sword_33
+  - first:
+      213: -4259091095263888920
+    second: Bunny_Sword_34
+  - first:
+      213: -7476610118097299929
+    second: Bunny_Sword_35
+  - first:
+      213: -7234888683432756671
+    second: Bunny_Sword_36
+  - first:
+      213: 4208610029046740905
+    second: Bunny_Sword_37
+  - first:
+      213: -431578600969449596
+    second: Bunny_Sword_38
+  - first:
+      213: -792383467545104372
+    second: Bunny_Sword_39
+  - first:
+      213: -8662815459621105523
+    second: Bunny_Sword_40
+  - first:
+      213: 6826060864111622881
+    second: Bunny_Sword_41
+  - first:
+      213: 1087033529948198809
+    second: Bunny_Sword_42
+  - first:
+      213: 7563822561851153307
+    second: Bunny_Sword_43
+  - first:
+      213: 3082384140164583710
+    second: Bunny_Sword_44
+  - first:
+      213: -8537955811838969812
+    second: Bunny_Sword_45
+  - first:
+      213: 5564510327171377497
+    second: Bunny_Sword_46
+  - first:
+      213: 3427086336335820664
+    second: Bunny_Sword_47
+  - first:
+      213: -1636788829243459010
+    second: Bunny_Sword_48
+  - first:
+      213: 344167018339894863
+    second: Bunny_Sword_49
+  - first:
+      213: 2107876183789292078
+    second: Bunny_Sword_50
+  - first:
+      213: -3492877321515613599
+    second: Bunny_Sword_51
+  - first:
+      213: -3799901136831903112
+    second: Bunny_Sword_52
+  - first:
+      213: 5786860484200806997
+    second: Bunny_Sword_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bunny_Sword_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1156c0a5c5f546e30800000000000000
+      internalID: 4495823178274989329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deeccbf8955f8be0800000000000000
+      internalID: -1472864437578961196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d1e3e92ddd0bfb0800000000000000
+      internalID: -4633960119896498848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 158
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbe9a52bbf88d0f0800000000000000
+      internalID: -1091964875683796004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9548845923ed9ebb0800000000000000
+      internalID: -4906146010209156007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_5
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 158
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edf9460501365b10800000000000000
+      internalID: 1969815784671280610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23f74e94d6141490800000000000000
+      internalID: -7776565554117610708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 158
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7633e834fc1ae6f00800000000000000
+      internalID: 1112004069570786151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_8
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a88d86964f0290800000000000000
+      internalID: -7922035607087831685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 158
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55e169818deb89b0800000000000000
+      internalID: -5076703014318643873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_10
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba56968bd2ec3c580800000000000000
+      internalID: -8807969750443792981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 158
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d65950df1ee0f220800000000000000
+      internalID: 2517774012107019989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 159
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dab26fc28921b0f0800000000000000
+      internalID: -1103054791927219504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_13
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 111
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e0500fbf409fa10800000000000000
+      internalID: 1943590194297245187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a5fd04538bc3080800000000000000
+      internalID: -9206280999390979453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 111
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813d6808d83f411d0800000000000000
+      internalID: -3380809631176142056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd07ac237be51d380800000000000000
+      internalID: -8948266843684310820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 110
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a5d9ca72d5a8620800000000000000
+      internalID: 2777134545208433186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c52ca153a0ec20800000000000000
+      internalID: 3233764103627850950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 113
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f078f17fc1fb760800000000000000
+      internalID: 7475725754169757478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_20
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4abeda8c454e200800000000000000
+      internalID: 208384703653979337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28d45306e968b780800000000000000
+      internalID: -8667061046255232980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 108
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64faaee4118532e90800000000000000
+      internalID: -7051695760170373306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_23
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 111
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaac4d3d874db9d60800000000000000
+      internalID: 7898139986939398826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_24
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 110
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec2ccca1b0765840800000000000000
+      internalID: 5212477527138512105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 110
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896684ed8e3d9bc30800000000000000
+      internalID: 4375761510082307736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 111
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a316483e87d61d60800000000000000
+      internalID: 7860707205451223977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 63
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0de6c33a4304d00800000000000000
+      internalID: 954820996700754127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b303229cc2d3c6f70800000000000000
+      internalID: 9181781002863915067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753b720d0ac1f0160800000000000000
+      internalID: 6993840223342277463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 63
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f757d9c03d3c5e470800000000000000
+      internalID: 8423353989283542399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf695b2a2153d1b0800000000000000
+      internalID: -5633069467352600657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_32
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 62
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ab450b1f58425c0800000000000000
+      internalID: -4241117675984209358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_33
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 65
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e0d4a8f54df6440800000000000000
+      internalID: 4931393623801269862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_34
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e934c8e63ba4e4c0800000000000000
+      internalID: -4259091095263888920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 60
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72618bad5bebd3890800000000000000
+      internalID: -7476610118097299929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a3f721313889b90800000000000000
+      internalID: -7234888683432756671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_37
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 62
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a73a73f58cf76a30800000000000000
+      internalID: 4208610029046740905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 63
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f4e8c8c89b20af0800000000000000
+      internalID: -431578600969449596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_39
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 62
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00f41b3f63e005f0800000000000000
+      internalID: -792383467545104372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 63
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80958eac3f77c780800000000000000
+      internalID: -8662815459621105523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_41
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 63
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eab19c903a0bbe50800000000000000
+      internalID: 6826060864111622881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 15
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99750837c3be51f00800000000000000
+      internalID: 1087033529948198809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 15
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b193f8b8818f860800000000000000
+      internalID: 7563822561851153307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_44
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 14
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11dec75b04d6ca20800000000000000
+      internalID: 3082384140164583710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_45
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 14
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c283b57dc66138980800000000000000
+      internalID: -8537955811838969812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_46
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959ea0819ac193d40800000000000000
+      internalID: 5564510327171377497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_47
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87734eb8dd47f8f20800000000000000
+      internalID: 3427086336335820664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3abd9c5b35f849e0800000000000000
+      internalID: -1636788829243459010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f460e87641ab6c400800000000000000
+      internalID: 344167018339894863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a444d983ea04d10800000000000000
+      internalID: 2107876183789292078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_51
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1624b07059ec68fc0800000000000000
+      internalID: -3492877321515613599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_52
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 12
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a088d7c0a044bc0800000000000000
+      internalID: -3799901136831903112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bunny_Sword_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ab88543fe0f4050800000000000000
+      internalID: 5786860484200806997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bunny_Sword_0: 4495823178274989329
+      Bunny_Sword_1: -1472864437578961196
+      Bunny_Sword_10: -8807969750443792981
+      Bunny_Sword_11: 2517774012107019989
+      Bunny_Sword_12: -1103054791927219504
+      Bunny_Sword_13: 1943590194297245187
+      Bunny_Sword_14: -9206280999390979453
+      Bunny_Sword_15: -3380809631176142056
+      Bunny_Sword_16: -8948266843684310820
+      Bunny_Sword_17: 2777134545208433186
+      Bunny_Sword_18: 3233764103627850950
+      Bunny_Sword_19: 7475725754169757478
+      Bunny_Sword_2: -4633960119896498848
+      Bunny_Sword_20: 208384703653979337
+      Bunny_Sword_21: -8667061046255232980
+      Bunny_Sword_22: -7051695760170373306
+      Bunny_Sword_23: 7898139986939398826
+      Bunny_Sword_24: 5212477527138512105
+      Bunny_Sword_25: 4375761510082307736
+      Bunny_Sword_26: 7860707205451223977
+      Bunny_Sword_27: 954820996700754127
+      Bunny_Sword_28: 9181781002863915067
+      Bunny_Sword_29: 6993840223342277463
+      Bunny_Sword_3: -1091964875683796004
+      Bunny_Sword_30: 8423353989283542399
+      Bunny_Sword_31: -5633069467352600657
+      Bunny_Sword_32: -4241117675984209358
+      Bunny_Sword_33: 4931393623801269862
+      Bunny_Sword_34: -4259091095263888920
+      Bunny_Sword_35: -7476610118097299929
+      Bunny_Sword_36: -7234888683432756671
+      Bunny_Sword_37: 4208610029046740905
+      Bunny_Sword_38: -431578600969449596
+      Bunny_Sword_39: -792383467545104372
+      Bunny_Sword_4: -4906146010209156007
+      Bunny_Sword_40: -8662815459621105523
+      Bunny_Sword_41: 6826060864111622881
+      Bunny_Sword_42: 1087033529948198809
+      Bunny_Sword_43: 7563822561851153307
+      Bunny_Sword_44: 3082384140164583710
+      Bunny_Sword_45: -8537955811838969812
+      Bunny_Sword_46: 5564510327171377497
+      Bunny_Sword_47: 3427086336335820664
+      Bunny_Sword_48: -1636788829243459010
+      Bunny_Sword_49: 344167018339894863
+      Bunny_Sword_5: 1969815784671280610
+      Bunny_Sword_50: 2107876183789292078
+      Bunny_Sword_51: -3492877321515613599
+      Bunny_Sword_52: -3799901136831903112
+      Bunny_Sword_53: 5786860484200806997
+      Bunny_Sword_6: -7776565554117610708
+      Bunny_Sword_7: 1112004069570786151
+      Bunny_Sword_8: -7922035607087831685
+      Bunny_Sword_9: -5076703014318643873
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2277 @@
+fileFormatVersion: 2
+guid: ec2241ffb7564ba46b98e424b6e3056d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7808837235289767770
+    second: Duck_Scythe_0
+  - first:
+      213: 4938008848369971866
+    second: Duck_Scythe_1
+  - first:
+      213: 3821304694228829425
+    second: Duck_Scythe_2
+  - first:
+      213: 5561933048699163383
+    second: Duck_Scythe_3
+  - first:
+      213: -5346775390249927270
+    second: Duck_Scythe_4
+  - first:
+      213: 5071291208540446032
+    second: Duck_Scythe_5
+  - first:
+      213: -998549938821857845
+    second: Duck_Scythe_6
+  - first:
+      213: 6486544297541723044
+    second: Duck_Scythe_7
+  - first:
+      213: 374771859912992064
+    second: Duck_Scythe_8
+  - first:
+      213: 102304011717336733
+    second: Duck_Scythe_9
+  - first:
+      213: 1820296396443583706
+    second: Duck_Scythe_10
+  - first:
+      213: 3963671643044935922
+    second: Duck_Scythe_11
+  - first:
+      213: -8129869080469943521
+    second: Duck_Scythe_12
+  - first:
+      213: -7397607105352771603
+    second: Duck_Scythe_13
+  - first:
+      213: -1592504475047288496
+    second: Duck_Scythe_14
+  - first:
+      213: -4263032284262212711
+    second: Duck_Scythe_15
+  - first:
+      213: 6615507620335540242
+    second: Duck_Scythe_16
+  - first:
+      213: -210882709881638389
+    second: Duck_Scythe_17
+  - first:
+      213: -7889869282657941505
+    second: Duck_Scythe_18
+  - first:
+      213: 7897266807795097171
+    second: Duck_Scythe_19
+  - first:
+      213: 1158810322789053096
+    second: Duck_Scythe_20
+  - first:
+      213: 9175213738425149645
+    second: Duck_Scythe_21
+  - first:
+      213: 1710933290997729551
+    second: Duck_Scythe_22
+  - first:
+      213: 3470616813392007566
+    second: Duck_Scythe_23
+  - first:
+      213: -3724717444711384341
+    second: Duck_Scythe_24
+  - first:
+      213: 5730266819890685482
+    second: Duck_Scythe_25
+  - first:
+      213: 3442306333982810096
+    second: Duck_Scythe_26
+  - first:
+      213: -435752524107854163
+    second: Duck_Scythe_27
+  - first:
+      213: 8509731003041012425
+    second: Duck_Scythe_28
+  - first:
+      213: 3784399473376892035
+    second: Duck_Scythe_29
+  - first:
+      213: 1797463730160493326
+    second: Duck_Scythe_30
+  - first:
+      213: -7028452361591493783
+    second: Duck_Scythe_31
+  - first:
+      213: -6501232746458954810
+    second: Duck_Scythe_32
+  - first:
+      213: -4542647284007563466
+    second: Duck_Scythe_33
+  - first:
+      213: -355406691190018143
+    second: Duck_Scythe_34
+  - first:
+      213: 1726270341805253595
+    second: Duck_Scythe_35
+  - first:
+      213: 4154425883877055902
+    second: Duck_Scythe_36
+  - first:
+      213: -6979559413137832178
+    second: Duck_Scythe_37
+  - first:
+      213: 4115665013678350057
+    second: Duck_Scythe_38
+  - first:
+      213: 1886721453373294370
+    second: Duck_Scythe_39
+  - first:
+      213: -3526566990586587593
+    second: Duck_Scythe_40
+  - first:
+      213: 2596001923974079812
+    second: Duck_Scythe_41
+  - first:
+      213: -7366711651392065447
+    second: Duck_Scythe_42
+  - first:
+      213: 2388813329754966295
+    second: Duck_Scythe_43
+  - first:
+      213: -792663833327134929
+    second: Duck_Scythe_44
+  - first:
+      213: 3731893502295483390
+    second: Duck_Scythe_45
+  - first:
+      213: -8386140762939494000
+    second: Duck_Scythe_46
+  - first:
+      213: -6862586422128942322
+    second: Duck_Scythe_47
+  - first:
+      213: -7234644682680052820
+    second: Duck_Scythe_48
+  - first:
+      213: 2985856043831048591
+    second: Duck_Scythe_49
+  - first:
+      213: -3590208763573528064
+    second: Duck_Scythe_50
+  - first:
+      213: 5500702636076795271
+    second: Duck_Scythe_51
+  - first:
+      213: -3183461191445758958
+    second: Duck_Scythe_52
+  - first:
+      213: 3689146380727518172
+    second: Duck_Scythe_53
+  - first:
+      213: 2401108962780311308
+    second: Duck_Scythe_54
+  - first:
+      213: 4032153308894778168
+    second: Duck_Scythe_55
+  - first:
+      213: 3304907814877242094
+    second: Duck_Scythe_56
+  - first:
+      213: -3918123272774916219
+    second: Duck_Scythe_57
+  - first:
+      213: -5845646807745048857
+    second: Duck_Scythe_58
+  - first:
+      213: 1108584869662473182
+    second: Duck_Scythe_59
+  - first:
+      213: -8876380615246196620
+    second: Duck_Scythe_60
+  - first:
+      213: -5699738471005378451
+    second: Duck_Scythe_61
+  - first:
+      213: -8785631179187231774
+    second: Duck_Scythe_62
+  - first:
+      213: -6042484401051287753
+    second: Duck_Scythe_63
+  - first:
+      213: 8999132286772760762
+    second: Duck_Scythe_64
+  - first:
+      213: -6614608980655182565
+    second: Duck_Scythe_65
+  - first:
+      213: 6127518790770107419
+    second: Duck_Scythe_66
+  - first:
+      213: 1472542133985964792
+    second: Duck_Scythe_67
+  - first:
+      213: 6738582095830570271
+    second: Duck_Scythe_68
+  - first:
+      213: -3203274956735189248
+    second: Duck_Scythe_69
+  - first:
+      213: 57511184223436517
+    second: Duck_Scythe_70
+  - first:
+      213: 4950648007443982453
+    second: Duck_Scythe_71
+  - first:
+      213: -4662054162639625640
+    second: Duck_Scythe_72
+  - first:
+      213: 8288948736168508388
+    second: Duck_Scythe_73
+  - first:
+      213: -5612565465880071680
+    second: Duck_Scythe_74
+  - first:
+      213: -2020624068069844522
+    second: Duck_Scythe_75
+  - first:
+      213: -5214971072309250521
+    second: Duck_Scythe_76
+  - first:
+      213: 6246101036707486957
+    second: Duck_Scythe_77
+  - first:
+      213: 3348756987921736395
+    second: Duck_Scythe_78
+  - first:
+      213: -846780377555452002
+    second: Duck_Scythe_79
+  - first:
+      213: -8640950931847566499
+    second: Duck_Scythe_80
+  - first:
+      213: -8137720834051676953
+    second: Duck_Scythe_81
+  - first:
+      213: -6734242247219345212
+    second: Duck_Scythe_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Duck_Scythe_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f3a4ea7109e5c60800000000000000
+      internalID: 7808837235289767770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 159
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92f3d882e4578440800000000000000
+      internalID: 4938008848369971866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4ca0e8f50080530800000000000000
+      internalID: 3821304694228829425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f21830b3a4ff2d40800000000000000
+      internalID: 5561933048699163383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 158
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d3a5a6c107cc5b0800000000000000
+      internalID: -5346775390249927270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 170
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d5d9d3c78d06640800000000000000
+      internalID: 5071291208540446032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 158
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdf8060f107422f0800000000000000
+      internalID: -998549938821857845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 170
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a36fc2eba5d40a50800000000000000
+      internalID: 6486544297541723044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 158
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0452ded5505733500800000000000000
+      internalID: 374771859912992064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e5285e4f47b6100800000000000000
+      internalID: 102304011717336733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_10
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 158
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad481ff9dedf24910800000000000000
+      internalID: 1820296396443583706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f87bf1eb5ac10730800000000000000
+      internalID: 3963671643044935922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 158
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b482c2527ec2f80800000000000000
+      internalID: -8129869080469943521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7da89288b665990800000000000000
+      internalID: -7397607105352771603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 158
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051269d0e9946e9e0800000000000000
+      internalID: -1592504475047288496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 151
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b578659baa6d4c0800000000000000
+      internalID: -4263032284262212711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2185df651210fcb50800000000000000
+      internalID: 6615507620335540242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02bb3cea4bc21df0800000000000000
+      internalID: -210882709881638389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff748e290bd818290800000000000000
+      internalID: -7889869282657941505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e1c17f15ab89d60800000000000000
+      internalID: 7897266807795097171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2b5e359dbe41010800000000000000
+      internalID: 1158810322789053096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_21
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc86d116848e45f70800000000000000
+      internalID: 9175213738425149645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f094f4463c47eb710800000000000000
+      internalID: 1710933290997729551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e819ab98a9b1a2030800000000000000
+      internalID: 3470616813392007566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 111
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaf64be7352f4cc0800000000000000
+      internalID: -3724717444711384341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 111
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26aacbff4ff58f40800000000000000
+      internalID: 5730266819890685482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff5f156f5785cf20800000000000000
+      internalID: 3442306333982810096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae42965365e3f9f0800000000000000
+      internalID: -435752524107854163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 114
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca5362c243a81670800000000000000
+      internalID: 8509731003041012425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 111
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3841eca3543e48430800000000000000
+      internalID: 3784399473376892035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 125
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e036ddc3dbfd1f810800000000000000
+      internalID: 1797463730160493326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 111
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b6592c0dbe57e90800000000000000
+      internalID: -7028452361591493783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c34d29134bf6c5a0800000000000000
+      internalID: -6501232746458954810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 111
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f06d8fc5645f0c0800000000000000
+      internalID: -4542647284007563466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af62d45f77511bf0800000000000000
+      internalID: -355406691190018143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_35
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 111
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3289dcab1f4f710800000000000000
+      internalID: 1726270341805253595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d1e2e845c77a930800000000000000
+      internalID: 4154425883877055902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 106
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078f2b61bf932f90800000000000000
+      internalID: -6979559413137832178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 110
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee1dc23687cd1930800000000000000
+      internalID: 4115665013678350057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2278c626a2bfe2a10800000000000000
+      internalID: 1886721453373294370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_40
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736d771b10e1f0fc0800000000000000
+      internalID: -3526566990586587593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445a4b2eef9d60420800000000000000
+      internalID: 2596001923974079812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_42
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9507b0898ce24c990800000000000000
+      internalID: -7366711651392065447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_43
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71943c22115c62120800000000000000
+      internalID: 2388813329754966295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f279c3c7174eff4f0800000000000000
+      internalID: -792663833327134929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 97
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef329ef2e595ac330800000000000000
+      internalID: 3731893502295483390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091719468617e9b80800000000000000
+      internalID: -8386140762939494000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_47
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03e594320233c0a0800000000000000
+      internalID: -6862586422128942322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3dfacedf0699b90800000000000000
+      internalID: -7234644682680052820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_49
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f89b00b8044ef6920800000000000000
+      internalID: 2985856043831048591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_50
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a94b9b6240d2ec0800000000000000
+      internalID: -3590208763573528064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_51
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 71
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785896e47eb665c40800000000000000
+      internalID: 5500702636076795271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c32afb9e212d3d0800000000000000
+      internalID: -3183461191445758958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_53
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 63
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd38eab561b723330800000000000000
+      internalID: 3689146380727518172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_54
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fe68941e3725120800000000000000
+      internalID: 2401108962780311308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833d698321615f730800000000000000
+      internalID: 4032153308894778168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_56
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2ab21c5246ddd20800000000000000
+      internalID: 3304907814877242094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5876f0c74a700a9c0800000000000000
+      internalID: -3918123272774916219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_58
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 52
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eec5fd233710eea0800000000000000
+      internalID: -5845646807745048857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_59
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbba9fb01c726f00800000000000000
+      internalID: 1108584869662473182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_60
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47056190cd2c0d480800000000000000
+      internalID: -8876380615246196620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_61
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68a8132f0676e0b0800000000000000
+      internalID: -5699738471005378451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3e2f4adfa231680800000000000000
+      internalID: -8785631179187231774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_63
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fbf72a378c42ca0800000000000000
+      internalID: -6042484401051287753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_64
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 22
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0d6d7a22753ec70800000000000000
+      internalID: 8999132286772760762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d60f38d203434a0800000000000000
+      internalID: -6614608980655182565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14226e00e1590550800000000000000
+      internalID: 6127518790770107419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_67
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 14
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2770dd4458f6410800000000000000
+      internalID: 1472542133985964792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15d9cfa6b0448d50800000000000000
+      internalID: 6738582095830570271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_69
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 14
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fe4e5066eab83d0800000000000000
+      internalID: -3203274956735189248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_70
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 14
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eeff3a0e125cc000800000000000000
+      internalID: 57511184223436517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_71
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578a1b3122c34b440800000000000000
+      internalID: 4950648007443982453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_72
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852eb30907e0d4fb0800000000000000
+      internalID: -4662054162639625640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_73
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 14
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb3fb475f2480370800000000000000
+      internalID: 8288948736168508388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_74
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 15
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002f79702792c12b0800000000000000
+      internalID: -5612565465880071680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_75
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d99716ad1d45f3e0800000000000000
+      internalID: -2020624068069844522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_76
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726b1199073b0a7b0800000000000000
+      internalID: -5214971072309250521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_77
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec1624bccb9ea650800000000000000
+      internalID: 6246101036707486957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_78
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2ae20fcbc297e20800000000000000
+      internalID: 3348756987921736395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_79
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 9
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f3909abb1af34f0800000000000000
+      internalID: -846780377555452002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_80
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b25a1c8ec251880800000000000000
+      internalID: -8640950931847566499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_81
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4ed055402011f80800000000000000
+      internalID: -8137720834051676953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Duck_Scythe_82
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8001f0b5a2b82a0800000000000000
+      internalID: -6734242247219345212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Duck_Scythe_0: 7808837235289767770
+      Duck_Scythe_1: 4938008848369971866
+      Duck_Scythe_10: 1820296396443583706
+      Duck_Scythe_11: 3963671643044935922
+      Duck_Scythe_12: -8129869080469943521
+      Duck_Scythe_13: -7397607105352771603
+      Duck_Scythe_14: -1592504475047288496
+      Duck_Scythe_15: -4263032284262212711
+      Duck_Scythe_16: 6615507620335540242
+      Duck_Scythe_17: -210882709881638389
+      Duck_Scythe_18: -7889869282657941505
+      Duck_Scythe_19: 7897266807795097171
+      Duck_Scythe_2: 3821304694228829425
+      Duck_Scythe_20: 1158810322789053096
+      Duck_Scythe_21: 9175213738425149645
+      Duck_Scythe_22: 1710933290997729551
+      Duck_Scythe_23: 3470616813392007566
+      Duck_Scythe_24: -3724717444711384341
+      Duck_Scythe_25: 5730266819890685482
+      Duck_Scythe_26: 3442306333982810096
+      Duck_Scythe_27: -435752524107854163
+      Duck_Scythe_28: 8509731003041012425
+      Duck_Scythe_29: 3784399473376892035
+      Duck_Scythe_3: 5561933048699163383
+      Duck_Scythe_30: 1797463730160493326
+      Duck_Scythe_31: -7028452361591493783
+      Duck_Scythe_32: -6501232746458954810
+      Duck_Scythe_33: -4542647284007563466
+      Duck_Scythe_34: -355406691190018143
+      Duck_Scythe_35: 1726270341805253595
+      Duck_Scythe_36: 4154425883877055902
+      Duck_Scythe_37: -6979559413137832178
+      Duck_Scythe_38: 4115665013678350057
+      Duck_Scythe_39: 1886721453373294370
+      Duck_Scythe_4: -5346775390249927270
+      Duck_Scythe_40: -3526566990586587593
+      Duck_Scythe_41: 2596001923974079812
+      Duck_Scythe_42: -7366711651392065447
+      Duck_Scythe_43: 2388813329754966295
+      Duck_Scythe_44: -792663833327134929
+      Duck_Scythe_45: 3731893502295483390
+      Duck_Scythe_46: -8386140762939494000
+      Duck_Scythe_47: -6862586422128942322
+      Duck_Scythe_48: -7234644682680052820
+      Duck_Scythe_49: 2985856043831048591
+      Duck_Scythe_5: 5071291208540446032
+      Duck_Scythe_50: -3590208763573528064
+      Duck_Scythe_51: 5500702636076795271
+      Duck_Scythe_52: -3183461191445758958
+      Duck_Scythe_53: 3689146380727518172
+      Duck_Scythe_54: 2401108962780311308
+      Duck_Scythe_55: 4032153308894778168
+      Duck_Scythe_56: 3304907814877242094
+      Duck_Scythe_57: -3918123272774916219
+      Duck_Scythe_58: -5845646807745048857
+      Duck_Scythe_59: 1108584869662473182
+      Duck_Scythe_6: -998549938821857845
+      Duck_Scythe_60: -8876380615246196620
+      Duck_Scythe_61: -5699738471005378451
+      Duck_Scythe_62: -8785631179187231774
+      Duck_Scythe_63: -6042484401051287753
+      Duck_Scythe_64: 8999132286772760762
+      Duck_Scythe_65: -6614608980655182565
+      Duck_Scythe_66: 6127518790770107419
+      Duck_Scythe_67: 1472542133985964792
+      Duck_Scythe_68: 6738582095830570271
+      Duck_Scythe_69: -3203274956735189248
+      Duck_Scythe_7: 6486544297541723044
+      Duck_Scythe_70: 57511184223436517
+      Duck_Scythe_71: 4950648007443982453
+      Duck_Scythe_72: -4662054162639625640
+      Duck_Scythe_73: 8288948736168508388
+      Duck_Scythe_74: -5612565465880071680
+      Duck_Scythe_75: -2020624068069844522
+      Duck_Scythe_76: -5214971072309250521
+      Duck_Scythe_77: 6246101036707486957
+      Duck_Scythe_78: 3348756987921736395
+      Duck_Scythe_79: -846780377555452002
+      Duck_Scythe_8: 374771859912992064
+      Duck_Scythe_80: -8640950931847566499
+      Duck_Scythe_81: -8137720834051676953
+      Duck_Scythe_82: -6734242247219345212
+      Duck_Scythe_9: 102304011717336733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

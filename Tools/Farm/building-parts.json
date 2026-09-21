@@ -1,0 +1,5124 @@
+{
+  "cottage": {
+    "width": 96,
+    "height": 88,
+    "parts": [
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 4,
+        "dy": 28
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 20,
+        "dy": 28
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 36,
+        "dy": 28
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 52,
+        "dy": 28
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 68,
+        "dy": 28
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 8,
+        "h": 16,
+        "dx": 84,
+        "dy": 28
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 4,
+        "dy": 44
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 20,
+        "dy": 44
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 36,
+        "dy": 44
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 52,
+        "dy": 44
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 68,
+        "dy": 44
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 8,
+        "h": 16,
+        "dx": 84,
+        "dy": 44
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 4,
+        "dx": 4,
+        "dy": 60
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 4,
+        "dx": 20,
+        "dy": 60
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 4,
+        "dx": 36,
+        "dy": 60
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 4,
+        "dx": 52,
+        "dy": 60
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 4,
+        "dx": 68,
+        "dy": 60
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 8,
+        "h": 4,
+        "dx": 84,
+        "dy": 60
+      },
+      {
+        "name": "Left facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1000,
+        "y": 48,
+        "w": 4,
+        "h": 16,
+        "dx": 2,
+        "dy": 28
+      },
+      {
+        "name": "Left facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1000,
+        "y": 48,
+        "w": 4,
+        "h": 16,
+        "dx": 2,
+        "dy": 44
+      },
+      {
+        "name": "Left facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1000,
+        "y": 48,
+        "w": 4,
+        "h": 4,
+        "dx": 2,
+        "dy": 60
+      },
+      {
+        "name": "Right facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1028,
+        "y": 48,
+        "w": 4,
+        "h": 16,
+        "dx": 90,
+        "dy": 28
+      },
+      {
+        "name": "Right facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1028,
+        "y": 48,
+        "w": 4,
+        "h": 16,
+        "dx": 90,
+        "dy": 44
+      },
+      {
+        "name": "Right facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1028,
+        "y": 48,
+        "w": 4,
+        "h": 4,
+        "dx": 90,
+        "dy": 60
+      },
+      {
+        "name": "Roof front shingles",
+        "atlas": "House_Tileset.png",
+        "x": 320,
+        "y": 80,
+        "w": 16,
+        "h": 32,
+        "dx": 8,
+        "dy": 0
+      },
+      {
+        "name": "Roof front shingles",
+        "atlas": "House_Tileset.png",
+        "x": 320,
+        "y": 80,
+        "w": 16,
+        "h": 32,
+        "dx": 24,
+        "dy": 0
+      },
+      {
+        "name": "Roof front shingles",
+        "atlas": "House_Tileset.png",
+        "x": 320,
+        "y": 80,
+        "w": 16,
+        "h": 32,
+        "dx": 40,
+        "dy": 0
+      },
+      {
+        "name": "Roof front shingles",
+        "atlas": "House_Tileset.png",
+        "x": 320,
+        "y": 80,
+        "w": 16,
+        "h": 32,
+        "dx": 56,
+        "dy": 0
+      },
+      {
+        "name": "Roof front shingles",
+        "atlas": "House_Tileset.png",
+        "x": 320,
+        "y": 80,
+        "w": 16,
+        "h": 32,
+        "dx": 72,
+        "dy": 0
+      },
+      {
+        "name": "Roof left frame",
+        "atlas": "House_Tileset.png",
+        "x": 296,
+        "y": 80,
+        "w": 8,
+        "h": 32,
+        "dx": 0,
+        "dy": 0
+      },
+      {
+        "name": "Roof right frame",
+        "atlas": "House_Tileset.png",
+        "x": 304,
+        "y": 80,
+        "w": 8,
+        "h": 32,
+        "dx": 88,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 8,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 12,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 16,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 20,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 24,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 28,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 32,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 36,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 40,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 44,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 48,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 52,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 56,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 60,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 64,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 68,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 72,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 76,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 80,
+        "dy": 0
+      },
+      {
+        "name": "Roof ridge highlight",
+        "atlas": "House_Tileset.png",
+        "x": 300,
+        "y": 80,
+        "w": 4,
+        "h": 2,
+        "dx": 84,
+        "dy": 0
+      },
+      {
+        "name": "Roof front fascia",
+        "atlas": "House_Tileset.png",
+        "x": 320,
+        "y": 108,
+        "w": 16,
+        "h": 4,
+        "dx": 8,
+        "dy": 28
+      },
+      {
+        "name": "Roof front fascia",
+        "atlas": "House_Tileset.png",
+        "x": 320,
+        "y": 108,
+        "w": 16,
+        "h": 4,
+        "dx": 24,
+        "dy": 28
+      },
+      {
+        "name": "Roof front fascia",
+        "atlas": "House_Tileset.png",
+        "x": 320,
+        "y": 108,
+        "w": 16,
+        "h": 4,
+        "dx": 40,
+        "dy": 28
+      },
+      {
+        "name": "Roof front fascia",
+        "atlas": "House_Tileset.png",
+        "x": 320,
+        "y": 108,
+        "w": 16,
+        "h": 4,
+        "dx": 56,
+        "dy": 28
+      },
+      {
+        "name": "Roof front fascia",
+        "atlas": "House_Tileset.png",
+        "x": 320,
+        "y": 108,
+        "w": 16,
+        "h": 4,
+        "dx": 72,
+        "dy": 28
+      },
+      {
+        "name": "Window glass",
+        "atlas": "House_Tileset.png",
+        "x": 832,
+        "y": 48,
+        "w": 16,
+        "h": 16,
+        "dx": 8,
+        "dy": 39
+      },
+      {
+        "name": "Window glass",
+        "atlas": "House_Tileset.png",
+        "x": 832,
+        "y": 48,
+        "w": 16,
+        "h": 16,
+        "dx": 72,
+        "dy": 39
+      },
+      {
+        "name": "Flower box",
+        "atlas": "Exterior_Tileset.png",
+        "x": 160,
+        "y": 160,
+        "w": 16,
+        "h": 16,
+        "dx": 8,
+        "dy": 52
+      },
+      {
+        "name": "Flower box",
+        "atlas": "Exterior_Tileset.png",
+        "x": 160,
+        "y": 160,
+        "w": 16,
+        "h": 16,
+        "dx": 72,
+        "dy": 52
+      },
+      {
+        "name": "Roof dormer left",
+        "atlas": "House_Tileset.png",
+        "x": 528,
+        "y": 80,
+        "w": 16,
+        "h": 16,
+        "dx": 12,
+        "dy": 16
+      },
+      {
+        "name": "Roof dormer right",
+        "atlas": "House_Tileset.png",
+        "x": 528,
+        "y": 80,
+        "w": 16,
+        "h": 16,
+        "dx": 68,
+        "dy": 16
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 28,
+        "dy": 56
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 44,
+        "dy": 56
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 8,
+        "h": 16,
+        "dx": 60,
+        "dy": 56
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 8,
+        "dx": 28,
+        "dy": 72
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 8,
+        "dx": 44,
+        "dy": 72
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 8,
+        "h": 8,
+        "dx": 60,
+        "dy": 72
+      },
+      {
+        "name": "Left facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1000,
+        "y": 48,
+        "w": 4,
+        "h": 16,
+        "dx": 26,
+        "dy": 56
+      },
+      {
+        "name": "Left facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1000,
+        "y": 48,
+        "w": 4,
+        "h": 8,
+        "dx": 26,
+        "dy": 72
+      },
+      {
+        "name": "Right facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1028,
+        "y": 48,
+        "w": 4,
+        "h": 16,
+        "dx": 66,
+        "dy": 56
+      },
+      {
+        "name": "Right facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1028,
+        "y": 48,
+        "w": 4,
+        "h": 8,
+        "dx": 66,
+        "dy": 72
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 60,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 64,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 60,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 64,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 60,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 64,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 60,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 64,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 28,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 32,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 36,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 40,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 44,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 48,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 52,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 56,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 60,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 64,
+        "dy": 54
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 512,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 24,
+        "dy": 28
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 512,
+        "y": 48,
+        "w": 8,
+        "h": 12,
+        "dx": 24,
+        "dy": 44
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 520,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 32,
+        "dy": 28
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 520,
+        "y": 48,
+        "w": 8,
+        "h": 12,
+        "dx": 32,
+        "dy": 44
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 512,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 40,
+        "dy": 20
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 512,
+        "y": 48,
+        "w": 8,
+        "h": 16,
+        "dx": 40,
+        "dy": 36
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 528,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 48,
+        "dy": 24
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 528,
+        "y": 48,
+        "w": 8,
+        "h": 16,
+        "dx": 48,
+        "dy": 40
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 536,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 56,
+        "dy": 24
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 536,
+        "y": 48,
+        "w": 8,
+        "h": 16,
+        "dx": 56,
+        "dy": 40
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 528,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 64,
+        "dy": 32
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 528,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 64,
+        "dy": 48
+      },
+      {
+        "name": "Window loft",
+        "atlas": "House_Tileset.png",
+        "x": 832,
+        "y": 16,
+        "w": 16,
+        "h": 16,
+        "dx": 40,
+        "dy": 43
+      },
+      {
+        "name": "Front door",
+        "atlas": "House_Tileset.png",
+        "x": 928,
+        "y": 64,
+        "w": 16,
+        "h": 16,
+        "dx": 40,
+        "dy": 60
+      },
+      {
+        "name": "Door awning",
+        "atlas": "House_Tileset.png",
+        "x": 864,
+        "y": 176,
+        "w": 16,
+        "h": 8,
+        "dx": 40,
+        "dy": 55
+      },
+      {
+        "name": "Porch threshold",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 76,
+        "w": 16,
+        "h": 4,
+        "dx": 40,
+        "dy": 80
+      }
+    ],
+    "footprints": [
+      {
+        "x": 4,
+        "y": 38,
+        "w": 88,
+        "h": 26
+      },
+      {
+        "x": 28,
+        "y": 62,
+        "w": 40,
+        "h": 18
+      }
+    ]
+  },
+  "barn": {
+    "width": 64,
+    "height": 92,
+    "parts": [
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 704,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 4,
+        "dy": 68
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 704,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 20,
+        "dy": 68
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 704,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 36,
+        "dy": 68
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 704,
+        "y": 32,
+        "w": 8,
+        "h": 16,
+        "dx": 52,
+        "dy": 68
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 704,
+        "y": 32,
+        "w": 16,
+        "h": 8,
+        "dx": 4,
+        "dy": 84
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 704,
+        "y": 32,
+        "w": 16,
+        "h": 8,
+        "dx": 20,
+        "dy": 84
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 704,
+        "y": 32,
+        "w": 16,
+        "h": 8,
+        "dx": 36,
+        "dy": 84
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 704,
+        "y": 32,
+        "w": 8,
+        "h": 8,
+        "dx": 52,
+        "dy": 84
+      },
+      {
+        "name": "Left facade post",
+        "atlas": "Barn_Tileset.png",
+        "x": 696,
+        "y": 80,
+        "w": 4,
+        "h": 16,
+        "dx": 2,
+        "dy": 68
+      },
+      {
+        "name": "Left facade post",
+        "atlas": "Barn_Tileset.png",
+        "x": 696,
+        "y": 80,
+        "w": 4,
+        "h": 8,
+        "dx": 2,
+        "dy": 84
+      },
+      {
+        "name": "Right facade post",
+        "atlas": "Barn_Tileset.png",
+        "x": 724,
+        "y": 80,
+        "w": 4,
+        "h": 16,
+        "dx": 58,
+        "dy": 68
+      },
+      {
+        "name": "Right facade post",
+        "atlas": "Barn_Tileset.png",
+        "x": 724,
+        "y": 80,
+        "w": 4,
+        "h": 8,
+        "dx": 58,
+        "dy": 84
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 58
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 62
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 4,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 8,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 12,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 16,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 20,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 24,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 28,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 32,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 36,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 40,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 44,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 48,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 52,
+        "dy": 66
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 708,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 56,
+        "dy": 66
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 176,
+        "w": 8,
+        "h": 16,
+        "dx": 0,
+        "dy": 8
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 0,
+        "dy": 24
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 0,
+        "dy": 32
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 0,
+        "dy": 40
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 0,
+        "dy": 48
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 224,
+        "w": 8,
+        "h": 12,
+        "dx": 0,
+        "dy": 56
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 176,
+        "w": 8,
+        "h": 16,
+        "dx": 8,
+        "dy": 8
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 8,
+        "dy": 24
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 8,
+        "dy": 32
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 8,
+        "dy": 40
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 8,
+        "dy": 48
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 224,
+        "w": 8,
+        "h": 12,
+        "dx": 8,
+        "dy": 56
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 176,
+        "w": 8,
+        "h": 16,
+        "dx": 16,
+        "dy": 0
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 16,
+        "dy": 16
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 16,
+        "dy": 24
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 16,
+        "dy": 32
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 16,
+        "dy": 40
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 224,
+        "y": 224,
+        "w": 8,
+        "h": 16,
+        "dx": 16,
+        "dy": 48
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 176,
+        "w": 8,
+        "h": 16,
+        "dx": 24,
+        "dy": 0
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 24,
+        "dy": 16
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 24,
+        "dy": 24
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 24,
+        "dy": 32
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 24,
+        "dy": 40
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 232,
+        "y": 224,
+        "w": 8,
+        "h": 16,
+        "dx": 24,
+        "dy": 48
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 176,
+        "w": 8,
+        "h": 16,
+        "dx": 32,
+        "dy": 0
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 32,
+        "dy": 16
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 32,
+        "dy": 24
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 32,
+        "dy": 32
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 32,
+        "dy": 40
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 224,
+        "w": 8,
+        "h": 16,
+        "dx": 32,
+        "dy": 48
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 176,
+        "w": 8,
+        "h": 16,
+        "dx": 40,
+        "dy": 0
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 40,
+        "dy": 16
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 40,
+        "dy": 24
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 40,
+        "dy": 32
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 40,
+        "dy": 40
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 224,
+        "w": 8,
+        "h": 16,
+        "dx": 40,
+        "dy": 48
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 176,
+        "w": 8,
+        "h": 16,
+        "dx": 48,
+        "dy": 8
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 48,
+        "dy": 24
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 48,
+        "dy": 32
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 48,
+        "dy": 40
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 48,
+        "dy": 48
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 240,
+        "y": 224,
+        "w": 8,
+        "h": 12,
+        "dx": 48,
+        "dy": 56
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 176,
+        "w": 8,
+        "h": 16,
+        "dx": 56,
+        "dy": 8
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 56,
+        "dy": 24
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 56,
+        "dy": 32
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 56,
+        "dy": 40
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 192,
+        "w": 8,
+        "h": 8,
+        "dx": 56,
+        "dy": 48
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 248,
+        "y": 224,
+        "w": 8,
+        "h": 12,
+        "dx": 56,
+        "dy": 56
+      },
+      {
+        "name": "Window loft",
+        "atlas": "House_Tileset.png",
+        "x": 832,
+        "y": 16,
+        "w": 16,
+        "h": 16,
+        "dx": 24,
+        "dy": 54
+      },
+      {
+        "name": "Stable door upper panel",
+        "atlas": "House_Tileset.png",
+        "x": 960,
+        "y": 16,
+        "w": 16,
+        "h": 8,
+        "dx": 24,
+        "dy": 65
+      },
+      {
+        "name": "Stable door lower panel",
+        "atlas": "Barn_Tileset.png",
+        "x": 368,
+        "y": 128,
+        "w": 16,
+        "h": 16,
+        "dx": 24,
+        "dy": 73
+      }
+    ],
+    "footprints": [
+      {
+        "x": 4,
+        "y": 52,
+        "w": 56,
+        "h": 36
+      }
+    ]
+  },
+  "shop": {
+    "width": 64,
+    "height": 76,
+    "parts": [
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 4,
+        "dy": 44
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 20,
+        "dy": 44
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 36,
+        "dy": 44
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 8,
+        "h": 16,
+        "dx": 52,
+        "dy": 44
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 8,
+        "dx": 4,
+        "dy": 60
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 8,
+        "dx": 20,
+        "dy": 60
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 16,
+        "h": 8,
+        "dx": 36,
+        "dy": 60
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 32,
+        "w": 8,
+        "h": 8,
+        "dx": 52,
+        "dy": 60
+      },
+      {
+        "name": "Left facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1000,
+        "y": 48,
+        "w": 4,
+        "h": 16,
+        "dx": 2,
+        "dy": 44
+      },
+      {
+        "name": "Left facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1000,
+        "y": 48,
+        "w": 4,
+        "h": 8,
+        "dx": 2,
+        "dy": 60
+      },
+      {
+        "name": "Right facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1028,
+        "y": 48,
+        "w": 4,
+        "h": 16,
+        "dx": 58,
+        "dy": 44
+      },
+      {
+        "name": "Right facade post",
+        "atlas": "House_Tileset.png",
+        "x": 1028,
+        "y": 48,
+        "w": 4,
+        "h": 8,
+        "dx": 58,
+        "dy": 60
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 22
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 26
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 30
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 34
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 44,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 48,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 52,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 4,
+        "dx": 56,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 4,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 8,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 12,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 16,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 20,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 24,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 28,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 32,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 36,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 40,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 44,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 48,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 52,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "House_Tileset.png",
+        "x": 24,
+        "y": 24,
+        "w": 4,
+        "h": 2,
+        "dx": 56,
+        "dy": 42
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 240,
+        "y": 160,
+        "w": 8,
+        "h": 16,
+        "dx": 0,
+        "dy": 8
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "House_Tileset.png",
+        "x": 240,
+        "y": 176,
+        "w": 8,
+        "h": 8,
+        "dx": 0,
+        "dy": 24
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 240,
+        "y": 192,
+        "w": 8,
+        "h": 12,
+        "dx": 0,
+        "dy": 32
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 248,
+        "y": 160,
+        "w": 8,
+        "h": 16,
+        "dx": 8,
+        "dy": 8
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "House_Tileset.png",
+        "x": 248,
+        "y": 176,
+        "w": 8,
+        "h": 8,
+        "dx": 8,
+        "dy": 24
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 248,
+        "y": 192,
+        "w": 8,
+        "h": 12,
+        "dx": 8,
+        "dy": 32
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 240,
+        "y": 160,
+        "w": 8,
+        "h": 16,
+        "dx": 16,
+        "dy": 0
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "House_Tileset.png",
+        "x": 240,
+        "y": 176,
+        "w": 8,
+        "h": 8,
+        "dx": 16,
+        "dy": 16
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 240,
+        "y": 192,
+        "w": 8,
+        "h": 16,
+        "dx": 16,
+        "dy": 24
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 248,
+        "y": 160,
+        "w": 8,
+        "h": 16,
+        "dx": 24,
+        "dy": 0
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "House_Tileset.png",
+        "x": 248,
+        "y": 176,
+        "w": 8,
+        "h": 8,
+        "dx": 24,
+        "dy": 16
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 248,
+        "y": 192,
+        "w": 8,
+        "h": 16,
+        "dx": 24,
+        "dy": 24
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 256,
+        "y": 160,
+        "w": 8,
+        "h": 16,
+        "dx": 32,
+        "dy": 0
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "House_Tileset.png",
+        "x": 256,
+        "y": 176,
+        "w": 8,
+        "h": 8,
+        "dx": 32,
+        "dy": 16
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 256,
+        "y": 192,
+        "w": 8,
+        "h": 16,
+        "dx": 32,
+        "dy": 24
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 264,
+        "y": 160,
+        "w": 8,
+        "h": 16,
+        "dx": 40,
+        "dy": 0
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "House_Tileset.png",
+        "x": 264,
+        "y": 176,
+        "w": 8,
+        "h": 8,
+        "dx": 40,
+        "dy": 16
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 264,
+        "y": 192,
+        "w": 8,
+        "h": 16,
+        "dx": 40,
+        "dy": 24
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 256,
+        "y": 160,
+        "w": 8,
+        "h": 16,
+        "dx": 48,
+        "dy": 8
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "House_Tileset.png",
+        "x": 256,
+        "y": 176,
+        "w": 8,
+        "h": 8,
+        "dx": 48,
+        "dy": 24
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 256,
+        "y": 192,
+        "w": 8,
+        "h": 12,
+        "dx": 48,
+        "dy": 32
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "House_Tileset.png",
+        "x": 264,
+        "y": 160,
+        "w": 8,
+        "h": 16,
+        "dx": 56,
+        "dy": 8
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "House_Tileset.png",
+        "x": 264,
+        "y": 176,
+        "w": 8,
+        "h": 8,
+        "dx": 56,
+        "dy": 24
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "House_Tileset.png",
+        "x": 264,
+        "y": 192,
+        "w": 8,
+        "h": 12,
+        "dx": 56,
+        "dy": 32
+      },
+      {
+        "name": "Window round",
+        "atlas": "House_Tileset.png",
+        "x": 848,
+        "y": 16,
+        "w": 16,
+        "h": 16,
+        "dx": 24,
+        "dy": 30
+      },
+      {
+        "name": "Front door",
+        "atlas": "House_Tileset.png",
+        "x": 944,
+        "y": 64,
+        "w": 16,
+        "h": 16,
+        "dx": 24,
+        "dy": 48
+      },
+      {
+        "name": "Door awning",
+        "atlas": "House_Tileset.png",
+        "x": 864,
+        "y": 192,
+        "w": 16,
+        "h": 8,
+        "dx": 24,
+        "dy": 43
+      },
+      {
+        "name": "Window shutters",
+        "atlas": "House_Tileset.png",
+        "x": 880,
+        "y": 80,
+        "w": 16,
+        "h": 16,
+        "dx": 6,
+        "dy": 47
+      },
+      {
+        "name": "Window shutters",
+        "atlas": "House_Tileset.png",
+        "x": 880,
+        "y": 80,
+        "w": 16,
+        "h": 16,
+        "dx": 42,
+        "dy": 47
+      },
+      {
+        "name": "Porch threshold",
+        "atlas": "House_Tileset.png",
+        "x": 1008,
+        "y": 76,
+        "w": 16,
+        "h": 4,
+        "dx": 24,
+        "dy": 68
+      }
+    ],
+    "footprints": [
+      {
+        "x": 4,
+        "y": 34,
+        "w": 56,
+        "h": 30
+      }
+    ]
+  },
+  "shed": {
+    "width": 48,
+    "height": 80,
+    "parts": [
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 536,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 4,
+        "dy": 56
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 536,
+        "y": 32,
+        "w": 16,
+        "h": 16,
+        "dx": 20,
+        "dy": 56
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 536,
+        "y": 32,
+        "w": 8,
+        "h": 16,
+        "dx": 36,
+        "dy": 56
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 536,
+        "y": 32,
+        "w": 16,
+        "h": 8,
+        "dx": 4,
+        "dy": 72
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 536,
+        "y": 32,
+        "w": 16,
+        "h": 8,
+        "dx": 20,
+        "dy": 72
+      },
+      {
+        "name": "Facade siding",
+        "atlas": "Barn_Tileset.png",
+        "x": 536,
+        "y": 32,
+        "w": 8,
+        "h": 8,
+        "dx": 36,
+        "dy": 72
+      },
+      {
+        "name": "Left facade post",
+        "atlas": "Barn_Tileset.png",
+        "x": 528,
+        "y": 80,
+        "w": 4,
+        "h": 16,
+        "dx": 2,
+        "dy": 56
+      },
+      {
+        "name": "Left facade post",
+        "atlas": "Barn_Tileset.png",
+        "x": 528,
+        "y": 80,
+        "w": 4,
+        "h": 8,
+        "dx": 2,
+        "dy": 72
+      },
+      {
+        "name": "Right facade post",
+        "atlas": "Barn_Tileset.png",
+        "x": 556,
+        "y": 80,
+        "w": 4,
+        "h": 16,
+        "dx": 42,
+        "dy": 56
+      },
+      {
+        "name": "Right facade post",
+        "atlas": "Barn_Tileset.png",
+        "x": 556,
+        "y": 80,
+        "w": 4,
+        "h": 8,
+        "dx": 42,
+        "dy": 72
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 38
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 42
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 46
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 4,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 8,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 12,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 16,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 20,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 24,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 28,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 32,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 36,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 4,
+        "dx": 40,
+        "dy": 50
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 4,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 8,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 12,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 16,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 20,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 24,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 28,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 32,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 36,
+        "dy": 54
+      },
+      {
+        "name": "Gable field",
+        "atlas": "Barn_Tileset.png",
+        "x": 540,
+        "y": 32,
+        "w": 4,
+        "h": 2,
+        "dx": 40,
+        "dy": 54
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 304,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 0,
+        "dy": 4
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 304,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 0,
+        "dy": 20
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 304,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 0,
+        "dy": 28
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 304,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 0,
+        "dy": 36
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 304,
+        "y": 64,
+        "w": 8,
+        "h": 12,
+        "dx": 0,
+        "dy": 44
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 312,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 8,
+        "dy": 4
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 312,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 8,
+        "dy": 20
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 312,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 8,
+        "dy": 28
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 312,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 8,
+        "dy": 36
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 312,
+        "y": 64,
+        "w": 8,
+        "h": 12,
+        "dx": 8,
+        "dy": 44
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 304,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 16,
+        "dy": -4
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 304,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 16,
+        "dy": 12
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 304,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 16,
+        "dy": 20
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 304,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 16,
+        "dy": 28
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 304,
+        "y": 64,
+        "w": 8,
+        "h": 16,
+        "dx": 16,
+        "dy": 36
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 320,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 24,
+        "dy": 0
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 320,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 24,
+        "dy": 16
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 320,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 24,
+        "dy": 24
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 320,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 24,
+        "dy": 32
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 320,
+        "y": 64,
+        "w": 8,
+        "h": 16,
+        "dx": 24,
+        "dy": 40
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 328,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 32,
+        "dy": 0
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 328,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 32,
+        "dy": 16
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 328,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 32,
+        "dy": 24
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 328,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 32,
+        "dy": 32
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 328,
+        "y": 64,
+        "w": 8,
+        "h": 16,
+        "dx": 32,
+        "dy": 40
+      },
+      {
+        "name": "Rear roof edge",
+        "atlas": "Barn_Tileset.png",
+        "x": 320,
+        "y": 16,
+        "w": 8,
+        "h": 16,
+        "dx": 40,
+        "dy": 8
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 320,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 40,
+        "dy": 24
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 320,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 40,
+        "dy": 32
+      },
+      {
+        "name": "Pitched roof slope",
+        "atlas": "Barn_Tileset.png",
+        "x": 320,
+        "y": 48,
+        "w": 8,
+        "h": 8,
+        "dx": 40,
+        "dy": 40
+      },
+      {
+        "name": "Front eave and gable",
+        "atlas": "Barn_Tileset.png",
+        "x": 320,
+        "y": 64,
+        "w": 8,
+        "h": 8,
+        "dx": 40,
+        "dy": 48
+      },
+      {
+        "name": "Window round",
+        "atlas": "House_Tileset.png",
+        "x": 848,
+        "y": 16,
+        "w": 16,
+        "h": 16,
+        "dx": 16,
+        "dy": 44
+      },
+      {
+        "name": "Front door",
+        "atlas": "House_Tileset.png",
+        "x": 928,
+        "y": 64,
+        "w": 16,
+        "h": 16,
+        "dx": 16,
+        "dy": 60
+      },
+      {
+        "name": "Door awning",
+        "atlas": "House_Tileset.png",
+        "x": 864,
+        "y": 176,
+        "w": 16,
+        "h": 8,
+        "dx": 16,
+        "dy": 55
+      },
+      {
+        "name": "Flower box",
+        "atlas": "Exterior_Tileset.png",
+        "x": 160,
+        "y": 160,
+        "w": 16,
+        "h": 16,
+        "dx": 2,
+        "dy": 62
+      },
+      {
+        "name": "Flower box",
+        "atlas": "Exterior_Tileset.png",
+        "x": 160,
+        "y": 160,
+        "w": 16,
+        "h": 16,
+        "dx": 30,
+        "dy": 62
+      }
+    ],
+    "footprints": [
+      {
+        "x": 4,
+        "y": 44,
+        "w": 40,
+        "h": 32
+      }
+    ]
+  }
+}

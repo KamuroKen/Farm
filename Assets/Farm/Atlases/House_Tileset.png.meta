@@ -1,0 +1,866 @@
+fileFormatVersion: 2
+guid: b0999fdca8a12af4893204f59a88f259
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6004179223299041686
+    second: House_Tileset_0
+  - first:
+      213: 1558427055566469204
+    second: House_Tileset_1
+  - first:
+      213: -4932021465975541993
+    second: House_Tileset_2
+  - first:
+      213: 343869279797324849
+    second: House_Tileset_3
+  - first:
+      213: 2877025084458368599
+    second: House_Tileset_4
+  - first:
+      213: 3485186737079984604
+    second: House_Tileset_5
+  - first:
+      213: -3996758406372072479
+    second: House_Tileset_6
+  - first:
+      213: -6766327815086196525
+    second: House_Tileset_7
+  - first:
+      213: -4691175005220459055
+    second: House_Tileset_8
+  - first:
+      213: 4591673887220661205
+    second: House_Tileset_9
+  - first:
+      213: -2587299583354611275
+    second: House_Tileset_10
+  - first:
+      213: -7205132474908635235
+    second: House_Tileset_11
+  - first:
+      213: 364638985521899764
+    second: House_Tileset_12
+  - first:
+      213: -3406712151120355939
+    second: House_Tileset_13
+  - first:
+      213: 5562640596554148161
+    second: House_Tileset_14
+  - first:
+      213: 1501817258145856363
+    second: House_Tileset_15
+  - first:
+      213: -1824995884174215610
+    second: House_Tileset_16
+  - first:
+      213: -3007550725257823723
+    second: House_Tileset_17
+  - first:
+      213: 6048589557622682816
+    second: House_Tileset_18
+  - first:
+      213: 1797209654460863275
+    second: House_Tileset_19
+  - first:
+      213: 8793193444466598992
+    second: House_Tileset_20
+  - first:
+      213: -4719061992015865857
+    second: House_Tileset_21
+  - first:
+      213: -342057739055809910
+    second: House_Tileset_22
+  - first:
+      213: 6528816365448567804
+    second: House_Tileset_23
+  - first:
+      213: -1017686954209021142
+    second: House_Tileset_24
+  - first:
+      213: -4093610182775510706
+    second: House_Tileset_25
+  - first:
+      213: 7414548398826274033
+    second: House_Tileset_26
+  - first:
+      213: -2474112291886394040
+    second: House_Tileset_27
+  - first:
+      213: -8297052217869843295
+    second: House_Tileset_28
+  - first:
+      213: 4268868211810653599
+    second: House_Tileset_29
+  - first:
+      213: -1915350057682496022
+    second: House_Tileset_30
+  - first:
+      213: -8802727951182639551
+    second: House_Tileset_31
+  - first:
+      213: -2268859263032573406
+    second: House_Tileset_32
+  - first:
+      213: 2210236612028477348
+    second: House_Tileset_33
+  - first:
+      213: -1708191857419982499
+    second: House_Tileset_34
+  - first:
+      213: -5107313986225818662
+    second: House_Tileset_35
+  - first:
+      213: -1930923965358764719
+    second: House_Tileset_36
+  - first:
+      213: -6375599661749930863
+    second: House_Tileset_37
+  - first:
+      213: 3004069190505790605
+    second: House_Tileset_38
+  - first:
+      213: 6587558651487815657
+    second: House_Tileset_39
+  - first:
+      213: 4452991394779940991
+    second: House_Tileset_40
+  - first:
+      213: -6757843869680553424
+    second: House_Tileset_41
+  - first:
+      213: -4909203773966652527
+    second: House_Tileset_42
+  - first:
+      213: 7301070573051882893
+    second: House_Tileset_43
+  - first:
+      213: -3269138451891369775
+    second: House_Tileset_44
+  - first:
+      213: 1773666181165430496
+    second: House_Tileset_45
+  - first:
+      213: 8311948788973890034
+    second: House_Tileset_46
+  - first:
+      213: 4919114911888633322
+    second: House_Tileset_47
+  - first:
+      213: 2659715738218261566
+    second: House_Tileset_48
+  - first:
+      213: -8247741591496333108
+    second: House_Tileset_49
+  - first:
+      213: -1452976326429018751
+    second: House_Tileset_50
+  - first:
+      213: 5317497934358583111
+    second: House_Tileset_51
+  - first:
+      213: 126127238903594162
+    second: House_Tileset_52
+  - first:
+      213: -2619608910950993871
+    second: House_Tileset_53
+  - first:
+      213: -5928665249721305143
+    second: House_Tileset_54
+  - first:
+      213: -31521266141633059
+    second: House_Tileset_55
+  - first:
+      213: 9145910246468634166
+    second: House_Tileset_56
+  - first:
+      213: -5715042549956722691
+    second: House_Tileset_57
+  - first:
+      213: 262223221644397606
+    second: House_Tileset_58
+  - first:
+      213: 2585353738163965642
+    second: House_Tileset_59
+  - first:
+      213: 3431381366696038455
+    second: House_Tileset_60
+  - first:
+      213: -153070236172878343
+    second: House_Tileset_61
+  - first:
+      213: 694428099721729486
+    second: House_Tileset_62
+  - first:
+      213: -732985581902498682
+    second: House_Tileset_63
+  - first:
+      213: -1639314065410882851
+    second: House_Tileset_64
+  - first:
+      213: 923916077808043954
+    second: House_Tileset_65
+  - first:
+      213: 584536372199053815
+    second: House_Tileset_66
+  - first:
+      213: 4262009539866163321
+    second: House_Tileset_67
+  - first:
+      213: -4251751658677742340
+    second: House_Tileset_68
+  - first:
+      213: -822304622334185067
+    second: House_Tileset_69
+  - first:
+      213: -3260436779633828712
+    second: House_Tileset_70
+  - first:
+      213: 5748904806023073472
+    second: House_Tileset_71
+  - first:
+      213: -33534305471046090
+    second: House_Tileset_72
+  - first:
+      213: 7614923583680909442
+    second: House_Tileset_73
+  - first:
+      213: -314272262037512320
+    second: House_Tileset_74
+  - first:
+      213: -8233655721487748704
+    second: House_Tileset_75
+  - first:
+      213: -9137525202926542889
+    second: House_Tileset_76
+  - first:
+      213: -6584670213646437423
+    second: House_Tileset_77
+  - first:
+      213: 4265078361943966654
+    second: House_Tileset_78
+  - first:
+      213: -2615647301626514214
+    second: House_Tileset_79
+  - first:
+      213: 4574004674873681199
+    second: House_Tileset_80
+  - first:
+      213: -3785394108956465956
+    second: House_Tileset_81
+  - first:
+      213: -7940930154114543528
+    second: House_Tileset_82
+  - first:
+      213: 4058377186747565745
+    second: House_Tileset_83
+  - first:
+      213: -3617411870487324081
+    second: House_Tileset_84
+  - first:
+      213: -5568576127331596828
+    second: House_Tileset_85
+  - first:
+      213: 5763931177500365578
+    second: House_Tileset_86
+  - first:
+      213: -8799133370422103462
+    second: House_Tileset_87
+  - first:
+      213: 9019508491702801393
+    second: House_Tileset_88
+  - first:
+      213: -5760638536116432875
+    second: House_Tileset_89
+  - first:
+      213: 1330407327198881679
+    second: House_Tileset_90
+  - first:
+      213: -2587078762948020605
+    second: House_Tileset_91
+  - first:
+      213: -3643357163534214083
+    second: House_Tileset_92
+  - first:
+      213: 820223516190271166
+    second: House_Tileset_93
+  - first:
+      213: -619680310922321520
+    second: House_Tileset_94
+  - first:
+      213: 5880111610366561843
+    second: House_Tileset_95
+  - first:
+      213: -8467189883222866666
+    second: House_Tileset_96
+  - first:
+      213: -3046558466649086920
+    second: House_Tileset_97
+  - first:
+      213: -7706240448171707169
+    second: House_Tileset_98
+  - first:
+      213: 2215363047682248361
+    second: House_Tileset_99
+  - first:
+      213: 2216680950025324574
+    second: House_Tileset_100
+  - first:
+      213: 4509676496930746083
+    second: House_Tileset_101
+  - first:
+      213: 6786589590648831099
+    second: House_Tileset_102
+  - first:
+      213: 1948942170378265794
+    second: House_Tileset_103
+  - first:
+      213: -4282144488370239877
+    second: House_Tileset_104
+  - first:
+      213: -4104743649091910310
+    second: House_Tileset_105
+  - first:
+      213: 2401431310707685678
+    second: House_Tileset_106
+  - first:
+      213: 6890337845314569976
+    second: House_Tileset_107
+  - first:
+      213: -6831369846961813995
+    second: House_Tileset_108
+  - first:
+      213: 6579678377698611476
+    second: House_Tileset_109
+  - first:
+      213: 3852341126854330843
+    second: House_Tileset_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cottage_1008_32_16_16
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 256
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623142cffcaa7137e2a2447ba7935c9
+      internalID: 202142241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1000_48_8_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 240
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bf0e115423307e3d8a43459cf44635
+      internalID: 458103381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1024_48_8_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 240
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1274cda8ffdcb4486840db3b9baa068c
+      internalID: 1652893317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_320_96_8_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 200
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52b2c73edb558f94c6497038a33829d
+      internalID: -388014704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_320_80_16_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 222
+        width: 16
+        height: 2
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263f993767af014005fc79cf5f1a8640
+      internalID: -1158054359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_464_16_16_16
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 272
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc35dd48183adb855cfefe3d340b420
+      internalID: 1746372353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_496_16_16_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 272
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac98a92f910f7f34bc47d718f508dcf
+      internalID: 542169671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_296_96_3_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 200
+        width: 3
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2782610d9660dbac2c1d297bd302bfc1
+      internalID: 24870652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_310_96_3_8
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 200
+        width: 3
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e408439f21a307eea9b605f5b099b3
+      internalID: -1345963498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_320_108_16_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 16
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2125c107c515e55015abfd8840f4dd
+      internalID: 1366847626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_288_16_32_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b152e2048a41b3c930e95d70b07ca69e
+      internalID: -2048608797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_848_16_16_16
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 272
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b830f75354cc9f4c6afbea15d03833ae
+      internalID: 1552025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_928_32_16_16
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 256
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0749977300cfa140ecb53326f83ba93
+      internalID: 1817341398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_832_80_16_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 208
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd7dbf3daa9cacc064db4cc650fa908
+      internalID: 1667101076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_528_112_16_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 176
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fce1672f8f725b1ad9edc8a834f1d7
+      internalID: -1671387122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1000_76_32_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 220
+        width: 32
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92382785d0353f4c0e9734793188fd1d
+      internalID: -861363861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_912_16_16_16
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 272
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f08216871f7b4eaba6814798bca6c9
+      internalID: -1191869929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_1000_76_32_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 220
+        width: 32
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a8bfa69b745ec07d87a45a6875df18
+      internalID: 726252192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f83d1d6f9b4956841b8d0c7c3789de32
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barn_1000_76_32_8: 726252192
+      barn_912_16_16_16: -1191869929
+      cottage_1000_48_8_16: 458103381
+      cottage_1000_76_32_8: -861363861
+      cottage_1008_32_16_16: 202142241
+      cottage_1024_48_8_16: 1652893317
+      cottage_288_16_32_32: -2048608797
+      cottage_296_96_3_8: 24870652
+      cottage_310_96_3_8: -1345963498
+      cottage_320_108_16_4: 1366847626
+      cottage_320_80_16_2: -1158054359
+      cottage_320_96_8_8: -388014704
+      cottage_464_16_16_16: 1746372353
+      cottage_496_16_16_16: 542169671
+      cottage_528_112_16_16: -1671387122
+      cottage_832_80_16_16: 1667101076
+      cottage_848_16_16_16: 1552025
+      cottage_928_32_16_16: 1817341398
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

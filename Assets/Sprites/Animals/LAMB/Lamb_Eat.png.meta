@@ -1,0 +1,1783 @@
+fileFormatVersion: 2
+guid: 91476ae2a3f1f1d4481dc0b11fcaf783
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9077874720441149083
+    second: Lamb_Eat_0
+  - first:
+      213: -2310795716781094524
+    second: Lamb_Eat_1
+  - first:
+      213: 3112457597136109294
+    second: Lamb_Eat_2
+  - first:
+      213: -4449411684030888986
+    second: Lamb_Eat_3
+  - first:
+      213: 2239811473703800583
+    second: Lamb_Eat_4
+  - first:
+      213: -3911165145768994160
+    second: Lamb_Eat_5
+  - first:
+      213: 8428870050272773390
+    second: Lamb_Eat_6
+  - first:
+      213: -6156994996747918986
+    second: Lamb_Eat_7
+  - first:
+      213: 5260616228880241891
+    second: Lamb_Eat_8
+  - first:
+      213: -7976669550896939288
+    second: Lamb_Eat_9
+  - first:
+      213: -8743372370213206366
+    second: Lamb_Eat_10
+  - first:
+      213: 7787092840977095217
+    second: Lamb_Eat_11
+  - first:
+      213: 2400206754574460705
+    second: Lamb_Eat_12
+  - first:
+      213: -6860053280052396875
+    second: Lamb_Eat_13
+  - first:
+      213: -1821970592688344422
+    second: Lamb_Eat_14
+  - first:
+      213: 1820623187366642339
+    second: Lamb_Eat_15
+  - first:
+      213: 4264892895337591220
+    second: Lamb_Eat_16
+  - first:
+      213: 4097190851035976380
+    second: Lamb_Eat_17
+  - first:
+      213: 3470433489802488981
+    second: Lamb_Eat_18
+  - first:
+      213: -9076570518168349634
+    second: Lamb_Eat_19
+  - first:
+      213: 6837988812561213473
+    second: Lamb_Eat_20
+  - first:
+      213: 979595514037837462
+    second: Lamb_Eat_21
+  - first:
+      213: -7794419958522733896
+    second: Lamb_Eat_22
+  - first:
+      213: -5848793536961315376
+    second: Lamb_Eat_23
+  - first:
+      213: 2938409612911293725
+    second: Lamb_Eat_24
+  - first:
+      213: -313187107695363162
+    second: Lamb_Eat_25
+  - first:
+      213: 4021150248964689288
+    second: Lamb_Eat_26
+  - first:
+      213: 72283358898498060
+    second: Lamb_Eat_27
+  - first:
+      213: 2397118320095256271
+    second: Lamb_Eat_28
+  - first:
+      213: -8410368789741688389
+    second: Lamb_Eat_29
+  - first:
+      213: -1435563486179424648
+    second: Lamb_Eat_30
+  - first:
+      213: -6008414006000176804
+    second: Lamb_Eat_31
+  - first:
+      213: 4214323212339110517
+    second: Lamb_Eat_32
+  - first:
+      213: 4785083090438083876
+    second: Lamb_Eat_33
+  - first:
+      213: -8478508603898648091
+    second: Lamb_Eat_34
+  - first:
+      213: -4563522622600866353
+    second: Lamb_Eat_35
+  - first:
+      213: 3493488479414203323
+    second: Lamb_Eat_36
+  - first:
+      213: 6751688546012013509
+    second: Lamb_Eat_37
+  - first:
+      213: -6738875022656353482
+    second: Lamb_Eat_38
+  - first:
+      213: -6161441804656626786
+    second: Lamb_Eat_39
+  - first:
+      213: -258746528389968716
+    second: Lamb_Eat_40
+  - first:
+      213: 3081802085288942334
+    second: Lamb_Eat_41
+  - first:
+      213: 6137132533643814815
+    second: Lamb_Eat_42
+  - first:
+      213: 6334434041007899452
+    second: Lamb_Eat_43
+  - first:
+      213: 2068517696932912125
+    second: Lamb_Eat_44
+  - first:
+      213: -857383356972230617
+    second: Lamb_Eat_45
+  - first:
+      213: 8228220334757719900
+    second: Lamb_Eat_46
+  - first:
+      213: -4099497232521960895
+    second: Lamb_Eat_47
+  - first:
+      213: -3011962151851502180
+    second: Lamb_Eat_48
+  - first:
+      213: -2652202289706959306
+    second: Lamb_Eat_49
+  - first:
+      213: -3066599560600850818
+    second: Lamb_Eat_50
+  - first:
+      213: -8343640589357213896
+    second: Lamb_Eat_51
+  - first:
+      213: 82965915728855123
+    second: Lamb_Eat_52
+  - first:
+      213: -2857784567028818568
+    second: Lamb_Eat_53
+  - first:
+      213: -7145147616940007441
+    second: Lamb_Eat_54
+  - first:
+      213: -7573137428122133544
+    second: Lamb_Eat_55
+  - first:
+      213: 8767434618435026300
+    second: Lamb_Eat_56
+  - first:
+      213: 8825167120459321082
+    second: Lamb_Eat_57
+  - first:
+      213: 8610902474620703641
+    second: Lamb_Eat_58
+  - first:
+      213: -637411643288570512
+    second: Lamb_Eat_59
+  - first:
+      213: -8607660444559391723
+    second: Lamb_Eat_60
+  - first:
+      213: 437327850488080034
+    second: Lamb_Eat_61
+  - first:
+      213: 3155762868214867504
+    second: Lamb_Eat_62
+  - first:
+      213: -4075078174476317767
+    second: Lamb_Eat_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lamb_Eat_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5695b94d909e40280800000000000000
+      internalID: -9077874720441149083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489c4c8e9876eefd0800000000000000
+      internalID: -2310795716781094524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 159
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee73cfa1bba13b20800000000000000
+      internalID: 3112457597136109294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3cdd9b5a38042c0800000000000000
+      internalID: -4449411684030888986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f85f51ba8651f10800000000000000
+      internalID: 2239811473703800583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09adc8ca500c8b9c0800000000000000
+      internalID: -3911165145768994160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05007417ac59f470800000000000000
+      internalID: 8428870050272773390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671abfeeba5fd8aa0800000000000000
+      internalID: -6156994996747918986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4df069696710940800000000000000
+      internalID: 5260616228880241891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eefc104e4d2d4190800000000000000
+      internalID: -7976669550896939288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_10
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 159
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a60a76572d49a680800000000000000
+      internalID: -8743372370213206366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a5d6b5eaf411c60800000000000000
+      internalID: 7787092840977095217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_12
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 159
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12767e1935f3f4120800000000000000
+      internalID: 2400206754574460705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc393e43e13cc0a0800000000000000
+      internalID: -6860053280052396875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_14
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a927a9f266f07b6e0800000000000000
+      internalID: -1821970592688344422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_15
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 159
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a204d09427244910800000000000000
+      internalID: 1820623187366642339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b13fafed71ff2b30800000000000000
+      internalID: 4264892895337591220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2daf40f552cd830800000000000000
+      internalID: 4097190851035976380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ceb403fd4792030800000000000000
+      internalID: 3470433489802488981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34dac5143b890280800000000000000
+      internalID: -9076570518168349634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1286ec6889a65ee50800000000000000
+      internalID: 6837988812561213473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 110
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e9acd0ee8389d00800000000000000
+      internalID: 979595514037837462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 110
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba99062858a4d390800000000000000
+      internalID: -7794419958522733896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 110
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddf1d03449e4dea0800000000000000
+      internalID: -5848793536961315376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15bb2e79f357c820800000000000000
+      internalID: 2938409612911293725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abf5912cf557abf0800000000000000
+      internalID: -313187107695363162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 110
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d8302b8defdc730800000000000000
+      internalID: 4021150248964689288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 110
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a215af45dc00100800000000000000
+      internalID: 72283358898498060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 110
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcedbd16966444120800000000000000
+      internalID: 2397118320095256271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb92a61552e584b80800000000000000
+      internalID: -8410368789741688389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_30
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87601c18d9ad31ce0800000000000000
+      internalID: -1435563486179424648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_31
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 111
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51b0e4ab43dd9ca0800000000000000
+      internalID: -6008414006000176804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_32
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572e72812a84c7a30800000000000000
+      internalID: 4214323212339110517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_33
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4255a42e7b7086240800000000000000
+      internalID: 4785083090438083876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e927878859465a80800000000000000
+      internalID: -8478508603898648091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc59a637a5c1ba0c0800000000000000
+      internalID: -4563522622600866353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_36
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb33762434d5b7030800000000000000
+      internalID: 3493488479414203323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 62
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3ae1be5f0d2bd50800000000000000
+      internalID: 6751688546012013509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_38
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 62
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bc0d8fed4ba72a0800000000000000
+      internalID: -6738875022656353482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_39
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 62
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e933339c2592e7aa0800000000000000
+      internalID: -6161441804656626786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_40
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc4370476fb86cf0800000000000000
+      internalID: -258746528389968716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_41
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa94b12ba2c4ca20800000000000000
+      internalID: 3081802085288942334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_42
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 62
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97255ff5897b2550800000000000000
+      internalID: 6137132533643814815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_43
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 62
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c330b63f23e68e750800000000000000
+      internalID: 6334434041007899452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_44
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 62
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb9b49c2e9d4bc10800000000000000
+      internalID: 2068517696932912125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_45
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72896532166f914f0800000000000000
+      internalID: -857383356972230617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_46
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f21eaacc2803270800000000000000
+      internalID: 8228220334757719900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_47
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 63
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e4d1bcf8ab17c0800000000000000
+      internalID: -4099497232521960895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_48
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9558f5816c5336d0800000000000000
+      internalID: -3011962151851502180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ef989c11c713bd0800000000000000
+      internalID: -2652202289706959306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_50
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e640a72ff3175d0800000000000000
+      internalID: -3066599560600850818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_51
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83715d9271f653c80800000000000000
+      internalID: -8343640589357213896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350cb7f8f01c62100800000000000000
+      internalID: 82965915728855123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_53
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d57a5d31c1758d0800000000000000
+      internalID: -2857784567028818568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_54
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefdf88591657dc90800000000000000
+      internalID: -7145147616940007441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_55
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db909122afc6e690800000000000000
+      internalID: -7573137428122133544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_56
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d3847655f2ca970800000000000000
+      internalID: 8767434618435026300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_57
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe4f620dba497a70800000000000000
+      internalID: 8825167120459321082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_58
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9939c4b9d22108770800000000000000
+      internalID: 8610902474620703641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_59
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0753612dc757727f0800000000000000
+      internalID: -637411643288570512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_60
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 14
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5144bd65e627b8880800000000000000
+      internalID: -8607660444559391723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_61
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 15
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a62abaec53b11600800000000000000
+      internalID: 437327850488080034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_62
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036a053db958bcb20800000000000000
+      internalID: 3155762868214867504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lamb_Eat_63
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 15
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb4462bdf96277c0800000000000000
+      internalID: -4075078174476317767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lamb_Eat_0: -9077874720441149083
+      Lamb_Eat_1: -2310795716781094524
+      Lamb_Eat_10: -8743372370213206366
+      Lamb_Eat_11: 7787092840977095217
+      Lamb_Eat_12: 2400206754574460705
+      Lamb_Eat_13: -6860053280052396875
+      Lamb_Eat_14: -1821970592688344422
+      Lamb_Eat_15: 1820623187366642339
+      Lamb_Eat_16: 4264892895337591220
+      Lamb_Eat_17: 4097190851035976380
+      Lamb_Eat_18: 3470433489802488981
+      Lamb_Eat_19: -9076570518168349634
+      Lamb_Eat_2: 3112457597136109294
+      Lamb_Eat_20: 6837988812561213473
+      Lamb_Eat_21: 979595514037837462
+      Lamb_Eat_22: -7794419958522733896
+      Lamb_Eat_23: -5848793536961315376
+      Lamb_Eat_24: 2938409612911293725
+      Lamb_Eat_25: -313187107695363162
+      Lamb_Eat_26: 4021150248964689288
+      Lamb_Eat_27: 72283358898498060
+      Lamb_Eat_28: 2397118320095256271
+      Lamb_Eat_29: -8410368789741688389
+      Lamb_Eat_3: -4449411684030888986
+      Lamb_Eat_30: -1435563486179424648
+      Lamb_Eat_31: -6008414006000176804
+      Lamb_Eat_32: 4214323212339110517
+      Lamb_Eat_33: 4785083090438083876
+      Lamb_Eat_34: -8478508603898648091
+      Lamb_Eat_35: -4563522622600866353
+      Lamb_Eat_36: 3493488479414203323
+      Lamb_Eat_37: 6751688546012013509
+      Lamb_Eat_38: -6738875022656353482
+      Lamb_Eat_39: -6161441804656626786
+      Lamb_Eat_4: 2239811473703800583
+      Lamb_Eat_40: -258746528389968716
+      Lamb_Eat_41: 3081802085288942334
+      Lamb_Eat_42: 6137132533643814815
+      Lamb_Eat_43: 6334434041007899452
+      Lamb_Eat_44: 2068517696932912125
+      Lamb_Eat_45: -857383356972230617
+      Lamb_Eat_46: 8228220334757719900
+      Lamb_Eat_47: -4099497232521960895
+      Lamb_Eat_48: -3011962151851502180
+      Lamb_Eat_49: -2652202289706959306
+      Lamb_Eat_5: -3911165145768994160
+      Lamb_Eat_50: -3066599560600850818
+      Lamb_Eat_51: -8343640589357213896
+      Lamb_Eat_52: 82965915728855123
+      Lamb_Eat_53: -2857784567028818568
+      Lamb_Eat_54: -7145147616940007441
+      Lamb_Eat_55: -7573137428122133544
+      Lamb_Eat_56: 8767434618435026300
+      Lamb_Eat_57: 8825167120459321082
+      Lamb_Eat_58: 8610902474620703641
+      Lamb_Eat_59: -637411643288570512
+      Lamb_Eat_6: 8428870050272773390
+      Lamb_Eat_60: -8607660444559391723
+      Lamb_Eat_61: 437327850488080034
+      Lamb_Eat_62: 3155762868214867504
+      Lamb_Eat_63: -4075078174476317767
+      Lamb_Eat_7: -6156994996747918986
+      Lamb_Eat_8: 5260616228880241891
+      Lamb_Eat_9: -7976669550896939288
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

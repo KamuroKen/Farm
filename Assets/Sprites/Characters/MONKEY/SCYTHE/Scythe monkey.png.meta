@@ -1,0 +1,2225 @@
+fileFormatVersion: 2
+guid: 7061bb3ee575628478a99bfe702ab80d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5154303131057180491
+    second: Scythe monkey_0
+  - first:
+      213: 6971597186282985034
+    second: Scythe monkey_1
+  - first:
+      213: -6678533492943287183
+    second: Scythe monkey_2
+  - first:
+      213: 6982737990391597938
+    second: Scythe monkey_3
+  - first:
+      213: 1993936505485448116
+    second: Scythe monkey_4
+  - first:
+      213: 5190179147304037395
+    second: Scythe monkey_5
+  - first:
+      213: 7753656997995745061
+    second: Scythe monkey_6
+  - first:
+      213: 1584459304186323116
+    second: Scythe monkey_7
+  - first:
+      213: -6088976461200004331
+    second: Scythe monkey_8
+  - first:
+      213: -5604085914188857140
+    second: Scythe monkey_9
+  - first:
+      213: 1783310442047251603
+    second: Scythe monkey_10
+  - first:
+      213: 7309294416360533927
+    second: Scythe monkey_11
+  - first:
+      213: 7380802745596540760
+    second: Scythe monkey_12
+  - first:
+      213: 7133963915818959267
+    second: Scythe monkey_13
+  - first:
+      213: -3581880394763660434
+    second: Scythe monkey_14
+  - first:
+      213: 4108998590318735669
+    second: Scythe monkey_15
+  - first:
+      213: 1400975779620431765
+    second: Scythe monkey_16
+  - first:
+      213: -5220362468219283035
+    second: Scythe monkey_17
+  - first:
+      213: 3393466195284657486
+    second: Scythe monkey_18
+  - first:
+      213: 6488936163455135680
+    second: Scythe monkey_19
+  - first:
+      213: 8240321588227553172
+    second: Scythe monkey_20
+  - first:
+      213: -2738142128175426388
+    second: Scythe monkey_21
+  - first:
+      213: 4523704115131666345
+    second: Scythe monkey_22
+  - first:
+      213: 3784074455167827371
+    second: Scythe monkey_23
+  - first:
+      213: -6349137728054785443
+    second: Scythe monkey_24
+  - first:
+      213: -2031615055314189096
+    second: Scythe monkey_25
+  - first:
+      213: -7819284308416798116
+    second: Scythe monkey_26
+  - first:
+      213: 6987428935651445676
+    second: Scythe monkey_27
+  - first:
+      213: -665803799652964219
+    second: Scythe monkey_28
+  - first:
+      213: 1606011645521835466
+    second: Scythe monkey_29
+  - first:
+      213: 2257771623066010303
+    second: Scythe monkey_30
+  - first:
+      213: -4565389256818758934
+    second: Scythe monkey_31
+  - first:
+      213: -4875202314975451346
+    second: Scythe monkey_32
+  - first:
+      213: 5431238616588529268
+    second: Scythe monkey_33
+  - first:
+      213: -2460179646047503731
+    second: Scythe monkey_34
+  - first:
+      213: 6970998060213607392
+    second: Scythe monkey_35
+  - first:
+      213: -6525784477576252799
+    second: Scythe monkey_36
+  - first:
+      213: 6768026074553686717
+    second: Scythe monkey_37
+  - first:
+      213: -2547733796174774782
+    second: Scythe monkey_38
+  - first:
+      213: -8315600838272711471
+    second: Scythe monkey_39
+  - first:
+      213: 2735703638252739458
+    second: Scythe monkey_40
+  - first:
+      213: -5194949535749027386
+    second: Scythe monkey_41
+  - first:
+      213: 3988831076162529620
+    second: Scythe monkey_42
+  - first:
+      213: 3790739802012062683
+    second: Scythe monkey_43
+  - first:
+      213: 2967701369908282486
+    second: Scythe monkey_44
+  - first:
+      213: -2552280853416123161
+    second: Scythe monkey_45
+  - first:
+      213: 3957165823255196013
+    second: Scythe monkey_46
+  - first:
+      213: 2786777604083895669
+    second: Scythe monkey_47
+  - first:
+      213: -3757117862768441962
+    second: Scythe monkey_48
+  - first:
+      213: -858318290174597428
+    second: Scythe monkey_49
+  - first:
+      213: -1316360581140494306
+    second: Scythe monkey_50
+  - first:
+      213: -7651200863972204791
+    second: Scythe monkey_51
+  - first:
+      213: -5803337868990772870
+    second: Scythe monkey_52
+  - first:
+      213: -4780535740882226453
+    second: Scythe monkey_53
+  - first:
+      213: 9098580993321809224
+    second: Scythe monkey_54
+  - first:
+      213: 5167100415976874189
+    second: Scythe monkey_55
+  - first:
+      213: -8951911451124881947
+    second: Scythe monkey_56
+  - first:
+      213: -7496191907863268249
+    second: Scythe monkey_57
+  - first:
+      213: 2767817141797184881
+    second: Scythe monkey_58
+  - first:
+      213: -5454832763580269557
+    second: Scythe monkey_59
+  - first:
+      213: -8823257464173535845
+    second: Scythe monkey_60
+  - first:
+      213: -4549922540591517006
+    second: Scythe monkey_61
+  - first:
+      213: -7576839608989406423
+    second: Scythe monkey_62
+  - first:
+      213: -2115290956482675053
+    second: Scythe monkey_63
+  - first:
+      213: 3212839576821693551
+    second: Scythe monkey_64
+  - first:
+      213: -4890939761530822042
+    second: Scythe monkey_65
+  - first:
+      213: 7040118673241876280
+    second: Scythe monkey_66
+  - first:
+      213: -6218454016413231546
+    second: Scythe monkey_67
+  - first:
+      213: 6863090669808095088
+    second: Scythe monkey_68
+  - first:
+      213: -574857006300511061
+    second: Scythe monkey_69
+  - first:
+      213: -3667207265591980464
+    second: Scythe monkey_70
+  - first:
+      213: 998311416679422566
+    second: Scythe monkey_71
+  - first:
+      213: 7142184360225481195
+    second: Scythe monkey_72
+  - first:
+      213: 1985680620407868454
+    second: Scythe monkey_73
+  - first:
+      213: 4231030998280534243
+    second: Scythe monkey_74
+  - first:
+      213: 5622650007828481891
+    second: Scythe monkey_75
+  - first:
+      213: 1034561742743894143
+    second: Scythe monkey_76
+  - first:
+      213: 583713296259803248
+    second: Scythe monkey_77
+  - first:
+      213: 2371080394683571698
+    second: Scythe monkey_78
+  - first:
+      213: 4929226743613951499
+    second: Scythe monkey_79
+  - first:
+      213: 1416095736362633066
+    second: Scythe monkey_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scythe monkey_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fc8579363c78740800000000000000
+      internalID: 5154303131057180491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 159
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46928d24b610c060800000000000000
+      internalID: 6971597186282985034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c019c2c251153a0800000000000000
+      internalID: -6678533492943287183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 158
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b8ae4c43ba7e060800000000000000
+      internalID: 6982737990391597938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 158
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d42affa2ebab10800000000000000
+      internalID: 1993936505485448116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 170
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c62bb8f68370840800000000000000
+      internalID: 5190179147304037395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 158
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f02c385f58a9b60800000000000000
+      internalID: 7753656997995745061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 170
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0a613a7512df510800000000000000
+      internalID: 1584459304186323116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 157
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b65785b2c9f7ba0800000000000000
+      internalID: -6088976461200004331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 170
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0c0028d894a32b0800000000000000
+      internalID: -5604085914188857140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 157
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394a87e06679fb810800000000000000
+      internalID: 1783310442047251603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_11
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af6aed9b84df6560800000000000000
+      internalID: 7309294416360533927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 158
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8577280fdf0ed6660800000000000000
+      internalID: 7380802745596540760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_13
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 171
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a108d2526ee00360800000000000000
+      internalID: 7133963915818959267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 158
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e631d2232ca9a4ec0800000000000000
+      internalID: -3581880394763660434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 151
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531778e8278160930800000000000000
+      internalID: 4108998590318735669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597a3338c04417310800000000000000
+      internalID: 1400975779620431765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 148
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9120b6efb8d87b0800000000000000
+      internalID: -5220362468219283035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e450d377683081f20800000000000000
+      internalID: 3393466195284657486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfede09f055d0a50800000000000000
+      internalID: 6488936163455135680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_20
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497394d43d08b5270800000000000000
+      internalID: 8240321588227553172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_21
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca45291ed3a200ad0800000000000000
+      internalID: -2738142128175426388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_22
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af4563dcec67ce30800000000000000
+      internalID: 4523704115131666345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad78e70babb38430800000000000000
+      internalID: 3784074455167827371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_24
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a834120e453e7a0800000000000000
+      internalID: -6349137728054785443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 106
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d489a30fd04ec3e0800000000000000
+      internalID: -2031615055314189096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_26
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 110
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52e70f89525c7390800000000000000
+      internalID: -7819284308416798116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_27
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab4ac2989558f060800000000000000
+      internalID: 6987428935651445676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_28
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 114
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5886497c8f692c6f0800000000000000
+      internalID: -665803799652964219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac538742513b94610800000000000000
+      internalID: 1606011645521835466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_30
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 125
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb28ec83457355f10800000000000000
+      internalID: 2257771623066010303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_31
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaeeedc8aa74a0c0800000000000000
+      internalID: -4565389256818758934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_32
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27e9bf035dc75cb0800000000000000
+      internalID: -4875202314975451346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 111
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ea420feb2af5b40800000000000000
+      internalID: 5431238616588529268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_34
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a31b185afabddd0800000000000000
+      internalID: -2460179646047503731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 111
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb18f44dc5fdb060800000000000000
+      internalID: 6970998060213607392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_36
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 125
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1823f4db791cf65a0800000000000000
+      internalID: -6525784477576252799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_37
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba9a543bdbdced50800000000000000
+      internalID: 6768026074553686717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_38
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ebeb06c91a4acd0800000000000000
+      internalID: -2547733796174774782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_39
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d480d4781d099c80800000000000000
+      internalID: -8315600838272711471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_40
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 112
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b5cc0f6fb27f520800000000000000
+      internalID: 2735703638252739458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_41
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c94997dbe4d7e7b0800000000000000
+      internalID: -5194949535749027386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 97
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459e4b3eabc2b5730800000000000000
+      internalID: 3988831076162529620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 97
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd31dd604c96b9430800000000000000
+      internalID: 3790739802012062683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674c2d02ca46f2920800000000000000
+      internalID: 2967701369908282486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_45
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4e91d161a749cd0800000000000000
+      internalID: -2552280853416123161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61317ca95daae630800000000000000
+      internalID: 3957165823255196013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d4f67477f9ca620800000000000000
+      internalID: 2786777604083895669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_48
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 63
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695896ab5390cdbc0800000000000000
+      internalID: -3757117862768441962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 63
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc62ce90014a614f0800000000000000
+      internalID: -858318290174597428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 63
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e184bcc96095bbde0800000000000000
+      internalID: -1316360581140494306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_51
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f56cd1a5971d590800000000000000
+      internalID: -7651200863972204791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a798b3f94f6667fa0800000000000000
+      internalID: -5803337868990772870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_53
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 52
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2f7a0721028adb0800000000000000
+      internalID: -4780535740882226453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84531130537a44e70800000000000000
+      internalID: 9098580993321809224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_55
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0231da37a35b740800000000000000
+      internalID: 5167100415976874189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_56
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e523f6e6fb64c380800000000000000
+      internalID: -8951911451124881947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_57
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764f6a32d2d28f790800000000000000
+      internalID: -7496191907863268249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_58
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 63
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175ee04a603496620800000000000000
+      internalID: 2767817141797184881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_59
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 52
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cb2a1a08a8c44b0800000000000000
+      internalID: -5454832763580269557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 11
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d5f1e751e7d8580800000000000000
+      internalID: -8823257464173535845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2ff7c4e8d6bd0c0800000000000000
+      internalID: -4549922540591517006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 22
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ba31af488a9d690800000000000000
+      internalID: -7576839608989406423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ef046151af4a2e0800000000000000
+      internalID: -2115290956482675053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cf5c0a29c469c20800000000000000
+      internalID: 3212839576821693551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_65
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6622f104334ef1cb0800000000000000
+      internalID: -4890939761530822042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_66
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 24
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8372d2712a683b160800000000000000
+      internalID: 7040118673241876280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6469693d40d93b9a0800000000000000
+      internalID: -6218454016413231546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f853b1a989e3f50800000000000000
+      internalID: 6863090669808095088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_69
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba440d63992b508f0800000000000000
+      internalID: -574857006300511061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_70
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e88a0fb667b1dc0800000000000000
+      internalID: -3667207265591980464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ad466b1f6badd00800000000000000
+      internalID: 998311416679422566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_72
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1279fa5d22e1360800000000000000
+      internalID: 7142184360225481195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cc9c0f00e8e8b10800000000000000
+      internalID: 1985680620407868454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_74
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e87d26a644a7ba30800000000000000
+      internalID: 4231030998280534243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_75
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 5
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367c6fc546aa70e40800000000000000
+      internalID: 5622650007828481891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_76
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7875767c608b5e00800000000000000
+      internalID: 1034561742743894143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_77
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 9
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078ec3a7624c91800800000000000000
+      internalID: 583713296259803248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_78
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdd1037e05c7e020800000000000000
+      internalID: 2371080394683571698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_79
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e077e6b91286440800000000000000
+      internalID: 4929226743613951499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe monkey_80
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 8
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6707d5c19bf6a310800000000000000
+      internalID: 1416095736362633066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Scythe monkey_0: 5154303131057180491
+      Scythe monkey_1: 6971597186282985034
+      Scythe monkey_10: 1783310442047251603
+      Scythe monkey_11: 7309294416360533927
+      Scythe monkey_12: 7380802745596540760
+      Scythe monkey_13: 7133963915818959267
+      Scythe monkey_14: -3581880394763660434
+      Scythe monkey_15: 4108998590318735669
+      Scythe monkey_16: 1400975779620431765
+      Scythe monkey_17: -5220362468219283035
+      Scythe monkey_18: 3393466195284657486
+      Scythe monkey_19: 6488936163455135680
+      Scythe monkey_2: -6678533492943287183
+      Scythe monkey_20: 8240321588227553172
+      Scythe monkey_21: -2738142128175426388
+      Scythe monkey_22: 4523704115131666345
+      Scythe monkey_23: 3784074455167827371
+      Scythe monkey_24: -6349137728054785443
+      Scythe monkey_25: -2031615055314189096
+      Scythe monkey_26: -7819284308416798116
+      Scythe monkey_27: 6987428935651445676
+      Scythe monkey_28: -665803799652964219
+      Scythe monkey_29: 1606011645521835466
+      Scythe monkey_3: 6982737990391597938
+      Scythe monkey_30: 2257771623066010303
+      Scythe monkey_31: -4565389256818758934
+      Scythe monkey_32: -4875202314975451346
+      Scythe monkey_33: 5431238616588529268
+      Scythe monkey_34: -2460179646047503731
+      Scythe monkey_35: 6970998060213607392
+      Scythe monkey_36: -6525784477576252799
+      Scythe monkey_37: 6768026074553686717
+      Scythe monkey_38: -2547733796174774782
+      Scythe monkey_39: -8315600838272711471
+      Scythe monkey_4: 1993936505485448116
+      Scythe monkey_40: 2735703638252739458
+      Scythe monkey_41: -5194949535749027386
+      Scythe monkey_42: 3988831076162529620
+      Scythe monkey_43: 3790739802012062683
+      Scythe monkey_44: 2967701369908282486
+      Scythe monkey_45: -2552280853416123161
+      Scythe monkey_46: 3957165823255196013
+      Scythe monkey_47: 2786777604083895669
+      Scythe monkey_48: -3757117862768441962
+      Scythe monkey_49: -858318290174597428
+      Scythe monkey_5: 5190179147304037395
+      Scythe monkey_50: -1316360581140494306
+      Scythe monkey_51: -7651200863972204791
+      Scythe monkey_52: -5803337868990772870
+      Scythe monkey_53: -4780535740882226453
+      Scythe monkey_54: 9098580993321809224
+      Scythe monkey_55: 5167100415976874189
+      Scythe monkey_56: -8951911451124881947
+      Scythe monkey_57: -7496191907863268249
+      Scythe monkey_58: 2767817141797184881
+      Scythe monkey_59: -5454832763580269557
+      Scythe monkey_6: 7753656997995745061
+      Scythe monkey_60: -8823257464173535845
+      Scythe monkey_61: -4549922540591517006
+      Scythe monkey_62: -7576839608989406423
+      Scythe monkey_63: -2115290956482675053
+      Scythe monkey_64: 3212839576821693551
+      Scythe monkey_65: -4890939761530822042
+      Scythe monkey_66: 7040118673241876280
+      Scythe monkey_67: -6218454016413231546
+      Scythe monkey_68: 6863090669808095088
+      Scythe monkey_69: -574857006300511061
+      Scythe monkey_7: 1584459304186323116
+      Scythe monkey_70: -3667207265591980464
+      Scythe monkey_71: 998311416679422566
+      Scythe monkey_72: 7142184360225481195
+      Scythe monkey_73: 1985680620407868454
+      Scythe monkey_74: 4231030998280534243
+      Scythe monkey_75: 5622650007828481891
+      Scythe monkey_76: 1034561742743894143
+      Scythe monkey_77: 583713296259803248
+      Scythe monkey_78: 2371080394683571698
+      Scythe monkey_79: 4929226743613951499
+      Scythe monkey_8: -6088976461200004331
+      Scythe monkey_80: 1416095736362633066
+      Scythe monkey_9: -5604085914188857140
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

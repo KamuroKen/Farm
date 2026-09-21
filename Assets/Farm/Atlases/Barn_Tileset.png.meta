@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: 4eecfec357715c1458872b0989873bc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6077980179709572753
+    second: Barn_Tileset_0
+  - first:
+      213: 2349603025725291285
+    second: Barn_Tileset_1
+  - first:
+      213: 3130486351268241843
+    second: Barn_Tileset_2
+  - first:
+      213: 919740671036367758
+    second: Barn_Tileset_3
+  - first:
+      213: -4065122971409361092
+    second: Barn_Tileset_4
+  - first:
+      213: 4583772183474790650
+    second: Barn_Tileset_5
+  - first:
+      213: -7324039765784732956
+    second: Barn_Tileset_6
+  - first:
+      213: -3608992943709150963
+    second: Barn_Tileset_7
+  - first:
+      213: 8021784001429234233
+    second: Barn_Tileset_8
+  - first:
+      213: -8704234161690120810
+    second: Barn_Tileset_9
+  - first:
+      213: -6740383026726220327
+    second: Barn_Tileset_10
+  - first:
+      213: -1833405164043146582
+    second: Barn_Tileset_11
+  - first:
+      213: 6263994324904979039
+    second: Barn_Tileset_12
+  - first:
+      213: 8027880076309574902
+    second: Barn_Tileset_13
+  - first:
+      213: 3837911072793620838
+    second: Barn_Tileset_14
+  - first:
+      213: -7276827104860358527
+    second: Barn_Tileset_15
+  - first:
+      213: -1418758085524175627
+    second: Barn_Tileset_16
+  - first:
+      213: -4733379553245396118
+    second: Barn_Tileset_17
+  - first:
+      213: 3316217805402903948
+    second: Barn_Tileset_18
+  - first:
+      213: 925465409963690398
+    second: Barn_Tileset_19
+  - first:
+      213: -27949019304793080
+    second: Barn_Tileset_20
+  - first:
+      213: -9165005001560547696
+    second: Barn_Tileset_21
+  - first:
+      213: -8117494775638225898
+    second: Barn_Tileset_22
+  - first:
+      213: 1314802357208345456
+    second: Barn_Tileset_23
+  - first:
+      213: 2069730003256736037
+    second: Barn_Tileset_24
+  - first:
+      213: 4193126087917242286
+    second: Barn_Tileset_25
+  - first:
+      213: -580763915880248707
+    second: Barn_Tileset_26
+  - first:
+      213: 1316069496803920537
+    second: Barn_Tileset_27
+  - first:
+      213: -5499387712711168875
+    second: Barn_Tileset_28
+  - first:
+      213: -7986451230697050730
+    second: Barn_Tileset_29
+  - first:
+      213: 2888035762255410417
+    second: Barn_Tileset_30
+  - first:
+      213: -6543921725173970318
+    second: Barn_Tileset_31
+  - first:
+      213: -4385594977871382885
+    second: Barn_Tileset_32
+  - first:
+      213: -8589843460159590979
+    second: Barn_Tileset_33
+  - first:
+      213: 6702584539645393406
+    second: Barn_Tileset_34
+  - first:
+      213: -7778518686192978322
+    second: Barn_Tileset_35
+  - first:
+      213: -7124014364291807497
+    second: Barn_Tileset_36
+  - first:
+      213: 3156915442554620505
+    second: Barn_Tileset_37
+  - first:
+      213: 2776158587656291009
+    second: Barn_Tileset_38
+  - first:
+      213: 1111481011189641960
+    second: Barn_Tileset_39
+  - first:
+      213: 6862269514219951639
+    second: Barn_Tileset_40
+  - first:
+      213: -1988124901180771461
+    second: Barn_Tileset_41
+  - first:
+      213: 4827064803183619250
+    second: Barn_Tileset_42
+  - first:
+      213: 8632287061026934506
+    second: Barn_Tileset_43
+  - first:
+      213: 9096057619698213098
+    second: Barn_Tileset_44
+  - first:
+      213: -9143216909264031605
+    second: Barn_Tileset_45
+  - first:
+      213: -299505564507127060
+    second: Barn_Tileset_46
+  - first:
+      213: -4671887204949227817
+    second: Barn_Tileset_47
+  - first:
+      213: -5355785638686217523
+    second: Barn_Tileset_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: barn_704_32_16_16
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 288
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a559b58bb4391377ea6aafb1a39433
+      internalID: -2058455171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_696_80_8_16
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 240
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f28fda6b50e13e53bcfc669296cd69a
+      internalID: 705029764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_720_80_8_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7586f865ccb14759a3be8ae4346d39
+      internalID: -692365116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_48_288_16_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 44
+        width: 16
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76af1af875ff5462f9fa7369bf1e9da
+      internalID: -223937172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_48_272_8_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b3426e663a1df64008d1cc8430e9e9
+      internalID: 1432596589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_48_256_16_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 78
+        width: 16
+        height: 2
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0666111d57dfcdcb5fa9e896203b417f
+      internalID: 1303171734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_176_176_16_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3610f8b39b95ece969f53f37e1849873
+      internalID: -1022892818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_208_176_16_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1ce5f77ddbac3077853a9f4c17e52a
+      internalID: 958041115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_24_256_3_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 3
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819199904a8f808b7578e392e8d7e81f
+      internalID: -7950223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_38_256_3_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 72
+        width: 3
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e10f5e2e9aff3e6e6223f4ad2d5656
+      internalID: 412768358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_48_288_16_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 16
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f587f828233583541b8b47c7f9599741
+      internalID: 924739251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_16_176_32_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615ec6dabb52dbf4ad10d2e63480d5f8
+      internalID: -1472880836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_400_32_16_16
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 288
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332d049de17927c7acd6c823192bc9e2
+      internalID: -1120377566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_368_32_32_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 288
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a22f1c641fbaffb7bc5ff681d519e5
+      internalID: 1100741722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trough
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 288
+        width: 32
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c26e33d9207569ab3f262b54572cc0
+      internalID: -1652468371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hay_bale
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5cfe9b48f3117bd61e0deb28b1f47a
+      internalID: -614415646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 800018a490e31c247ab62e9d0d5bae1f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      barn_16_176_32_48: -1472880836
+      barn_176_176_16_16: -1022892818
+      barn_208_176_16_16: 958041115
+      barn_24_256_3_8: -7950223
+      barn_368_32_32_16: 1100741722
+      barn_38_256_3_8: 412768358
+      barn_400_32_16_16: -1120377566
+      barn_48_256_16_2: 1303171734
+      barn_48_272_8_8: 1432596589
+      barn_48_288_16_4: -223937172
+      barn_48_288_16_8: 924739251
+      barn_696_80_8_16: 705029764
+      barn_704_32_16_16: -2058455171
+      barn_720_80_8_16: -692365116
+      hay_bale: -614415646
+      trough: -1652468371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

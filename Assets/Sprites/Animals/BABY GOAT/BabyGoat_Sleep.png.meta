@@ -1,0 +1,951 @@
+fileFormatVersion: 2
+guid: c1780134e3d29c4438d415c070bd48e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6741580506702890201
+    second: BabyGoat_Sleep_0
+  - first:
+      213: 6080246716549708600
+    second: BabyGoat_Sleep_1
+  - first:
+      213: 1219344824568752474
+    second: BabyGoat_Sleep_2
+  - first:
+      213: -1108133158836846478
+    second: BabyGoat_Sleep_3
+  - first:
+      213: -45009742790042346
+    second: BabyGoat_Sleep_4
+  - first:
+      213: 1103870036617897109
+    second: BabyGoat_Sleep_5
+  - first:
+      213: -8910676042519042808
+    second: BabyGoat_Sleep_6
+  - first:
+      213: 22636110665426929
+    second: BabyGoat_Sleep_7
+  - first:
+      213: 5576036745949331276
+    second: BabyGoat_Sleep_8
+  - first:
+      213: 736822033593876529
+    second: BabyGoat_Sleep_9
+  - first:
+      213: -3309789062816766939
+    second: BabyGoat_Sleep_10
+  - first:
+      213: 5815995957316033825
+    second: BabyGoat_Sleep_11
+  - first:
+      213: 1519042894725929921
+    second: BabyGoat_Sleep_12
+  - first:
+      213: -1895476668189903806
+    second: BabyGoat_Sleep_13
+  - first:
+      213: -4606332809855650477
+    second: BabyGoat_Sleep_14
+  - first:
+      213: 1131357639907229330
+    second: BabyGoat_Sleep_15
+  - first:
+      213: 8077264140488013956
+    second: BabyGoat_Sleep_16
+  - first:
+      213: -4670005326706769633
+    second: BabyGoat_Sleep_17
+  - first:
+      213: 4212724702128768316
+    second: BabyGoat_Sleep_18
+  - first:
+      213: -1906586722980671417
+    second: BabyGoat_Sleep_19
+  - first:
+      213: -3760489480727801384
+    second: BabyGoat_Sleep_20
+  - first:
+      213: 5614200776550383596
+    second: BabyGoat_Sleep_21
+  - first:
+      213: -3782741347419580205
+    second: BabyGoat_Sleep_22
+  - first:
+      213: 3262699168397028299
+    second: BabyGoat_Sleep_23
+  - first:
+      213: -5921680421948998205
+    second: BabyGoat_Sleep_24
+  - first:
+      213: -1024776129995807155
+    second: BabyGoat_Sleep_25
+  - first:
+      213: -3006096546165880169
+    second: BabyGoat_Sleep_26
+  - first:
+      213: -6536761665505666541
+    second: BabyGoat_Sleep_27
+  - first:
+      213: -380740065582684678
+    second: BabyGoat_Sleep_28
+  - first:
+      213: -8568834320781308825
+    second: BabyGoat_Sleep_29
+  - first:
+      213: 1341255051474542816
+    second: BabyGoat_Sleep_30
+  - first:
+      213: 3112453173659889571
+    second: BabyGoat_Sleep_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bb6416f381172a0800000000000000
+      internalID: -6741580506702890201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b3ea69c20616450800000000000000
+      internalID: 6080246716549708600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59a12758abfbe010800000000000000
+      internalID: 1219344824568752474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270c2bf53ce1f90f0800000000000000
+      internalID: -1108133158836846478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d519d90e7106ff0800000000000000
+      internalID: -45009742790042346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 159
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594aec223fbb15f00800000000000000
+      internalID: 1103870036617897109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805a111a95be65480800000000000000
+      internalID: -8910676042519042808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f72f473c6b605000800000000000000
+      internalID: 22636110665426929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4fb5d890ef026d40800000000000000
+      internalID: 5576036745949331276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1304b075cb7b93a00800000000000000
+      internalID: 736822033593876529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_10
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524655522644112d0800000000000000
+      internalID: -3309789062816766939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d1eea328196b050800000000000000
+      internalID: 5815995957316033825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb58bae679b41510800000000000000
+      internalID: 1519042894725929921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 110
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244ff70530ae1b5e0800000000000000
+      internalID: -1895476668189903806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355b35ff6b40310c0800000000000000
+      internalID: -4606332809855650477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_15
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 111
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e389087c363bf00800000000000000
+      internalID: 1131357639907229330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488f9cac0f4381070800000000000000
+      internalID: 8077264140488013956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11067ae5eec03fb0800000000000000
+      internalID: -4670005326706769633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_18
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3506eeebca967a30800000000000000
+      internalID: 4212724702128768316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_19
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740d24b1a717a85e0800000000000000
+      internalID: -1906586722980671417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_20
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d150afbdbe00dbc0800000000000000
+      internalID: -3760489480727801384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_21
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 62
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceff1086cd5a9ed40800000000000000
+      internalID: 5614200776550383596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d89fdd49c0018bc0800000000000000
+      internalID: -3782741347419580205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 63
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb644d6b9f674d20800000000000000
+      internalID: 3262699168397028299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd3858d707f1dda0800000000000000
+      internalID: -5921680421948998205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46ec4d0a8347c1f0800000000000000
+      internalID: -1024776129995807155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 14
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a01454e133846d0800000000000000
+      internalID: -3006096546165880169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 14
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ad42206e1c845a0800000000000000
+      internalID: -6536761665505666541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 14
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af56f277de657baf0800000000000000
+      internalID: -380740065582684678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c87aab592651980800000000000000
+      internalID: -8568834320781308825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 15
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0a650fc581d9210800000000000000
+      internalID: 1341255051474542816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BabyGoat_Sleep_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 15
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afe804cba7a13b20800000000000000
+      internalID: 3112453173659889571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BabyGoat_Sleep_0: -6741580506702890201
+      BabyGoat_Sleep_1: 6080246716549708600
+      BabyGoat_Sleep_10: -3309789062816766939
+      BabyGoat_Sleep_11: 5815995957316033825
+      BabyGoat_Sleep_12: 1519042894725929921
+      BabyGoat_Sleep_13: -1895476668189903806
+      BabyGoat_Sleep_14: -4606332809855650477
+      BabyGoat_Sleep_15: 1131357639907229330
+      BabyGoat_Sleep_16: 8077264140488013956
+      BabyGoat_Sleep_17: -4670005326706769633
+      BabyGoat_Sleep_18: 4212724702128768316
+      BabyGoat_Sleep_19: -1906586722980671417
+      BabyGoat_Sleep_2: 1219344824568752474
+      BabyGoat_Sleep_20: -3760489480727801384
+      BabyGoat_Sleep_21: 5614200776550383596
+      BabyGoat_Sleep_22: -3782741347419580205
+      BabyGoat_Sleep_23: 3262699168397028299
+      BabyGoat_Sleep_24: -5921680421948998205
+      BabyGoat_Sleep_25: -1024776129995807155
+      BabyGoat_Sleep_26: -3006096546165880169
+      BabyGoat_Sleep_27: -6536761665505666541
+      BabyGoat_Sleep_28: -380740065582684678
+      BabyGoat_Sleep_29: -8568834320781308825
+      BabyGoat_Sleep_3: -1108133158836846478
+      BabyGoat_Sleep_30: 1341255051474542816
+      BabyGoat_Sleep_31: 3112453173659889571
+      BabyGoat_Sleep_4: -45009742790042346
+      BabyGoat_Sleep_5: 1103870036617897109
+      BabyGoat_Sleep_6: -8910676042519042808
+      BabyGoat_Sleep_7: 22636110665426929
+      BabyGoat_Sleep_8: 5576036745949331276
+      BabyGoat_Sleep_9: 736822033593876529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

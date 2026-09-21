@@ -1,0 +1,1783 @@
+fileFormatVersion: 2
+guid: 2ce1d7531d3bc2b4f998f4428a81f18b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 649872878943007174
+    second: Calf_Eat_0
+  - first:
+      213: -1835842637218203358
+    second: Calf_Eat_1
+  - first:
+      213: -2792022396501137840
+    second: Calf_Eat_2
+  - first:
+      213: 8682180187518677979
+    second: Calf_Eat_3
+  - first:
+      213: -5183073880502244438
+    second: Calf_Eat_4
+  - first:
+      213: 866949119244540754
+    second: Calf_Eat_5
+  - first:
+      213: -9042132490726803671
+    second: Calf_Eat_6
+  - first:
+      213: 4734326918835607403
+    second: Calf_Eat_7
+  - first:
+      213: -4891728593476423038
+    second: Calf_Eat_8
+  - first:
+      213: 294329559985772733
+    second: Calf_Eat_9
+  - first:
+      213: 3366434782931554777
+    second: Calf_Eat_10
+  - first:
+      213: 6208924108363179165
+    second: Calf_Eat_11
+  - first:
+      213: 623506201019009841
+    second: Calf_Eat_12
+  - first:
+      213: -8040441379609867987
+    second: Calf_Eat_13
+  - first:
+      213: 7731642313157163918
+    second: Calf_Eat_14
+  - first:
+      213: 3557548248951353914
+    second: Calf_Eat_15
+  - first:
+      213: 8898464786737352449
+    second: Calf_Eat_16
+  - first:
+      213: 8065242518647771627
+    second: Calf_Eat_17
+  - first:
+      213: 1941778637436005683
+    second: Calf_Eat_18
+  - first:
+      213: 230039834604983942
+    second: Calf_Eat_19
+  - first:
+      213: -7298055738935201205
+    second: Calf_Eat_20
+  - first:
+      213: -3757457119948032590
+    second: Calf_Eat_21
+  - first:
+      213: 8417641170933843139
+    second: Calf_Eat_22
+  - first:
+      213: -8778467810727176098
+    second: Calf_Eat_23
+  - first:
+      213: -1547464989341737209
+    second: Calf_Eat_24
+  - first:
+      213: 8148322430693106645
+    second: Calf_Eat_25
+  - first:
+      213: -8003597688362171582
+    second: Calf_Eat_26
+  - first:
+      213: -1622315131883164549
+    second: Calf_Eat_27
+  - first:
+      213: -8407841254561317854
+    second: Calf_Eat_28
+  - first:
+      213: 8917484175839644949
+    second: Calf_Eat_29
+  - first:
+      213: 755949834019526277
+    second: Calf_Eat_30
+  - first:
+      213: -9040372773212603877
+    second: Calf_Eat_31
+  - first:
+      213: -1143575574731538324
+    second: Calf_Eat_32
+  - first:
+      213: -5739958605550962532
+    second: Calf_Eat_33
+  - first:
+      213: 323942245824571349
+    second: Calf_Eat_34
+  - first:
+      213: -5850777335120273322
+    second: Calf_Eat_35
+  - first:
+      213: 4748282222522922556
+    second: Calf_Eat_36
+  - first:
+      213: -4655392755937388335
+    second: Calf_Eat_37
+  - first:
+      213: 6557918238281887097
+    second: Calf_Eat_38
+  - first:
+      213: -4900472422757598125
+    second: Calf_Eat_39
+  - first:
+      213: 8731269209095776788
+    second: Calf_Eat_40
+  - first:
+      213: -3806534343775245702
+    second: Calf_Eat_41
+  - first:
+      213: -3038262190390469000
+    second: Calf_Eat_42
+  - first:
+      213: 3867123533023826640
+    second: Calf_Eat_43
+  - first:
+      213: -4712724206166184525
+    second: Calf_Eat_44
+  - first:
+      213: -597107176808319122
+    second: Calf_Eat_45
+  - first:
+      213: -6297906471298525054
+    second: Calf_Eat_46
+  - first:
+      213: 855304263645246963
+    second: Calf_Eat_47
+  - first:
+      213: -551325340663136931
+    second: Calf_Eat_48
+  - first:
+      213: 1371893965069292383
+    second: Calf_Eat_49
+  - first:
+      213: 6122921779212454198
+    second: Calf_Eat_50
+  - first:
+      213: 3348796645920594888
+    second: Calf_Eat_51
+  - first:
+      213: 7261607966461475531
+    second: Calf_Eat_52
+  - first:
+      213: -3090273881981532466
+    second: Calf_Eat_53
+  - first:
+      213: 635236203731415138
+    second: Calf_Eat_54
+  - first:
+      213: -1348137101396089499
+    second: Calf_Eat_55
+  - first:
+      213: 3703244137919657157
+    second: Calf_Eat_56
+  - first:
+      213: -8730810441717786484
+    second: Calf_Eat_57
+  - first:
+      213: 5747795446663553010
+    second: Calf_Eat_58
+  - first:
+      213: -8652295630358933818
+    second: Calf_Eat_59
+  - first:
+      213: -1351844152384288052
+    second: Calf_Eat_60
+  - first:
+      213: 1428549122127871418
+    second: Calf_Eat_61
+  - first:
+      213: -3134194821448029119
+    second: Calf_Eat_62
+  - first:
+      213: 8659123645262420382
+    second: Calf_Eat_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Calf_Eat_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1fe82b0ffc40900800000000000000
+      internalID: 649872878943007174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229b71129d6c586e0800000000000000
+      internalID: -1835842637218203358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0566d935c6eb049d0800000000000000
+      internalID: -2792022396501137840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd33cf061ec4d7870800000000000000
+      internalID: 8682180187518677979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabee0c44c50218b0800000000000000
+      internalID: -5183073880502244438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b98e271a5080c00800000000000000
+      internalID: 866949119244540754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927f53e2864e38280800000000000000
+      internalID: -9042132490726803671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6714c7cf35b3b140800000000000000
+      internalID: 4734326918835607403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282773003c61d1cb0800000000000000
+      internalID: -4891728593476423038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db859d5ec2ba51400800000000000000
+      internalID: 294329559985772733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_10
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 159
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d19724599af7be20800000000000000
+      internalID: 3366434782931554777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_11
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94a85c84978a2650800000000000000
+      internalID: 6208924108363179165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 159
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bcdfa169327a800800000000000000
+      internalID: 623506201019009841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2980035a2d9a6090800000000000000
+      internalID: -8040441379609867987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bbc1648bf4c4b60800000000000000
+      internalID: 7731642313157163918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_15
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32fe02a843fe5130800000000000000
+      internalID: 3557548248951353914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f4dc3d392bd7b70800000000000000
+      internalID: 8898464786737352449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be19067d65f7def60800000000000000
+      internalID: 8065242518647771627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 111
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33da0dcf16592fa10800000000000000
+      internalID: 1941778637436005683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 111
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686d1d1c204413300800000000000000
+      internalID: 230039834604983942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 111
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4234c1e8f818ba90800000000000000
+      internalID: -7298055738935201205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_21
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 110
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b53cb248a4dadbc0800000000000000
+      internalID: -3757457119948032590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 110
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c40730eb0871d470800000000000000
+      internalID: 8417641170933843139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 110
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58d765590e9c2680800000000000000
+      internalID: -8778467810727176098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 111
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f9eef7acc468ae0800000000000000
+      internalID: -1547464989341737209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_25
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 111
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d36fcc3418a41170800000000000000
+      internalID: 8148322430693106645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_26
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 110
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243090cae428de090800000000000000
+      internalID: -8003597688362171582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 110
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cec52abf06c79e0800000000000000
+      internalID: -1622315131883164549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_28
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 110
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c7ff5fce8515b80800000000000000
+      internalID: -8407841254561317854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 111
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dc61f6c9441cb70800000000000000
+      internalID: 8917484175839644949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_30
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 111
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586dfbc6e5cad7a00800000000000000
+      internalID: 755949834019526277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_31
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 111
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1abc875cd42a8280800000000000000
+      internalID: -9040372773212603877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 63
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60405ed2143120f0800000000000000
+      internalID: -1143575574731538324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_33
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 63
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9830b25f029750b0800000000000000
+      internalID: -5739958605550962532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_34
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 63
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7ad1a91cfde7400800000000000000
+      internalID: 323942245824571349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_35
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 63
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650ef30330dddcea0800000000000000
+      internalID: -5850777335120273322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 63
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36f7ce168945e140800000000000000
+      internalID: 4748282222522922556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_37
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 62
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8dc6c24f8b46fb0800000000000000
+      internalID: -4655392755937388335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_38
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 62
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97de8d274e7620b50800000000000000
+      internalID: 6557918238281887097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_39
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 62
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c7fe99b460efbb0800000000000000
+      internalID: -4900472422757598125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_40
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 63
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41aa57ed513bb2970800000000000000
+      internalID: 8731269209095776788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_41
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 63
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7aa3f5ae297c2bc0800000000000000
+      internalID: -3806534343775245702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_42
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 62
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e964f92ace5d5d0800000000000000
+      internalID: -3038262190390469000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_43
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 62
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d250784d58caa530800000000000000
+      internalID: 3867123533023826640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_44
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 62
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd6417bd4a099eb0800000000000000
+      internalID: -4712724206166184525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_45
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 63
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67f081bf26a6b7f0800000000000000
+      internalID: -597107176808319122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_46
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 63
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2881e9d9e675998a0800000000000000
+      internalID: -6297906471298525054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_47
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 63
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5b37932b6aedb00800000000000000
+      internalID: 855304263645246963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d3a12168c4958f0800000000000000
+      internalID: -551325340663136931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f531579ea42f90310800000000000000
+      internalID: 1371893965069292383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6390675eaecf8f450800000000000000
+      internalID: 6122921779212454198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbdd198ec0597e20800000000000000
+      internalID: 3348796645920594888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca351bc8f966c460800000000000000
+      internalID: 7261607966461475531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 14
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6c2ddf6442d15d0800000000000000
+      internalID: -3090273881981532466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_54
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260f0ef26ffc0d800800000000000000
+      internalID: 635236203731415138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_55
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 14
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565e2c2f2747a4de0800000000000000
+      internalID: -1348137101396089499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_56
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4bf3d3ce0946330800000000000000
+      internalID: 3703244137919657157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88d32c392ee5d680800000000000000
+      internalID: -8730810441717786484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_58
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 14
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff1dff618544cf40800000000000000
+      internalID: 5747795446663553010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 14
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce8acc47fedce780800000000000000
+      internalID: -8652295630358933818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_60
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 14
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca0271e7e84d3de0800000000000000
+      internalID: -1351844152384288052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdb0a89bd933d310800000000000000
+      internalID: 1428549122127871418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_62
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ca8b26a6a1184d0800000000000000
+      internalID: -3134194821448029119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calf_Eat_63
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 15
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e995d0ec3136b2870800000000000000
+      internalID: 8659123645262420382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Calf_Eat_0: 649872878943007174
+      Calf_Eat_1: -1835842637218203358
+      Calf_Eat_10: 3366434782931554777
+      Calf_Eat_11: 6208924108363179165
+      Calf_Eat_12: 623506201019009841
+      Calf_Eat_13: -8040441379609867987
+      Calf_Eat_14: 7731642313157163918
+      Calf_Eat_15: 3557548248951353914
+      Calf_Eat_16: 8898464786737352449
+      Calf_Eat_17: 8065242518647771627
+      Calf_Eat_18: 1941778637436005683
+      Calf_Eat_19: 230039834604983942
+      Calf_Eat_2: -2792022396501137840
+      Calf_Eat_20: -7298055738935201205
+      Calf_Eat_21: -3757457119948032590
+      Calf_Eat_22: 8417641170933843139
+      Calf_Eat_23: -8778467810727176098
+      Calf_Eat_24: -1547464989341737209
+      Calf_Eat_25: 8148322430693106645
+      Calf_Eat_26: -8003597688362171582
+      Calf_Eat_27: -1622315131883164549
+      Calf_Eat_28: -8407841254561317854
+      Calf_Eat_29: 8917484175839644949
+      Calf_Eat_3: 8682180187518677979
+      Calf_Eat_30: 755949834019526277
+      Calf_Eat_31: -9040372773212603877
+      Calf_Eat_32: -1143575574731538324
+      Calf_Eat_33: -5739958605550962532
+      Calf_Eat_34: 323942245824571349
+      Calf_Eat_35: -5850777335120273322
+      Calf_Eat_36: 4748282222522922556
+      Calf_Eat_37: -4655392755937388335
+      Calf_Eat_38: 6557918238281887097
+      Calf_Eat_39: -4900472422757598125
+      Calf_Eat_4: -5183073880502244438
+      Calf_Eat_40: 8731269209095776788
+      Calf_Eat_41: -3806534343775245702
+      Calf_Eat_42: -3038262190390469000
+      Calf_Eat_43: 3867123533023826640
+      Calf_Eat_44: -4712724206166184525
+      Calf_Eat_45: -597107176808319122
+      Calf_Eat_46: -6297906471298525054
+      Calf_Eat_47: 855304263645246963
+      Calf_Eat_48: -551325340663136931
+      Calf_Eat_49: 1371893965069292383
+      Calf_Eat_5: 866949119244540754
+      Calf_Eat_50: 6122921779212454198
+      Calf_Eat_51: 3348796645920594888
+      Calf_Eat_52: 7261607966461475531
+      Calf_Eat_53: -3090273881981532466
+      Calf_Eat_54: 635236203731415138
+      Calf_Eat_55: -1348137101396089499
+      Calf_Eat_56: 3703244137919657157
+      Calf_Eat_57: -8730810441717786484
+      Calf_Eat_58: 5747795446663553010
+      Calf_Eat_59: -8652295630358933818
+      Calf_Eat_6: -9042132490726803671
+      Calf_Eat_60: -1351844152384288052
+      Calf_Eat_61: 1428549122127871418
+      Calf_Eat_62: -3134194821448029119
+      Calf_Eat_63: 8659123645262420382
+      Calf_Eat_7: 4734326918835607403
+      Calf_Eat_8: -4891728593476423038
+      Calf_Eat_9: 294329559985772733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
