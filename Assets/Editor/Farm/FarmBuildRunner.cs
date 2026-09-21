@@ -103,6 +103,9 @@ namespace Farm.EditorTools
 
                 switch (report.operation)
                 {
+                    case "bunny":
+                        FarmPlayerBuilder.ReplaceSkin();
+                        break;
                     case "sorting":
                         FarmSortingEditor.Apply();
                         break;

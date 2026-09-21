@@ -110,6 +110,10 @@ namespace Farm.EditorTools
             try
             {
                 Assert(animator.GetCurrentAnimatorStateInfo(0).IsName(States[stage]), "Animation " + States[stage]);
+                var sprite = player.GetComponent<SpriteRenderer>().sprite;
+                string action = States[stage].StartsWith("Run", StringComparison.Ordinal) ? "Run" : "Idle";
+                Assert(sprite != null && AssetDatabase.GetAssetPath(sprite) == "Assets/Farm/Player/Sprites/Bunny_" + action + ".png",
+                    "Bunny sprites used for " + action);
                 Assert(player.GetComponent<SpriteRenderer>().sortingOrder == 100, "Player order stays 100 during movement");
                 var follow = UnityEngine.Object.FindFirstObjectByType<FarmCameraFollow>();
                 Assert(follow != null && follow.Target == player.transform, "Camera target assigned");

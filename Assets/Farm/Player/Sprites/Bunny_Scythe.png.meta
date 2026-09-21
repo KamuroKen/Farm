@@ -1,0 +1,1193 @@
+fileFormatVersion: 2
+guid: f5ffd484b5e431045b605671fe7f3cbf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8989894132289277677
+    second: Bunny_Scythe_0
+  - first:
+      213: -3218374516654751415
+    second: Bunny_Scythe_1
+  - first:
+      213: 8820930593185243316
+    second: Bunny_Scythe_2
+  - first:
+      213: 588400222155060757
+    second: Bunny_Scythe_3
+  - first:
+      213: -304528838332913608
+    second: Bunny_Scythe_4
+  - first:
+      213: -7898670617567208881
+    second: Bunny_Scythe_5
+  - first:
+      213: 1277500718126922610
+    second: Bunny_Scythe_6
+  - first:
+      213: 5848823678874979778
+    second: Bunny_Scythe_7
+  - first:
+      213: -8332028443040933125
+    second: Bunny_Scythe_8
+  - first:
+      213: -8539909014969781120
+    second: Bunny_Scythe_9
+  - first:
+      213: 6286502914150119834
+    second: Bunny_Scythe_10
+  - first:
+      213: -4174520517227281885
+    second: Bunny_Scythe_11
+  - first:
+      213: -2410320066050004884
+    second: Bunny_Scythe_12
+  - first:
+      213: -7400724135134232065
+    second: Bunny_Scythe_13
+  - first:
+      213: 5872962532552087096
+    second: Bunny_Scythe_14
+  - first:
+      213: 3126900903998872765
+    second: Bunny_Scythe_15
+  - first:
+      213: -7735224925549001730
+    second: Bunny_Scythe_16
+  - first:
+      213: -6583689500702194570
+    second: Bunny_Scythe_17
+  - first:
+      213: -2392416161104140925
+    second: Bunny_Scythe_18
+  - first:
+      213: 644696195153920694
+    second: Bunny_Scythe_19
+  - first:
+      213: 8651160858712384576
+    second: Bunny_Scythe_20
+  - first:
+      213: -4567881345296943707
+    second: Bunny_Scythe_21
+  - first:
+      213: -3459680436253398890
+    second: Bunny_Scythe_22
+  - first:
+      213: 1113698362746676956
+    second: Bunny_Scythe_23
+  - first:
+      213: -1019719026144073608
+    second: Bunny_Scythe_24
+  - first:
+      213: -8986294012196836873
+    second: Bunny_Scythe_25
+  - first:
+      213: -8195169201921229207
+    second: Bunny_Scythe_26
+  - first:
+      213: 8418119260796910124
+    second: Bunny_Scythe_27
+  - first:
+      213: -1971186465812470590
+    second: Bunny_Scythe_28
+  - first:
+      213: 7952309164644897812
+    second: Bunny_Scythe_29
+  - first:
+      213: 4493463020070080747
+    second: Bunny_Scythe_30
+  - first:
+      213: 4491372127991818649
+    second: Bunny_Scythe_31
+  - first:
+      213: 2977878901588027586
+    second: Bunny_Scythe_32
+  - first:
+      213: -4665473999841383498
+    second: Bunny_Scythe_33
+  - first:
+      213: 140953966842146644
+    second: Bunny_Scythe_34
+  - first:
+      213: -8643161002748234405
+    second: Bunny_Scythe_35
+  - first:
+      213: 7123297595710756687
+    second: Bunny_Scythe_36
+  - first:
+      213: 7980022504860836361
+    second: Bunny_Scythe_37
+  - first:
+      213: 7258523798792370134
+    second: Bunny_Scythe_38
+  - first:
+      213: -4051691594941184039
+    second: Bunny_Scythe_39
+  - first:
+      213: -4521897713610415350
+    second: Bunny_Scythe_40
+  - first:
+      213: -1816519280940453916
+    second: Bunny_Scythe_41
+  - first:
+      213: -7273324657845043466
+    second: Bunny_Scythe_42
+  - first:
+      213: 3527368464846019670
+    second: Bunny_Scythe_43
+  - first:
+      213: -2574156525332509358
+    second: Bunny_Scythe_44
+  - first:
+      213: 6794562369581809009
+    second: Bunny_Scythe_45
+  - first:
+      213: 5346987997608304163
+    second: Bunny_Scythe_46
+  - first:
+      213: 8267148492553004496
+    second: Bunny_Scythe_47
+  - first:
+      213: -5522529318680141169
+    second: Bunny_Scythe_48
+  - first:
+      213: -2388907874433916373
+    second: Bunny_Scythe_49
+  - first:
+      213: 660188859580655894
+    second: Bunny_Scythe_50
+  - first:
+      213: 5632452416368144864
+    second: Bunny_Scythe_51
+  - first:
+      213: -507159062895297065
+    second: Bunny_Scythe_52
+  - first:
+      213: 8827845943914164508
+    second: Bunny_Scythe_53
+  - first:
+      213: 1292742509671966086
+    second: Bunny_Scythe_54
+  - first:
+      213: 8282809296476194170
+    second: Bunny_Scythe_55
+  - first:
+      213: 4275406022612925849
+    second: Bunny_Scythe_56
+  - first:
+      213: 6017924601078058392
+    second: Bunny_Scythe_57
+  - first:
+      213: -4872139435548022844
+    second: Bunny_Scythe_58
+  - first:
+      213: -27022469285716607
+    second: Bunny_Scythe_59
+  - first:
+      213: 6713957360403973686
+    second: Bunny_Scythe_60
+  - first:
+      213: 5501284112570128289
+    second: Bunny_Scythe_61
+  - first:
+      213: -2481817286064481389
+    second: Bunny_Scythe_62
+  - first:
+      213: 5531529040680075055
+    second: Bunny_Scythe_63
+  - first:
+      213: 735932071721095249
+    second: Bunny_Scythe_64
+  - first:
+      213: 1186044206767015009
+    second: Bunny_Scythe_65
+  - first:
+      213: -7318656430094573404
+    second: Bunny_Scythe_66
+  - first:
+      213: 5629906440183304487
+    second: Bunny_Scythe_67
+  - first:
+      213: -7153817113455036677
+    second: Bunny_Scythe_68
+  - first:
+      213: 105495415690877883
+    second: Bunny_Scythe_69
+  - first:
+      213: 5395030672685017303
+    second: Bunny_Scythe_70
+  - first:
+      213: -838528484425151566
+    second: Bunny_Scythe_71
+  - first:
+      213: -8164189435914140253
+    second: Bunny_Scythe_72
+  - first:
+      213: 4814443652630080837
+    second: Bunny_Scythe_73
+  - first:
+      213: 4253435953943645260
+    second: Bunny_Scythe_74
+  - first:
+      213: 7050336088213112284
+    second: Bunny_Scythe_75
+  - first:
+      213: -6335592774613364529
+    second: Bunny_Scythe_76
+  - first:
+      213: -7050597485793590382
+    second: Bunny_Scythe_77
+  - first:
+      213: 716238730531115801
+    second: Bunny_Scythe_78
+  - first:
+      213: 2454163743709758537
+    second: Bunny_Scythe_79
+  - first:
+      213: -1050164828147371694
+    second: Bunny_Scythe_80
+  - first:
+      213: -7277650989088291446
+    second: Bunny_Scythe_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scythe_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a1600266fd9b54d93f734a9d929a0b
+      internalID: 2143963381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_0_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff01eebaa201aa4fa9199841f9c6152
+      internalID: -1804621424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_0_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41370f50177b9794a96bd342f1e90eab
+      internalID: 1521880688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_0_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f2e59ba5f75d845af7e09ff2133222
+      internalID: 491297172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_0_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f7485001a3f54286cdd8f1c9c3bf9
+      internalID: 1052889799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_0_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf53fdfb13ce2b849b3948aa9f255842
+      internalID: -177558119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_0_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1c51af9baf0cd47a44cffff09a3b9d
+      internalID: 2082656148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_0_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3cc066cae9f975459787c16c3dd22ef
+      internalID: 1279395701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_0_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b491836e4d4da48a32cbf7466ae22a
+      internalID: 163146090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6733a383b6eedb843962e8a5650ba63e
+      internalID: 48005580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f090156422034ae46a0af0d24b02b83c
+      internalID: -2081655685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_1_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd93a5c0f7c887439ad7b02eabfa239
+      internalID: 1994526630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_1_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c612adbf19caaca4fb2d853e38ba88ee
+      internalID: -1342533827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_1_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac675a0b1d1c134eb65088379649872
+      internalID: 985931738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_1_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b84e2e4ce94a1b48b8f8d4d30498093
+      internalID: 2135787736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_1_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0a1503024531a48b184f5eaadf90fa
+      internalID: -1826044711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_1_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a515dc004a046544dadd1d49773623b0
+      internalID: 1474152448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_1_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c8c0cf21323a46b881a9bea6997e9
+      internalID: -1777600361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb5eb64e11294d44bb87385888fd91f
+      internalID: -1714032377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_2_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeed7687ff2f5645b368e285741c85d
+      internalID: -1871802856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_2_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711286ae0e8cc92448d317eaec72e4c2
+      internalID: -80236543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_2_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40a574619691c046af9c3e8806ae415
+      internalID: -1442256885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_2_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e2e5fee16b1e442a36ed4d2f2b4594
+      internalID: -1699669996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_2_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceca5ad92dc0b3444ab6c9a116912ddd
+      internalID: -1771256021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_2_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e37697635e5f746b9bc58aa6987d4b
+      internalID: -2139698535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_2_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be630cd713277e447996acbda1f29c63
+      internalID: 1788048007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_2_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8760501a1bf8c714784d086fa0ebbe59
+      internalID: -117887648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44787a6226e6b14584488f3caa00c08
+      internalID: -319888720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_3_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710288bb9e2f0044aaf461758d2495ca
+      internalID: -646319384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_3_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc83163e15eae2a47b503d6b9dac2951
+      internalID: 820696799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_3_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6af81c3f3f5064fb48e9b1399d1f4a
+      internalID: -1189216036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_3_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e671e89bbedbccf4e849e88a8bedcf6c
+      internalID: 2112463187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_3_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db130f196a4b2974090fa853aacc8840
+      internalID: 1495955053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_3_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecf94d838555434ca203a0a6b0c4f84
+      internalID: 765013477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_3_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725c6e5d01625b749a496465888b544e
+      internalID: 557122566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scythe_3_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de33c806566184f4abde7fb6a0ab58b8
+      internalID: -1427716476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: be04f2c4bb7124746852435317a3db3d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Scythe_0_0: 2143963381
+      Scythe_0_1: -1804621424
+      Scythe_0_2: 1521880688
+      Scythe_0_3: 491297172
+      Scythe_0_4: 1052889799
+      Scythe_0_5: -177558119
+      Scythe_0_6: 2082656148
+      Scythe_0_7: 1279395701
+      Scythe_0_8: 163146090
+      Scythe_1_0: 48005580
+      Scythe_1_1: -2081655685
+      Scythe_1_2: 1994526630
+      Scythe_1_3: -1342533827
+      Scythe_1_4: 985931738
+      Scythe_1_5: 2135787736
+      Scythe_1_6: -1826044711
+      Scythe_1_7: 1474152448
+      Scythe_1_8: -1777600361
+      Scythe_2_0: -1714032377
+      Scythe_2_1: -1871802856
+      Scythe_2_2: -80236543
+      Scythe_2_3: -1442256885
+      Scythe_2_4: -1699669996
+      Scythe_2_5: -1771256021
+      Scythe_2_6: -2139698535
+      Scythe_2_7: 1788048007
+      Scythe_2_8: -117887648
+      Scythe_3_0: -319888720
+      Scythe_3_1: -646319384
+      Scythe_3_2: 820696799
+      Scythe_3_3: -1189216036
+      Scythe_3_4: 2112463187
+      Scythe_3_5: 1495955053
+      Scythe_3_6: 765013477
+      Scythe_3_7: 557122566
+      Scythe_3_8: -1427716476
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

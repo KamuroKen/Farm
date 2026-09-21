@@ -12,6 +12,7 @@
     {"name": "01 Grass and water", "order": 0},
     {"name": "02 Shoreline", "order": 5},
     {"name": "03 Earthen paths", "order": 10},
-    {"name": "04 Cultivated soil", "order": 15}
+    {"name": "04 Cultivated soil", "order": 15},
+    {"name": "05 Player plots", "order": 15}
   ]
 }

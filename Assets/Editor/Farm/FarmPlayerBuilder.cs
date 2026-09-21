@@ -62,7 +62,7 @@ namespace Farm.EditorTools
             var player = roots.SelectMany(root => root.GetComponentsInChildren<FarmPlayerController>(true)).FirstOrDefault();
             if (player == null)
             {
-                var go = new GameObject("Player - Base Character");
+                var go = new GameObject("Player - Bunny");
                 SceneManager.MoveGameObjectToScene(go, scene);
                 Undo.RegisterCreatedObjectUndo(go, "Create farm player");
                 go.tag = "Player";
@@ -95,6 +95,8 @@ namespace Farm.EditorTools
                 player = go.AddComponent<FarmPlayerController>();
             }
 
+            ApplyBunnySkin(player, controller, idle, run);
+
             var camera = roots.SelectMany(root => root.GetComponentsInChildren<Camera>(true))
                 .FirstOrDefault(c => c.name == "Farm Camera");
             if (camera == null) throw new InvalidOperationException("Farm Camera was not found.");
@@ -115,10 +117,46 @@ namespace Farm.EditorTools
             Debug.Log("Farm player ready: WASD, eight directional Idle/Run clips, follow camera.");
         }
 
+        [MenuItem("Tools/Farm/Replace Player Skin With Bunny")]
+        public static void ReplaceSkin()
+        {
+            if (EditorApplication.isPlayingOrWillChangePlaymode)
+                throw new InvalidOperationException("Leave Play mode before replacing the player skin.");
+            Scene scene = SceneManager.GetSceneByPath("Assets/Scenes/FarmLevel.unity");
+            if (!scene.IsValid() || !scene.isLoaded)
+                scene = EditorSceneManager.OpenScene("Assets/Scenes/FarmLevel.unity", OpenSceneMode.Additive);
+            var player = scene.GetRootGameObjects()
+                .SelectMany(root => root.GetComponentsInChildren<FarmPlayerController>(true)).Single();
+            var controller = AssetDatabase.LoadAssetAtPath<AnimatorController>(Folder + "/BaseCharacter.controller");
+            if (controller == null) throw new InvalidOperationException("Set up the player first.");
+            ApplyBunnySkin(player, controller, ImportSheet("Idle", 5), ImportSheet("Run", 8));
+            PrefabUtility.SaveAsPrefabAsset(player.gameObject, Folder + "/BaseCharacterPlayer.prefab");
+            AssetDatabase.SaveAssets();
+            EditorSceneManager.MarkSceneDirty(scene);
+            if (!EditorSceneManager.SaveScene(scene)) throw new IOException("Could not save the Bunny player scene.");
+            Debug.Log("Bunny skin ready: directional Idle/Run animations connected to WASD.");
+        }
+
+        private static void ApplyBunnySkin(FarmPlayerController player, AnimatorController controller, Sprite[] idle, Sprite[] run)
+        {
+            for (int direction = 0; direction < 4; direction++)
+            for (int moving = 0; moving < 2; moving++)
+            {
+                string name = (moving == 1 ? "Run" : "Idle") + Directions[direction];
+                var state = controller.layers[0].stateMachine.states.Single(s => s.state.name == name).state;
+                state.motion = CreateClip(name, moving == 1 ? run : idle, Rows[direction], moving == 1 ? 8 : 5, moving == 1 ? 10 : 6);
+                EditorUtility.SetDirty(state);
+            }
+            player.gameObject.name = "Player - Bunny";
+            player.GetComponent<SpriteRenderer>().sprite = idle[Rows[0] * 5];
+            player.GetComponent<Animator>().runtimeAnimatorController = controller;
+            EditorUtility.SetDirty(controller);
+        }
+
         private static Sprite[] ImportSheet(string action, int columns)
         {
-            string path = Folder + "/Sprites/Base_" + action + ".png";
-            File.Copy("Assets/Sprites/Characters/BASE CHARACTER/Base_" + action + ".png", path, true);
+            string path = Folder + "/Sprites/Bunny_" + action + ".png";
+            File.Copy("Assets/Sprites/Characters/BUNNY/" + action.ToUpperInvariant() + "/Bunny_" + action + ".png", path, true);
             AssetDatabase.ImportAsset(path, ImportAssetOptions.ForceSynchronousImport);
             var importer = (TextureImporter)AssetImporter.GetAtPath(path);
             importer.textureType = TextureImporterType.Sprite;

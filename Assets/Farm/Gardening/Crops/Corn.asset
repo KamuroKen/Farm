@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79721d1ac183fe0459f7260ff5cf8dd9, type: 3}
+  m_Name: Corn
+  m_EditorClassIdentifier: Assembly-CSharp::Farm.FarmCropDefinition
+  displayName: Corn
+  seedPacket: {fileID: 843287803, guid: df19429bd06accd4493b2858d2f15d31, type: 3}
+  stages:
+  - {fileID: 1426992133, guid: df19429bd06accd4493b2858d2f15d31, type: 3}
+  - {fileID: 1047921926, guid: df19429bd06accd4493b2858d2f15d31, type: 3}
+  - {fileID: 1080461055, guid: df19429bd06accd4493b2858d2f15d31, type: 3}
+  - {fileID: -1240171260, guid: df19429bd06accd4493b2858d2f15d31, type: 3}
+  growthSeconds: 15
+  harvestAmount: 1
