@@ -30,7 +30,7 @@ namespace Farm.EditorTools
             foreach (var transition in machine.anyStateTransitions)
                 if (!transition.conditions.Any(c => c.parameter == "Working")) transition.AddCondition(AnimatorConditionMode.IfNot, 0, "Working");
             string[] directions = { "Down", "Left", "Right", "Up" };
-            int[] rows = { 2, 3, 1, 0 };
+            int[] rows = { 3, 2, 1, 0 };
             foreach (string action in new[]{"Scythe", "WateringCan"})
             {
                 var sheet = ImportSheet(action, 9);

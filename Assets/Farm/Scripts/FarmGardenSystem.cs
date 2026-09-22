@@ -55,11 +55,34 @@ namespace Farm
         public IReadOnlyDictionary<Vector3Int, Plot> Plots => plots;
         public int HarvestCount(int crop) => harvestCounts[crop];
         public event Action Changed;
+        public FarmInventory Inventory { get; private set; }
+        public FarmInventoryArt InventoryArt { get; private set; }
+        public FarmInventoryUI InventoryUI { get; set; }
+        public string SeedId(int crop) => "seed."+crops[crop].name.ToLowerInvariant();
+        public string ProduceId(int crop) => "crop."+crops[crop].name.ToLowerInvariant();
+        private void CreateInventory()
+        {
+            Inventory=new FarmInventory();InventoryArt=new FarmInventoryArt();
+            for(int i=0;i<crops.Length;i++)
+            {
+                Inventory.Register(new FarmItem(SeedId(i),crops[i].displayName+" Seeds","Plant in tilled soil. One seed per plot.",crops[i].seedPacket));
+                Inventory.Register(new FarmItem(ProduceId(i),crops[i].displayName,"Fresh produce harvested on your farm.",InventoryArt.HarvestIcon(crops[i].seedPacket)));
+                Inventory.TryAdd(SeedId(i),5);
+            }
+            Sprite Nature(string name) {foreach(var renderer in scenery) if(renderer.gameObject.name==name)return renderer.sprite;return null;}
+            Inventory.Register(new FarmItem("fiber","Fiber","Gathered by cutting grass and clover.",Nature("Grass Tuft")));
+            Inventory.Register(new FarmItem("twig","Twigs","Gathered by clearing bushes.",Nature("Fallen Log")));
+            Inventory.Register(new FarmItem("stone","Stone","Gathered by clearing small rocks and pebbles.",Nature("Rock Blue Small")));
+            Inventory.Register(new FarmItem("mushroom","Mushrooms","Gathered in the wild.",Nature("Mushrooms")));
+            Inventory.Register(new FarmItem("flower","Flowers","Gathered by clearing wild flowers.",Nature("Flowers Pink")));
+        }
 
         private void Awake()
         {
+            FarmClearable.Register(environment);
             scenery = environment.GetComponentsInChildren<SpriteRenderer>(true);
             harvestCounts = new int[crops.Length];
+            CreateInventory();
             preview = MakeSprite("Placement preview", cursorSprite, 90);
             preview.enabled = false;
             ui = GetComponent<FarmGardenUI>();
@@ -98,13 +121,20 @@ namespace Farm
         {
             AdvanceGrowth(Time.deltaTime);
             var keyboard = Keyboard.current;
+            if (keyboard != null && keyboard.iKey.wasPressedThisFrame && InventoryUI != null) { InventoryUI.Toggle(); return; }
+            if (InventoryUI != null && InventoryUI.IsOpen)
+            {
+                preview.enabled=false;
+                if(keyboard != null && keyboard.escapeKey.wasPressedThisFrame) InventoryUI.Close();
+                return;
+            }
             if (keyboard != null && keyboard.bKey.wasPressedThisFrame) ToggleBuild();
             var mouse = Mouse.current;
             if ((keyboard != null && keyboard.escapeKey.wasPressedThisFrame) || (mouse != null && mouse.rightButton.wasPressedThisFrame))
             { CancelApproach(); SelectTool(GardenTool.None); ui.CloseMenu(); }
             if (mouse == null || worldCamera == null) { preview.enabled = false; return; }
             Vector2 pointer = mouse.position.ReadValue();
-            bool overUI = ui != null && ui.ContainsPointer(pointer);
+            bool overUI = (ui != null && ui.ContainsPointer(pointer)) || (InventoryUI != null && InventoryUI.ContainsPointer(pointer));
             preview.enabled = false;
             HoverText = "";
             if (overUI || !worldCamera.pixelRect.Contains(pointer)) return;
@@ -124,13 +154,18 @@ namespace Farm
             else if (mouse.leftButton.wasPressedThisFrame)
             {
                 if (plots.ContainsKey(HoverCell)) ui.OpenMenu(HoverCell);
-                else ui.CloseMenu();
+                else
+                {
+                    var nature = FarmClearable.Pick(environment, world);
+                    if (nature != null) ui.OpenClearMenu(nature); else ui.CloseMenu();
+                }
             }
             if (Time.unscaledTime > feedbackUntil) Feedback = "";
         }
 
         public void ToggleBuild()
         {
+            if(InventoryUI != null && InventoryUI.IsOpen) return;
             CancelApproach();
             ui.CloseMenu();
             SelectTool(Tool == GardenTool.Place ? GardenTool.None : GardenTool.Place);
@@ -167,6 +202,7 @@ namespace Farm
                 case GardenTool.Harvest:
                     if (plot.crop < 0) { reason = "Nothing planted yet"; return false; }
                     if (plot.stage < 3) { reason = "Not ready to harvest"; return false; }
+                    if (!Inventory.CanAdd(new Dictionary<string,int>{{ProduceId(plot.crop),crops[plot.crop].harvestAmount}})) { reason="Inventory full"; return false; }
                     break;
             }
             return true;
@@ -205,6 +241,7 @@ namespace Farm
         public bool TryAct(GardenTool tool, Vector3Int cell)
         {
             if (!CanAct(tool, cell, out string reason)) { SetFeedback(reason); return false; }
+            if (tool == GardenTool.Plant && Inventory.Count(SeedId(SelectedCrop)) == 0) { SetFeedback("No seeds"); return false; }
             CancelApproach();
             if (tool != GardenTool.Place && !pathfinder.CanWorkFrom(player.position, CellCenter(cell)))
             {
@@ -225,6 +262,46 @@ namespace Farm
                 return true;
             }
             return ExecuteAction(tool, cell);
+        }
+
+        public bool TryClear(FarmClearable target)
+        {
+            if (IsBusy || target == null || !target.Available) return false;
+            var loot = target.Loot(this);
+            if(!Inventory.CanAdd(loot)) {SetFeedback("Inventory full");return false;}
+            CancelApproach();
+            var navigation = new FarmPlotPathfinder(ground, player, target.transform, target.WorkingDistance);
+            Vector2 center = target.Center;
+            int version = commandVersion;
+            void ClearWhenReady()
+            {
+                if (version != commandVersion || target == null || !target.Available || !isActiveAndEnabled) return;
+                if (!navigation.CanWorkFrom(player.position, center)) { SetFeedback("Can't reach this object"); return; }
+                if(!Inventory.CanAdd(loot)) {SetFeedback("Inventory full");return;}
+                IsBusy = true;
+                bool started = worker.BeginWork("Scythe", center, complete => {
+                    IsBusy = false;
+                    if (complete && isActiveAndEnabled && target != null && target.Available && navigation.CanWorkFrom(player.position, center))
+                    {
+                        if(!Inventory.TryAdd(loot)) {SetFeedback("Inventory full");return;}
+                        target.gameObject.SetActive(false);
+                        Physics2D.SyncTransforms();
+                        var earned=new List<string>();foreach(var pair in loot) earned.Add("+"+pair.Value+" "+Inventory.Item(pair.Key).Name);
+                        SetFeedback(string.Join(" • ",earned));
+                    }
+                    Changed?.Invoke();
+                });
+                if (!started) { IsBusy = false; SetFeedback("Action animation unavailable"); }
+                else SetFeedback("Clearing...");
+            }
+            if (navigation.CanWorkFrom(player.position, center)) { ClearWhenReady(); return IsBusy; }
+            if (!navigation.Find(player.position, center, out var route)) { SetFeedback("Can't reach this object"); return false; }
+            worker.WalkToPlot(route, navigation.ClearSegment, reached => {
+                if (version != commandVersion) return;
+                if (reached) ClearWhenReady(); else SetFeedback("Command cancelled or path blocked");
+            });
+            SetFeedback("Walking to clear...");
+            return true;
         }
 
         public void CancelApproach()
@@ -268,6 +345,7 @@ namespace Farm
                     SetFeedback("Soil ready for planting");
                     break;
                 case GardenTool.Plant:
+                    if(!Inventory.TryRemove(SeedId(SelectedCrop),1)) {SetFeedback("No seeds");return false;}
                     plot.crop = SelectedCrop; plot.growth = 0; plot.stage = 0;
                     if (plot.plantRenderer == null) plot.plantRenderer = MakeSprite("Crop " + cell, null, 25);
                     plot.plantRenderer.transform.position = CellCenter(cell);
@@ -285,6 +363,7 @@ namespace Farm
                     break;
                 case GardenTool.Harvest:
                     int index = plot.crop;
+                    if(!Inventory.TryAdd(ProduceId(index),crops[index].harvestAmount)) {SetFeedback("Inventory full");return false;}
                     harvestCounts[index] += crops[index].harvestAmount;
                     plot.crop = -1; plot.growth = 0; plot.stage = 0; plot.watered = false;
                     plot.plantRenderer.enabled = false;
@@ -329,6 +408,8 @@ namespace Farm
             feedbackUntil = Time.unscaledTime + 3;
             Changed?.Invoke();
         }
+
+        private void OnDestroy() { InventoryArt?.Dispose(); }
 
         private void OnDisable() { CancelApproach(); if (worker != null && IsBusy) worker.CancelWork(); IsBusy = false; if (preview != null) preview.enabled = false; }
     }

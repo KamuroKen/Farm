@@ -54,6 +54,8 @@ namespace Farm.EditorTools
                         var finder=new FarmPlotPathfinder(garden.ground,garden.player);
                         Check(finder.Find(start,garden.CellCenter(cell),out var route),"Find route around wall");
                         Check(route.Any(p=>Mathf.Abs(p.x-start.x)>1),"Route detours around wall");
+                        Check(finder.CanWorkFrom(route.Last(), garden.CellCenter(cell)),"Route ends at exact working side");
+                        Check(!finder.CanWorkFrom((Vector2)garden.CellCenter(cell)+new Vector2(.8f,.8f),garden.CellCenter(cell)),"Diagonal working position rejected");
                         Check(garden.CanAct(GardenTool.Till,cell,out _),"Distant action enabled");
                         Check(garden.TryAct(GardenTool.Till,cell) && garden.IsApproaching,"Command starts walking");
                         Check(!garden.Plots[cell].tilled,"No premature action");
@@ -61,7 +63,7 @@ namespace Farm.EditorTools
                     case 1:
                         if(garden.IsApproaching || garden.IsBusy) return;
                         Check(garden.Plots[cell].tilled,"Walk then animate then till");
-                        Check(Vector2.Distance(garden.player.position,garden.CellCenter(cell))<=1.35f,"Stops within working range");
+                        Check(new FarmPlotPathfinder(garden.ground,garden.player).CanWorkFrom(garden.player.position,garden.CellCenter(cell)),"Stops aligned with working side");
                         Move(start); garden.SelectCrop(2); Check(garden.TryAct(GardenTool.Plant,cell),"Queue planting");
                         garden.SelectCrop(4);
                         break;

@@ -14,7 +14,7 @@ namespace Farm.EditorTools
     {
         private const string Folder = "Assets/Farm/Player";
         private static readonly string[] Directions = { "Down", "Left", "Right", "Up" };
-        private static readonly int[] Rows = { 2, 3, 1, 0 };
+        private static readonly int[] Rows = { 3, 2, 1, 0 };
 
         [MenuItem("Tools/Farm/Set Up Player")]
         public static void Build()
