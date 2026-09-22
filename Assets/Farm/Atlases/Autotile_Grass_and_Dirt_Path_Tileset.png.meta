@@ -719,7 +719,7 @@ TextureImporter:
       name: shore_176_152
       rect:
         serializedVersion: 2
-        x: 176
+        x: 160
         y: 16
         width: 8
         height: 8
@@ -741,7 +741,7 @@ TextureImporter:
       name: shore_184_152
       rect:
         serializedVersion: 2
-        x: 184
+        x: 168
         y: 16
         width: 8
         height: 8
@@ -1067,6 +1067,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Autotile_Grass_and_Dirt_Path_Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a5045990f9e4a24b938a29f29de0b3
+      internalID: -1759020334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -1081,6 +1103,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
+      Autotile_Grass_and_Dirt_Path_Tileset_0: -1759020334
       ground_grass: 490346631
       ground_water: -1034430232
       path_240_16: -800873725

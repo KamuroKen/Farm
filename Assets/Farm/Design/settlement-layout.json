@@ -1,0 +1,2685 @@
+{
+  "buildings": [
+    {
+      "name": "Yellow Cottage",
+      "bottom": 6.25,
+      "parts": [
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": -3.75,
+          "y": 9.0,
+          "order": 0
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": -2.75,
+          "y": 9.0,
+          "order": 1
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": -1.75,
+          "y": 9.0,
+          "order": 2
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": -0.75,
+          "y": 9.0,
+          "order": 3
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": 0.25,
+          "y": 9.0,
+          "order": 4
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_8_16",
+          "x": 1.25,
+          "y": 9.0,
+          "order": 5
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": -3.75,
+          "y": 8.0,
+          "order": 6
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": -2.75,
+          "y": 8.0,
+          "order": 7
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": -1.75,
+          "y": 8.0,
+          "order": 8
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": -0.75,
+          "y": 8.0,
+          "order": 9
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": 0.25,
+          "y": 8.0,
+          "order": 10
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_8_16",
+          "x": 1.25,
+          "y": 8.0,
+          "order": 11
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_4",
+          "x": -3.75,
+          "y": 7.75,
+          "order": 12
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_4",
+          "x": -2.75,
+          "y": 7.75,
+          "order": 13
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_4",
+          "x": -1.75,
+          "y": 7.75,
+          "order": 14
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_4",
+          "x": -0.75,
+          "y": 7.75,
+          "order": 15
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_4",
+          "x": 0.25,
+          "y": 7.75,
+          "order": 16
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_8_4",
+          "x": 1.25,
+          "y": 7.75,
+          "order": 17
+        },
+        {
+          "name": "Left facade post",
+          "sprite": "cottage_1000_48_4_16",
+          "x": -3.875,
+          "y": 9.0,
+          "order": 18
+        },
+        {
+          "name": "Left facade post",
+          "sprite": "cottage_1000_48_4_16",
+          "x": -3.875,
+          "y": 8.0,
+          "order": 19
+        },
+        {
+          "name": "Left facade post",
+          "sprite": "cottage_1000_48_4_4",
+          "x": -3.875,
+          "y": 7.75,
+          "order": 20
+        },
+        {
+          "name": "Right facade post",
+          "sprite": "cottage_1028_48_4_16",
+          "x": 1.625,
+          "y": 9.0,
+          "order": 21
+        },
+        {
+          "name": "Right facade post",
+          "sprite": "cottage_1028_48_4_16",
+          "x": 1.625,
+          "y": 8.0,
+          "order": 22
+        },
+        {
+          "name": "Right facade post",
+          "sprite": "cottage_1028_48_4_4",
+          "x": 1.625,
+          "y": 7.75,
+          "order": 23
+        },
+        {
+          "name": "Roof front shingles",
+          "sprite": "cottage_320_80_16_32",
+          "x": -3.5,
+          "y": 9.75,
+          "order": 24
+        },
+        {
+          "name": "Roof front shingles",
+          "sprite": "cottage_320_80_16_32",
+          "x": -2.5,
+          "y": 9.75,
+          "order": 25
+        },
+        {
+          "name": "Roof front shingles",
+          "sprite": "cottage_320_80_16_32",
+          "x": -1.5,
+          "y": 9.75,
+          "order": 26
+        },
+        {
+          "name": "Roof front shingles",
+          "sprite": "cottage_320_80_16_32",
+          "x": -0.5,
+          "y": 9.75,
+          "order": 27
+        },
+        {
+          "name": "Roof front shingles",
+          "sprite": "cottage_320_80_16_32",
+          "x": 0.5,
+          "y": 9.75,
+          "order": 28
+        },
+        {
+          "name": "Roof left frame",
+          "sprite": "cottage_296_80_8_32",
+          "x": -4.0,
+          "y": 9.75,
+          "order": 29
+        },
+        {
+          "name": "Roof right frame",
+          "sprite": "cottage_304_80_8_32",
+          "x": 1.5,
+          "y": 9.75,
+          "order": 30
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -3.5,
+          "y": 11.625,
+          "order": 31
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -3.25,
+          "y": 11.625,
+          "order": 32
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -3.0,
+          "y": 11.625,
+          "order": 33
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -2.75,
+          "y": 11.625,
+          "order": 34
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -2.5,
+          "y": 11.625,
+          "order": 35
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -2.25,
+          "y": 11.625,
+          "order": 36
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -2.0,
+          "y": 11.625,
+          "order": 37
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -1.75,
+          "y": 11.625,
+          "order": 38
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -1.5,
+          "y": 11.625,
+          "order": 39
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -1.25,
+          "y": 11.625,
+          "order": 40
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -1.0,
+          "y": 11.625,
+          "order": 41
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -0.75,
+          "y": 11.625,
+          "order": 42
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -0.5,
+          "y": 11.625,
+          "order": 43
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": -0.25,
+          "y": 11.625,
+          "order": 44
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": 0.0,
+          "y": 11.625,
+          "order": 45
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": 0.25,
+          "y": 11.625,
+          "order": 46
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": 0.5,
+          "y": 11.625,
+          "order": 47
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": 0.75,
+          "y": 11.625,
+          "order": 48
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": 1.0,
+          "y": 11.625,
+          "order": 49
+        },
+        {
+          "name": "Roof ridge highlight",
+          "sprite": "cottage_300_80_4_2",
+          "x": 1.25,
+          "y": 11.625,
+          "order": 50
+        },
+        {
+          "name": "Roof front fascia",
+          "sprite": "cottage_320_108_16_4",
+          "x": -3.5,
+          "y": 9.75,
+          "order": 51
+        },
+        {
+          "name": "Roof front fascia",
+          "sprite": "cottage_320_108_16_4",
+          "x": -2.5,
+          "y": 9.75,
+          "order": 52
+        },
+        {
+          "name": "Roof front fascia",
+          "sprite": "cottage_320_108_16_4",
+          "x": -1.5,
+          "y": 9.75,
+          "order": 53
+        },
+        {
+          "name": "Roof front fascia",
+          "sprite": "cottage_320_108_16_4",
+          "x": -0.5,
+          "y": 9.75,
+          "order": 54
+        },
+        {
+          "name": "Roof front fascia",
+          "sprite": "cottage_320_108_16_4",
+          "x": 0.5,
+          "y": 9.75,
+          "order": 55
+        },
+        {
+          "name": "Window glass",
+          "sprite": "cottage_832_48_16_16",
+          "x": -3.5,
+          "y": 8.3125,
+          "order": 56
+        },
+        {
+          "name": "Window glass",
+          "sprite": "cottage_832_48_16_16",
+          "x": 0.5,
+          "y": 8.3125,
+          "order": 57
+        },
+        {
+          "name": "Flower box",
+          "sprite": "cottage_160_160_16_16",
+          "x": -3.5,
+          "y": 7.5,
+          "order": 58
+        },
+        {
+          "name": "Flower box",
+          "sprite": "cottage_160_160_16_16",
+          "x": 0.5,
+          "y": 7.5,
+          "order": 59
+        },
+        {
+          "name": "Roof dormer left",
+          "sprite": "cottage_528_80_16_16",
+          "x": -3.25,
+          "y": 9.75,
+          "order": 60
+        },
+        {
+          "name": "Roof dormer right",
+          "sprite": "cottage_528_80_16_16",
+          "x": 0.25,
+          "y": 9.75,
+          "order": 61
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": -2.25,
+          "y": 7.25,
+          "order": 62
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_16",
+          "x": -1.25,
+          "y": 7.25,
+          "order": 63
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_8_16",
+          "x": -0.25,
+          "y": 7.25,
+          "order": 64
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_8",
+          "x": -2.25,
+          "y": 6.75,
+          "order": 65
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_16_8",
+          "x": -1.25,
+          "y": 6.75,
+          "order": 66
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "cottage_1008_32_8_8",
+          "x": -0.25,
+          "y": 6.75,
+          "order": 67
+        },
+        {
+          "name": "Left facade post",
+          "sprite": "cottage_1000_48_4_16",
+          "x": -2.375,
+          "y": 7.25,
+          "order": 68
+        },
+        {
+          "name": "Left facade post",
+          "sprite": "cottage_1000_48_4_8",
+          "x": -2.375,
+          "y": 6.75,
+          "order": 69
+        },
+        {
+          "name": "Right facade post",
+          "sprite": "cottage_1028_48_4_16",
+          "x": 0.125,
+          "y": 7.25,
+          "order": 70
+        },
+        {
+          "name": "Right facade post",
+          "sprite": "cottage_1028_48_4_8",
+          "x": 0.125,
+          "y": 6.75,
+          "order": 71
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -2.25,
+          "y": 9.125,
+          "order": 72
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -2.0,
+          "y": 9.125,
+          "order": 73
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.75,
+          "y": 9.125,
+          "order": 74
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.5,
+          "y": 9.125,
+          "order": 75
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.25,
+          "y": 9.125,
+          "order": 76
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.0,
+          "y": 9.125,
+          "order": 77
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.75,
+          "y": 9.125,
+          "order": 78
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.5,
+          "y": 9.125,
+          "order": 79
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.25,
+          "y": 9.125,
+          "order": 80
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": 0.0,
+          "y": 9.125,
+          "order": 81
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -2.25,
+          "y": 8.875,
+          "order": 82
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -2.0,
+          "y": 8.875,
+          "order": 83
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.75,
+          "y": 8.875,
+          "order": 84
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.5,
+          "y": 8.875,
+          "order": 85
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.25,
+          "y": 8.875,
+          "order": 86
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.0,
+          "y": 8.875,
+          "order": 87
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.75,
+          "y": 8.875,
+          "order": 88
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.5,
+          "y": 8.875,
+          "order": 89
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.25,
+          "y": 8.875,
+          "order": 90
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": 0.0,
+          "y": 8.875,
+          "order": 91
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -2.25,
+          "y": 8.625,
+          "order": 92
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -2.0,
+          "y": 8.625,
+          "order": 93
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.75,
+          "y": 8.625,
+          "order": 94
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.5,
+          "y": 8.625,
+          "order": 95
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.25,
+          "y": 8.625,
+          "order": 96
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.0,
+          "y": 8.625,
+          "order": 97
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.75,
+          "y": 8.625,
+          "order": 98
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.5,
+          "y": 8.625,
+          "order": 99
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.25,
+          "y": 8.625,
+          "order": 100
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": 0.0,
+          "y": 8.625,
+          "order": 101
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -2.25,
+          "y": 8.375,
+          "order": 102
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -2.0,
+          "y": 8.375,
+          "order": 103
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.75,
+          "y": 8.375,
+          "order": 104
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.5,
+          "y": 8.375,
+          "order": 105
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.25,
+          "y": 8.375,
+          "order": 106
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -1.0,
+          "y": 8.375,
+          "order": 107
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.75,
+          "y": 8.375,
+          "order": 108
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.5,
+          "y": 8.375,
+          "order": 109
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": -0.25,
+          "y": 8.375,
+          "order": 110
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_4",
+          "x": 0.0,
+          "y": 8.375,
+          "order": 111
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_2",
+          "x": -2.25,
+          "y": 8.25,
+          "order": 112
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_2",
+          "x": -2.0,
+          "y": 8.25,
+          "order": 113
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_2",
+          "x": -1.75,
+          "y": 8.25,
+          "order": 114
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_2",
+          "x": -1.5,
+          "y": 8.25,
+          "order": 115
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_2",
+          "x": -1.25,
+          "y": 8.25,
+          "order": 116
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_2",
+          "x": -1.0,
+          "y": 8.25,
+          "order": 117
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_2",
+          "x": -0.75,
+          "y": 8.25,
+          "order": 118
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_2",
+          "x": -0.5,
+          "y": 8.25,
+          "order": 119
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_2",
+          "x": -0.25,
+          "y": 8.25,
+          "order": 120
+        },
+        {
+          "name": "Gable field",
+          "sprite": "cottage_24_24_4_2",
+          "x": 0.0,
+          "y": 8.25,
+          "order": 121
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "cottage_512_16_8_16",
+          "x": -2.5,
+          "y": 9.0,
+          "order": 122
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "cottage_512_48_8_12",
+          "x": -2.5,
+          "y": 8.25,
+          "order": 123
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "cottage_520_16_8_16",
+          "x": -2.0,
+          "y": 9.0,
+          "order": 124
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "cottage_520_48_8_12",
+          "x": -2.0,
+          "y": 8.25,
+          "order": 125
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "cottage_512_16_8_16",
+          "x": -1.5,
+          "y": 9.5,
+          "order": 126
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "cottage_512_48_8_16",
+          "x": -1.5,
+          "y": 8.5,
+          "order": 127
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "cottage_528_16_8_16",
+          "x": -1.0,
+          "y": 9.25,
+          "order": 128
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "cottage_528_48_8_16",
+          "x": -1.0,
+          "y": 8.25,
+          "order": 129
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "cottage_536_16_8_16",
+          "x": -0.5,
+          "y": 9.25,
+          "order": 130
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "cottage_536_48_8_16",
+          "x": -0.5,
+          "y": 8.25,
+          "order": 131
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "cottage_528_16_8_16",
+          "x": 0.0,
+          "y": 8.75,
+          "order": 132
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "cottage_528_48_8_8",
+          "x": 0.0,
+          "y": 8.25,
+          "order": 133
+        },
+        {
+          "name": "Window loft",
+          "sprite": "cottage_832_16_16_16",
+          "x": -1.5,
+          "y": 8.0625,
+          "order": 134
+        },
+        {
+          "name": "Front door",
+          "sprite": "cottage_928_64_16_16",
+          "x": -1.5,
+          "y": 7.0,
+          "order": 135
+        },
+        {
+          "name": "Door awning",
+          "sprite": "cottage_864_176_16_8",
+          "x": -1.5,
+          "y": 7.8125,
+          "order": 136
+        },
+        {
+          "name": "Porch threshold",
+          "sprite": "cottage_1008_76_16_4",
+          "x": -1.5,
+          "y": 6.5,
+          "order": 137
+        }
+      ],
+      "colliders": [
+        {
+          "x": -1.0,
+          "y": 8.5625,
+          "w": 5.5,
+          "h": 1.625
+        },
+        {
+          "x": -1.0,
+          "y": 7.3125,
+          "w": 2.5,
+          "h": 1.125
+        }
+      ]
+    },
+    {
+      "name": "Red Barn",
+      "bottom": -9.5,
+      "parts": [
+        {
+          "name": "Facade siding",
+          "sprite": "barn_704_32_16_16",
+          "x": -17.75,
+          "y": -9.0,
+          "order": 0
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "barn_704_32_16_16",
+          "x": -16.75,
+          "y": -9.0,
+          "order": 1
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "barn_704_32_16_16",
+          "x": -15.75,
+          "y": -9.0,
+          "order": 2
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "barn_704_32_8_16",
+          "x": -14.75,
+          "y": -9.0,
+          "order": 3
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "barn_704_32_16_8",
+          "x": -17.75,
+          "y": -9.5,
+          "order": 4
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "barn_704_32_16_8",
+          "x": -16.75,
+          "y": -9.5,
+          "order": 5
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "barn_704_32_16_8",
+          "x": -15.75,
+          "y": -9.5,
+          "order": 6
+        },
+        {
+          "name": "Facade siding",
+          "sprite": "barn_704_32_8_8",
+          "x": -14.75,
+          "y": -9.5,
+          "order": 7
+        },
+        {
+          "name": "Left facade post",
+          "sprite": "barn_696_80_4_16",
+          "x": -17.875,
+          "y": -9.0,
+          "order": 8
+        },
+        {
+          "name": "Left facade post",
+          "sprite": "barn_696_80_4_8",
+          "x": -17.875,
+          "y": -9.5,
+          "order": 9
+        },
+        {
+          "name": "Right facade post",
+          "sprite": "barn_724_80_4_16",
+          "x": -14.375,
+          "y": -9.0,
+          "order": 10
+        },
+        {
+          "name": "Right facade post",
+          "sprite": "barn_724_80_4_8",
+          "x": -14.375,
+          "y": -9.5,
+          "order": 11
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.75,
+          "y": -6.875,
+          "order": 12
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.5,
+          "y": -6.875,
+          "order": 13
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.25,
+          "y": -6.875,
+          "order": 14
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.0,
+          "y": -6.875,
+          "order": 15
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.75,
+          "y": -6.875,
+          "order": 16
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.5,
+          "y": -6.875,
+          "order": 17
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.25,
+          "y": -6.875,
+          "order": 18
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.0,
+          "y": -6.875,
+          "order": 19
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.75,
+          "y": -6.875,
+          "order": 20
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.5,
+          "y": -6.875,
+          "order": 21
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.25,
+          "y": -6.875,
+          "order": 22
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.0,
+          "y": -6.875,
+          "order": 23
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -14.75,
+          "y": -6.875,
+          "order": 24
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -14.5,
+          "y": -6.875,
+          "order": 25
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.75,
+          "y": -7.125,
+          "order": 26
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.5,
+          "y": -7.125,
+          "order": 27
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.25,
+          "y": -7.125,
+          "order": 28
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.0,
+          "y": -7.125,
+          "order": 29
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.75,
+          "y": -7.125,
+          "order": 30
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.5,
+          "y": -7.125,
+          "order": 31
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.25,
+          "y": -7.125,
+          "order": 32
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.0,
+          "y": -7.125,
+          "order": 33
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.75,
+          "y": -7.125,
+          "order": 34
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.5,
+          "y": -7.125,
+          "order": 35
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.25,
+          "y": -7.125,
+          "order": 36
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.0,
+          "y": -7.125,
+          "order": 37
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -14.75,
+          "y": -7.125,
+          "order": 38
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -14.5,
+          "y": -7.125,
+          "order": 39
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.75,
+          "y": -7.375,
+          "order": 40
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.5,
+          "y": -7.375,
+          "order": 41
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.25,
+          "y": -7.375,
+          "order": 42
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.0,
+          "y": -7.375,
+          "order": 43
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.75,
+          "y": -7.375,
+          "order": 44
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.5,
+          "y": -7.375,
+          "order": 45
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.25,
+          "y": -7.375,
+          "order": 46
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.0,
+          "y": -7.375,
+          "order": 47
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.75,
+          "y": -7.375,
+          "order": 48
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.5,
+          "y": -7.375,
+          "order": 49
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.25,
+          "y": -7.375,
+          "order": 50
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.0,
+          "y": -7.375,
+          "order": 51
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -14.75,
+          "y": -7.375,
+          "order": 52
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -14.5,
+          "y": -7.375,
+          "order": 53
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.75,
+          "y": -7.625,
+          "order": 54
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.5,
+          "y": -7.625,
+          "order": 55
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.25,
+          "y": -7.625,
+          "order": 56
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.0,
+          "y": -7.625,
+          "order": 57
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.75,
+          "y": -7.625,
+          "order": 58
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.5,
+          "y": -7.625,
+          "order": 59
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.25,
+          "y": -7.625,
+          "order": 60
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.0,
+          "y": -7.625,
+          "order": 61
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.75,
+          "y": -7.625,
+          "order": 62
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.5,
+          "y": -7.625,
+          "order": 63
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.25,
+          "y": -7.625,
+          "order": 64
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.0,
+          "y": -7.625,
+          "order": 65
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -14.75,
+          "y": -7.625,
+          "order": 66
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -14.5,
+          "y": -7.625,
+          "order": 67
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.75,
+          "y": -7.875,
+          "order": 68
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.5,
+          "y": -7.875,
+          "order": 69
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.25,
+          "y": -7.875,
+          "order": 70
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -17.0,
+          "y": -7.875,
+          "order": 71
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.75,
+          "y": -7.875,
+          "order": 72
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.5,
+          "y": -7.875,
+          "order": 73
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.25,
+          "y": -7.875,
+          "order": 74
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -16.0,
+          "y": -7.875,
+          "order": 75
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.75,
+          "y": -7.875,
+          "order": 76
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.5,
+          "y": -7.875,
+          "order": 77
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.25,
+          "y": -7.875,
+          "order": 78
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -15.0,
+          "y": -7.875,
+          "order": 79
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -14.75,
+          "y": -7.875,
+          "order": 80
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_4",
+          "x": -14.5,
+          "y": -7.875,
+          "order": 81
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -17.75,
+          "y": -8.0,
+          "order": 82
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -17.5,
+          "y": -8.0,
+          "order": 83
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -17.25,
+          "y": -8.0,
+          "order": 84
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -17.0,
+          "y": -8.0,
+          "order": 85
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -16.75,
+          "y": -8.0,
+          "order": 86
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -16.5,
+          "y": -8.0,
+          "order": 87
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -16.25,
+          "y": -8.0,
+          "order": 88
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -16.0,
+          "y": -8.0,
+          "order": 89
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -15.75,
+          "y": -8.0,
+          "order": 90
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -15.5,
+          "y": -8.0,
+          "order": 91
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -15.25,
+          "y": -8.0,
+          "order": 92
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -15.0,
+          "y": -8.0,
+          "order": 93
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -14.75,
+          "y": -8.0,
+          "order": 94
+        },
+        {
+          "name": "Gable field",
+          "sprite": "barn_708_32_4_2",
+          "x": -14.5,
+          "y": -8.0,
+          "order": 95
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "barn_224_176_8_16",
+          "x": -18.0,
+          "y": -5.25,
+          "order": 96
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_224_192_8_8",
+          "x": -18.0,
+          "y": -5.75,
+          "order": 97
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_224_192_8_8",
+          "x": -18.0,
+          "y": -6.25,
+          "order": 98
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_224_192_8_8",
+          "x": -18.0,
+          "y": -6.75,
+          "order": 99
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_224_192_8_8",
+          "x": -18.0,
+          "y": -7.25,
+          "order": 100
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "barn_224_224_8_12",
+          "x": -18.0,
+          "y": -8.0,
+          "order": 101
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "barn_232_176_8_16",
+          "x": -17.5,
+          "y": -5.25,
+          "order": 102
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_232_192_8_8",
+          "x": -17.5,
+          "y": -5.75,
+          "order": 103
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_232_192_8_8",
+          "x": -17.5,
+          "y": -6.25,
+          "order": 104
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_232_192_8_8",
+          "x": -17.5,
+          "y": -6.75,
+          "order": 105
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_232_192_8_8",
+          "x": -17.5,
+          "y": -7.25,
+          "order": 106
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "barn_232_224_8_12",
+          "x": -17.5,
+          "y": -8.0,
+          "order": 107
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "barn_224_176_8_16",
+          "x": -17.0,
+          "y": -4.75,
+          "order": 108
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_224_192_8_8",
+          "x": -17.0,
+          "y": -5.25,
+          "order": 109
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_224_192_8_8",
+          "x": -17.0,
+          "y": -5.75,
+          "order": 110
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_224_192_8_8",
+          "x": -17.0,
+          "y": -6.25,
+          "order": 111
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_224_192_8_8",
+          "x": -17.0,
+          "y": -6.75,
+          "order": 112
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "barn_224_224_8_16",
+          "x": -17.0,
+          "y": -7.75,
+          "order": 113
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "barn_232_176_8_16",
+          "x": -16.5,
+          "y": -4.75,
+          "order": 114
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_232_192_8_8",
+          "x": -16.5,
+          "y": -5.25,
+          "order": 115
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_232_192_8_8",
+          "x": -16.5,
+          "y": -5.75,
+          "order": 116
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_232_192_8_8",
+          "x": -16.5,
+          "y": -6.25,
+          "order": 117
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_232_192_8_8",
+          "x": -16.5,
+          "y": -6.75,
+          "order": 118
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "barn_232_224_8_16",
+          "x": -16.5,
+          "y": -7.75,
+          "order": 119
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "barn_240_176_8_16",
+          "x": -16.0,
+          "y": -4.75,
+          "order": 120
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_240_192_8_8",
+          "x": -16.0,
+          "y": -5.25,
+          "order": 121
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_240_192_8_8",
+          "x": -16.0,
+          "y": -5.75,
+          "order": 122
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_240_192_8_8",
+          "x": -16.0,
+          "y": -6.25,
+          "order": 123
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_240_192_8_8",
+          "x": -16.0,
+          "y": -6.75,
+          "order": 124
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "barn_240_224_8_16",
+          "x": -16.0,
+          "y": -7.75,
+          "order": 125
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "barn_248_176_8_16",
+          "x": -15.5,
+          "y": -4.75,
+          "order": 126
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_248_192_8_8",
+          "x": -15.5,
+          "y": -5.25,
+          "order": 127
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_248_192_8_8",
+          "x": -15.5,
+          "y": -5.75,
+          "order": 128
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_248_192_8_8",
+          "x": -15.5,
+          "y": -6.25,
+          "order": 129
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_248_192_8_8",
+          "x": -15.5,
+          "y": -6.75,
+          "order": 130
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "barn_248_224_8_16",
+          "x": -15.5,
+          "y": -7.75,
+          "order": 131
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "barn_240_176_8_16",
+          "x": -15.0,
+          "y": -5.25,
+          "order": 132
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_240_192_8_8",
+          "x": -15.0,
+          "y": -5.75,
+          "order": 133
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_240_192_8_8",
+          "x": -15.0,
+          "y": -6.25,
+          "order": 134
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_240_192_8_8",
+          "x": -15.0,
+          "y": -6.75,
+          "order": 135
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_240_192_8_8",
+          "x": -15.0,
+          "y": -7.25,
+          "order": 136
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "barn_240_224_8_12",
+          "x": -15.0,
+          "y": -8.0,
+          "order": 137
+        },
+        {
+          "name": "Rear roof edge",
+          "sprite": "barn_248_176_8_16",
+          "x": -14.5,
+          "y": -5.25,
+          "order": 138
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_248_192_8_8",
+          "x": -14.5,
+          "y": -5.75,
+          "order": 139
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_248_192_8_8",
+          "x": -14.5,
+          "y": -6.25,
+          "order": 140
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_248_192_8_8",
+          "x": -14.5,
+          "y": -6.75,
+          "order": 141
+        },
+        {
+          "name": "Pitched roof slope",
+          "sprite": "barn_248_192_8_8",
+          "x": -14.5,
+          "y": -7.25,
+          "order": 142
+        },
+        {
+          "name": "Front eave and gable",
+          "sprite": "barn_248_224_8_12",
+          "x": -14.5,
+          "y": -8.0,
+          "order": 143
+        },
+        {
+          "name": "Window loft",
+          "sprite": "barn_832_16_16_16",
+          "x": -16.5,
+          "y": -8.125,
+          "order": 144
+        },
+        {
+          "name": "Stable door upper panel",
+          "sprite": "barn_960_16_16_8",
+          "x": -16.5,
+          "y": -8.3125,
+          "order": 145
+        },
+        {
+          "name": "Stable door lower panel",
+          "sprite": "barn_368_128_16_16",
+          "x": -16.5,
+          "y": -9.3125,
+          "order": 146
+        }
+      ],
+      "colliders": [
+        {
+          "x": -16.0,
+          "y": -8.125,
+          "w": 3.5,
+          "h": 2.25
+        }
+      ]
+    }
+  ],
+  "sprites": [
+    {
+      "name": "cottage_1008_32_16_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1008,
+      "y": 32,
+      "w": 16,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1008_32_8_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1008,
+      "y": 32,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1008_32_16_4",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1008,
+      "y": 32,
+      "w": 16,
+      "h": 4,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1008_32_8_4",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1008,
+      "y": 32,
+      "w": 8,
+      "h": 4,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1000_48_4_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1000,
+      "y": 48,
+      "w": 4,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1000_48_4_4",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1000,
+      "y": 48,
+      "w": 4,
+      "h": 4,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1028_48_4_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1028,
+      "y": 48,
+      "w": 4,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1028_48_4_4",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1028,
+      "y": 48,
+      "w": 4,
+      "h": 4,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_320_80_16_32",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 320,
+      "y": 80,
+      "w": 16,
+      "h": 32,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_296_80_8_32",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 296,
+      "y": 80,
+      "w": 8,
+      "h": 32,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_304_80_8_32",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 304,
+      "y": 80,
+      "w": 8,
+      "h": 32,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_300_80_4_2",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 300,
+      "y": 80,
+      "w": 4,
+      "h": 2,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_320_108_16_4",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 320,
+      "y": 108,
+      "w": 16,
+      "h": 4,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_832_48_16_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 832,
+      "y": 48,
+      "w": 16,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_160_160_16_16",
+      "atlas": "Assets/Tileset/Exterior_Tileset.png",
+      "x": 160,
+      "y": 160,
+      "w": 16,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_528_80_16_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 528,
+      "y": 80,
+      "w": 16,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1008_32_16_8",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1008,
+      "y": 32,
+      "w": 16,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1008_32_8_8",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1008,
+      "y": 32,
+      "w": 8,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1000_48_4_8",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1000,
+      "y": 48,
+      "w": 4,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1028_48_4_8",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1028,
+      "y": 48,
+      "w": 4,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_24_24_4_4",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 24,
+      "y": 24,
+      "w": 4,
+      "h": 4,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_24_24_4_2",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 24,
+      "y": 24,
+      "w": 4,
+      "h": 2,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_512_16_8_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 512,
+      "y": 16,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_512_48_8_12",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 512,
+      "y": 48,
+      "w": 8,
+      "h": 12,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_520_16_8_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 520,
+      "y": 16,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_520_48_8_12",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 520,
+      "y": 48,
+      "w": 8,
+      "h": 12,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_512_48_8_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 512,
+      "y": 48,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_528_16_8_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 528,
+      "y": 16,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_528_48_8_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 528,
+      "y": 48,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_536_16_8_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 536,
+      "y": 16,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_536_48_8_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 536,
+      "y": 48,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_528_48_8_8",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 528,
+      "y": 48,
+      "w": 8,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_832_16_16_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 832,
+      "y": 16,
+      "w": 16,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_928_64_16_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 928,
+      "y": 64,
+      "w": 16,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_864_176_16_8",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 864,
+      "y": 176,
+      "w": 16,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "cottage_1008_76_16_4",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 1008,
+      "y": 76,
+      "w": 16,
+      "h": 4,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_704_32_16_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 704,
+      "y": 32,
+      "w": 16,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_704_32_8_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 704,
+      "y": 32,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_704_32_16_8",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 704,
+      "y": 32,
+      "w": 16,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_704_32_8_8",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 704,
+      "y": 32,
+      "w": 8,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_696_80_4_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 696,
+      "y": 80,
+      "w": 4,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_696_80_4_8",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 696,
+      "y": 80,
+      "w": 4,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_724_80_4_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 724,
+      "y": 80,
+      "w": 4,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_724_80_4_8",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 724,
+      "y": 80,
+      "w": 4,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_708_32_4_4",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 708,
+      "y": 32,
+      "w": 4,
+      "h": 4,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_708_32_4_2",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 708,
+      "y": 32,
+      "w": 4,
+      "h": 2,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_224_176_8_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 224,
+      "y": 176,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_224_192_8_8",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 224,
+      "y": 192,
+      "w": 8,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_224_224_8_12",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 224,
+      "y": 224,
+      "w": 8,
+      "h": 12,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_232_176_8_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 232,
+      "y": 176,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_232_192_8_8",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 232,
+      "y": 192,
+      "w": 8,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_232_224_8_12",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 232,
+      "y": 224,
+      "w": 8,
+      "h": 12,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_224_224_8_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 224,
+      "y": 224,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_232_224_8_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 232,
+      "y": 224,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_240_176_8_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 240,
+      "y": 176,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_240_192_8_8",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 240,
+      "y": 192,
+      "w": 8,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_240_224_8_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 240,
+      "y": 224,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_248_176_8_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 248,
+      "y": 176,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_248_192_8_8",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 248,
+      "y": 192,
+      "w": 8,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_248_224_8_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 248,
+      "y": 224,
+      "w": 8,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_240_224_8_12",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 240,
+      "y": 224,
+      "w": 8,
+      "h": 12,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_248_224_8_12",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 248,
+      "y": 224,
+      "w": 8,
+      "h": 12,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_832_16_16_16",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 832,
+      "y": 16,
+      "w": 16,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_960_16_16_8",
+      "atlas": "Assets/Tileset/House_Tileset.png",
+      "x": 960,
+      "y": 16,
+      "w": 16,
+      "h": 8,
+      "pivotX": 0,
+      "pivotY": 0
+    },
+    {
+      "name": "barn_368_128_16_16",
+      "atlas": "Assets/Tileset/Barn_Tileset.png",
+      "x": 368,
+      "y": 128,
+      "w": 16,
+      "h": 16,
+      "pivotX": 0,
+      "pivotY": 0
+    }
+  ]
+}

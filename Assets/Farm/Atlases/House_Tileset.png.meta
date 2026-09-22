@@ -827,6 +827,776 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: cottage_1008_32_8_16
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 256
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7619f89233d403a91527777674f9e3
+      internalID: 1395856400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1008_32_16_4
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 268
+        width: 16
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b378608854e540d486c71560bab7838
+      internalID: 1917025126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1008_32_8_4
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 268
+        width: 8
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0442541a3924bbbb9ad6687376b77e
+      internalID: -1206390813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1000_48_4_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 240
+        width: 4
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b45a20dd821042688cb954c4ef7f0c3
+      internalID: 1480349139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1000_48_4_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac57c9b35b8e4da0a90fb500f5b2b82
+      internalID: -1058930818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1028_48_4_16
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 240
+        width: 4
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4deb2b2e4522412ebe331f31da4e6a3
+      internalID: -439471851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1028_48_4_4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 252
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16ebe6a13bef4f58adc4ed61451a069
+      internalID: 1273103335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_320_80_16_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e417bfaa6e7934b0ea7d9ed976878ced
+      internalID: -398132223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_296_80_8_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 192
+        width: 8
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83318ed9db8a9402694be72ece8a3e90
+      internalID: -609459545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_304_80_8_32
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 8
+        height: 32
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7321fd7db66b34f0b98d98341675da4f
+      internalID: -1742367202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_300_80_4_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 222
+        width: 4
+        height: 2
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f18b8c86bc8d439e9f214c017981d1c
+      internalID: 326246828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_832_48_16_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 240
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ac840c39309464699810ada728d21c
+      internalID: 433291933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_528_80_16_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 208
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e52aac564ce49769e9b97938614961
+      internalID: 1833800049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1008_32_16_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 264
+        width: 16
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1cbefe35a034da485ff99d7fbc5f9e
+      internalID: 1354043296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1008_32_8_8
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 264
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72121cf641b2400e89759dd78a5cba8
+      internalID: -2040561199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1000_48_4_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 248
+        width: 4
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc25ee88bdb049ecb22d62dca6200d1
+      internalID: -752570579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1028_48_4_8
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 248
+        width: 4
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85a6782a9071480381187f17daa6b62
+      internalID: 1491431780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_24_24_4_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 276
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9d418d7c84d4621bded3b2b99eb9d5
+      internalID: -1901773681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_24_24_4_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 278
+        width: 4
+        height: 2
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f59eb51820394767adc914be3d6232c
+      internalID: -1597909154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_512_16_8_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 272
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6e162fc8de04d9597fd34335d81ce5
+      internalID: 1741219498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_512_48_8_12
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 244
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dc204efd1e94c8b9242019f5e23237
+      internalID: -1326904063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_520_16_8_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 272
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445b06b446d9e4b0da26b33686389618
+      internalID: -1367368271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_520_48_8_12
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 244
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088fc914a617d41aa946f6fd6caad920
+      internalID: -1726159394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_512_48_8_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 240
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39042ee447f90468284698fdf7ed7ce6
+      internalID: -1630484322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_528_16_8_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 272
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf97373d0de844f3e915eb81e2e1f616
+      internalID: -1878485065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_528_48_8_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a320e49e90e10447e8925be27a0563ac
+      internalID: -1228907046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_536_16_8_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 272
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f844a2b5774c4a9f9b3a8c15e3e9e
+      internalID: -1264568172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_536_48_8_16
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 240
+        width: 8
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8675b9d6983ce44f699e4e15d95fc1a7
+      internalID: 599169794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_528_48_8_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 248
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9468bf9aabb14209844e1ad49c11fe1
+      internalID: 1180857423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_832_16_16_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 272
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960ebb0ffb2ff4f52a0770220243e1ed
+      internalID: 367806944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_928_64_16_16
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 224
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9105ccf06c490495490d148312891c8c
+      internalID: 981138742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_864_176_16_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 120
+        width: 16
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed2ed95aeab3483fb0ade42794ea38d
+      internalID: -1947734476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cottage_1008_76_16_4
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 224
+        width: 16
+        height: 4
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0df78df68d9481aaf4994dd6294ce5
+      internalID: -1656455581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_832_16_16_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 272
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556a821bfbb8d4e47b425b96f9d3e3f1
+      internalID: -1744111950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: barn_960_16_16_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 280
+        width: 16
+        height: 8
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a777e51a9c314afda3a82db7a08c3a4
+      internalID: -1644586487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -842,23 +1612,58 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       barn_1000_76_32_8: 726252192
+      barn_832_16_16_16: -1744111950
       barn_912_16_16_16: -1191869929
+      barn_960_16_16_8: -1644586487
+      cottage_1000_48_4_16: 1480349139
+      cottage_1000_48_4_4: -1058930818
+      cottage_1000_48_4_8: -752570579
       cottage_1000_48_8_16: 458103381
       cottage_1000_76_32_8: -861363861
       cottage_1008_32_16_16: 202142241
+      cottage_1008_32_16_4: 1917025126
+      cottage_1008_32_16_8: 1354043296
+      cottage_1008_32_8_16: 1395856400
+      cottage_1008_32_8_4: -1206390813
+      cottage_1008_32_8_8: -2040561199
+      cottage_1008_76_16_4: -1656455581
       cottage_1024_48_8_16: 1652893317
+      cottage_1028_48_4_16: -439471851
+      cottage_1028_48_4_4: 1273103335
+      cottage_1028_48_4_8: 1491431780
+      cottage_24_24_4_2: -1597909154
+      cottage_24_24_4_4: -1901773681
       cottage_288_16_32_32: -2048608797
+      cottage_296_80_8_32: -609459545
       cottage_296_96_3_8: 24870652
+      cottage_300_80_4_2: 326246828
+      cottage_304_80_8_32: -1742367202
       cottage_310_96_3_8: -1345963498
       cottage_320_108_16_4: 1366847626
       cottage_320_80_16_2: -1158054359
+      cottage_320_80_16_32: -398132223
       cottage_320_96_8_8: -388014704
       cottage_464_16_16_16: 1746372353
       cottage_496_16_16_16: 542169671
+      cottage_512_16_8_16: 1741219498
+      cottage_512_48_8_12: -1326904063
+      cottage_512_48_8_16: -1630484322
+      cottage_520_16_8_16: -1367368271
+      cottage_520_48_8_12: -1726159394
       cottage_528_112_16_16: -1671387122
+      cottage_528_16_8_16: -1878485065
+      cottage_528_48_8_16: -1228907046
+      cottage_528_48_8_8: 1180857423
+      cottage_528_80_16_16: 1833800049
+      cottage_536_16_8_16: -1264568172
+      cottage_536_48_8_16: 599169794
+      cottage_832_16_16_16: 367806944
+      cottage_832_48_16_16: 433291933
       cottage_832_80_16_16: 1667101076
       cottage_848_16_16_16: 1552025
+      cottage_864_176_16_8: -1947734476
       cottage_928_32_16_16: 1817341398
+      cottage_928_64_16_16: 981138742
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

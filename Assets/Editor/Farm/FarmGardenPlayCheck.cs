@@ -7,7 +7,6 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.LowLevel;
 using UnityEngine.UI;
-using TMPro;
 
 namespace Farm.EditorTools
 {
@@ -143,7 +142,7 @@ namespace Farm.EditorTools
                         Assert(corners.All(p => p.x >= 0 && p.y >= 0 && p.x <= Screen.width && p.y <= Screen.height), "Radial menu stays on screen near edge");
                         view.transform.position = savedPosition;
                         garden.GetComponent<FarmGardenUI>().CloseMenu();
-                        Assert(!UnityEngine.Object.FindObjectsByType<TMP_Text>(FindObjectsSortMode.None).Any(t => t.text.Any(c => c >= '\u0400' && c <= '\u04ff')), "All visible UI is English");
+                        Assert(!UnityEngine.Object.FindObjectsByType<Text>(FindObjectsSortMode.None).Any(t => t.text.Any(c => c >= '\u0400' && c <= '\u04ff')), "All visible UI is English");
                         Finish(null);
                         return;
                 }

@@ -2,17 +2,133 @@
   "playerOrder": 100,
   "foregroundStart": 200,
   "categories": [
-    {"name": "Ground cover", "order": 20, "sprites": ["grass_tuft", "grass_sparse", "clover_patch", "flowers_white", "flowers_yellow", "flowers_purple", "flowers_pink", "mushrooms", "pebble_pair", "lily_plain", "lily_pink", "lily_white", "reeds_brown", "reeds_green", "reeds_young"]},
-    {"name": "Crops", "order": 25, "sprites": ["crop_cabbage_mature", "crop_carrot_mature", "crop_corn_mature", "crop_pumpkin_sprout", "crop_strawberry_growing", "crop_wheat_mature"]},
-    {"name": "Low props", "order": 30, "sprites": ["barrel_plain", "barrel_water", "bench_wood", "bucket", "crate_closed", "crate_open", "fallen_log", "fallen_log_moss", "flower_box_blue", "flower_box_pink", "flower_box_yellow", "hay_bale", "rock_blue_medium", "rock_blue_small", "seed_bag_cabbage", "seed_bag_carrot", "stump", "trough"]},
-    {"name": "Dock", "order": 18, "sprites": ["dock_horizontal_panel", "dock_vertical_panel"]},
-    {"name": "Foreground", "order": 200, "sprites": ["tree_canopy_cluster", "tree_pine", "tree_pine_cluster", "tree_round", "tree_column", "tree_cypress", "bush_dense", "bush_leafy", "bush_round", "fence_brown_horizontal", "fence_brown_vertical", "fence_rail_horizontal", "fence_rail_vertical", "rocks_blue_large", "rocks_sand_large", "mailbox_blue", "mailbox_red", "notice_board", "sign_arrow_left", "sign_arrow_right", "sign_blank", "well_orange_roof"]}
+    {
+      "name": "Path overlay",
+      "order": 10,
+      "sprites": [
+        "Autotile_Grass_and_Dirt_Path_Tileset_0",
+        "path_256_16",
+        "shore_144_152"
+      ]
+    },
+    {
+      "name": "Ground cover",
+      "order": 20,
+      "sprites": [
+        "grass_tuft",
+        "grass_sparse",
+        "clover_patch",
+        "flowers_white",
+        "flowers_yellow",
+        "flowers_purple",
+        "flowers_pink",
+        "mushrooms",
+        "pebble_pair",
+        "lily_plain",
+        "lily_pink",
+        "lily_white",
+        "reeds_brown",
+        "reeds_green",
+        "reeds_young"
+      ]
+    },
+    {
+      "name": "Crops",
+      "order": 25,
+      "sprites": [
+        "crop_cabbage_mature",
+        "crop_carrot_mature",
+        "crop_corn_mature",
+        "crop_pumpkin_sprout",
+        "crop_strawberry_growing",
+        "crop_wheat_mature"
+      ]
+    },
+    {
+      "name": "Low props",
+      "order": 30,
+      "sprites": [
+        "barrel_plain",
+        "barrel_water",
+        "bench_wood",
+        "bucket",
+        "crate_closed",
+        "crate_open",
+        "fallen_log",
+        "fallen_log_moss",
+        "flower_box_blue",
+        "flower_box_pink",
+        "flower_box_yellow",
+        "hay_bale",
+        "rock_blue_medium",
+        "rock_blue_small",
+        "seed_bag_cabbage",
+        "seed_bag_carrot",
+        "stump",
+        "trough"
+      ]
+    },
+    {
+      "name": "Dock",
+      "order": 18,
+      "sprites": [
+        "dock_horizontal_panel",
+        "dock_vertical_panel"
+      ]
+    },
+    {
+      "name": "Foreground",
+      "order": 200,
+      "sprites": [
+        "tree_canopy_cluster",
+        "tree_pine",
+        "tree_pine_cluster",
+        "tree_round",
+        "tree_column",
+        "tree_cypress",
+        "bush_dense",
+        "bush_leafy",
+        "bush_round",
+        "fence_brown_horizontal",
+        "fence_brown_vertical",
+        "fence_rail_horizontal",
+        "fence_rail_vertical",
+        "rocks_blue_large",
+        "rocks_sand_large",
+        "mailbox_blue",
+        "mailbox_red",
+        "notice_board",
+        "sign_arrow_left",
+        "sign_arrow_right",
+        "sign_blank",
+        "well_orange_roof"
+      ]
+    }
   ],
   "tileLayers": [
-    {"name": "01 Grass and water", "order": 0},
-    {"name": "02 Shoreline", "order": 5},
-    {"name": "03 Earthen paths", "order": 10},
-    {"name": "04 Cultivated soil", "order": 15},
-    {"name": "05 Player plots", "order": 15}
+    {
+      "name": "01 Grass and water",
+      "order": 0
+    },
+    {
+      "name": "02 Shoreline",
+      "order": 5
+    },
+    {
+      "name": "03 Earthen paths",
+      "order": 10
+    },
+    {
+      "name": "04 Cultivated soil",
+      "order": 15
+    },
+    {
+      "name": "05 Player plots",
+      "order": 15
+    },
+    {
+      "name": "06 Planting ground",
+      "order": 12
+    }
   ]
 }

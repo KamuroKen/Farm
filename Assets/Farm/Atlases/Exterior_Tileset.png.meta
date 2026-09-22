@@ -1263,6 +1263,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: cottage_160_160_16_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d4ab176cfe54ecda2c34b39290ed9d
+      internalID: -1476456090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -1282,6 +1304,7 @@ TextureImporter:
       bench_solid: 462983509
       bench_wood: 1135936020
       bucket: 827669720
+      cottage_160_160_16_16: -1476456090
       crate_closed: 886864818
       crate_open: 1508964486
       dock_horizontal_panel: 656303972

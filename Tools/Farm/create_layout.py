@@ -68,33 +68,8 @@ for y, (left, right) in enumerate([(44,49),(42,52),(41,53),(40,54),
                                   (42,54),(43,53),(45,51)],start=30):
     pond.update((x,y) for x in range(left,right+1))
 
-road = set()
-
-
-def road_rect(x0, y0, x1, y1):
-    for y in range(y0, y1+1):
-        for x in range(x0, x1+1):
-            road.add((x, y))
-
-
-road_rect(30, 22, 32, 47)
-road_rect(30, 6, 32, 23)
-road_rect(31, 0, 33, 7)
-road_rect(17, 23, 45, 25)
-road_rect(17, 18, 19, 24)
-road_rect(43, 17, 45, 24)
-road_rect(15, 17, 21, 19)
-road_rect(41, 17, 48, 19)
-road_rect(45, 23, 49, 25)
-road_rect(25, 34, 31, 36)
-road_rect(32, 29, 40, 31)
-road_rect(39, 30, 41, 35)
-road_rect(25, 22, 26, 24)  # Short approach to the seed shop.
-for y in range(20, 29):
-    for x in range(27, 36):
-        if (x-31)**2 + (y-24)**2 < 20:
-            road.add((x, y))
-road -= pond
+from road_layout import road_mask
+road = road_mask(pond)
 
 # Quarter-tile edge selection preserves the supplied convex/concave pixel art.
 # Keys are quadrant, whether its horizontal and vertical neighbors exist,
